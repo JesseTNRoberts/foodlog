@@ -8,7 +8,7 @@ This repo is Jesse's food log and recipe box. Pushing to `main` rebuilds the pub
 3. Append the entry to `entries/YYYY/YYYY-MM-DD.json` (create the file if needed). Use Jesse's local date (US Eastern unless he says otherwise).
 4. Run `node scripts/build.mjs`. It validates every file and fails with a clear message on a bad entry.
 5. Commit with a message like `Log 2026-10-25: chicken étouffée, hush puppies` and push.
-6. Reply with the entry's calories and macros in one or two lines and a link to the day: `<site>/#/day/YYYY-MM-DD`.
+6. Reply with the entry's calories and macros in one or two lines and a link to the day: `https://jessetnroberts.github.io/foodlog/#/day/YYYY-MM-DD`.
 
 Ask at most one short question, and only when the answer would swing the estimate a lot. Otherwise state the assumption in `notes`.
 
