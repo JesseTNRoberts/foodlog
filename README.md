@@ -10,6 +10,7 @@ Jesse's food log and recipe box, published as a website with daily nutrition das
 - `entries/YYYY/YYYY-MM-DD.json`: one file per day (format in `CLAUDE.md`).
 - `recipes/*.md`: recipe collections.
 - `reference/`: cooking defaults and portion scale used for estimates.
+- `.claude/skills/log-food/SKILL.md`: the logging skill Claude follows (a copy of the account skill, so any session working in this repo picks it up).
 - `scripts/build.mjs`: validates the data and builds `_site/` (no dependencies).
 - `.github/workflows/pages.yml`: builds and publishes to GitHub Pages on every push to `main`.
 
