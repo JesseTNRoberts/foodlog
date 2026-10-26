@@ -235,16 +235,46 @@ function renderTrends(){
 }
 
 /* ---------- recipes ---------- */
+function creditOf(text){
+  const m=text.match(/^\*(?:Source|From):\s*([^*]+)\*\s*$/mi); if(!m) return null;
+  const full=m[1].trim(); const cut=full.search(/\.\s/);
+  const who=(cut<0?full:full.slice(0,cut)).replace(/\.$/,"").trim();
+  return {line:m[0], who, rest:cut<0?"":full.slice(cut+1).trim()};
+}
 function renderRecipes(slug,idx){
   destroyCharts();
   if(slug){
     const r=DATA.recipes.find(x=>x.slug===slug);
     if(!r){ app.innerHTML=`<p>Recipe not found. <a href="#/recipes">All recipes</a></p>`; return; }
-    const html = window.marked ? marked.parse(r.md) : `<pre>${esc(r.md)}</pre>`;
-    app.innerHTML=`<div class="toolbar"><a class="btn" href="#/recipes">‹ All recipes</a></div><div class="toc" id="toc"></div><article class="prose">${html}</article>`;
-    const toc=document.getElementById("toc");
-    app.querySelectorAll(".prose h2").forEach((h,i)=>{ h.id="r"+i; const a=document.createElement("a"); a.href="#"; a.textContent=h.textContent; a.onclick=ev=>{ev.preventDefault(); h.scrollIntoView({behavior:"smooth"});}; toc.appendChild(a); });
-    if(idx!=null){ const h=document.getElementById("r"+idx); if(h) setTimeout(()=>h.scrollIntoView(),0); }
+    const parts=r.md.split(/^##\s+/m).slice(1);
+    const i=Math.max(0,Math.min(parts.length-1,idx??0));
+    const sec=parts.length?parts[i]:r.md.replace(/^#\s+.*$/m,"");
+    const title=parts.length?sec.split("\n")[0].trim():r.title;
+    let body=(parts.length?sec.split("\n").slice(1).join("\n"):sec).replace(/^---\s*$/gm,"");
+    const cr=creditOf(body); if(cr) body=body.replace(cr.line,cr.rest?`*${cr.rest}*`:"");
+    const md=s=>window.marked?marked.parse(s):`<pre>${esc(s)}</pre>`;
+    // Split into ingredients (everything before the first numbered step) and method (from it on).
+    const lines=body.split("\n"); const first=lines.findIndex(l=>/^\s*1\.\s/.test(l));
+    const ingMd=first<0?body:lines.slice(0,first).join("\n");
+    const methMd=first<0?"":lines.slice(first).join("\n");
+    const prev=parts.length&&i>0?i-1:null, next=parts.length&&i<parts.length-1?i+1:null;
+    const nav=(j,l)=>j==null?"":`<a class="btn" href="#/recipes/${encodeURIComponent(slug)}/${j}">${l}</a>`;
+    app.innerHTML=`<div class="toolbar"><a class="btn" href="#/recipes">‹ All recipes</a>
+        <div class="btns"><button class="btn" id="cook" aria-pressed="false">Cook mode</button><button class="btn" id="reset">Clear checks</button></div></div>
+      <header class="rhead"><div class="sub">${esc(r.title)}</div><h1>${esc(title)}</h1>${cr?`<div class="credit">Recipe from <b>${esc(cr.who)}</b></div>`:""}</header>
+      <div class="recipe ${methMd?"":"single"}">
+        <section class="card rcol ing"><h2>${methMd?"Ingredients":"Recipe"}</h2><div class="prose">${md(ingMd)}</div></section>
+        ${methMd?`<section class="card rcol meth"><h2>Method</h2><div class="prose">${md(methMd)}</div></section>`:""}
+      </div>
+      <div class="toolbar">${nav(prev,"‹ "+esc((parts[prev]||"").split("\n")[0]))}<span></span>${nav(next,esc((parts[next]||"").split("\n")[0])+" ›")}</div>`;
+    app.querySelectorAll(".ing li").forEach(li=>{ li.classList.add("check"); li.tabIndex=0; li.setAttribute("role","checkbox"); li.setAttribute("aria-checked","false"); });
+    app.querySelectorAll(".meth ol > li").forEach(li=>{ li.classList.add("step"); li.tabIndex=0; });
+    const toggle=li=>{ const on=li.classList.toggle("done"); if(li.classList.contains("check")) li.setAttribute("aria-checked",on); };
+    app.querySelectorAll("li.check, li.step").forEach(li=>{ li.onclick=ev=>{ if(ev.target.closest("a")) return; ev.stopPropagation(); toggle(li); }; li.onkeydown=ev=>{ if(ev.key===" "||ev.key==="Enter"){ ev.preventDefault(); toggle(li); } }; });
+    document.getElementById("reset").onclick=()=>app.querySelectorAll("li.done").forEach(li=>toggle(li));
+    let lock=null; const cook=document.getElementById("cook");
+    cook.onclick=async()=>{ const on=!document.body.classList.contains("cooking"); document.body.classList.toggle("cooking",on); cook.setAttribute("aria-pressed",on); cook.textContent=on?"Exit cook mode":"Cook mode";
+      try{ if(on&&navigator.wakeLock) lock=await navigator.wakeLock.request("screen"); else { await lock?.release(); lock=null; } }catch{} };
     return;
   }
   const count=md=>(md.match(/^##\s+/gm)||[]).length;
@@ -259,13 +289,14 @@ function renderRecipes(slug,idx){
       if(!parts.length) return [{r,name:r.title,body:r.md}];
       return parts.map((p,i)=>({r,i,name:p.split("\n")[0].trim(),body:p}));
     }).filter(x=>!q||x.name.toLowerCase().includes(q)||x.body.toLowerCase().includes(q));
-    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}${x.i!=null?"/"+x.i:""}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
+    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}${x.i!=null?"/"+x.i:""}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}${(c=>c?" · from "+esc(c.who):"")(creditOf(x.body))}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
   };
   document.getElementById("q").oninput=ev=>draw(ev.target.value); draw("");
 }
 
 /* ---------- router ---------- */
 function route(){
+  document.body.classList.remove("cooking");
   const h=location.hash.replace(/^#\/?/,""); const [a,b,c]=h.split("/");
   document.querySelectorAll("[data-nav]").forEach(n=>n.classList.toggle("on",(n.dataset.nav==="day"&&(a===""||a==="day"))||n.dataset.nav===a));
   if(a==="trends") renderTrends();
