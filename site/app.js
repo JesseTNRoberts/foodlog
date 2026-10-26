@@ -234,7 +234,7 @@ function renderTrends(){
 }
 
 /* ---------- recipes ---------- */
-function renderRecipes(slug){
+function renderRecipes(slug,idx){
   destroyCharts();
   if(slug){
     const r=DATA.recipes.find(x=>x.slug===slug);
@@ -243,6 +243,7 @@ function renderRecipes(slug){
     app.innerHTML=`<div class="toolbar"><a class="btn" href="#/recipes">‹ All recipes</a></div><div class="toc" id="toc"></div><article class="prose">${html}</article>`;
     const toc=document.getElementById("toc");
     app.querySelectorAll(".prose h2").forEach((h,i)=>{ h.id="r"+i; const a=document.createElement("a"); a.href="#"; a.textContent=h.textContent; a.onclick=ev=>{ev.preventDefault(); h.scrollIntoView({behavior:"smooth"});}; toc.appendChild(a); });
+    if(idx!=null){ const h=document.getElementById("r"+idx); if(h) setTimeout(()=>h.scrollIntoView(),0); }
     return;
   }
   const count=md=>(md.match(/^##\s+/gm)||[]).length;
@@ -255,21 +256,21 @@ function renderRecipes(slug){
     const items=DATA.recipes.flatMap(r=>{
       const parts=r.md.split(/^##\s+/m).slice(1);
       if(!parts.length) return [{r,name:r.title,body:r.md}];
-      return parts.map(p=>({r,name:p.split("\n")[0].trim(),body:p}));
+      return parts.map((p,i)=>({r,i,name:p.split("\n")[0].trim(),body:p}));
     }).filter(x=>!q||x.name.toLowerCase().includes(q)||x.body.toLowerCase().includes(q));
-    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
+    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}${x.i!=null?"/"+x.i:""}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
   };
   document.getElementById("q").oninput=ev=>draw(ev.target.value); draw("");
 }
 
 /* ---------- router ---------- */
 function route(){
-  const h=location.hash.replace(/^#\/?/,""); const [a,b]=h.split("/");
+  const h=location.hash.replace(/^#\/?/,""); const [a,b,c]=h.split("/");
   document.querySelectorAll("[data-nav]").forEach(n=>n.classList.toggle("on",(n.dataset.nav==="day"&&(a===""||a==="day"))||n.dataset.nav===a));
   if(a==="trends") renderTrends();
-  else if(a==="recipes") renderRecipes(b&&decodeURIComponent(b));
+  else if(a==="recipes") renderRecipes(b&&decodeURIComponent(b), c!=null&&c!==""?+c:null);
   else renderDay(a==="day"&&/^\d{4}-\d{2}-\d{2}$/.test(b||"")?b:todayKey());
-  window.scrollTo(0,0);
+  if(!(a==="recipes"&&c)) window.scrollTo(0,0);
 }
 window.addEventListener("hashchange",route);
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change",route);
