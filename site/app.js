@@ -95,6 +95,7 @@ function renderDay(k){
     </div>
   </div>
   ${day?.note?`<div class="daynote">${esc(day.note)}</div>`:""}
+  ${!ents.length?(()=>{const last=DATA.days.filter(d=>d.entries.length&&d.date!==k).map(d=>d.date).filter(d=>d<k).pop(); return `<div class="daynote">Nothing logged for this day yet.${last?` Last logged day: <a href="#/day/${last}">${esc(prettyDate(last,{weekday:"long",month:"short",day:"numeric"}))}</a>.`:""}</div>`;})():""}
   <div class="kpis">
     ${kpi("Calories",t.kcal,"kcal",B,{limit:true,foot:left>=0?`${fmt(left)} left`:`<span style="color:var(--over)">${fmt(-left)} over</span>`,delta:deltaPill(t.kcal,avg("kcal"),null)})}
     ${kpi("Protein",t.protein,"g",PG,{color:"var(--p)",foot:`${Math.round(t.protein*4/cal*100)}% of kcal`,delta:deltaPill(t.protein,avg("protein"),true)})}

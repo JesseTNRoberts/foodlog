@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "note": "Lunch at Mike's Tavern, Chattanooga. Ate about a third of the sandwich.",
+  "entries": [
+    {
+      "id": "2026-10-26-1",
+      "name": "Buffalo fried chicken sandwich (Mike's Tavern)",
+      "portion": "~1/3 sandwich",
+      "meal": "lunch",
+      "servings": 1,
+      "kcal": 350,
+      "lo": 300,
+      "hi": 410,
+      "protein": 18,
+      "carbs": 23,
+      "fat": 20,
+      "satfat": 5,
+      "fiber": 1,
+      "sugar": 3,
+      "addedSugar": 2,
+      "sodium": 800,
+      "cholesterol": 55,
+      "micros": {
+        "vitA": 60,
+        "vitC": 1,
+        "vitD": 0.2,
+        "vitE": 1,
+        "vitK": 8,
+        "b6": 0.3,
+        "b12": 0.3,
+        "folate": 40,
+        "calcium": 80,
+        "iron": 1.5,
+        "magnesium": 20,
+        "potassium": 200,
+        "zinc": 1
+      },
+      "components": [
+        {
+          "name": "Brioche bun",
+          "portion": "~1/3 bun",
+          "kcal": 90,
+          "protein": 3,
+          "carbs": 15,
+          "fat": 2
+        },
+        {
+          "name": "Fried chicken breast",
+          "portion": "~2 oz cooked",
+          "kcal": 170,
+          "protein": 13,
+          "carbs": 7,
+          "fat": 9
+        },
+        {
+          "name": "Buffalo sauce",
+          "portion": "~1 tbsp",
+          "kcal": 35,
+          "protein": 0,
+          "carbs": 1,
+          "fat": 4
+        },
+        {
+          "name": "Blue cheese and dressing",
+          "portion": "small amount",
+          "kcal": 55,
+          "protein": 2,
+          "carbs": 0,
+          "fat": 5
+        }
+      ],
+      "confidence": "low",
+      "notes": "Portion eaten judged from photo against your palm; bun about 4.5–5 in across."
+    },
+    {
+      "id": "2026-10-26-2",
+      "name": "Side Caesar salad (Mike's Tavern)",
+      "portion": "whole side",
+      "meal": "lunch",
+      "servings": 1,
+      "kcal": 275,
+      "lo": 230,
+      "hi": 320,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 23,
+      "satfat": 4.5,
+      "fiber": 2,
+      "sugar": 2,
+      "addedSugar": 0.5,
+      "sodium": 650,
+      "cholesterol": 20,
+      "micros": {
+        "vitA": 250,
+        "vitC": 10,
+        "vitD": 0.1,
+        "vitE": 2,
+        "vitK": 60,
+        "b6": 0.1,
+        "b12": 0.2,
+        "folate": 80,
+        "calcium": 120,
+        "iron": 1,
+        "magnesium": 15,
+        "potassium": 250,
+        "zinc": 0.6
+      },
+      "components": [
+        {
+          "name": "Romaine",
+          "portion": "~2 cups",
+          "kcal": 15,
+          "protein": 1,
+          "carbs": 3,
+          "fat": 0
+        },
+        {
+          "name": "Caesar dressing",
+          "portion": "~1.5 tbsp",
+          "kcal": 160,
+          "protein": 1,
+          "carbs": 1,
+          "fat": 17
+        },
+        {
+          "name": "Croutons",
+          "portion": "~1/3 cup",
+          "kcal": 60,
+          "protein": 2,
+          "carbs": 9,
+          "fat": 2
+        },
+        {
+          "name": "Parmesan",
+          "portion": "~1 tbsp",
+          "kcal": 40,
+          "protein": 2,
+          "carbs": 1,
+          "fat": 4
+        }
+      ],
+      "confidence": "low",
+      "notes": "Salad not in the photo; dressing and croutons drive most of the range."
+    }
+  ]
+}
