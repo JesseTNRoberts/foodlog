@@ -27,6 +27,13 @@ function checkEntry(e, where) {
     if (!MICROS.includes(k)) errors.push(`${where}: unknown micronutrient "${k}" (use ${MICROS.join(", ")})`);
     else if (typeof e.micros[k] !== "number") errors.push(`${where}: micros.${k} must be a number`);
   }
+  if (e.photos != null) {
+    if (!Array.isArray(e.photos)) errors.push(`${where}: photos must be an array of paths`);
+    else for (const p of e.photos) {
+      if (typeof p !== "string" || !p.startsWith("photos/")) errors.push(`${where}: photo "${p}" must be a path under photos/`);
+      else if (!fs.existsSync(path.join(root, p))) errors.push(`${where}: photo file not found: ${p}`);
+    }
+  }
 }
 
 const days = [];
@@ -63,6 +70,7 @@ if (errors.length) {
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(out, { recursive: true });
 for (const f of fs.readdirSync(path.join(root, "site"))) fs.copyFileSync(path.join(root, "site", f), path.join(out, f));
+if (fs.existsSync(path.join(root, "photos"))) fs.cpSync(path.join(root, "photos"), path.join(out, "photos"), { recursive: true });
 fs.writeFileSync(path.join(out, "data.json"), JSON.stringify({ generated: new Date().toISOString(), settings, days, recipes }));
 fs.writeFileSync(path.join(out, ".nojekyll"), "");
 const n = days.reduce((a, d) => a + d.entries.length, 0);

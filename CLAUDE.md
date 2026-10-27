@@ -45,6 +45,7 @@ Ask at most one short question, and only when the answer would swing the estimat
 - Units: grams for macros, fiber and sugars; mg for sodium, cholesterol, vitC, vitE, b6, calcium, iron, magnesium, potassium and zinc; mcg for vitA (RAE), vitD, vitK, b12 and folate (DFE).
 - `components` list every visible ingredient and should sum to the entry totals. The site shows them as a composition bar and table, so make them specific ("Olive oil on sweet potato, ~1 tbsp", not "oil").
 - `confidence`: `high` (his own recipe, known amounts), `medium` (photo with hand scale), `low` (restaurant/bakery item, size guessed).
+- `photos` (optional): paths to the meal photos, e.g. `["photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"]`. Save every photo Jesse sends with a meal: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata (EXIF holds GPS location and the site is public). One photo can be listed on several entries.
 - `id`: `YYYY-MM-DD-N`, unique in the file. Keep ids stable when editing.
 
 ## Edits

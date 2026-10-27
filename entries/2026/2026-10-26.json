@@ -70,7 +70,11 @@
         }
       ],
       "confidence": "low",
-      "notes": "Portion eaten judged from photo against your palm; bun about 4.5–5 in across."
+      "notes": "Portion eaten judged from photo against your palm; bun about 4.5–5 in across.",
+      "photos": [
+        "photos/2026/2026-10-26/lunch-sandwich-top.jpg",
+        "photos/2026/2026-10-26/lunch-sandwich-side.jpg"
+      ]
     },
     {
       "id": "2026-10-26-2",
@@ -210,7 +214,10 @@
         }
       ],
       "confidence": "low",
-      "notes": "Remaining two-thirds of the lunch sandwich, scaled from the lunch entry."
+      "notes": "Remaining two-thirds of the lunch sandwich, scaled from the lunch entry.",
+      "photos": [
+        "photos/2026/2026-10-26/dinner-sandwich-shrimp.jpg"
+      ]
     },
     {
       "id": "2026-10-26-4",
@@ -256,7 +263,10 @@
         }
       ],
       "confidence": "medium",
-      "notes": "No oil or seasoning, per Jesse; size judged from the plate."
+      "notes": "No oil or seasoning, per Jesse; size judged from the plate.",
+      "photos": [
+        "photos/2026/2026-10-26/dinner-sandwich-shrimp.jpg"
+      ]
     },
     {
       "id": "2026-10-26-5",
@@ -318,7 +328,10 @@
         }
       ],
       "confidence": "medium",
-      "notes": "Bowl sized against his hand; no dressing assumed. Pecan and Gruyère in the scoop are the main uncertainty."
+      "notes": "Bowl sized against his hand; no dressing assumed. Pecan and Gruyère in the scoop are the main uncertainty.",
+      "photos": [
+        "photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"
+      ]
     }
   ]
 }

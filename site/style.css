@@ -124,6 +124,9 @@ select.sel{border:1px solid var(--line);border-radius:8px;padding:6px 10px;backg
 .comps .por{color:var(--muted)}
 .comps tr:last-child td{border-bottom:0}
 .tblwrap{overflow-x:auto}
+.photos{display:flex;gap:8px;overflow-x:auto}
+.photos a{flex:0 0 auto}
+.photos img{height:120px;width:auto;border-radius:8px;display:block;object-fit:cover}
 .entry-f{display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted)}
 .entry-f .btns{gap:4px}
 

@@ -13,8 +13,9 @@ Jesse's food log is the GitHub repo **JesseTNRoberts/foodlog**. Every push to `m
 3. **Estimate.** Size portions from the photo (his left hand is the scale) or his words, not from old logged norms. Restaurant food: he often eats a third to a half; estimate what he ate. List every component, including hidden oil, dressing, cheese and nuts. Give an honest lo/hi range.
 4. **Ask at most one short question**, only if the answer would swing the total a lot. Otherwise state the assumption in `notes` and log it.
 5. **Write the entry** into `entries/YYYY/YYYY-MM-DD.json` using his local date (US Eastern unless he says otherwise; when the date is ambiguous, ask). Include the full format from `CLAUDE.md`: per-serving kcal, lo, hi, protein, carbs, fat, satfat, fiber, sugar, addedSugar, sodium, cholesterol, the 13 micronutrients, components that sum to the totals, confidence, and notes. Pick the meal (breakfast, lunch, dinner, snacks) from what he says or the time.
-6. **Validate and publish:** `node scripts/build.mjs` (fix any error it reports), then commit (`Log YYYY-MM-DD: short food list`) and push.
-7. **Reply briefly:** one small table of components, the total with range and macros, the main uncertainty, and the link `https://jessetnroberts.github.io/foodlog/#/day/YYYY-MM-DD`.
+6. **Save his photos.** Save every meal photo he sent to `photos/YYYY/YYYY-MM-DD/<meal>-<food>.jpg`: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata, since EXIF holds GPS and the site is public. Add the paths to the entry's `photos` array.
+7. **Validate and publish:** `node scripts/build.mjs` (fix any error it reports), then commit (`Log YYYY-MM-DD: short food list`) and push.
+8. **Reply briefly:** one small table of components, the total with range and macros, the main uncertainty, and the link `https://jessetnroberts.github.io/foodlog/#/day/YYYY-MM-DD`.
 
 ## Edits
 The site's "Ask Claude to edit" button copies a line like `Plate Log edit, 2026-10-25, lunch, "Hush puppies" (240 kcal): ` followed by his change. Find that entry by date and name, update it (scale components, totals and micronutrients together when a portion changes), rebuild, commit (`Edit YYYY-MM-DD: what changed`) and push.
