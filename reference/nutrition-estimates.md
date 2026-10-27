@@ -95,5 +95,6 @@ Photo-based estimates are typically within about 20–30% at best; the hand in f
 ## Goals (set Oct 26, 2026)
 - Weight 160 lb. Wants to lose weight; asked about 3 lb/week, which is too fast for this size (needs ~1,500 kcal/day deficit). Target ~1 lb/week instead.
 - **Calories: 1,800/day**, assuming a maintenance of roughly 2,300–2,500 kcal for an active 160 lb man. Not yet checked against his Garmin's daily burn; adjust if that's known.
-- **Protein: 90 g/day** (~1.25 g/kg), enough to protect muscle while losing weight. He rarely reaches 100 g.
+- **Protein: 70 g/day** (~1 g/kg). He eats mostly plant-based, so 90 g isn't realistic; 70 g is above the 58 g baseline and gives some muscle protection while losing weight.
+- **He doesn't log everything**, so a day's total is a floor, not the full day. Don't treat a low day as under-eating.
 - Fiber 30 g: he usually hits it. Sodium 2,300 mg: he's usually under, except when eating out.
