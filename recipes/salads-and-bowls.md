@@ -39,14 +39,17 @@ My way: **just oil and pepper** on sweet potatoes or potatoes. Keep it simple an
 
 ---
 
-## One-Pot Gruyère Quinoa with Green Beans, Burst Tomatoes & Pecans
+## One-Pot Gruyère Quinoa with Mushrooms, Green Beans, Burst Tomatoes & Pecans
 *Developed together; sized for a 12-cup Viking skillet-pot about 2/3 full. Serves 6 as a main.*
 
 **Verdict after making it: missing flavor, needed much more acid.** The "next time" fixes below are built in but not yet tested.
 
+**As actually made (Oct 2026):** added a pint of portobello mushrooms spread throughout. Also eaten as a bowl component, ~3/4–1 cup over spinach with blackberries.
+
 - 3/4 cup pecans, chopped medium-coarse
 - 2 tbsp olive oil
 - 1 medium red onion, finely chopped
+- 1 pint (about 8 oz) portobello mushrooms, chopped
 - 3 garlic cloves, minced
 - 1 1/2 cups quinoa, rinsed and drained
 - 1/3 cup dry white wine, plus a splash to finish
@@ -61,7 +64,7 @@ My way: **just oil and pepper** on sweet potatoes or potatoes. Keep it simple an
 - 1 tsp fresh thyme (optional)
 
 1. Preheat the empty stainless pot over medium 1–2 min. Toast pecans dry 3–4 min; set aside. (No wiping the pot.)
-2. Add oil and onion; cook 5–6 min. Add garlic for 30 seconds.
+2. Add oil and onion; cook 5–6 min. Add mushrooms and cook until they release and reduce their liquid, 5–6 min. Add garlic for 30 seconds.
 3. Toast quinoa 1 min. Add wine; bubble 1–2 min, scraping.
 4. Stir in Dijon, broth and salt. Boil, cover, lowest gentle simmer 4 min.
 5. Press the whole tomatoes into the quinoa; cover 4 min.
@@ -70,6 +73,8 @@ My way: **just oil and pepper** on sweet potatoes or potatoes. Keep it simple an
 8. Stir in Gruyère and pepper, crushing some tomatoes.
 9. **Finish bright:** lemon zest and juice, a splash of wine, and the raw halved tomatoes. Taste for salt and acid; add more lemon until it pops.
 10. Fold in pecans and thyme right before serving.
+
+Nutrition (approx., with mushrooms): about 450 kcal per serving (1/6 batch, ~1.5 cups), about 300 kcal per cup. The mushrooms add only ~50 kcal to the whole batch.
 
 Lessons from making it:
 - "One pot" means one pot: no wiping or extra pans.
