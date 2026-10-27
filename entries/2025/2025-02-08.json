@@ -1,0 +1,327 @@
+{
+ "date": "2025-02-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-02-08-1",
+   "name": "Ham And Cheese Croissant · Cheese pizza thin crust 14 inch size · Croissant, Chocolate",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 403,
+   "protein": 14.9,
+   "carbs": 37.8,
+   "fat": 21.1,
+   "satfat": 11.1,
+   "fiber": 1.7,
+   "sugar": 8.1,
+   "sodium": 595.7,
+   "cholesterol": 62.2,
+   "components": [
+    {
+     "name": "Ham And Cheese Croissant",
+     "portion": "1/2 serving",
+     "kcal": 160,
+     "protein": 7.0,
+     "carbs": 14.0,
+     "fat": 8.5,
+     "satfat": 4.5,
+     "fiber": 0.5,
+     "sugar": 2.5,
+     "sodium": 245.0,
+     "cholesterol": 32.5
+    },
+    {
+     "name": "Cheese pizza thin crust 14 inch size",
+     "portion": "2/3 slice",
+     "kcal": 133,
+     "protein": 5.9,
+     "carbs": 11.1,
+     "fat": 6.6,
+     "satfat": 2.9,
+     "fiber": 0.9,
+     "sugar": 1.3,
+     "sodium": 244.1,
+     "cholesterol": 14.7
+    },
+    {
+     "name": "Croissant, Chocolate",
+     "portion": "1/3 each",
+     "kcal": 110,
+     "protein": 2.0,
+     "carbs": 12.7,
+     "fat": 6.0,
+     "satfat": 3.7,
+     "fiber": 0.3,
+     "sugar": 4.3,
+     "sodium": 106.6,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ham And Cheese Croissant",
+    "Cheese pizza thin crust 14 inch size",
+    "Croissant, Chocolate"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-08-2",
+   "name": "Macaroni And Cheese · Bread, Cornbread, From Mix · Dressing, Ranch, Homestyle + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 703,
+   "protein": 31.4,
+   "carbs": 68.1,
+   "fat": 35.2,
+   "satfat": 10.3,
+   "fiber": 6.8,
+   "sugar": 11.0,
+   "sodium": 1587.1,
+   "cholesterol": 139.3,
+   "components": [
+    {
+     "name": "Macaroni And Cheese",
+     "portion": "1/2 cup",
+     "kcal": 200,
+     "protein": 8.5,
+     "carbs": 17.0,
+     "fat": 11.0,
+     "satfat": 5.5,
+     "fiber": 0.5,
+     "sugar": 2.0,
+     "sodium": 280.0,
+     "cholesterol": 22.5
+    },
+    {
+     "name": "Bread, Cornbread, From Mix",
+     "portion": "2 ounces",
+     "kcal": 178,
+     "protein": 4.8,
+     "carbs": 27.3,
+     "fat": 5.7,
+     "satfat": 1.6,
+     "fiber": 1.4,
+     "sugar": 0.0,
+     "sodium": 441.1,
+     "cholesterol": 34.6
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "2 tablespoons",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 12.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 240.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Pulled Chicken",
+     "portion": "2 ounces",
+     "kcal": 111,
+     "protein": 12.8,
+     "carbs": 1.0,
+     "fat": 6.0,
+     "satfat": 1.5,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 322.2,
+     "cholesterol": 72.2
+    },
+    {
+     "name": "Beans, Baked, Canned",
+     "portion": "1/3 cup",
+     "kcal": 79,
+     "protein": 4.0,
+     "carbs": 17.8,
+     "fat": 0.3,
+     "satfat": 0.6,
+     "fiber": 3.5,
+     "sugar": 6.7,
+     "sodium": 289.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Raw",
+     "portion": "1/2 cup",
+     "kcal": 15,
+     "protein": 1.3,
+     "carbs": 3.0,
+     "fat": 0.2,
+     "satfat": 0.1,
+     "fiber": 1.2,
+     "sugar": 0.8,
+     "sodium": 14.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Macaroni And Cheese",
+    "Bread, Cornbread, From Mix",
+    "Dressing, Ranch, Homestyle",
+    "Pulled Chicken",
+    "Beans, Baked, Canned",
+    "Broccoli, Raw"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-08-3",
+   "name": "Salmon Patty Red Pepper Mozzerella · Croutons, Homestyle Seasoned Herb · Dressing, Ranch, Homestyle + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 585,
+   "protein": 26.3,
+   "carbs": 44.9,
+   "fat": 34.6,
+   "satfat": 4.8,
+   "fiber": 4.2,
+   "sugar": 8.4,
+   "sodium": 1041.4,
+   "cholesterol": 46.6,
+   "components": [
+    {
+     "name": "Salmon Patty Red Pepper Mozzerella",
+     "portion": "1/3 serving",
+     "kcal": 269,
+     "protein": 15.9,
+     "carbs": 9.8,
+     "fat": 18.3,
+     "satfat": 3.5,
+     "fiber": 0.0,
+     "sugar": 1.2,
+     "sodium": 219.8,
+     "cholesterol": 36.6
+    },
+    {
+     "name": "Croutons, Homestyle Seasoned Herb",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "2 tablespoons",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 12.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 240.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Spring Mix, Organic",
+     "portion": "3 cups",
+     "kcal": 52,
+     "protein": 5.2,
+     "carbs": 7.8,
+     "fat": 0.0,
+     "fiber": 2.6,
+     "sugar": 2.6,
+     "sodium": 274.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "8 each",
+     "kcal": 24,
+     "protein": 1.2,
+     "carbs": 5.3,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 1.6,
+     "sugar": 3.6,
+     "sodium": 6.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon Patty Red Pepper Mozzerella",
+    "Croutons, Homestyle Seasoned Herb",
+    "Dressing, Ranch, Homestyle",
+    "Spring Mix, Organic",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-08-4",
+   "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 53,
+   "protein": 0.6,
+   "carbs": 13.5,
+   "fat": 0.2,
+   "satfat": 0.6,
+   "fiber": 1.5,
+   "sugar": 7.2,
+   "sodium": 0.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1/2 each",
+     "kcal": 53,
+     "protein": 0.6,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 7.2,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Medium, 7\" - 7 7/8\" Long"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

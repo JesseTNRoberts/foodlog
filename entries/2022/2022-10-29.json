@@ -1,0 +1,179 @@
+{
+ "date": "2022-10-29",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-10-29-1",
+   "name": "Apple Pie",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 198,
+   "protein": 1.6,
+   "carbs": 27.3,
+   "fat": 9.6,
+   "satfat": 4.3,
+   "fiber": 0.5,
+   "sugar": 12.3,
+   "sodium": 219.3,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Apple Pie",
+     "portion": "2 ounces",
+     "kcal": 198,
+     "protein": 1.6,
+     "carbs": 27.3,
+     "fat": 9.6,
+     "satfat": 4.3,
+     "fiber": 0.5,
+     "sugar": 12.3,
+     "sodium": 219.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Pie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-10-29-2",
+   "name": "Fuego Grain Free Tortilla Chips 19 Chips 28g",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 395,
+   "protein": 3.0,
+   "carbs": 57.7,
+   "fat": 21.3,
+   "satfat": 3.4,
+   "fiber": 9.1,
+   "sugar": 3.0,
+   "sodium": 379.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Fuego Grain Free Tortilla Chips 19 Chips 28g",
+     "portion": "3 ounces",
+     "kcal": 395,
+     "protein": 3.0,
+     "carbs": 57.7,
+     "fat": 21.3,
+     "satfat": 3.4,
+     "fiber": 9.1,
+     "sugar": 3.0,
+     "sodium": 379.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fuego Grain Free Tortilla Chips 19 Chips 28g"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-10-29-3",
+   "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 210,
+   "protein": 4.0,
+   "carbs": 21.0,
+   "fat": 14.0,
+   "satfat": 0,
+   "fiber": 1.0,
+   "sugar": 17.0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+     "portion": "2 servings",
+     "kcal": 210,
+     "protein": 4.0,
+     "carbs": 21.0,
+     "fat": 14.0,
+     "fiber": 1.0,
+     "sugar": 17.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Justin's Dark Chocolate Peanut Butter Cups (singles)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-10-29-4",
+   "name": "Hibachi Chicken · 12oz Can",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1500,
+   "protein": 152.0,
+   "carbs": 92.0,
+   "fat": 80.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 80.0,
+   "sodium": 110.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hibachi Chicken",
+     "portion": "4 cups",
+     "kcal": 1200,
+     "protein": 152.0,
+     "carbs": 12.0,
+     "fat": 80.0
+    },
+    {
+     "name": "12oz Can",
+     "portion": "2 cans",
+     "kcal": 300,
+     "protein": 0.0,
+     "carbs": 80.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 80.0,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hibachi Chicken",
+    "12oz Can"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

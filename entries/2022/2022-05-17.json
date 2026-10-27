@@ -1,0 +1,221 @@
+{
+ "date": "2022-05-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-17-1",
+   "name": "Oatly Barista",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 71,
+   "protein": 1.2,
+   "carbs": 7.7,
+   "fat": 3.5,
+   "satfat": 0.3,
+   "fiber": 0.9,
+   "sugar": 4.7,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Oatly Barista",
+     "portion": "1/2 cup",
+     "kcal": 71,
+     "protein": 1.2,
+     "carbs": 7.7,
+     "fat": 3.5,
+     "satfat": 0.3,
+     "fiber": 0.9,
+     "sugar": 4.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oatly Barista"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-17-2",
+   "name": "Side, Steak Fries · Honey Mustard Poppyseed Dressing · Honey Mustard Dipping Sauce",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 835,
+   "protein": 6.7,
+   "carbs": 71.1,
+   "fat": 57.8,
+   "satfat": 5.5,
+   "fiber": 3.4,
+   "sugar": 7.5,
+   "sodium": 2036.0,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Side, Steak Fries",
+     "portion": "1 1/8 servings",
+     "kcal": 450,
+     "protein": 5.6,
+     "carbs": 49.5,
+     "fat": 24.8,
+     "satfat": 4.5,
+     "fiber": 3.4,
+     "sugar": 4.5,
+     "sodium": 1816.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Honey Mustard Poppyseed Dressing",
+     "portion": "1 1/8 servings",
+     "kcal": 305,
+     "protein": 1.1,
+     "carbs": 14.6,
+     "fat": 27.0
+    },
+    {
+     "name": "Honey Mustard Dipping Sauce",
+     "portion": "1 serving",
+     "kcal": 80,
+     "protein": 0.0,
+     "carbs": 7.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 220.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Steak Fries",
+    "Honey Mustard Poppyseed Dressing",
+    "Honey Mustard Dipping Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-17-3",
+   "name": "Spring Vegetable Soup · Brussels Sprouts, Steamed · Cheese, Plant-Based, Mexican Style Shreds",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 146,
+   "protein": 7.5,
+   "carbs": 41.1,
+   "fat": 2.8,
+   "satfat": 0.9,
+   "fiber": 8.3,
+   "sugar": 14.2,
+   "sodium": 930.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Spring Vegetable Soup",
+     "portion": "1 1/3 cups",
+     "kcal": 93,
+     "protein": 4.0,
+     "carbs": 32.0,
+     "fat": 1.3,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 12.0,
+     "sodium": 879.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Steamed",
+     "portion": "3/4 cup",
+     "kcal": 42,
+     "protein": 3.0,
+     "carbs": 8.3,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 3.8,
+     "sugar": 2.2,
+     "sodium": 24.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Plant-Based, Mexican Style Shreds",
+     "portion": "1/8 ounce",
+     "kcal": 11,
+     "protein": 0.5,
+     "carbs": 0.8,
+     "fat": 0.9,
+     "satfat": 0.8,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 26.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spring Vegetable Soup",
+    "Brussels Sprouts, Steamed",
+    "Cheese, Plant-Based, Mexican Style Shreds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-17-4",
+   "name": "Oatly Mint Chip",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 140,
+   "protein": 1.8,
+   "carbs": 14.6,
+   "fat": 8.6,
+   "satfat": 0,
+   "fiber": 1.8,
+   "sugar": 10.8,
+   "sodium": 21.6,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Oatly Mint Chip",
+     "portion": "2 ounces",
+     "kcal": 140,
+     "protein": 1.8,
+     "carbs": 14.6,
+     "fat": 8.6,
+     "fiber": 1.8,
+     "sugar": 10.8,
+     "sodium": 21.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oatly Mint Chip"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

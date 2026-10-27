@@ -1,0 +1,270 @@
+{
+ "date": "2025-03-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-03-04-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blackberries + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 326,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 15.2,
+   "satfat": 1.0,
+   "fiber": 12.5,
+   "sugar": 14.8,
+   "sodium": 159.1,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "2/3 cup",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 12.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 7.3,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blackberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-04-2",
+   "name": "Fried Green Tomato BLT · Smoked Gouda Grits",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 953,
+   "protein": 32.5,
+   "carbs": 99.0,
+   "fat": 48.5,
+   "satfat": 13.5,
+   "fiber": 2.5,
+   "sugar": 2.5,
+   "sodium": 1929.0,
+   "cholesterol": 191.5,
+   "components": [
+    {
+     "name": "Fried Green Tomato BLT",
+     "portion": "1 serving",
+     "kcal": 648,
+     "protein": 20.0,
+     "carbs": 70.0,
+     "fat": 33.0,
+     "satfat": 6.0,
+     "sodium": 1519.0,
+     "cholesterol": 29.0
+    },
+    {
+     "name": "Smoked Gouda Grits",
+     "portion": "1/2 serving",
+     "kcal": 305,
+     "protein": 12.5,
+     "carbs": 29.0,
+     "fat": 15.5,
+     "satfat": 7.5,
+     "fiber": 2.5,
+     "sugar": 2.5,
+     "sodium": 410.0,
+     "cholesterol": 162.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fried Green Tomato BLT",
+    "Smoked Gouda Grits"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-04-3",
+   "name": "Banana Peanut Butter Oat Smoothy · Dressing, Litehouse HomeStyle Ranch, 2T · Croutons, Homestyle Seasoned Herb + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 445,
+   "protein": 13.5,
+   "carbs": 57.1,
+   "fat": 20.9,
+   "satfat": 3.9,
+   "fiber": 7.6,
+   "sugar": 11.0,
+   "sodium": 657.0,
+   "cholesterol": 16.4,
+   "components": [
+    {
+     "name": "Banana Peanut Butter Oat Smoothy",
+     "portion": "1 cup",
+     "kcal": 159,
+     "protein": 5.4,
+     "carbs": 24.9,
+     "fat": 4.5,
+     "satfat": 1.4,
+     "fiber": 3.3,
+     "sugar": 5.8,
+     "sodium": 26.5,
+     "cholesterol": 6.4
+    },
+    {
+     "name": "Dressing, Litehouse HomeStyle Ranch, 2T",
+     "portion": "2 tablespoons",
+     "kcal": 120,
+     "protein": 1.0,
+     "carbs": 2.0,
+     "fat": 12.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 230.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Croutons, Homestyle Seasoned Herb",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "8 each",
+     "kcal": 24,
+     "protein": 1.2,
+     "carbs": 5.3,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 1.6,
+     "sugar": 3.6,
+     "sodium": 6.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Baby Spring Mix",
+     "portion": "3 cups",
+     "kcal": 15,
+     "protein": 1.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 70.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana Peanut Butter Oat Smoothy",
+    "Dressing, Litehouse HomeStyle Ranch, 2T",
+    "Croutons, Homestyle Seasoned Herb",
+    "Tomatoes, Cherry",
+    "Greens, Baby Spring Mix",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

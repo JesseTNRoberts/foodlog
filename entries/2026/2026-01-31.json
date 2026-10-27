@@ -1,0 +1,308 @@
+{
+ "date": "2026-01-31",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-01-31-1",
+   "name": "Ham And Cheese Croissant · Danish, Raspberry · Sourdough Round Bread + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 634,
+   "protein": 19.9,
+   "carbs": 74.1,
+   "fat": 30.0,
+   "satfat": 14.8,
+   "fiber": 1.9,
+   "sugar": 18.2,
+   "sodium": 770.1,
+   "cholesterol": 112.8,
+   "components": [
+    {
+     "name": "Ham And Cheese Croissant",
+     "portion": "3/4 serving",
+     "kcal": 278,
+     "protein": 9.8,
+     "carbs": 22.5,
+     "fat": 17.2,
+     "satfat": 10.5,
+     "fiber": 0.0,
+     "sugar": 3.8,
+     "sodium": 390.0,
+     "cholesterol": 48.8
+    },
+    {
+     "name": "Danish, Raspberry",
+     "portion": "2/3 each",
+     "kcal": 176,
+     "protein": 2.6,
+     "carbs": 22.6,
+     "fat": 8.8,
+     "satfat": 2.3,
+     "fiber": 0.9,
+     "sugar": 13.4,
+     "sodium": 167.6,
+     "cholesterol": 54.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "2 slices",
+     "kcal": 140,
+     "protein": 5.0,
+     "carbs": 29.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 145.0
+    },
+    {
+     "name": "Cheese, Aged Sharp White Cheddar Slice",
+     "portion": "1/2 slice",
+     "kcal": 40,
+     "protein": 2.5,
+     "carbs": 0.0,
+     "fat": 3.5,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sodium": 67.5,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ham And Cheese Croissant",
+    "Danish, Raspberry",
+    "Sourdough Round Bread",
+    "Cheese, Aged Sharp White Cheddar Slice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-01-31-2",
+   "name": "Hummus · Pita Chips, Fire Roasted Jalapeno · Tomatoes, Cherry + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 518,
+   "protein": 15.5,
+   "carbs": 63.2,
+   "fat": 25.4,
+   "satfat": 3.1,
+   "fiber": 9.7,
+   "sugar": 9.9,
+   "sodium": 796.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hummus",
+     "portion": "1/2 cup",
+     "kcal": 260,
+     "protein": 7.2,
+     "carbs": 25.1,
+     "fat": 15.7,
+     "satfat": 2.2,
+     "fiber": 4.7,
+     "sugar": 0.4,
+     "sodium": 274.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "12 pieces",
+     "kcal": 175,
+     "protein": 4.5,
+     "carbs": 24.3,
+     "fat": 6.8,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 1.2,
+     "sodium": 378.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "14 each",
+     "kcal": 43,
+     "protein": 2.9,
+     "carbs": 9.3,
+     "fat": 0.5,
+     "satfat": 0.5,
+     "fiber": 2.9,
+     "sugar": 6.3,
+     "sodium": 11.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli apple soup",
+     "portion": "1/4 serving",
+     "kcal": 40,
+     "protein": 0.9,
+     "carbs": 4.5,
+     "fat": 2.4,
+     "satfat": 0.4,
+     "fiber": 1.4,
+     "sugar": 2.0,
+     "sodium": 131.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Tomatoes, Cherry",
+    "Broccoli apple soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-01-31-3",
+   "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 315,
+   "protein": 6.0,
+   "carbs": 31.5,
+   "fat": 21.0,
+   "satfat": 0,
+   "fiber": 1.5,
+   "sugar": 25.5,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+     "portion": "3 servings",
+     "kcal": 315,
+     "protein": 6.0,
+     "carbs": 31.5,
+     "fat": 21.0,
+     "fiber": 1.5,
+     "sugar": 25.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Justin's Dark Chocolate Peanut Butter Cups (singles)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-01-31-4",
+   "name": "Chips, Tortilla, Strips, Restaurant Style · Sourdough Round Bread · Sharp White Cheddar Cheese Slices + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 198,
+   "protein": 6.5,
+   "carbs": 27.6,
+   "fat": 7.3,
+   "satfat": 3.7,
+   "fiber": 1.8,
+   "sugar": 2.8,
+   "sodium": 335.0,
+   "cholesterol": 9.0,
+   "components": [
+    {
+     "name": "Chips, Tortilla, Strips, Restaurant Style",
+     "portion": "1/2 ounce",
+     "kcal": 71,
+     "protein": 1.1,
+     "carbs": 9.1,
+     "fat": 3.5,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 43.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "1 slice",
+     "kcal": 70,
+     "protein": 2.5,
+     "carbs": 14.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 72.5
+    },
+    {
+     "name": "Sharp White Cheddar Cheese Slices",
+     "portion": "1/3 ounce",
+     "kcal": 40,
+     "protein": 2.2,
+     "carbs": 0.2,
+     "fat": 3.1,
+     "satfat": 2.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 67.4,
+     "cholesterol": 9.0
+    },
+    {
+     "name": "Homemade Salsa",
+     "portion": "1/4 cup",
+     "kcal": 17,
+     "protein": 0.7,
+     "carbs": 3.8,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 111.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, Strips, Restaurant Style",
+    "Sourdough Round Bread",
+    "Sharp White Cheddar Cheese Slices",
+    "Homemade Salsa",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

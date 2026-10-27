@@ -1,0 +1,244 @@
+{
+ "date": "2026-02-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-02-17-1",
+   "name": "Banana Peanut Butter Oat Smoothy",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 297,
+   "protein": 15.0,
+   "carbs": 38.9,
+   "fat": 10.4,
+   "satfat": 2.2,
+   "fiber": 6.9,
+   "sugar": 12.0,
+   "sodium": 91.4,
+   "cholesterol": 5.7,
+   "components": [
+    {
+     "name": "Banana Peanut Butter Oat Smoothy",
+     "portion": "1 cup",
+     "kcal": 297,
+     "protein": 15.0,
+     "carbs": 38.9,
+     "fat": 10.4,
+     "satfat": 2.2,
+     "fiber": 6.9,
+     "sugar": 12.0,
+     "sodium": 91.4,
+     "cholesterol": 5.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana Peanut Butter Oat Smoothy"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-17-2",
+   "name": "Hummus · Everything Low Mein · Pita Chips, Fire Roasted Jalapeno",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 370,
+   "protein": 13.1,
+   "carbs": 46.5,
+   "fat": 15.9,
+   "satfat": 1.6,
+   "fiber": 5.8,
+   "sugar": 5.5,
+   "sodium": 641.5,
+   "cholesterol": 9.9,
+   "components": [
+    {
+     "name": "Hummus",
+     "portion": "1/4 cup",
+     "kcal": 130,
+     "protein": 3.6,
+     "carbs": 12.5,
+     "fat": 7.9,
+     "satfat": 1.1,
+     "fiber": 2.4,
+     "sugar": 0.2,
+     "sodium": 137.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Everything Low Mein",
+     "portion": "1 cup",
+     "kcal": 123,
+     "protein": 6.8,
+     "carbs": 17.8,
+     "fat": 3.5,
+     "satfat": 0.5,
+     "fiber": 2.9,
+     "sugar": 4.5,
+     "sodium": 252.2,
+     "cholesterol": 9.9
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "8 pieces",
+     "kcal": 117,
+     "protein": 2.7,
+     "carbs": 16.2,
+     "fat": 4.5,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.8,
+     "sodium": 252.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus",
+    "Everything Low Mein",
+    "Pita Chips, Fire Roasted Jalapeno"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-17-3",
+   "name": "Cottage Cheese, 2% Fat · Red Cabbage Vegetable Soup",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 369,
+   "protein": 34.8,
+   "carbs": 46.1,
+   "fat": 5.7,
+   "satfat": 2.4,
+   "fiber": 10.8,
+   "sugar": 19.1,
+   "sodium": 1859.1,
+   "cholesterol": 22.6,
+   "components": [
+    {
+     "name": "Cottage Cheese, 2% Fat",
+     "portion": "1 cup",
+     "kcal": 194,
+     "protein": 26.7,
+     "carbs": 8.3,
+     "fat": 5.5,
+     "satfat": 2.2,
+     "fiber": 0.0,
+     "sugar": 8.3,
+     "sodium": 745.8,
+     "cholesterol": 22.6
+    },
+    {
+     "name": "Red Cabbage Vegetable Soup",
+     "portion": "2 cups",
+     "kcal": 175,
+     "protein": 8.1,
+     "carbs": 37.8,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 10.8,
+     "sugar": 10.8,
+     "sodium": 1113.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cottage Cheese, 2% Fat",
+    "Red Cabbage Vegetable Soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-17-4",
+   "name": "Almond Butter · Banana · Apple, Medium",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 304,
+   "protein": 5.7,
+   "carbs": 32.8,
+   "fat": 19.2,
+   "satfat": 2.8,
+   "fiber": 5.0,
+   "sugar": 18.1,
+   "sodium": 145.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Almond Butter",
+     "portion": "2 tablespoons",
+     "kcal": 203,
+     "protein": 4.8,
+     "carbs": 6.8,
+     "fat": 18.9,
+     "satfat": 1.8,
+     "fiber": 1.2,
+     "sugar": 1.6,
+     "sodium": 144.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Banana",
+     "portion": "1/2 each",
+     "kcal": 53,
+     "protein": 0.7,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.5,
+     "fiber": 1.6,
+     "sugar": 7.0,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple, Medium",
+     "portion": "1/2 each",
+     "kcal": 48,
+     "protein": 0.2,
+     "carbs": 12.5,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 2.2,
+     "sugar": 9.5,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter",
+    "Banana",
+    "Apple, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

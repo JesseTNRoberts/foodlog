@@ -1,0 +1,309 @@
+{
+ "date": "2021-02-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-07-1",
+   "name": "Juice, Lemon",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 5,
+   "protein": 0.8,
+   "carbs": 1.8,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.8,
+   "sugar": 0.5,
+   "sodium": 0.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Juice, Lemon",
+     "portion": "4 teaspoons",
+     "kcal": 5,
+     "protein": 0.8,
+     "carbs": 1.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 0.5,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Juice, Lemon"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-07-2",
+   "name": "Fries, Waffle Potato, Large · Sandwich, Spicy Chicken · Half and Half Tea + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1199,
+   "protein": 26.0,
+   "carbs": 146.7,
+   "fat": 55.7,
+   "satfat": 13.5,
+   "fiber": 8.9,
+   "sugar": 56.5,
+   "sodium": 1648.2,
+   "cholesterol": 40.0,
+   "components": [
+    {
+     "name": "Fries, Waffle Potato, Large",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 3.0,
+     "carbs": 31.5,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1/2 each",
+     "kcal": 245,
+     "protein": 15.0,
+     "carbs": 22.5,
+     "fat": 10.5,
+     "satfat": 2.2,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "2 servings",
+     "kcal": 184,
+     "protein": 0.0,
+     "carbs": 45.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 43.3,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "2 servings",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 150.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Daiya New York Style Cheezecake",
+     "portion": "1/3 serving",
+     "kcal": 120,
+     "protein": 1.0,
+     "carbs": 11.7,
+     "fat": 7.7,
+     "satfat": 5.3,
+     "fiber": 0.7,
+     "sugar": 5.7,
+     "sodium": 143.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle Potato, Large",
+    "Sandwich, Spicy Chicken",
+    "Half and Half Tea",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt",
+    "Sauce, Honey Roasted BBQ",
+    "Daiya New York Style Cheezecake"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-07-3",
+   "name": "Homemade Cheese Pizza · Soup, Vegetable Garden · Hummus, spinach and artichoke + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1076,
+   "protein": 26.1,
+   "carbs": 214.3,
+   "fat": 35.3,
+   "satfat": 2.3,
+   "fiber": 15.5,
+   "sugar": 35.8,
+   "sodium": 1631.7,
+   "cholesterol": 6.2,
+   "components": [
+    {
+     "name": "Homemade Cheese Pizza",
+     "portion": "2 slices",
+     "kcal": 400,
+     "protein": 6.0,
+     "carbs": 100.0,
+     "fat": 20.0
+    },
+    {
+     "name": "Soup, Vegetable Garden",
+     "portion": "20 fluid ounces",
+     "kcal": 314,
+     "protein": 13.1,
+     "carbs": 61.8,
+     "fat": 1.3,
+     "satfat": 0.3,
+     "fiber": 11.7,
+     "sugar": 13.1,
+     "sodium": 1199.2,
+     "cholesterol": 6.2
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Homemade Cheese Pizza",
+    "Soup, Vegetable Garden",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt",
+    "Half and Half Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-07-4",
+   "name": "Grain Free Tortilla Chips, Nacho",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 21,
+   "protein": 0.2,
+   "carbs": 3.0,
+   "fat": 1.1,
+   "satfat": 0.3,
+   "fiber": 0.5,
+   "sugar": 0.2,
+   "sodium": 19.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "3 pieces",
+     "kcal": 21,
+     "protein": 0.2,
+     "carbs": 3.0,
+     "fat": 1.1,
+     "satfat": 0.3,
+     "fiber": 0.5,
+     "sugar": 0.2,
+     "sodium": 19.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Grain Free Tortilla Chips, Nacho"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

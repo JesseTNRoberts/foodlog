@@ -1,0 +1,166 @@
+{
+ "date": "2022-04-18",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-18-1",
+   "name": "Oat milk latte",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 280,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Oat milk latte",
+     "portion": "2 servings",
+     "kcal": 280
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oat milk latte"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-18-2",
+   "name": "Guacamole · *Grain Free Chips, Nacho - 19 Ea",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 267,
+   "protein": 4.4,
+   "carbs": 29.3,
+   "fat": 19.3,
+   "satfat": 1.0,
+   "fiber": 9.9,
+   "sugar": 1.0,
+   "sodium": 640.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Guacamole",
+     "portion": "4 ounces",
+     "kcal": 137,
+     "protein": 3.4,
+     "carbs": 10.3,
+     "fat": 12.3,
+     "satfat": 0.0,
+     "fiber": 6.9,
+     "sugar": 0.0,
+     "sodium": 515.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "*Grain Free Chips, Nacho - 19 Ea",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 1.0,
+     "carbs": 19.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 3.0,
+     "sugar": 1.0,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Guacamole",
+    "*Grain Free Chips, Nacho - 19 Ea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-18-3",
+   "name": "Steak Fries · Grilled Bbq Chicken · Chili Bowl + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1115,
+   "protein": 60.5,
+   "carbs": 68.8,
+   "fat": 38.5,
+   "satfat": 12.0,
+   "fiber": 3.5,
+   "sugar": 8.8,
+   "sodium": 793.0,
+   "cholesterol": 76.0,
+   "components": [
+    {
+     "name": "Steak Fries",
+     "portion": "3/4 serving",
+     "kcal": 349,
+     "protein": 1.5,
+     "carbs": 12.8,
+     "fat": 4.5,
+     "fiber": 1.5,
+     "sugar": 0.8,
+     "sodium": 255.0
+    },
+    {
+     "name": "Grilled Bbq Chicken",
+     "portion": "1 serving",
+     "kcal": 300,
+     "protein": 35.0,
+     "carbs": 0.0,
+     "fat": 12.0
+    },
+    {
+     "name": "Chili Bowl",
+     "portion": "1 serving",
+     "kcal": 240,
+     "protein": 14.0
+    },
+    {
+     "name": "Roll",
+     "portion": "2 servings",
+     "kcal": 226,
+     "protein": 10.0,
+     "carbs": 56.0,
+     "fat": 22.0,
+     "satfat": 12.0,
+     "fiber": 2.0,
+     "sugar": 8.0,
+     "sodium": 538.0,
+     "cholesterol": 76.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Steak Fries",
+    "Grilled Bbq Chicken",
+    "Chili Bowl",
+    "Roll"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

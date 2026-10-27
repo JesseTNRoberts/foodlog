@@ -1,0 +1,119 @@
+{
+ "date": "2022-07-12",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-07-12-1",
+   "name": "Stuffed Green Bell Pepper With Rice And Veggies · Zuchini And Squash Sauteed In Olive Oil · Stubborn Draft Cola + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 613,
+   "protein": 7.7,
+   "carbs": 56.9,
+   "fat": 15.8,
+   "satfat": 0.3,
+   "fiber": 6.1,
+   "sugar": 37.3,
+   "sodium": 68.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Stuffed Green Bell Pepper With Rice And Veggies",
+     "portion": "1 serving",
+     "kcal": 257
+    },
+    {
+     "name": "Zuchini And Squash Sauteed In Olive Oil",
+     "portion": "1 1/3 cups",
+     "kcal": 168,
+     "protein": 5.9,
+     "carbs": 15.4,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 4.7,
+     "sugar": 10.7,
+     "sodium": 17.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Stubborn Draft Cola",
+     "portion": "3/4 serving",
+     "kcal": 98,
+     "carbs": 26.2,
+     "fat": 0.0,
+     "sugar": 25.5,
+     "sodium": 41.2
+    },
+    {
+     "name": "Red Potatoes, Roasted w/ Oil",
+     "portion": "1 serving",
+     "kcal": 90,
+     "protein": 1.8,
+     "carbs": 15.3,
+     "fat": 2.5,
+     "satfat": 0.3,
+     "fiber": 1.4,
+     "sugar": 1.1,
+     "sodium": 9.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Stuffed Green Bell Pepper With Rice And Veggies",
+    "Zuchini And Squash Sauteed In Olive Oil",
+    "Stubborn Draft Cola",
+    "Red Potatoes, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-07-12-2",
+   "name": "Pineapple Chia Cold Pressed Juice",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 140,
+   "protein": 2.0,
+   "carbs": 28.0,
+   "fat": 3.0,
+   "satfat": 0.3,
+   "fiber": 3.0,
+   "sugar": 21.0,
+   "sodium": 50.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Pineapple Chia Cold Pressed Juice",
+     "portion": "1 bottle",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 28.0,
+     "fat": 3.0,
+     "satfat": 0.3,
+     "fiber": 3.0,
+     "sugar": 21.0,
+     "sodium": 50.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pineapple Chia Cold Pressed Juice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

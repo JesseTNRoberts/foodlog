@@ -1,0 +1,355 @@
+{
+ "date": "2023-08-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-08-1",
+   "name": "French Toast, Cinnamon Sticks · Side, Hashbrown Casserole · Syrup, Maple",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 312,
+   "protein": 7.0,
+   "carbs": 43.4,
+   "fat": 12.5,
+   "satfat": 3.2,
+   "fiber": 2.3,
+   "sugar": 11.4,
+   "sodium": 459.0,
+   "cholesterol": 7.5,
+   "components": [
+    {
+     "name": "French Toast, Cinnamon Sticks",
+     "portion": "2 sticks",
+     "kcal": 156,
+     "protein": 3.2,
+     "carbs": 22.0,
+     "fat": 6.4,
+     "satfat": 1.0,
+     "fiber": 0.8,
+     "sugar": 8.4,
+     "sodium": 196.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Side, Hashbrown Casserole",
+     "portion": "3/4 serving",
+     "kcal": 143,
+     "protein": 3.8,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 2.2,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 262.5,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "1/4 tablespoon",
+     "kcal": 13,
+     "protein": 0.0,
+     "carbs": 3.4,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast, Cinnamon Sticks",
+    "Side, Hashbrown Casserole",
+    "Syrup, Maple"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-08-2",
+   "name": "Fish, Channel Catfish, Breaded & Fried · Oat Milk Ranch Dressing · Burger Buns Done Right + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 885,
+   "protein": 32.3,
+   "carbs": 90.4,
+   "fat": 47.2,
+   "satfat": 6.5,
+   "fiber": 8.2,
+   "sugar": 10.0,
+   "sodium": 2128.8,
+   "cholesterol": 85.4,
+   "components": [
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "3 1/2 ounces",
+     "kcal": 227,
+     "protein": 17.9,
+     "carbs": 8.0,
+     "fat": 13.2,
+     "satfat": 3.2,
+     "fiber": 0.0,
+     "sugar": 0.7,
+     "sodium": 277.8,
+     "cholesterol": 80.4
+    },
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "6 tablespoons",
+     "kcal": 210,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 21.0,
+     "satfat": 1.5,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 810.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "3 pieces",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 19.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 460.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kale, All Varieties, Raw, Chopped",
+     "portion": "4 cups",
+     "kcal": 28,
+     "protein": 2.4,
+     "carbs": 5.4,
+     "fat": 0.5,
+     "satfat": 0.8,
+     "fiber": 2.2,
+     "sugar": 1.3,
+     "sodium": 21.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Channel Catfish, Breaded & Fried",
+    "Oat Milk Ranch Dressing",
+    "Burger Buns Done Right",
+    "Hushpuppies",
+    "Homestyle Croutons Caesar",
+    "Kale, All Varieties, Raw, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-08-3",
+   "name": "Chocolate Chip Crunchy Cookie · Potato Chips, Voodoo Heat",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 390,
+   "protein": 10.5,
+   "carbs": 39.0,
+   "fat": 20.9,
+   "satfat": 6.0,
+   "fiber": 6.6,
+   "sugar": 12.0,
+   "sodium": 477.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "8 pieces",
+     "kcal": 213,
+     "protein": 8.0,
+     "carbs": 18.7,
+     "fat": 10.7,
+     "satfat": 4.7,
+     "fiber": 5.3,
+     "sugar": 10.7,
+     "sodium": 173.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Potato Chips, Voodoo Heat",
+     "portion": "1 1/4 ounces",
+     "kcal": 177,
+     "protein": 2.5,
+     "carbs": 20.3,
+     "fat": 10.2,
+     "satfat": 1.3,
+     "fiber": 1.3,
+     "sugar": 1.3,
+     "sodium": 304.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie",
+    "Potato Chips, Voodoo Heat"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-08-4",
+   "name": "Crawfish Creole Pasta · Hushpuppies",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 610,
+   "protein": 17.2,
+   "carbs": 82.8,
+   "fat": 23.9,
+   "satfat": 7.8,
+   "fiber": 10.1,
+   "sugar": 16.9,
+   "sodium": 908.1,
+   "cholesterol": 32.1,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 517,
+     "protein": 15.9,
+     "carbs": 70.1,
+     "fat": 19.2,
+     "satfat": 7.1,
+     "fiber": 9.4,
+     "sugar": 15.6,
+     "sodium": 601.4,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "2 pieces",
+     "kcal": 93,
+     "protein": 1.3,
+     "carbs": 12.7,
+     "fat": 4.7,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 306.7,
+     "cholesterol": 3.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Hushpuppies"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-08-5",
+   "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 194,
+   "protein": 8.5,
+   "carbs": 22.4,
+   "fat": 7.5,
+   "satfat": 0.3,
+   "fiber": 2.5,
+   "sugar": 6.6,
+   "sodium": 253.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "2/3 cup",
+     "kcal": 107,
+     "protein": 1.8,
+     "carbs": 20.4,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 5.3,
+     "sodium": 106.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "2/3 cup",
+     "kcal": 87,
+     "protein": 6.7,
+     "carbs": 2.0,
+     "fat": 5.3,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 146.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

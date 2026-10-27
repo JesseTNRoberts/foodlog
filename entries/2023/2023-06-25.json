@@ -1,0 +1,297 @@
+{
+ "date": "2023-06-25",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-25-1",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Grilled Chicken",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 702,
+   "protein": 103.8,
+   "carbs": 0.0,
+   "fat": 28.7,
+   "satfat": 7.6,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 112.5,
+   "cholesterol": 331.5,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "9 ounces",
+     "kcal": 522,
+     "protein": 64.8,
+     "carbs": 0.0,
+     "fat": 27.2,
+     "satfat": 7.6,
+     "sugar": 0.0,
+     "cholesterol": 234.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "6 ounces",
+     "kcal": 180,
+     "protein": 39.0,
+     "carbs": 0.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 112.5,
+     "cholesterol": 97.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-25-2",
+   "name": "Fish Fried Catfish Breaded · Cereal, Honey Bunches of Oats, Honey Roasted · Burger Buns Done Right + 5 more",
+   "portion": "Lunch · 8 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 962,
+   "protein": 20.7,
+   "carbs": 95.1,
+   "fat": 27.3,
+   "satfat": 2.6,
+   "fiber": 6.5,
+   "sugar": 29.2,
+   "sodium": 1074.7,
+   "cholesterol": 11.3,
+   "components": [
+    {
+     "name": "Fish Fried Catfish Breaded",
+     "portion": "5 ounces",
+     "kcal": 163
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fries Regular",
+     "portion": "1/2 serving",
+     "kcal": 158,
+     "protein": 1.0,
+     "carbs": 10.0,
+     "fat": 7.5,
+     "satfat": 1.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Honey Mustard",
+     "portion": "1 serving",
+     "kcal": 130,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 8.3,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 4.5,
+     "sodium": 112.5,
+     "cholesterol": 11.3
+    },
+    {
+     "name": "Ketchup",
+     "portion": "5 teaspoons",
+     "kcal": 33,
+     "protein": 0.0,
+     "carbs": 8.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 6.7,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish Fried Catfish Breaded",
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Burger Buns Done Right",
+    "Fries Regular",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Honey Mustard",
+    "Ketchup",
+    "Tomatoes, Campari"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-25-3",
+   "name": "Bold Rock Hard Cider",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 144,
+   "protein": 0.0,
+   "carbs": 13.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 13.0,
+   "sodium": 5.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bold Rock Hard Cider",
+     "portion": "1 serving",
+     "kcal": 144,
+     "protein": 0.0,
+     "carbs": 13.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 13.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bold Rock Hard Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-25-4",
+   "name": "Burger, Smokehouse, w/o Steak Fries · Steak Fries · Mushrooms, Portabella, Grilled, Slices",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1035,
+   "protein": 33.3,
+   "carbs": 47.8,
+   "fat": 46.5,
+   "satfat": 19.1,
+   "fiber": 5.4,
+   "sugar": 9.4,
+   "sodium": 1784.4,
+   "cholesterol": 92.5,
+   "components": [
+    {
+     "name": "Burger, Smokehouse, w/o Steak Fries",
+     "portion": "1/2 each",
+     "kcal": 545,
+     "protein": 28.5,
+     "carbs": 27.0,
+     "fat": 40.0,
+     "satfat": 18.5,
+     "fiber": 1.5,
+     "sugar": 6.5,
+     "sodium": 1435.0,
+     "cholesterol": 92.5
+    },
+    {
+     "name": "Steak Fries",
+     "portion": "1 serving",
+     "kcal": 465,
+     "protein": 2.0,
+     "carbs": 17.0,
+     "fat": 6.0,
+     "fiber": 2.0,
+     "sugar": 1.0,
+     "sodium": 340.0
+    },
+    {
+     "name": "Mushrooms, Portabella, Grilled, Slices",
+     "portion": "3 ounces",
+     "kcal": 25,
+     "protein": 2.8,
+     "carbs": 3.8,
+     "fat": 0.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 1.9,
+     "sodium": 9.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger, Smokehouse, w/o Steak Fries",
+    "Steak Fries",
+    "Mushrooms, Portabella, Grilled, Slices"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,560 @@
+{
+ "date": "2023-07-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-05-1",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Spring Roll, Vegetable · Naan Bites + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 379,
+   "protein": 26.7,
+   "carbs": 26.9,
+   "fat": 18.6,
+   "satfat": 3.2,
+   "fiber": 1.7,
+   "sugar": 1.4,
+   "sodium": 270.4,
+   "cholesterol": 68.2,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "2 ounces",
+     "kcal": 116,
+     "protein": 14.4,
+     "carbs": 0.0,
+     "fat": 6.4,
+     "satfat": 1.7,
+     "sugar": 0.0,
+     "cholesterol": 52.0
+    },
+    {
+     "name": "Spring Roll, Vegetable",
+     "portion": "1 each",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "2 each",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 11.5,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Baba Ghannouj Eggplant Dip",
+     "portion": "1 ounce",
+     "kcal": 63,
+     "protein": 1.8,
+     "carbs": 5.4,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 0.9,
+     "sodium": 111.6
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.5,
+     "carbs": 0.0,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 18.8,
+     "cholesterol": 16.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Spring Roll, Vegetable",
+    "Naan Bites",
+    "Baba Ghannouj Eggplant Dip",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-05-2",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Vegetable Soup",
+   "portion": "Morning Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 261,
+   "protein": 2.9,
+   "carbs": 31.4,
+   "fat": 4.8,
+   "satfat": 0.7,
+   "fiber": 2.8,
+   "sugar": 1.4,
+   "sodium": 6.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 176,
+     "protein": 2.9,
+     "carbs": 31.4,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 1.4,
+     "sodium": 6.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Vegetable Soup",
+     "portion": "1 cup",
+     "kcal": 85
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Vegetable Soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-05-3",
+   "name": "Quinoa, Cooked · Beans, Black, Cooked, No Salt · Kroger vegan cheese + 6 more",
+   "portion": "Lunch · 9 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 599,
+   "protein": 21.6,
+   "carbs": 83.6,
+   "fat": 19.2,
+   "satfat": 8.2,
+   "fiber": 17.5,
+   "sugar": 14.9,
+   "sodium": 1422.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Quinoa, Cooked",
+     "portion": "1 cup",
+     "kcal": 222,
+     "protein": 8.1,
+     "carbs": 39.4,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 5.2,
+     "sugar": 0.0,
+     "sodium": 12.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Beans, Black, Cooked, No Salt",
+     "portion": "1/3 cup",
+     "kcal": 76,
+     "protein": 5.7,
+     "carbs": 13.6,
+     "fat": 0.3,
+     "satfat": 0.7,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kroger vegan cheese",
+     "portion": "1 serving",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pasta Sauce, Tomato & Basil",
+     "portion": "1/3 cup",
+     "kcal": 60,
+     "protein": 1.3,
+     "carbs": 10.0,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 7.3,
+     "sodium": 359.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bell Pepper Orange, Large",
+     "portion": "1 each",
+     "kcal": 51,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 7.0,
+     "sodium": 7.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "2 tablespoons",
+     "kcal": 47,
+     "protein": 3.3,
+     "carbs": 0.7,
+     "fat": 3.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 106.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant-Based Sour Cream Alternative",
+     "portion": "2 tablespoons",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 3.5,
+     "satfat": 3.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 65.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "3/4 ounce",
+     "kcal": 28,
+     "protein": 1.2,
+     "carbs": 1.9,
+     "fat": 1.9,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 150.9
+    },
+    {
+     "name": "Vegetable Broth",
+     "portion": "1 cup",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Quinoa, Cooked",
+    "Beans, Black, Cooked, No Salt",
+    "Kroger vegan cheese",
+    "Pasta Sauce, Tomato & Basil",
+    "Bell Pepper Orange, Large",
+    "Just Egg",
+    "Plant-Based Sour Cream Alternative",
+    "Cauliflower Dip, Spicy Queso",
+    "Vegetable Broth"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-05-4",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 73,
+   "protein": 3.2,
+   "carbs": 9.1,
+   "fat": 2.5,
+   "satfat": 0.1,
+   "fiber": 0.9,
+   "sugar": 2.5,
+   "sodium": 100.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1/4 cup",
+     "kcal": 40,
+     "protein": 0.7,
+     "carbs": 8.3,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 2.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/4 cup",
+     "kcal": 33,
+     "protein": 2.5,
+     "carbs": 0.8,
+     "fat": 2.0,
+     "satfat": 0.1,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 55.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-05-5",
+   "name": "Quinoa, Cooked · Beans, Black, Cooked, No Salt · Kroger vegan cheese + 7 more",
+   "portion": "Dinner · 10 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 626,
+   "protein": 22.3,
+   "carbs": 88.6,
+   "fat": 19.7,
+   "satfat": 8.2,
+   "fiber": 17.8,
+   "sugar": 15.2,
+   "sodium": 1499.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Quinoa, Cooked",
+     "portion": "1 cup",
+     "kcal": 222,
+     "protein": 8.1,
+     "carbs": 39.4,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 5.2,
+     "sugar": 0.0,
+     "sodium": 12.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Beans, Black, Cooked, No Salt",
+     "portion": "1/3 cup",
+     "kcal": 76,
+     "protein": 5.7,
+     "carbs": 13.6,
+     "fat": 0.3,
+     "satfat": 0.7,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kroger vegan cheese",
+     "portion": "1 serving",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pasta Sauce, Tomato & Basil",
+     "portion": "1/3 cup",
+     "kcal": 60,
+     "protein": 1.3,
+     "carbs": 10.0,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 7.3,
+     "sodium": 359.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bell Pepper Orange, Large",
+     "portion": "1 each",
+     "kcal": 51,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 7.0,
+     "sodium": 7.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "2 tablespoons",
+     "kcal": 47,
+     "protein": 3.3,
+     "carbs": 0.7,
+     "fat": 3.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 106.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant-Based Sour Cream Alternative",
+     "portion": "2 tablespoons",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 3.5,
+     "satfat": 3.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 65.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "3/4 ounce",
+     "kcal": 28,
+     "protein": 1.2,
+     "carbs": 1.9,
+     "fat": 1.9,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 150.9
+    },
+    {
+     "name": "Bread, Marble Rye",
+     "portion": "1/3 slice",
+     "kcal": 27,
+     "protein": 0.7,
+     "carbs": 5.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.3,
+     "sodium": 76.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Vegetable Broth",
+     "portion": "1 cup",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Quinoa, Cooked",
+    "Beans, Black, Cooked, No Salt",
+    "Kroger vegan cheese",
+    "Pasta Sauce, Tomato & Basil",
+    "Bell Pepper Orange, Large",
+    "Just Egg",
+    "Plant-Based Sour Cream Alternative",
+    "Cauliflower Dip, Spicy Queso",
+    "Bread, Marble Rye",
+    "Vegetable Broth"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-05-6",
+   "name": "Hard Cider",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 70,
+   "protein": 0,
+   "carbs": 6.5,
+   "fat": 0.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 6.5,
+   "sodium": 2.5,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Hard Cider",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "carbs": 6.5,
+     "fat": 0.0,
+     "sugar": 6.5,
+     "sodium": 2.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hard Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

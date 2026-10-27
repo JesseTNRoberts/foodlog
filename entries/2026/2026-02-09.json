@@ -1,0 +1,450 @@
+{
+ "date": "2026-02-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-02-09-1",
+   "name": "Crustless Quiche",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 141,
+   "protein": 9.4,
+   "carbs": 13.3,
+   "fat": 6.7,
+   "satfat": 2.8,
+   "fiber": 2.1,
+   "sugar": 4.6,
+   "sodium": 219.9,
+   "cholesterol": 154.8,
+   "components": [
+    {
+     "name": "Crustless Quiche",
+     "portion": "1 cup",
+     "kcal": 141,
+     "protein": 9.4,
+     "carbs": 13.3,
+     "fat": 6.7,
+     "satfat": 2.8,
+     "fiber": 2.1,
+     "sugar": 4.6,
+     "sodium": 219.9,
+     "cholesterol": 154.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crustless Quiche"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-09-2",
+   "name": "Cashew Granola · Almond Butter · Bread, Thin Sliced, 21 Whole Grains & Seeds + 6 more",
+   "portion": "Morning Snacks · 9 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 511,
+   "protein": 19.4,
+   "carbs": 64.1,
+   "fat": 24.3,
+   "satfat": 2.5,
+   "fiber": 15.3,
+   "sugar": 28.2,
+   "sodium": 238.0,
+   "cholesterol": 2.6,
+   "components": [
+    {
+     "name": "Cashew Granola",
+     "portion": "1/3 dry cup",
+     "kcal": 173,
+     "protein": 6.0,
+     "carbs": 23.3,
+     "fat": 6.7,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 8.7,
+     "sodium": 69.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Almond Butter",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 152,
+     "protein": 5.7,
+     "carbs": 5.7,
+     "fat": 13.3,
+     "satfat": 0.9,
+     "fiber": 2.9,
+     "sugar": 0.9,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries Fresh",
+     "portion": "1/2 cup",
+     "kcal": 31,
+     "protein": 1.2,
+     "carbs": 7.3,
+     "fat": 0.4,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 4.0,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Choke Cherry syrup",
+     "portion": "2 teaspoons",
+     "kcal": 28,
+     "protein": 0.0,
+     "carbs": 7.2,
+     "fat": 0.0,
+     "sugar": 7.0,
+     "sodium": 0.8
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/4 cup",
+     "kcal": 21,
+     "protein": 0.3,
+     "carbs": 5.3,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 3.8,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "2% Protein Milk",
+     "portion": "1/8 cup",
+     "kcal": 16,
+     "protein": 1.7,
+     "carbs": 0.8,
+     "fat": 0.6,
+     "satfat": 0.4,
+     "sugar": 0.8,
+     "sodium": 15.9,
+     "cholesterol": 2.6
+    },
+    {
+     "name": "Salt, Kosher, Coarse",
+     "portion": "1/8 gram",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 50.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cashew Granola",
+    "Almond Butter",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blackberries Fresh",
+    "Chia Seeds",
+    "Choke Cherry syrup",
+    "Blueberries",
+    "2% Protein Milk",
+    "Salt, Kosher, Coarse"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-09-3",
+   "name": "Pita Chips, Fire Roasted Jalapeno · Hummus",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 153,
+   "protein": 4.0,
+   "carbs": 18.3,
+   "fat": 7.3,
+   "satfat": 0.6,
+   "fiber": 1.5,
+   "sugar": 1.5,
+   "sodium": 257.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "6 pieces",
+     "kcal": 88,
+     "protein": 2.2,
+     "carbs": 12.1,
+     "fat": 3.4,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.6,
+     "sodium": 189.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus",
+     "portion": "1/8 cup",
+     "kcal": 65,
+     "protein": 1.8,
+     "carbs": 6.2,
+     "fat": 3.9,
+     "satfat": 0.6,
+     "fiber": 1.2,
+     "sugar": 0.9,
+     "sodium": 68.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Hummus"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-09-4",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 88,
+   "protein": 3.3,
+   "carbs": 4.4,
+   "fat": 7.2,
+   "satfat": 0.8,
+   "fiber": 1.6,
+   "sugar": 1.1,
+   "sodium": 104.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "27 pieces",
+     "kcal": 88,
+     "protein": 3.3,
+     "carbs": 4.4,
+     "fat": 7.2,
+     "satfat": 0.8,
+     "fiber": 1.6,
+     "sugar": 1.1,
+     "sodium": 104.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-09-5",
+   "name": "Almond Butter · Apple Stack Cake · Banana + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 490,
+   "protein": 8.3,
+   "carbs": 51.2,
+   "fat": 31.2,
+   "satfat": 4.5,
+   "fiber": 5.8,
+   "sugar": 28.9,
+   "sodium": 274.0,
+   "cholesterol": 10.8,
+   "components": [
+    {
+     "name": "Almond Butter",
+     "portion": "3 tablespoons",
+     "kcal": 304,
+     "protein": 7.2,
+     "carbs": 10.2,
+     "fat": 28.4,
+     "satfat": 2.7,
+     "fiber": 1.8,
+     "sugar": 2.4,
+     "sodium": 216.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1/4 serving",
+     "kcal": 86,
+     "protein": 0.2,
+     "carbs": 15.0,
+     "fat": 2.5,
+     "satfat": 0.8,
+     "fiber": 0.2,
+     "sugar": 10.0,
+     "sodium": 56.5,
+     "cholesterol": 10.8
+    },
+    {
+     "name": "Banana",
+     "portion": "1/2 each",
+     "kcal": 52,
+     "protein": 0.7,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.5,
+     "fiber": 1.6,
+     "sugar": 7.0,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple, Medium",
+     "portion": "1/2 each",
+     "kcal": 48,
+     "protein": 0.2,
+     "carbs": 12.5,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 2.2,
+     "sugar": 9.5,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter",
+    "Apple Stack Cake",
+    "Banana",
+    "Apple, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-02-09-6",
+   "name": "Fries, Waffle Potato, Large · Spicy Chicken Sandwich · Sauce, Honey Roasted BBQ",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 530,
+   "protein": 12.7,
+   "carbs": 51.2,
+   "fat": 29.8,
+   "satfat": 5.7,
+   "fiber": 3.2,
+   "sugar": 5.7,
+   "sodium": 802.8,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Fries, Waffle Potato, Large",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 3.0,
+     "carbs": 31.5,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/3 piece",
+     "kcal": 150,
+     "protein": 9.7,
+     "carbs": 13.7,
+     "fat": 6.3,
+     "satfat": 1.7,
+     "fiber": 0.7,
+     "sugar": 1.7,
+     "sodium": 532.8,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "2 servings",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 150.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle Potato, Large",
+    "Spicy Chicken Sandwich",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

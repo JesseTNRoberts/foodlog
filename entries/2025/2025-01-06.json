@@ -1,0 +1,328 @@
+{
+ "date": "2025-01-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-06-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blueberries + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 328,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 16.0,
+   "satfat": 1.0,
+   "fiber": 10.7,
+   "sugar": 16.1,
+   "sodium": 159.8,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "2 tablespoons",
+     "kcal": 7,
+     "protein": 0.1,
+     "carbs": 1.6,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 1.1,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blueberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-06-2",
+   "name": "Red Cabbage Veggie Soup · Cornbread · Hot & Spicy Chips",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 386,
+   "protein": 14.4,
+   "carbs": 69.2,
+   "fat": 17.0,
+   "satfat": 3.5,
+   "fiber": 8.9,
+   "sugar": 16.4,
+   "sodium": 677.6,
+   "cholesterol": 25.3,
+   "components": [
+    {
+     "name": "Red Cabbage Veggie Soup",
+     "portion": "1 serving",
+     "kcal": 211,
+     "protein": 6.8,
+     "carbs": 44.6,
+     "fat": 11.6,
+     "satfat": 1.7,
+     "fiber": 7.7,
+     "sugar": 8.3,
+     "sodium": 353.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cornbread",
+     "portion": "1 1/2 ounces",
+     "kcal": 140,
+     "protein": 2.8,
+     "carbs": 23.4,
+     "fat": 4.2,
+     "satfat": 1.6,
+     "fiber": 1.0,
+     "sugar": 7.9,
+     "sodium": 254.4,
+     "cholesterol": 24.1
+    },
+    {
+     "name": "Hot & Spicy Chips",
+     "portion": "1/4 package",
+     "kcal": 35,
+     "protein": 4.8,
+     "carbs": 1.2,
+     "fat": 1.2,
+     "satfat": 0.2,
+     "fiber": 0.2,
+     "sugar": 0.2,
+     "sodium": 70.0,
+     "cholesterol": 1.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Red Cabbage Veggie Soup",
+    "Cornbread",
+    "Hot & Spicy Chips"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-06-3",
+   "name": "Banana, Small, 6\" to 6 7/8\" Long · Cuties",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 130,
+   "protein": 1.6,
+   "carbs": 32.2,
+   "fat": 0.5,
+   "satfat": 0.1,
+   "fiber": 4.6,
+   "sugar": 18.8,
+   "sodium": 1.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Small, 6\" to 6 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 1.1,
+     "carbs": 23.7,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 12.3,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cuties",
+     "portion": "1 each",
+     "kcal": 40,
+     "protein": 0.5,
+     "carbs": 8.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Small, 6\" to 6 7/8\" Long",
+    "Cuties"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-06-4",
+   "name": "Just Egg Quiche (1/5 of pie) · Fries, Waffle, Medium · Spicy Chicken Sandwich + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 711,
+   "protein": 20.4,
+   "carbs": 62.7,
+   "fat": 42.6,
+   "satfat": 8.5,
+   "fiber": 4.3,
+   "sugar": 5.6,
+   "sodium": 1245.0,
+   "cholesterol": 36.1,
+   "components": [
+    {
+     "name": "Just Egg Quiche (1/5 of pie)",
+     "portion": "1 serving",
+     "kcal": 321,
+     "protein": 8.2,
+     "carbs": 24.5,
+     "fat": 22.3,
+     "satfat": 5.8,
+     "fiber": 1.1,
+     "sugar": 1.9,
+     "sodium": 497.2,
+     "cholesterol": 11.1
+    },
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1/2 serving",
+     "kcal": 180,
+     "protein": 2.5,
+     "carbs": 21.5,
+     "fat": 9.0,
+     "satfat": 0.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 140.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/3 piece",
+     "kcal": 150,
+     "protein": 9.7,
+     "carbs": 13.7,
+     "fat": 6.3,
+     "satfat": 1.7,
+     "fiber": 0.7,
+     "sugar": 1.7,
+     "sodium": 532.8,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 75.0,
+     "cholesterol": 5.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg Quiche (1/5 of pie)",
+    "Fries, Waffle, Medium",
+    "Spicy Chicken Sandwich",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

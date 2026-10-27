@@ -1,0 +1,178 @@
+{
+ "date": "2022-05-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-07-1",
+   "name": "Bagel, Cinnamon Crunch · Grain Free Tortilla Chips, Nacho",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 704,
+   "protein": 12.1,
+   "carbs": 122.0,
+   "fat": 21.7,
+   "satfat": 8.7,
+   "fiber": 8.3,
+   "sugar": 34.1,
+   "sodium": 643.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bagel, Cinnamon Crunch",
+     "portion": "1 each",
+     "kcal": 430,
+     "protein": 10.0,
+     "carbs": 82.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 32.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "40 pieces",
+     "kcal": 274,
+     "protein": 2.1,
+     "carbs": 40.0,
+     "fat": 14.7,
+     "satfat": 4.2,
+     "fiber": 6.3,
+     "sugar": 2.1,
+     "sodium": 263.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bagel, Cinnamon Crunch",
+    "Grain Free Tortilla Chips, Nacho"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-07-2",
+   "name": "Pulled Chicken · Fries Regular · Dr. Pepper 16.9oz + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1120,
+   "protein": 2.0,
+   "carbs": 79.0,
+   "fat": 20.2,
+   "satfat": 2.7,
+   "fiber": 0.0,
+   "sugar": 57.5,
+   "sodium": 178.7,
+   "cholesterol": 7.9,
+   "components": [
+    {
+     "name": "Pulled Chicken",
+     "portion": "1 serving",
+     "kcal": 384
+    },
+    {
+     "name": "Fries Regular",
+     "portion": "1 serving",
+     "kcal": 315,
+     "protein": 2.0,
+     "carbs": 20.0,
+     "fat": 15.0,
+     "satfat": 2.0
+    },
+    {
+     "name": "Dr. Pepper 16.9oz",
+     "portion": "16.9 fluid ounces",
+     "kcal": 210,
+     "protein": 0.0,
+     "carbs": 55.7,
+     "fat": 0.0,
+     "sugar": 54.7,
+     "sodium": 79.5
+    },
+    {
+     "name": "Baked Beans",
+     "portion": "1 serving",
+     "kcal": 150
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1/2 ounce",
+     "kcal": 61,
+     "protein": 0.0,
+     "carbs": 3.3,
+     "fat": 5.2,
+     "satfat": 0.7,
+     "fiber": 0.0,
+     "sugar": 2.8,
+     "sodium": 99.2,
+     "cholesterol": 7.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pulled Chicken",
+    "Fries Regular",
+    "Dr. Pepper 16.9oz",
+    "Baked Beans",
+    "Dressing, Honey Mustard"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-07-3",
+   "name": "Squash, zucchini, slices, fried",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 366,
+   "protein": 4.0,
+   "carbs": 26.0,
+   "fat": 28.0,
+   "satfat": 0,
+   "fiber": 3.0,
+   "sugar": 0.0,
+   "sodium": 265.0,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Squash, zucchini, slices, fried",
+     "portion": "1 serving",
+     "kcal": 366,
+     "protein": 4.0,
+     "carbs": 26.0,
+     "fat": 28.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 265.0,
+     "cholesterol": 5.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Squash, zucchini, slices, fried"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

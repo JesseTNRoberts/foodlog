@@ -1,0 +1,166 @@
+{
+ "date": "2021-07-29",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-29-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-29-2",
+   "name": "Side, Chow Mein · Brussels Sprouts, Raw",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 341,
+   "protein": 13.3,
+   "carbs": 50.4,
+   "fat": 11.6,
+   "satfat": 2.1,
+   "fiber": 9.6,
+   "sugar": 8.9,
+   "sodium": 540.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "1/2 serving",
+     "kcal": 255,
+     "protein": 6.5,
+     "carbs": 32.5,
+     "fat": 11.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 4.5,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Raw",
+     "portion": "10 each",
+     "kcal": 86,
+     "protein": 6.8,
+     "carbs": 17.9,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 7.6,
+     "sugar": 4.4,
+     "sodium": 50.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Brussels Sprouts, Raw"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-29-3",
+   "name": "Side, Chow Mein · Veggie Sushi Brown Rice · Brussels Sprouts, Raw",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 595,
+   "protein": 13.3,
+   "carbs": 50.4,
+   "fat": 11.6,
+   "satfat": 2.1,
+   "fiber": 9.6,
+   "sugar": 8.9,
+   "sodium": 540.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "1/2 serving",
+     "kcal": 255,
+     "protein": 6.5,
+     "carbs": 32.5,
+     "fat": 11.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 4.5,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Veggie Sushi Brown Rice",
+     "portion": "7/8 serving",
+     "kcal": 254
+    },
+    {
+     "name": "Brussels Sprouts, Raw",
+     "portion": "10 each",
+     "kcal": 86,
+     "protein": 6.8,
+     "carbs": 17.9,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 7.6,
+     "sugar": 4.4,
+     "sodium": 50.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Veggie Sushi Brown Rice",
+    "Brussels Sprouts, Raw"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

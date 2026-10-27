@@ -1,0 +1,257 @@
+{
+ "date": "2026-10-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-10-05-1",
+   "name": "Pumpkin Bread",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 217,
+   "protein": 2.9,
+   "carbs": 32.6,
+   "fat": 8.6,
+   "satfat": 1.4,
+   "fiber": 0.9,
+   "sugar": 16.4,
+   "sodium": 188.5,
+   "cholesterol": 26.4,
+   "components": [
+    {
+     "name": "Pumpkin Bread",
+     "portion": "1 serving",
+     "kcal": 217,
+     "protein": 2.9,
+     "carbs": 32.6,
+     "fat": 8.6,
+     "satfat": 1.4,
+     "fiber": 0.9,
+     "sugar": 16.4,
+     "sodium": 188.5,
+     "cholesterol": 26.4
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Bread"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-10-05-2",
+   "name": "Thinly Dipped dark Chocolate Almonds · Red Cabbage Vegetable Soup · Sourdough Round Bread + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 614,
+   "protein": 21.8,
+   "carbs": 90.4,
+   "fat": 22.1,
+   "satfat": 5.5,
+   "fiber": 18.7,
+   "sugar": 23.3,
+   "sodium": 1340.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Thinly Dipped dark Chocolate Almonds",
+     "portion": "1 pouch",
+     "kcal": 190,
+     "protein": 4.0,
+     "carbs": 13.0,
+     "fat": 15.0,
+     "satfat": 4.0,
+     "fiber": 3.0,
+     "sugar": 8.0,
+     "sodium": 35.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Red Cabbage Vegetable Soup",
+     "portion": "2 cups",
+     "kcal": 175,
+     "protein": 8.1,
+     "carbs": 37.8,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 10.8,
+     "sugar": 10.8,
+     "sodium": 1113.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "2 slices",
+     "kcal": 140,
+     "protein": 5.0,
+     "carbs": 29.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 145.0
+    },
+    {
+     "name": "Tahini Sandwich Spread",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 70,
+     "protein": 2.2,
+     "carbs": 2.8,
+     "fat": 6.0,
+     "satfat": 0.8,
+     "fiber": 0.7,
+     "sugar": 0.3,
+     "sodium": 4.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "6 each",
+     "kcal": 18,
+     "protein": 0.9,
+     "carbs": 4.0,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.7,
+     "sodium": 5.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/4 cup",
+     "kcal": 14,
+     "protein": 0.9,
+     "carbs": 2.8,
+     "fat": 0.2,
+     "satfat": 0.3,
+     "fiber": 1.3,
+     "sugar": 0.5,
+     "sodium": 16.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach",
+     "portion": "1 ounce",
+     "kcal": 7,
+     "protein": 0.7,
+     "carbs": 1.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 0.0,
+     "sodium": 21.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Thinly Dipped dark Chocolate Almonds",
+    "Red Cabbage Vegetable Soup",
+    "Sourdough Round Bread",
+    "Tahini Sandwich Spread",
+    "Tomatoes, Cherry",
+    "Broccoli, Chopped, Steamed",
+    "Spinach"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-10-05-3",
+   "name": "Fries, Waffle, Medium · Lemonade, Medium · Sandwich, Chicken + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 405,
+   "protein": 8.7,
+   "carbs": 58.0,
+   "fat": 15.5,
+   "satfat": 2.0,
+   "fiber": 2.2,
+   "sugar": 32.2,
+   "sodium": 520.7,
+   "cholesterol": 18.8,
+   "components": [
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1/3 serving",
+     "kcal": 120,
+     "protein": 1.7,
+     "carbs": 14.3,
+     "fat": 6.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 0.0,
+     "sodium": 93.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Lemonade, Medium",
+     "portion": "1/2 each",
+     "kcal": 115,
+     "protein": 0.0,
+     "carbs": 30.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 29.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sandwich, Chicken",
+     "portion": "1/4 each",
+     "kcal": 110,
+     "protein": 7.0,
+     "carbs": 10.2,
+     "fat": 4.5,
+     "satfat": 1.0,
+     "fiber": 0.5,
+     "sugar": 1.2,
+     "sodium": 347.5,
+     "cholesterol": 13.8
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 75.0,
+     "cholesterol": 5.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle, Medium",
+    "Lemonade, Medium",
+    "Sandwich, Chicken",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

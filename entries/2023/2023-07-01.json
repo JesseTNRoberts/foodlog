@@ -1,0 +1,160 @@
+{
+ "date": "2023-07-01",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-01-1",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h · Chicken Finger · Sauce, Cane's",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 710,
+   "protein": 34.0,
+   "carbs": 56.0,
+   "fat": 36.0,
+   "satfat": 4.5,
+   "fiber": 2.0,
+   "sugar": 8.0,
+   "sodium": 1470.0,
+   "cholesterol": 70.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "1 serving",
+     "kcal": 280,
+     "protein": 8.0,
+     "carbs": 43.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken Finger",
+     "portion": "2 pieces",
+     "kcal": 240,
+     "protein": 26.0,
+     "carbs": 8.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 460.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 550.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+    "Chicken Finger",
+    "Sauce, Cane's"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-01-2",
+   "name": "Spinach",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 25,
+   "protein": 2.5,
+   "carbs": 3.8,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 2.5,
+   "sugar": 0.0,
+   "sodium": 81.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Spinach",
+     "portion": "3 3/4 ounces",
+     "kcal": 25,
+     "protein": 2.5,
+     "carbs": 3.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 81.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spinach"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-01-3",
+   "name": "Kind Bar, Frozen (Dark Chocolate Almond Seasalt)",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1440,
+   "protein": 24.0,
+   "carbs": 128.0,
+   "fat": 112.0,
+   "satfat": 40.0,
+   "fiber": 56.0,
+   "sugar": 64.0,
+   "sodium": 560.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Kind Bar, Frozen (Dark Chocolate Almond Seasalt)",
+     "portion": "8 each",
+     "kcal": 1440,
+     "protein": 24.0,
+     "carbs": 128.0,
+     "fat": 112.0,
+     "satfat": 40.0,
+     "fiber": 56.0,
+     "sugar": 64.0,
+     "sodium": 560.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Kind Bar, Frozen (Dark Chocolate Almond Seasalt)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

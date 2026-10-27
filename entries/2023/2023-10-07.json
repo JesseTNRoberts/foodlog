@@ -1,0 +1,47 @@
+{
+ "date": "2023-10-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-07-1",
+   "name": "Lobster",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 436,
+   "protein": 12.0,
+   "carbs": 37.0,
+   "fat": 21.0,
+   "satfat": 8.0,
+   "fiber": 3.0,
+   "sugar": 0,
+   "sodium": 808.0,
+   "cholesterol": 173.0,
+   "components": [
+    {
+     "name": "Lobster",
+     "portion": "1 serving",
+     "kcal": 436,
+     "protein": 12.0,
+     "carbs": 37.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 3.0,
+     "sodium": 808.0,
+     "cholesterol": 173.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Lobster"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "date": "2026-09-25",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-09-25-1",
+   "name": "Christiana Campbell's Tavern's Sweet Potato Muffins",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 198,
+   "protein": 2.5,
+   "carbs": 29.4,
+   "fat": 7.7,
+   "satfat": 1.2,
+   "fiber": 0.8,
+   "sugar": 19.3,
+   "sodium": 119.4,
+   "cholesterol": 20.6,
+   "components": [
+    {
+     "name": "Christiana Campbell's Tavern's Sweet Potato Muffins",
+     "portion": "1 serving",
+     "kcal": 198,
+     "protein": 2.5,
+     "carbs": 29.4,
+     "fat": 7.7,
+     "satfat": 1.2,
+     "fiber": 0.8,
+     "sugar": 19.3,
+     "sodium": 119.4,
+     "cholesterol": 20.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Christiana Campbell's Tavern's Sweet Potato Muffins"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-25-2",
+   "name": "Pear, Medium",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 103,
+   "protein": 0.7,
+   "carbs": 27.5,
+   "fat": 0.2,
+   "satfat": 0.1,
+   "fiber": 5.5,
+   "sugar": 17.4,
+   "sodium": 1.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pear, Medium",
+     "portion": "1 each",
+     "kcal": 103,
+     "protein": 0.7,
+     "carbs": 27.5,
+     "fat": 0.2,
+     "satfat": 0.1,
+     "fiber": 5.5,
+     "sugar": 17.4,
+     "sodium": 1.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pear, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-25-3",
+   "name": "Salmon, Sockeye, Wild Caught · Oil, Olive, Extra Virgin · Tahini + 8 more",
+   "portion": "Lunch · 11 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 299,
+   "protein": 17.8,
+   "carbs": 25.9,
+   "fat": 15.0,
+   "satfat": 2.9,
+   "fiber": 7.9,
+   "sugar": 12.7,
+   "sodium": 112.3,
+   "cholesterol": 35.0,
+   "components": [
+    {
+     "name": "Salmon, Sockeye, Wild Caught",
+     "portion": "2 ounces",
+     "kcal": 81,
+     "protein": 12.0,
+     "carbs": 0.0,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 35.0,
+     "cholesterol": 35.0
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1/2 tablespoon",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 6.8,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tahini",
+     "portion": "1/2 tablespoon",
+     "kcal": 44,
+     "protein": 1.3,
+     "carbs": 1.6,
+     "fat": 4.0,
+     "satfat": 0.6,
+     "fiber": 0.3,
+     "sugar": 0.0,
+     "sodium": 2.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cabbage, Red, Chopped",
+     "portion": "3 ounces",
+     "kcal": 26,
+     "protein": 1.2,
+     "carbs": 6.3,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 1.8,
+     "sugar": 3.3,
+     "sodium": 23.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sweet Potatoes, Medium, 5\"",
+     "portion": "1 ounce",
+     "kcal": 24,
+     "protein": 0.5,
+     "carbs": 5.7,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 1.2,
+     "sodium": 15.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pumpkin Puree",
+     "portion": "4 tablespoons",
+     "kcal": 21,
+     "protein": 0.5,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "6 each",
+     "kcal": 18,
+     "protein": 0.9,
+     "carbs": 4.0,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.7,
+     "sodium": 5.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/4 cup",
+     "kcal": 14,
+     "protein": 0.9,
+     "carbs": 2.8,
+     "fat": 0.2,
+     "satfat": 0.3,
+     "fiber": 1.3,
+     "sugar": 0.5,
+     "sodium": 16.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Organic Maple Syrup",
+     "portion": "1/8 tablespoon",
+     "kcal": 7,
+     "protein": 0.0,
+     "carbs": 1.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 0.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1/2 cup",
+     "kcal": 3,
+     "protein": 0.4,
+     "carbs": 0.5,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 0.3,
+     "sugar": 0.6,
+     "sodium": 11.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Juice, Lemon",
+     "portion": "1/4 tablespoon",
+     "kcal": 1,
+     "protein": 0.1,
+     "carbs": 0.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.9,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon, Sockeye, Wild Caught",
+    "Oil, Olive, Extra Virgin",
+    "Tahini",
+    "Cabbage, Red, Chopped",
+    "Sweet Potatoes, Medium, 5\"",
+    "Pumpkin Puree",
+    "Tomatoes, Cherry",
+    "Broccoli, Chopped, Steamed",
+    "Organic Maple Syrup",
+    "Spinach, Baby, Fresh",
+    "Juice, Lemon"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-25-4",
+   "name": "Chips, Tortilla, Scoops · Sourdough Round Bread · Tahini Sandwich Spread + 5 more",
+   "portion": "Afternoon Snacks · 8 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 552,
+   "protein": 14.1,
+   "carbs": 84.8,
+   "fat": 21.1,
+   "satfat": 3.8,
+   "fiber": 7.8,
+   "sugar": 11.0,
+   "sodium": 720.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "24 each",
+     "kcal": 258,
+     "protein": 3.7,
+     "carbs": 35.8,
+     "fat": 12.9,
+     "satfat": 1.9,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 221.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "2 slices",
+     "kcal": 140,
+     "protein": 5.0,
+     "carbs": 29.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 145.0
+    },
+    {
+     "name": "Tahini Sandwich Spread",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 70,
+     "protein": 2.2,
+     "carbs": 2.8,
+     "fat": 6.0,
+     "satfat": 0.8,
+     "fiber": 0.7,
+     "sugar": 0.3,
+     "sodium": 4.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Homemade Salsa",
+     "portion": "3/4 cup",
+     "kcal": 51,
+     "protein": 2.0,
+     "carbs": 11.4,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 2.4,
+     "sugar": 7.2,
+     "sodium": 335.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sweet Potatoes, Baked in Skin, Medium",
+     "portion": "1/2 ounce",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 2.9,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.9,
+     "sodium": 5.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Zucchini, Grilled w/ Oil",
+     "portion": "1/2 ounce",
+     "kcal": 8,
+     "protein": 0.3,
+     "carbs": 0.7,
+     "fat": 0.6,
+     "satfat": 0.9,
+     "fiber": 0.2,
+     "sugar": 0.8,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/8 cup",
+     "kcal": 7,
+     "protein": 0.5,
+     "carbs": 1.4,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 0.6,
+     "sugar": 0.3,
+     "sodium": 8.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pumpkin Puree",
+     "portion": "1 tablespoon",
+     "kcal": 5,
+     "protein": 0.1,
+     "carbs": 0.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, Scoops",
+    "Sourdough Round Bread",
+    "Tahini Sandwich Spread",
+    "Homemade Salsa",
+    "Sweet Potatoes, Baked in Skin, Medium",
+    "Zucchini, Grilled w/ Oil",
+    "Broccoli, Chopped, Steamed",
+    "Pumpkin Puree"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-25-5",
+   "name": "Slow Cooker Crack Chicken · Angel Rolls · Steamed Carrots",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 941,
+   "protein": 27.5,
+   "carbs": 27.9,
+   "fat": 68.3,
+   "satfat": 47.7,
+   "fiber": 20.0,
+   "sugar": 4.1,
+   "sodium": 1371.2,
+   "cholesterol": 205.8,
+   "components": [
+    {
+     "name": "Slow Cooker Crack Chicken",
+     "portion": "2 cups",
+     "kcal": 558,
+     "protein": 11.4,
+     "carbs": 4.9,
+     "fat": 38.3,
+     "satfat": 19.9,
+     "fiber": 0.0,
+     "sugar": 4.1,
+     "sodium": 947.2,
+     "cholesterol": 117.8
+    },
+    {
+     "name": "Angel Rolls",
+     "portion": "2 each",
+     "kcal": 368,
+     "protein": 16.0,
+     "carbs": 22.0,
+     "fat": 30.0,
+     "satfat": 27.8,
+     "fiber": 20.0,
+     "sugar": 0.0,
+     "sodium": 424.0,
+     "cholesterol": 88.0
+    },
+    {
+     "name": "Steamed Carrots",
+     "portion": "1/8 cup",
+     "kcal": 15,
+     "protein": 0.1,
+     "carbs": 1.0,
+     "fat": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Slow Cooker Crack Chicken",
+    "Angel Rolls",
+    "Steamed Carrots"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-25-6",
+   "name": "Pumpkin Roll",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 268,
+   "protein": 5.3,
+   "carbs": 36.1,
+   "fat": 11.6,
+   "satfat": 6.7,
+   "fiber": 0.7,
+   "sugar": 25.8,
+   "sodium": 423.6,
+   "cholesterol": 100.9,
+   "components": [
+    {
+     "name": "Pumpkin Roll",
+     "portion": "1 serving",
+     "kcal": 268,
+     "protein": 5.3,
+     "carbs": 36.1,
+     "fat": 11.6,
+     "satfat": 6.7,
+     "fiber": 0.7,
+     "sugar": 25.8,
+     "sodium": 423.6,
+     "cholesterol": 100.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Roll"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

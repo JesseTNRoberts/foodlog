@@ -1,0 +1,48 @@
+{
+ "date": "2026-02-10",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-02-10-1",
+   "name": "Berry Strata",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 247,
+   "protein": 12.6,
+   "carbs": 46.8,
+   "fat": 5.5,
+   "satfat": 1.6,
+   "fiber": 10.1,
+   "sugar": 19.3,
+   "sodium": 167.9,
+   "cholesterol": 112.5,
+   "components": [
+    {
+     "name": "Berry Strata",
+     "portion": "1 1/2 servings",
+     "kcal": 247,
+     "protein": 12.6,
+     "carbs": 46.8,
+     "fat": 5.5,
+     "satfat": 1.6,
+     "fiber": 10.1,
+     "sugar": 19.3,
+     "sodium": 167.9,
+     "cholesterol": 112.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Berry Strata"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

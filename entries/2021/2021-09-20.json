@@ -1,0 +1,76 @@
+{
+ "date": "2021-09-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-09-20-1",
+   "name": "Crunchy Natural Peanut Butter · Venti Iced Coffee, Oat milk · Bread, Thin Sliced, 21 Whole Grains & Seeds",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 575,
+   "protein": 20.5,
+   "carbs": 71.0,
+   "fat": 28.0,
+   "satfat": 6.7,
+   "fiber": 10.5,
+   "sugar": 45.5,
+   "sodium": 362.5,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Crunchy Natural Peanut Butter",
+     "portion": "3 tablespoons",
+     "kcal": 285,
+     "protein": 10.5,
+     "carbs": 12.0,
+     "fat": 24.0,
+     "satfat": 5.2,
+     "fiber": 4.5,
+     "sugar": 4.5,
+     "sodium": 97.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Venti Iced Coffee, Oat milk",
+     "portion": "1 serving",
+     "kcal": 170,
+     "protein": 4.0,
+     "carbs": 35.0,
+     "fat": 2.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 35.0,
+     "sodium": 65.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "2 slices",
+     "kcal": 120,
+     "protein": 6.0,
+     "carbs": 24.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 6.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crunchy Natural Peanut Butter",
+    "Venti Iced Coffee, Oat milk",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "date": "2022-01-22",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-01-22-1",
+   "name": "Bagel, Cinnamon Crunch · Coffee, Iced",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 430,
+   "protein": 10.0,
+   "carbs": 82.0,
+   "fat": 7.0,
+   "satfat": 4.5,
+   "fiber": 2.0,
+   "sugar": 32.0,
+   "sodium": 380.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bagel, Cinnamon Crunch",
+     "portion": "1 each",
+     "kcal": 430,
+     "protein": 10.0,
+     "carbs": 82.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 32.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Coffee, Iced",
+     "portion": "2 each",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bagel, Cinnamon Crunch",
+    "Coffee, Iced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-01-22-2",
+   "name": "A.M. Superfoods Bowl · Purple Haze · Seasoned Potatoes",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1323,
+   "protein": 29.0,
+   "carbs": 210.3,
+   "fat": 52.0,
+   "satfat": 16.0,
+   "fiber": 27.5,
+   "sugar": 106.5,
+   "sodium": 647.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "A.M. Superfoods Bowl",
+     "portion": "1 serving",
+     "kcal": 1080,
+     "protein": 27.0,
+     "carbs": 148.0,
+     "fat": 50.0,
+     "satfat": 16.0,
+     "fiber": 26.0,
+     "sugar": 66.0,
+     "sodium": 640.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Purple Haze",
+     "portion": "3/4 serving",
+     "kcal": 173,
+     "carbs": 45.8,
+     "fat": 0.0,
+     "sugar": 40.5,
+     "sodium": 7.5
+    },
+    {
+     "name": "Seasoned Potatoes",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 16.5,
+     "fat": 2.0,
+     "fiber": 1.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "A.M. Superfoods Bowl",
+    "Purple Haze",
+    "Seasoned Potatoes"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-01-22-3",
+   "name": "Avocado · Refried Black Beans · Salsa, Chunky, Mild + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 285,
+   "protein": 6.4,
+   "carbs": 27.3,
+   "fat": 20.1,
+   "satfat": 4.6,
+   "fiber": 12.1,
+   "sugar": 9.3,
+   "sodium": 1353.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado",
+     "portion": "1/2 each",
+     "kcal": 161,
+     "protein": 2.1,
+     "carbs": 8.6,
+     "fat": 14.7,
+     "satfat": 2.1,
+     "fiber": 6.7,
+     "sugar": 0.7,
+     "sodium": 7.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Refried Black Beans",
+     "portion": "71 grams",
+     "kcal": 44,
+     "protein": 3.3,
+     "carbs": 8.7,
+     "fat": 1.9,
+     "satfat": 0.0,
+     "fiber": 4.4,
+     "sugar": 0.6,
+     "sodium": 245.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "8 tablespoons",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 920.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Queso Style Dip",
+     "portion": "2 tablespoons",
+     "kcal": 40,
+     "protein": 1.0,
+     "carbs": 2.0,
+     "fat": 3.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado",
+    "Refried Black Beans",
+    "Salsa, Chunky, Mild",
+    "Plant Based Queso Style Dip"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

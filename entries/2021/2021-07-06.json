@@ -1,0 +1,109 @@
+{
+ "date": "2021-07-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-06-1",
+   "name": "Burger (King) Tuesday · Medium Dr. Pepper",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1537,
+   "protein": 6.6,
+   "carbs": 134.7,
+   "fat": 42.4,
+   "satfat": 6.7,
+   "fiber": 4.3,
+   "sugar": 77.8,
+   "sodium": 1855.9,
+   "cholesterol": 7.4,
+   "components": [
+    {
+     "name": "Burger (King) Tuesday",
+     "portion": "2 servings",
+     "kcal": 1350,
+     "protein": 6.6,
+     "carbs": 83.3,
+     "fat": 42.4,
+     "satfat": 6.7,
+     "fiber": 4.3,
+     "sugar": 26.4,
+     "sodium": 1809.2,
+     "cholesterol": 7.4
+    },
+    {
+     "name": "Medium Dr. Pepper",
+     "portion": "2/3 serving",
+     "kcal": 187,
+     "protein": 0.0,
+     "carbs": 51.4,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "sugar": 51.4,
+     "sodium": 46.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger (King) Tuesday",
+    "Medium Dr. Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-06-2",
+   "name": "Burger King impossible whopper · Veggie Pizza (No Cheese)",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 490,
+   "protein": 1.0,
+   "carbs": 6.3,
+   "fat": 1.8,
+   "satfat": 0.0,
+   "fiber": 0.3,
+   "sugar": 0.7,
+   "sodium": 125.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Burger King impossible whopper",
+     "portion": "1/2 serving",
+     "kcal": 315
+    },
+    {
+     "name": "Veggie Pizza (No Cheese)",
+     "portion": "1 slice",
+     "kcal": 175,
+     "protein": 1.0,
+     "carbs": 6.3,
+     "fat": 1.8,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger King impossible whopper",
+    "Veggie Pizza (No Cheese)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

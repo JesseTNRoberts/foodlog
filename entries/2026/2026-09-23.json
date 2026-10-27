@@ -1,0 +1,309 @@
+{
+ "date": "2026-09-23",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-09-23-1",
+   "name": "Christiana Campbell's Tavern's Sweet Potato Muffins",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 198,
+   "protein": 2.5,
+   "carbs": 29.4,
+   "fat": 7.7,
+   "satfat": 1.2,
+   "fiber": 0.8,
+   "sugar": 19.3,
+   "sodium": 119.4,
+   "cholesterol": 20.6,
+   "components": [
+    {
+     "name": "Christiana Campbell's Tavern's Sweet Potato Muffins",
+     "portion": "1 serving",
+     "kcal": 198,
+     "protein": 2.5,
+     "carbs": 29.4,
+     "fat": 7.7,
+     "satfat": 1.2,
+     "fiber": 0.8,
+     "sugar": 19.3,
+     "sodium": 119.4,
+     "cholesterol": 20.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Christiana Campbell's Tavern's Sweet Potato Muffins"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-23-2",
+   "name": "Pork Tenderloin, Cooked · Tahini · Blueberries + 6 more",
+   "portion": "Lunch · 9 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 409,
+   "protein": 36.1,
+   "carbs": 38.9,
+   "fat": 13.1,
+   "satfat": 3.3,
+   "fiber": 6.3,
+   "sugar": 24.2,
+   "sodium": 240.9,
+   "cholesterol": 82.8,
+   "components": [
+    {
+     "name": "Pork Tenderloin, Cooked",
+     "portion": "4 ounces",
+     "kcal": 167,
+     "protein": 29.5,
+     "carbs": 0.0,
+     "fat": 4.5,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 64.6,
+     "cholesterol": 82.8
+    },
+    {
+     "name": "Tahini",
+     "portion": "1 tablespoon",
+     "kcal": 89,
+     "protein": 2.6,
+     "carbs": 3.2,
+     "fat": 8.0,
+     "satfat": 1.1,
+     "fiber": 0.7,
+     "sugar": 0.0,
+     "sodium": 5.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Honey, Amber",
+     "portion": "1/2 tablespoon",
+     "kcal": 32,
+     "protein": 0.3,
+     "carbs": 8.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 8.6,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Organic Maple Syrup",
+     "portion": "1/2 tablespoon",
+     "kcal": 28,
+     "protein": 0.0,
+     "carbs": 6.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 27,
+     "protein": 1.9,
+     "carbs": 5.6,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.6,
+     "sugar": 1.8,
+     "sodium": 32.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Stone Ground Mustard",
+     "portion": "1/2 tablespoon",
+     "kcal": 15,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 0.0,
+     "sodium": 112.5
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Juice, Lemon",
+     "portion": "1/2 tablespoon",
+     "kcal": 2,
+     "protein": 0.3,
+     "carbs": 0.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.2,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pork Tenderloin, Cooked",
+    "Tahini",
+    "Blueberries",
+    "Honey, Amber",
+    "Organic Maple Syrup",
+    "Broccoli, Chopped, Steamed",
+    "Stone Ground Mustard",
+    "Spinach, Baby, Fresh",
+    "Juice, Lemon"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-23-3",
+   "name": "Cuties",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 80,
+   "protein": 1.0,
+   "carbs": 17.0,
+   "fat": 0.5,
+   "satfat": 0.0,
+   "fiber": 4.0,
+   "sugar": 13.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cuties",
+     "portion": "2 each",
+     "kcal": 80,
+     "protein": 1.0,
+     "carbs": 17.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 13.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cuties"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-23-4",
+   "name": "Pumpkin Roll · Spicy Vegetable Soup · Southern Buttermilk Cornbread",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 964,
+   "protein": 25.1,
+   "carbs": 137.7,
+   "fat": 32.1,
+   "satfat": 13.7,
+   "fiber": 10.5,
+   "sugar": 60.0,
+   "sodium": 1760.8,
+   "cholesterol": 230.9,
+   "components": [
+    {
+     "name": "Pumpkin Roll",
+     "portion": "2 servings",
+     "kcal": 536,
+     "protein": 10.7,
+     "carbs": 72.2,
+     "fat": 23.2,
+     "satfat": 12.1,
+     "fiber": 1.4,
+     "sugar": 51.6,
+     "sodium": 847.3,
+     "cholesterol": 201.9
+    },
+    {
+     "name": "Spicy Vegetable Soup",
+     "portion": "2 cups",
+     "kcal": 288,
+     "protein": 11.7,
+     "carbs": 52.8,
+     "fat": 4.9,
+     "satfat": 0.9,
+     "fiber": 8.4,
+     "sugar": 8.4,
+     "sodium": 666.7,
+     "cholesterol": 5.7
+    },
+    {
+     "name": "Southern Buttermilk Cornbread",
+     "portion": "2/3 piece",
+     "kcal": 140,
+     "protein": 2.7,
+     "carbs": 12.7,
+     "fat": 4.0,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sodium": 246.8,
+     "cholesterol": 23.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Roll",
+    "Spicy Vegetable Soup",
+    "Southern Buttermilk Cornbread"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

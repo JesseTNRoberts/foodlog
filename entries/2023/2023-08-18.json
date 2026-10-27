@@ -1,0 +1,401 @@
+{
+ "date": "2023-08-18",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-18-1",
+   "name": "Vegan Pizza Rolls",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 380,
+   "protein": 8.0,
+   "carbs": 52.0,
+   "fat": 16.0,
+   "satfat": 9.0,
+   "fiber": 2.0,
+   "sugar": 4.0,
+   "sodium": 900.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegan Pizza Rolls",
+     "portion": "12 pieces",
+     "kcal": 380,
+     "protein": 8.0,
+     "carbs": 52.0,
+     "fat": 16.0,
+     "satfat": 9.0,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 900.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Pizza Rolls"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-18-2",
+   "name": "Snack, Crunchy, Cheese-Less, Puffs · Oat Milk Ranch Dressing · Peach, Medium + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 307,
+   "protein": 7.2,
+   "carbs": 41.5,
+   "fat": 13.7,
+   "satfat": 2.1,
+   "fiber": 8.8,
+   "sugar": 23.0,
+   "sodium": 403.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 270.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Peach, Medium",
+     "portion": "1 each",
+     "kcal": 59,
+     "protein": 1.4,
+     "carbs": 14.3,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 2.2,
+     "sugar": 12.6,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cucumber, Medium",
+     "portion": "1 each",
+     "kcal": 42,
+     "protein": 1.8,
+     "carbs": 10.1,
+     "fat": 0.3,
+     "satfat": 0.8,
+     "fiber": 1.4,
+     "sugar": 4.7,
+     "sodium": 5.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grape Tomatos",
+     "portion": "20 each",
+     "kcal": 28,
+     "protein": 1.4,
+     "carbs": 6.9,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 1.9,
+     "sugar": 4.9,
+     "sodium": 7.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Veggie Pizza (No Cheese)",
+     "portion": "1/8 slice",
+     "kcal": 22,
+     "protein": 0.1,
+     "carbs": 0.8,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 0.8,
+     "sodium": 15.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Snack, Crunchy, Cheese-Less, Puffs",
+    "Oat Milk Ranch Dressing",
+    "Peach, Medium",
+    "Cucumber, Medium",
+    "Grape Tomatos",
+    "Veggie Pizza (No Cheese)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-18-3",
+   "name": "Chocolate Chip Crunchy Cookie · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 268,
+   "protein": 11.7,
+   "carbs": 27.5,
+   "fat": 11.6,
+   "satfat": 2.5,
+   "fiber": 4.8,
+   "sugar": 10.3,
+   "sodium": 323.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "4 pieces",
+     "kcal": 107,
+     "protein": 4.0,
+     "carbs": 9.3,
+     "fat": 5.3,
+     "satfat": 2.3,
+     "fiber": 2.7,
+     "sugar": 5.3,
+     "sodium": 86.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/2 cup",
+     "kcal": 80,
+     "protein": 1.3,
+     "carbs": 15.3,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 4.0,
+     "sodium": 80.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0
+    },
+    {
+     "name": "Protein Chips Nacho Cheese",
+     "portion": "4 grams",
+     "kcal": 16,
+     "protein": 1.4,
+     "carbs": 1.4,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.0,
+     "sodium": 46.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Protein Chips Nacho Cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-18-4",
+   "name": "Breaded Salmon Bites · Corn Bread Muffin · Soup, Vegetable Garden + 4 more",
+   "portion": "Dinner · 7 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 858,
+   "protein": 23.6,
+   "carbs": 78.6,
+   "fat": 22.8,
+   "satfat": 7.3,
+   "fiber": 9.5,
+   "sugar": 16.3,
+   "sodium": 1267.2,
+   "cholesterol": 36.7,
+   "components": [
+    {
+     "name": "Breaded Salmon Bites",
+     "portion": "3 pieces",
+     "kcal": 225,
+     "protein": 12.8,
+     "carbs": 14.2,
+     "fat": 12.8,
+     "satfat": 5.2,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 277.5,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Corn Bread Muffin",
+     "portion": "2 servings",
+     "kcal": 220
+    },
+    {
+     "name": "Soup, Vegetable Garden",
+     "portion": "9 fluid ounces",
+     "kcal": 141,
+     "protein": 5.9,
+     "carbs": 27.8,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 5.3,
+     "sugar": 5.9,
+     "sodium": 539.7,
+     "cholesterol": 2.8
+    },
+    {
+     "name": "Biscuit, Small",
+     "portion": "1 each",
+     "kcal": 128,
+     "protein": 2.2,
+     "carbs": 17.0,
+     "fat": 5.8,
+     "satfat": 0.9,
+     "fiber": 0.5,
+     "sugar": 1.2,
+     "sodium": 368.2,
+     "cholesterol": 0.3
+    },
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/8 serving",
+     "kcal": 65,
+     "protein": 2.0,
+     "carbs": 8.8,
+     "fat": 2.4,
+     "satfat": 0.9,
+     "fiber": 1.2,
+     "sugar": 1.9,
+     "sodium": 75.2,
+     "cholesterol": 3.6
+    },
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1/4 cup",
+     "kcal": 44,
+     "protein": 0.7,
+     "carbs": 7.8,
+     "fat": 1.2,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.3,
+     "sodium": 1.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apples Canned",
+     "portion": "1/2 serving",
+     "kcal": 35,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "fiber": 1.0,
+     "sugar": 7.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Breaded Salmon Bites",
+    "Corn Bread Muffin",
+    "Soup, Vegetable Garden",
+    "Biscuit, Small",
+    "Crawfish Creole Pasta",
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Apples Canned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-18-5",
+   "name": "Soda, Dr. Pepper",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 125,
+   "protein": 0.0,
+   "carbs": 33.3,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 33.3,
+   "sodium": 45.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "10 fluid ounces",
+     "kcal": 125,
+     "protein": 0.0,
+     "carbs": 33.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 33.3,
+     "sodium": 45.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soda, Dr. Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

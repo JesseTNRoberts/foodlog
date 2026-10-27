@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-09-27-1",
+   "name": "French Toast, Cinnamon Sticks · Syrup, Maple · Apple, Medium",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 895,
+   "protein": 13.7,
+   "carbs": 140.5,
+   "fat": 32.4,
+   "satfat": 6.2,
+   "fiber": 6.7,
+   "sugar": 67.1,
+   "sodium": 747.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "French Toast, Cinnamon Sticks",
+     "portion": "9 pieces",
+     "kcal": 743,
+     "protein": 13.5,
+     "carbs": 101.2,
+     "fat": 31.5,
+     "satfat": 5.6,
+     "fiber": 4.5,
+     "sugar": 33.8,
+     "sodium": 742.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "1/8 cup",
+     "kcal": 104,
+     "protein": 0.0,
+     "carbs": 26.8,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sugar": 23.8,
+     "sodium": 3.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple, Medium",
+     "portion": "1/2 each",
+     "kcal": 48,
+     "protein": 0.2,
+     "carbs": 12.5,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 2.2,
+     "sugar": 9.5,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast, Cinnamon Sticks",
+    "Syrup, Maple",
+    "Apple, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-27-2",
+   "name": "Lasagna, Homemade With Meat · Squash, Acorn, Mashed, Cooked · Broccoli, Chopped, Steamed + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 286,
+   "protein": 14.5,
+   "carbs": 43.2,
+   "fat": 8.8,
+   "satfat": 4.2,
+   "fiber": 9.5,
+   "sugar": 8.6,
+   "sodium": 601.2,
+   "cholesterol": 24.9,
+   "components": [
+    {
+     "name": "Lasagna, Homemade With Meat",
+     "portion": "5 ounces",
+     "kcal": 199,
+     "protein": 11.0,
+     "carbs": 22.6,
+     "fat": 7.5,
+     "satfat": 3.5,
+     "fiber": 2.5,
+     "sugar": 4.6,
+     "sodium": 550.2,
+     "cholesterol": 24.9
+    },
+    {
+     "name": "Squash, Acorn, Mashed, Cooked",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.8,
+     "carbs": 10.8,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 3.2,
+     "sugar": 0.0,
+     "sodium": 3.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 27,
+     "protein": 1.9,
+     "carbs": 5.6,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.6,
+     "sugar": 1.8,
+     "sodium": 32.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cabbage, Red, Chopped",
+     "portion": "2 ounces",
+     "kcal": 18,
+     "protein": 0.8,
+     "carbs": 4.2,
+     "fat": 0.9,
+     "satfat": 0.1,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 15.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Lasagna, Homemade With Meat",
+    "Squash, Acorn, Mashed, Cooked",
+    "Broccoli, Chopped, Steamed",
+    "Cabbage, Red, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-27-3",
+   "name": "Pumpkin Bread · Lasagna, Homemade With Meat · Squash, Acorn, Mashed, Cooked + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 612,
+   "protein": 18.8,
+   "carbs": 92.2,
+   "fat": 21.6,
+   "satfat": 6.6,
+   "fiber": 10.8,
+   "sugar": 33.1,
+   "sodium": 884.0,
+   "cholesterol": 64.5,
+   "components": [
+    {
+     "name": "Pumpkin Bread",
+     "portion": "1 1/2 servings",
+     "kcal": 326,
+     "protein": 4.3,
+     "carbs": 49.0,
+     "fat": 12.8,
+     "satfat": 2.4,
+     "fiber": 1.3,
+     "sugar": 24.5,
+     "sodium": 282.8,
+     "cholesterol": 39.6
+    },
+    {
+     "name": "Lasagna, Homemade With Meat",
+     "portion": "5 ounces",
+     "kcal": 199,
+     "protein": 11.0,
+     "carbs": 22.6,
+     "fat": 7.5,
+     "satfat": 3.5,
+     "fiber": 2.5,
+     "sugar": 4.6,
+     "sodium": 550.2,
+     "cholesterol": 24.9
+    },
+    {
+     "name": "Squash, Acorn, Mashed, Cooked",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.8,
+     "carbs": 10.8,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 3.2,
+     "sugar": 0.0,
+     "sodium": 3.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 27,
+     "protein": 1.9,
+     "carbs": 5.6,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.6,
+     "sugar": 1.8,
+     "sodium": 32.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cabbage, Red, Chopped",
+     "portion": "2 ounces",
+     "kcal": 18,
+     "protein": 0.8,
+     "carbs": 4.2,
+     "fat": 0.9,
+     "satfat": 0.1,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 15.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Bread",
+    "Lasagna, Homemade With Meat",
+    "Squash, Acorn, Mashed, Cooked",
+    "Broccoli, Chopped, Steamed",
+    "Cabbage, Red, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-27-4",
+   "name": "Thin Dipped Almonds, Double Dark Chocolate",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 134,
+   "protein": 4.0,
+   "carbs": 8.8,
+   "fat": 12.4,
+   "satfat": 2.2,
+   "fiber": 2.4,
+   "sugar": 4.4,
+   "sodium": 53.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Thin Dipped Almonds, Double Dark Chocolate",
+     "portion": "15 pieces",
+     "kcal": 134,
+     "protein": 4.0,
+     "carbs": 8.8,
+     "fat": 12.4,
+     "satfat": 2.2,
+     "fiber": 2.4,
+     "sugar": 4.4,
+     "sodium": 53.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Thin Dipped Almonds, Double Dark Chocolate"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

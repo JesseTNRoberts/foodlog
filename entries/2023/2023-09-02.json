@@ -1,0 +1,48 @@
+{
+ "date": "2023-09-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-02-1",
+   "name": "Apple Stack Cake",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 3105,
+   "protein": 9.0,
+   "carbs": 540.0,
+   "fat": 90.0,
+   "satfat": 27.0,
+   "fiber": 9.0,
+   "sugar": 360.0,
+   "sodium": 2034.0,
+   "cholesterol": 387.0,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "9 servings",
+     "kcal": 3105,
+     "protein": 9.0,
+     "carbs": 540.0,
+     "fat": 90.0,
+     "satfat": 27.0,
+     "fiber": 9.0,
+     "sugar": 360.0,
+     "sodium": 2034.0,
+     "cholesterol": 387.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

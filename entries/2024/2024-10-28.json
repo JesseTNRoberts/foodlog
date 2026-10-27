@@ -1,0 +1,422 @@
+{
+ "date": "2024-10-28",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-10-28-1",
+   "name": "Almond Butter, Raw · Milk, Fat Free, Ultra-Filtered · Bread, Thin Sliced, 21 Whole Grains & Seeds + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 404,
+   "protein": 24.2,
+   "carbs": 41.1,
+   "fat": 17.8,
+   "satfat": 1.3,
+   "fiber": 13.6,
+   "sugar": 20.2,
+   "sodium": 219.2,
+   "cholesterol": 4.9,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1 cup",
+     "kcal": 79,
+     "protein": 12.8,
+     "carbs": 5.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.9,
+     "sodium": 118.3,
+     "cholesterol": 4.9
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "4 tablespoons",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 3.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Chia Seeds",
+    "Blueberries",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-28-2",
+   "name": "Pepperoni Pizza, Medium",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 105,
+   "protein": 5.0,
+   "carbs": 14.0,
+   "fat": 3.5,
+   "satfat": 1.5,
+   "fiber": 0.5,
+   "sugar": 1.0,
+   "sodium": 260.0,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Pepperoni Pizza, Medium",
+     "portion": "1 slice",
+     "kcal": 105,
+     "protein": 5.0,
+     "carbs": 14.0,
+     "fat": 3.5,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 260.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pepperoni Pizza, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-28-3",
+   "name": "Oven Roasted Broccoli with Olive Oil · Pork Chop, Cooked · Yellow Potatoes, Sautéed w/ Oil + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 601,
+   "protein": 37.8,
+   "carbs": 50.5,
+   "fat": 30.5,
+   "satfat": 5.9,
+   "fiber": 11.0,
+   "sugar": 12.5,
+   "sodium": 126.5,
+   "cholesterol": 77.4,
+   "components": [
+    {
+     "name": "Oven Roasted Broccoli with Olive Oil",
+     "portion": "1 cup",
+     "kcal": 180,
+     "protein": 6.0,
+     "carbs": 12.0,
+     "fat": 14.0,
+     "satfat": 2.0,
+     "fiber": 6.0,
+     "sugar": 4.0,
+     "sodium": 60.0
+    },
+    {
+     "name": "Pork Chop, Cooked",
+     "portion": "3 ounces",
+     "kcal": 177,
+     "protein": 26.0,
+     "carbs": 0.0,
+     "fat": 7.3,
+     "satfat": 2.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 47.6,
+     "cholesterol": 77.4
+    },
+    {
+     "name": "Yellow Potatoes, Sautéed w/ Oil",
+     "portion": "2 servings",
+     "kcal": 176,
+     "protein": 2.9,
+     "carbs": 31.4,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 1.4,
+     "sodium": 6.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach And Cherry Tomatoes - Sautéed",
+     "portion": "1 serving",
+     "kcal": 35,
+     "protein": 0.4,
+     "carbs": 1.1,
+     "fat": 3.6,
+     "satfat": 0.5,
+     "sugar": 0.5,
+     "sodium": 6.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Squash, Zucchini, Slices, Steamed",
+     "portion": "1 cup",
+     "kcal": 33,
+     "protein": 2.5,
+     "carbs": 6.0,
+     "fat": 0.8,
+     "satfat": 0.2,
+     "fiber": 2.2,
+     "sugar": 6.6,
+     "sodium": 6.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oven Roasted Broccoli with Olive Oil",
+    "Pork Chop, Cooked",
+    "Yellow Potatoes, Sautéed w/ Oil",
+    "Spinach And Cherry Tomatoes - Sautéed",
+    "Squash, Zucchini, Slices, Steamed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-28-4",
+   "name": "Snack, Multigrain, Garden Salsa · Pepperoni Pizza, Medium · Hummus, Original (2T = 30g) + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 398,
+   "protein": 10.6,
+   "carbs": 47.0,
+   "fat": 19.3,
+   "satfat": 3.1,
+   "fiber": 2.9,
+   "sugar": 4.6,
+   "sodium": 677.2,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Snack, Multigrain, Garden Salsa",
+     "portion": "1 ounce",
+     "kcal": 142,
+     "protein": 2.2,
+     "carbs": 19.2,
+     "fat": 6.7,
+     "satfat": 1.1,
+     "fiber": 2.2,
+     "sugar": 2.2,
+     "sodium": 162.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pepperoni Pizza, Medium",
+     "portion": "1 slice",
+     "kcal": 105,
+     "protein": 5.0,
+     "carbs": 14.0,
+     "fat": 3.5,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 260.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Hummus, Original (2T = 30g)",
+     "portion": "1 ounce",
+     "kcal": 85,
+     "protein": 1.9,
+     "carbs": 4.7,
+     "fat": 6.6,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.9,
+     "sodium": 113.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "1/2 ounce",
+     "kcal": 66,
+     "protein": 1.5,
+     "carbs": 9.1,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 141.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Snack, Multigrain, Garden Salsa",
+    "Pepperoni Pizza, Medium",
+    "Hummus, Original (2T = 30g)",
+    "Pita Chips, Fire Roasted Jalapeno"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-28-5",
+   "name": "Spring roll · Hibachi Vegetables · Back Strap + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 471,
+   "protein": 32.0,
+   "carbs": 65.5,
+   "fat": 19.7,
+   "satfat": 2.0,
+   "fiber": 3.5,
+   "sugar": 0.0,
+   "sodium": 855.0,
+   "cholesterol": 66.0,
+   "components": [
+    {
+     "name": "Spring roll",
+     "portion": "1 serving",
+     "kcal": 140,
+     "protein": 1.0,
+     "carbs": 9.0,
+     "fat": 11.0,
+     "satfat": 1.5,
+     "fiber": 1.0,
+     "sodium": 210.0
+    },
+    {
+     "name": "Hibachi Vegetables",
+     "portion": "1/2 serving",
+     "kcal": 130,
+     "protein": 2.0,
+     "carbs": 32.5,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Back Strap",
+     "portion": "3 ounces",
+     "kcal": 128,
+     "protein": 25.5,
+     "carbs": 0.0,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 405.0,
+     "cholesterol": 66.0
+    },
+    {
+     "name": "FrIed Rice",
+     "portion": "1/2 serving",
+     "kcal": 73,
+     "protein": 3.5,
+     "carbs": 24.0,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spring roll",
+    "Hibachi Vegetables",
+    "Back Strap",
+    "FrIed Rice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

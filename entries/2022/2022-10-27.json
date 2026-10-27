@@ -1,0 +1,312 @@
+{
+ "date": "2022-10-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-10-27-1",
+   "name": "Chips, Tortilla, Restaurant Style, Original · Hatch Queso",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 560,
+   "protein": 10.3,
+   "carbs": 65.7,
+   "fat": 31.0,
+   "satfat": 4.1,
+   "fiber": 3.1,
+   "sugar": 2.0,
+   "sodium": 661.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Tortilla, Restaurant Style, Original",
+     "portion": "22 each",
+     "kcal": 440,
+     "protein": 6.3,
+     "carbs": 59.7,
+     "fat": 22.0,
+     "satfat": 3.1,
+     "fiber": 3.1,
+     "sugar": 0.0,
+     "sodium": 361.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hatch Queso",
+     "portion": "4 tablespoons",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 6.0,
+     "fat": 9.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, Restaurant Style, Original",
+    "Hatch Queso"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-10-27-2",
+   "name": "Pasta With Marinara · Garlic Knots · Dr. Pepper + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 632,
+   "protein": 23.4,
+   "carbs": 100.4,
+   "fat": 16.4,
+   "satfat": 5.4,
+   "fiber": 10.1,
+   "sugar": 11.7,
+   "sodium": 1364.5,
+   "cholesterol": 14.2,
+   "components": [
+    {
+     "name": "Pasta With Marinara",
+     "portion": "3 cups",
+     "kcal": 200,
+     "protein": 12.0,
+     "carbs": 70.0,
+     "fat": 2.0,
+     "satfat": 0.9,
+     "fiber": 6.0,
+     "sugar": 7.0,
+     "sodium": 784.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Garlic Knots",
+     "portion": "1 1/2 each",
+     "kcal": 176,
+     "protein": 6.0,
+     "carbs": 25.0,
+     "fat": 6.0,
+     "satfat": 2.7,
+     "fiber": 1.4,
+     "sugar": 1.4,
+     "sodium": 377.6,
+     "cholesterol": 5.4
+    },
+    {
+     "name": "Dr. Pepper",
+     "portion": "1/2 serving",
+     "kcal": 145
+    },
+    {
+     "name": "Sauteed veggies, w/ oil",
+     "portion": "1 cup",
+     "kcal": 68,
+     "protein": 2.4,
+     "carbs": 5.3,
+     "fat": 5.1,
+     "satfat": 0.7,
+     "fiber": 2.7,
+     "sugar": 3.3,
+     "sodium": 18.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bacon, Cooked",
+     "portion": "1 piece",
+     "kcal": 43,
+     "protein": 3.0,
+     "carbs": 0.1,
+     "fat": 3.3,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 184.8,
+     "cholesterol": 8.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pasta With Marinara",
+    "Garlic Knots",
+    "Dr. Pepper",
+    "Sauteed veggies, w/ oil",
+    "Bacon, Cooked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-10-27-3",
+   "name": "Plant-based Ranch Dressing · Justin's Dark Chocolate Peanut Butter Cups (singles) · Homestyle Croutons Caesar + 7 more",
+   "portion": "Afternoon Snacks · 10 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1072,
+   "protein": 37.5,
+   "carbs": 102.0,
+   "fat": 59.3,
+   "satfat": 10.8,
+   "fiber": 12.9,
+   "sugar": 47.3,
+   "sodium": 2343.5,
+   "cholesterol": 30.4,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "5 tablespoons",
+     "kcal": 275,
+     "protein": 0.0,
+     "carbs": 7.5,
+     "fat": 27.5,
+     "satfat": 2.5,
+     "sugar": 2.5,
+     "sodium": 750.0
+    },
+    {
+     "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+     "portion": "2 servings",
+     "kcal": 210,
+     "protein": 4.0,
+     "carbs": 21.0,
+     "fat": 14.0,
+     "fiber": 1.0,
+     "sugar": 17.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "11 tablespoons",
+     "kcal": 165,
+     "protein": 5.5,
+     "carbs": 27.5,
+     "fat": 5.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 412.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "2 slices",
+     "kcal": 120,
+     "protein": 6.0,
+     "carbs": 24.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 6.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/8 pound",
+     "kcal": 71,
+     "protein": 14.2,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 20.2,
+     "sodium": 445.5,
+     "cholesterol": 30.4
+    },
+    {
+     "name": "Salad, mixed greens",
+     "portion": "2 cups",
+     "kcal": 67,
+     "protein": 1.3,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "fiber": 1.3,
+     "sodium": 20.0
+    },
+    {
+     "name": "American Style Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 190.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "6 cups",
+     "kcal": 41,
+     "protein": 5.2,
+     "carbs": 6.5,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 4.0,
+     "sugar": 0.8,
+     "sodium": 142.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "2 cups",
+     "kcal": 10,
+     "protein": 1.3,
+     "carbs": 1.5,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 0.6,
+     "sugar": 0.8,
+     "sodium": 10.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+    "Homestyle Croutons Caesar",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Turkey Breast, Maple Glazed Honey",
+    "Salad, mixed greens",
+    "American Style Slices",
+    "vegan cheese",
+    "Spinach, Baby, Fresh",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

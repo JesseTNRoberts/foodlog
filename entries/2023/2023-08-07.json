@@ -1,0 +1,299 @@
+{
+ "date": "2023-08-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-07-1",
+   "name": "Side, Hashbrown Casserole · French Toast, Cinnamon Sticks · Syrup, Maple",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 228,
+   "protein": 5.4,
+   "carbs": 30.7,
+   "fat": 9.3,
+   "satfat": 2.7,
+   "fiber": 1.9,
+   "sugar": 5.7,
+   "sodium": 360.7,
+   "cholesterol": 7.5,
+   "components": [
+    {
+     "name": "Side, Hashbrown Casserole",
+     "portion": "3/4 serving",
+     "kcal": 143,
+     "protein": 3.8,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 2.2,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 262.5,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "French Toast, Cinnamon Sticks",
+     "portion": "1 stick",
+     "kcal": 78,
+     "protein": 1.6,
+     "carbs": 11.0,
+     "fat": 3.2,
+     "satfat": 0.5,
+     "fiber": 0.4,
+     "sugar": 4.2,
+     "sodium": 98.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "1/8 tablespoon",
+     "kcal": 7,
+     "protein": 0.0,
+     "carbs": 1.7,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Hashbrown Casserole",
+    "French Toast, Cinnamon Sticks",
+    "Syrup, Maple"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-07-2",
+   "name": "Crawfish Creole Pasta · Hushpuppies",
+   "portion": "Morning Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 610,
+   "protein": 17.2,
+   "carbs": 82.8,
+   "fat": 23.9,
+   "satfat": 7.8,
+   "fiber": 10.1,
+   "sugar": 16.9,
+   "sodium": 908.1,
+   "cholesterol": 32.1,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 517,
+     "protein": 15.9,
+     "carbs": 70.1,
+     "fat": 19.2,
+     "satfat": 7.1,
+     "fiber": 9.4,
+     "sugar": 15.6,
+     "sodium": 601.4,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "2 pieces",
+     "kcal": 93,
+     "protein": 1.3,
+     "carbs": 12.7,
+     "fat": 4.7,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 306.7,
+     "cholesterol": 3.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Hushpuppies"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-07-3",
+   "name": "Chocolate Chip Crunchy Cookie",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 53,
+   "protein": 2.0,
+   "carbs": 4.7,
+   "fat": 2.7,
+   "satfat": 1.2,
+   "fiber": 1.3,
+   "sugar": 2.7,
+   "sodium": 43.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "2 pieces",
+     "kcal": 53,
+     "protein": 2.0,
+     "carbs": 4.7,
+     "fat": 2.7,
+     "satfat": 1.2,
+     "fiber": 1.3,
+     "sugar": 2.7,
+     "sodium": 43.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-07-4",
+   "name": "Vegetable Quinoa Soup · Red Potatoes, Roasted w/ Oil · Pork Tenderloin, Chop, Baked",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 512,
+   "protein": 20.6,
+   "carbs": 37.1,
+   "fat": 9.7,
+   "satfat": 1.9,
+   "fiber": 5.1,
+   "sugar": 3.8,
+   "sodium": 443.8,
+   "cholesterol": 47.0,
+   "components": [
+    {
+     "name": "Vegetable Quinoa Soup",
+     "portion": "1 1/2 cups",
+     "kcal": 263,
+     "protein": 3.0,
+     "carbs": 14.2,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 2.2,
+     "sodium": 397.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Red Potatoes, Roasted w/ Oil",
+     "portion": "3/4 cup",
+     "kcal": 134,
+     "protein": 2.7,
+     "carbs": 22.9,
+     "fat": 3.7,
+     "satfat": 0.5,
+     "fiber": 2.1,
+     "sugar": 1.6,
+     "sodium": 14.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pork Tenderloin, Chop, Baked",
+     "portion": "3 ounces",
+     "kcal": 115,
+     "protein": 14.9,
+     "carbs": 0.0,
+     "fat": 4.5,
+     "satfat": 1.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 32.0,
+     "cholesterol": 47.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegetable Quinoa Soup",
+    "Red Potatoes, Roasted w/ Oil",
+    "Pork Tenderloin, Chop, Baked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-07-5",
+   "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 194,
+   "protein": 8.5,
+   "carbs": 22.4,
+   "fat": 7.5,
+   "satfat": 0.3,
+   "fiber": 2.5,
+   "sugar": 6.6,
+   "sodium": 253.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "2/3 cup",
+     "kcal": 107,
+     "protein": 1.8,
+     "carbs": 20.4,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 5.3,
+     "sodium": 106.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "2/3 cup",
+     "kcal": 87,
+     "protein": 6.7,
+     "carbs": 2.0,
+     "fat": 5.3,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 146.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

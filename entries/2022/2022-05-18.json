@@ -1,0 +1,216 @@
+{
+ "date": "2022-05-18",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-18-1",
+   "name": "Spicy Chicken Biscuit · Dr Pepper Medium · Oatly Barista",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 701,
+   "protein": 17.2,
+   "carbs": 105.7,
+   "fat": 24.5,
+   "satfat": 8.3,
+   "fiber": 2.9,
+   "sugar": 58.7,
+   "sodium": 1260.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Biscuit",
+     "portion": "1 serving",
+     "kcal": 450,
+     "protein": 16.0,
+     "carbs": 50.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1260.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oatly Barista",
+     "portion": "1/2 cup",
+     "kcal": 71,
+     "protein": 1.2,
+     "carbs": 7.7,
+     "fat": 3.5,
+     "satfat": 0.3,
+     "fiber": 0.9,
+     "sugar": 4.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Biscuit",
+    "Dr Pepper Medium",
+    "Oatly Barista"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-18-2",
+   "name": "Roll · Side Salad with Honey Mustard · Hashbrowns + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1088,
+   "protein": 0,
+   "carbs": 35.0,
+   "fat": 8.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Roll",
+     "portion": "3 servings",
+     "kcal": 330
+    },
+    {
+     "name": "Side Salad with Honey Mustard",
+     "portion": "2 servings",
+     "kcal": 300
+    },
+    {
+     "name": "Hashbrowns",
+     "portion": "1 serving",
+     "kcal": 170,
+     "carbs": 35.0,
+     "fat": 8.0
+    },
+    {
+     "name": "Side Salad with Honey Mustard",
+     "portion": "1 serving",
+     "kcal": 150
+    },
+    {
+     "name": "Chicken Sandwich",
+     "portion": "1/4 serving",
+     "kcal": 138
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Roll",
+    "Side Salad with Honey Mustard",
+    "Hashbrowns",
+    "Side Salad with Honey Mustard",
+    "Chicken Sandwich"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-18-3",
+   "name": "Avocado, Small · Lärabar, Peanut Butter Chocolate Chip · Oatly Barista + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 527,
+   "protein": 10.8,
+   "carbs": 47.4,
+   "fat": 35.5,
+   "satfat": 6.2,
+   "fiber": 14.0,
+   "sugar": 24.6,
+   "sodium": 335.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Small",
+     "portion": "1 each",
+     "kcal": 227,
+     "protein": 2.7,
+     "carbs": 11.8,
+     "fat": 21.0,
+     "satfat": 2.9,
+     "fiber": 9.2,
+     "sugar": 0.4,
+     "sodium": 10.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Lärabar, Peanut Butter Chocolate Chip",
+     "portion": "1 each",
+     "kcal": 220,
+     "protein": 6.0,
+     "carbs": 26.0,
+     "fat": 11.0,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 19.0,
+     "sodium": 60.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oatly Barista",
+     "portion": "1/2 cup",
+     "kcal": 71,
+     "protein": 1.2,
+     "carbs": 7.7,
+     "fat": 3.5,
+     "satfat": 0.3,
+     "fiber": 0.9,
+     "sugar": 4.7
+    },
+    {
+     "name": "Korean Style Kimchi",
+     "portion": "1 ounce",
+     "kcal": 9,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 0.5,
+     "sodium": 264.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Small",
+    "Lärabar, Peanut Butter Chocolate Chip",
+    "Oatly Barista",
+    "Korean Style Kimchi"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

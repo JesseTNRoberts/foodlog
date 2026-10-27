@@ -1,0 +1,252 @@
+{
+ "date": "2021-05-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-05-06-1",
+   "name": "Custom Smoothy 1 · Big Bang Coffee",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 235,
+   "protein": 5.7,
+   "carbs": 46.4,
+   "fat": 3.6,
+   "satfat": 0.5,
+   "fiber": 9.8,
+   "sugar": 22.4,
+   "sodium": 31.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Custom Smoothy 1",
+     "portion": "1 serving",
+     "kcal": 234,
+     "protein": 5.7,
+     "carbs": 46.4,
+     "fat": 3.6,
+     "satfat": 0.5,
+     "fiber": 9.8,
+     "sugar": 22.4,
+     "sodium": 31.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Big Bang Coffee",
+     "portion": "1 serving",
+     "kcal": 1
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Custom Smoothy 1",
+    "Big Bang Coffee"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-06-2",
+   "name": "Buffalo Chicken Wrapper Fried (no Cheese or Ranch) · Cheddars Dr. Pepper · Blackened salmon add on + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1347,
+   "protein": 73.0,
+   "carbs": 128.5,
+   "fat": 190.0,
+   "satfat": 17.3,
+   "fiber": 11.5,
+   "sugar": 12.0,
+   "sodium": 3160.0,
+   "cholesterol": 90.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper Fried (no Cheese or Ranch)",
+     "portion": "1/4 serving",
+     "kcal": 350,
+     "protein": 31.0,
+     "carbs": 59.5,
+     "fat": 38.0,
+     "satfat": 9.0,
+     "fiber": 4.5,
+     "sugar": 8.0,
+     "sodium": 2170.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Cheddars Dr. Pepper",
+     "portion": "2 servings",
+     "kcal": 320
+    },
+    {
+     "name": "Blackened salmon add on",
+     "portion": "1 serving",
+     "kcal": 250,
+     "protein": 34.0,
+     "carbs": 0.0,
+     "fat": 126.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 940.0,
+     "cholesterol": 50.0
+    },
+    {
+     "name": "French Fries side",
+     "portion": "1/3 serving",
+     "kcal": 157,
+     "protein": 4.0,
+     "carbs": 40.0,
+     "fat": 14.0,
+     "satfat": 3.3,
+     "fiber": 4.0,
+     "sugar": 0.0
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "3 servings",
+     "kcal": 135
+    },
+    {
+     "name": "Croissant",
+     "portion": "1 serving",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 21.0,
+     "fat": 12.0
+    },
+    {
+     "name": "Side Salad",
+     "portion": "1 serving",
+     "kcal": 35,
+     "protein": 2.0,
+     "carbs": 8.0,
+     "fiber": 3.0,
+     "sugar": 4.0,
+     "sodium": 50.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper Fried (no Cheese or Ranch)",
+    "Cheddars Dr. Pepper",
+    "Blackened salmon add on",
+    "French Fries side",
+    "Honey Mustard Sauce",
+    "Croissant",
+    "Side Salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-06-3",
+   "name": "Hummus, spinach and artichoke · Potatoes, Red, Baby, Cooked · Chips, Pita Thins, Sea Salt + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 619,
+   "protein": 16.7,
+   "carbs": 75.5,
+   "fat": 29.7,
+   "satfat": 4.8,
+   "fiber": 9.4,
+   "sugar": 3.7,
+   "sodium": 786.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "7 tablespoons",
+     "kcal": 245,
+     "protein": 7.0,
+     "carbs": 17.5,
+     "fat": 17.5,
+     "satfat": 3.5,
+     "fiber": 3.5,
+     "sugar": 0.0,
+     "sodium": 402.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Potatoes, Red, Baby, Cooked",
+     "portion": "1 cup",
+     "kcal": 139,
+     "protein": 3.6,
+     "carbs": 30.6,
+     "fat": 0.2,
+     "satfat": 0.3,
+     "fiber": 2.8,
+     "sugar": 2.2,
+     "sodium": 18.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kickin’ Queso cashew Dip",
+     "portion": "28 grams",
+     "kcal": 90,
+     "protein": 2.0,
+     "carbs": 4.0,
+     "fat": 8.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoletti",
+     "portion": "43 grams",
+     "kcal": 15,
+     "protein": 1.1,
+     "carbs": 3.4,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.1,
+     "sugar": 0.5,
+     "sodium": 15.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus, spinach and artichoke",
+    "Potatoes, Red, Baby, Cooked",
+    "Chips, Pita Thins, Sea Salt",
+    "Kickin’ Queso cashew Dip",
+    "Broccoletti"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

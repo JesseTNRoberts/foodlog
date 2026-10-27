@@ -1,0 +1,281 @@
+{
+ "date": "2023-08-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-30-1",
+   "name": "Mission Carb Balance Original Pita · Chicken Tenders · Dressing, Honey Mustard",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 257,
+   "protein": 17.8,
+   "carbs": 37.1,
+   "fat": 11.9,
+   "satfat": 2.4,
+   "fiber": 17.0,
+   "sugar": 6.4,
+   "sodium": 664.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Mission Carb Balance Original Pita",
+     "portion": "1 serving",
+     "kcal": 100,
+     "protein": 9.0,
+     "carbs": 25.0,
+     "fat": 4.0,
+     "satfat": 1.5,
+     "fiber": 17.0,
+     "sugar": 0.0,
+     "sodium": 250.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken Tenders",
+     "portion": "1 piece",
+     "kcal": 86,
+     "protein": 8.8,
+     "carbs": 4.2,
+     "fat": 3.5,
+     "sugar": 0.2,
+     "sodium": 192.5
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 ounce",
+     "kcal": 71,
+     "protein": 0.0,
+     "carbs": 7.9,
+     "fat": 4.4,
+     "satfat": 0.9,
+     "fiber": 0.0,
+     "sugar": 6.2,
+     "sodium": 221.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Mission Carb Balance Original Pita",
+    "Chicken Tenders",
+    "Dressing, Honey Mustard"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-30-2",
+   "name": "Fries Side · Apple Pie · Pork tenderloin lean grilled + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 695,
+   "protein": 34.7,
+   "carbs": 78.8,
+   "fat": 38.2,
+   "satfat": 12.3,
+   "fiber": 4.8,
+   "sugar": 15.1,
+   "sodium": 618.0,
+   "cholesterol": 106.5,
+   "components": [
+    {
+     "name": "Fries Side",
+     "portion": "3/4 serving",
+     "kcal": 300,
+     "protein": 3.8,
+     "carbs": 37.5,
+     "fat": 20.2,
+     "satfat": 3.8,
+     "fiber": 3.8,
+     "sugar": 0.8,
+     "sodium": 194.2
+    },
+    {
+     "name": "Apple Pie",
+     "portion": "2 ounces",
+     "kcal": 198,
+     "protein": 1.6,
+     "carbs": 27.3,
+     "fat": 9.6,
+     "satfat": 4.3,
+     "fiber": 0.5,
+     "sugar": 12.3,
+     "sodium": 219.3
+    },
+    {
+     "name": "Pork tenderloin lean grilled",
+     "portion": "7 ounces",
+     "kcal": 140,
+     "protein": 26.8,
+     "carbs": 0.0,
+     "fat": 2.9,
+     "satfat": 1.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 70.0,
+     "cholesterol": 87.5
+    },
+    {
+     "name": "Roll",
+     "portion": "1/2 serving",
+     "kcal": 57,
+     "protein": 2.5,
+     "carbs": 14.0,
+     "fat": 5.5,
+     "satfat": 3.0,
+     "fiber": 0.5,
+     "sugar": 2.0,
+     "sodium": 134.5,
+     "cholesterol": 19.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries Side",
+    "Apple Pie",
+    "Pork tenderloin lean grilled",
+    "Roll"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-30-3",
+   "name": "Chicken, Tenders, Breaded, 5pc · Green Beans, Grilled w/ Oil · Mushrooms, Portabella, Grilled, Slices",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 103,
+   "protein": 7.2,
+   "carbs": 7.9,
+   "fat": 5.6,
+   "satfat": 1.2,
+   "fiber": 2.5,
+   "sugar": 2.5,
+   "sodium": 167.7,
+   "cholesterol": 14.4,
+   "components": [
+    {
+     "name": "Chicken, Tenders, Breaded, 5pc",
+     "portion": "1/8 each",
+     "kcal": 55,
+     "protein": 5.1,
+     "carbs": 2.6,
+     "fat": 2.6,
+     "satfat": 0.6,
+     "fiber": 0.4,
+     "sugar": 0.0,
+     "sodium": 161.2,
+     "cholesterol": 14.4
+    },
+    {
+     "name": "Green Beans, Grilled w/ Oil",
+     "portion": "2 ounces",
+     "kcal": 40,
+     "protein": 1.2,
+     "carbs": 4.0,
+     "fat": 2.8,
+     "satfat": 0.4,
+     "fiber": 1.5,
+     "sugar": 1.9,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mushrooms, Portabella, Grilled, Slices",
+     "portion": "1 ounce",
+     "kcal": 8,
+     "protein": 0.9,
+     "carbs": 1.3,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 3.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Tenders, Breaded, 5pc",
+    "Green Beans, Grilled w/ Oil",
+    "Mushrooms, Portabella, Grilled, Slices"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-30-4",
+   "name": "Home Pizza · Coke",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 777,
+   "protein": 30.5,
+   "carbs": 122.1,
+   "fat": 44.2,
+   "satfat": 21.6,
+   "fiber": 5.5,
+   "sugar": 23.9,
+   "sodium": 705.8,
+   "cholesterol": 39.9,
+   "components": [
+    {
+     "name": "Home Pizza",
+     "portion": "3 servings",
+     "kcal": 707,
+     "protein": 30.5,
+     "carbs": 102.6,
+     "fat": 44.2,
+     "satfat": 21.6,
+     "fiber": 5.5,
+     "sugar": 4.4,
+     "sodium": 683.3,
+     "cholesterol": 39.9
+    },
+    {
+     "name": "Coke",
+     "portion": "6 fluid ounces",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 19.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 19.5,
+     "sodium": 22.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Home Pizza",
+    "Coke"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

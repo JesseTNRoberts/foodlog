@@ -1,0 +1,364 @@
+{
+ "date": "2023-07-16",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-16-1",
+   "name": "Peach Pie",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 176,
+   "protein": 1.5,
+   "carbs": 24.0,
+   "fat": 9.2,
+   "satfat": 2.3,
+   "fiber": 0.9,
+   "sugar": 15.2,
+   "sodium": 196.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Peach Pie",
+     "portion": "3/4 serving",
+     "kcal": 176,
+     "protein": 1.5,
+     "carbs": 24.0,
+     "fat": 9.2,
+     "satfat": 2.3,
+     "fiber": 0.9,
+     "sugar": 15.2,
+     "sodium": 196.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Peach Pie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-16-2",
+   "name": "Banana, Small, 6\" to 6 7/8\" Long",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 45,
+   "protein": 0.6,
+   "carbs": 11.5,
+   "fat": 0.2,
+   "satfat": 0.6,
+   "fiber": 1.3,
+   "sugar": 6.2,
+   "sodium": 0.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Small, 6\" to 6 7/8\" Long",
+     "portion": "1/2 each",
+     "kcal": 45,
+     "protein": 0.6,
+     "carbs": 11.5,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.3,
+     "sugar": 6.2,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Small, 6\" to 6 7/8\" Long"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-16-3",
+   "name": "Pinto Beans Boiled · Avocado · Black Bean Burger + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 671,
+   "protein": 22.0,
+   "carbs": 95.0,
+   "fat": 21.1,
+   "satfat": 4.2,
+   "fiber": 23.9,
+   "sugar": 18.6,
+   "sodium": 630.2,
+   "cholesterol": 24.4,
+   "components": [
+    {
+     "name": "Pinto Beans Boiled",
+     "portion": "2/3 cup",
+     "kcal": 164,
+     "protein": 10.3,
+     "carbs": 30.2,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 10.3,
+     "sugar": 0.4,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Avocado",
+     "portion": "1/2 each",
+     "kcal": 161,
+     "protein": 2.1,
+     "carbs": 8.6,
+     "fat": 14.7,
+     "satfat": 2.1,
+     "fiber": 6.7,
+     "sugar": 0.7,
+     "sodium": 7.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Black Bean Burger",
+     "portion": "2 servings",
+     "kcal": 130,
+     "protein": 6.7,
+     "carbs": 25.0,
+     "fat": 1.7,
+     "satfat": 0.1,
+     "fiber": 5.9,
+     "sugar": 2.5,
+     "sodium": 310.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Cornbread, From Mix",
+     "portion": "2/3 piece",
+     "kcal": 126,
+     "protein": 2.9,
+     "carbs": 19.2,
+     "fat": 4.0,
+     "satfat": 1.9,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 311.4,
+     "cholesterol": 24.4
+    },
+    {
+     "name": "Sauce, Steak, 57",
+     "portion": "3 tablespoons",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 15.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pinto Beans Boiled",
+    "Avocado",
+    "Black Bean Burger",
+    "Bread, Cornbread, From Mix",
+    "Sauce, Steak, 57"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-16-4",
+   "name": "Soda, Coke",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 152,
+   "protein": 0.0,
+   "carbs": 42.2,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 42.2,
+   "sodium": 48.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Soda, Coke",
+     "portion": "13 fluid ounces",
+     "kcal": 152,
+     "protein": 0.0,
+     "carbs": 42.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 42.2,
+     "sodium": 48.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soda, Coke"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-16-5",
+   "name": "Ground Beef, 85% Lean, Broiled · Chicken Wing - Grilled with Skin · Bun, Hamburger, Plain + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 690,
+   "protein": 57.6,
+   "carbs": 26.6,
+   "fat": 39.9,
+   "satfat": 7.8,
+   "fiber": 1.6,
+   "sugar": 3.8,
+   "sodium": 329.3,
+   "cholesterol": 102.6,
+   "components": [
+    {
+     "name": "Ground Beef, 85% Lean, Broiled",
+     "portion": "1/4 pound",
+     "kcal": 283,
+     "protein": 29.4,
+     "carbs": 0.0,
+     "fat": 17.6,
+     "satfat": 6.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 81.7,
+     "cholesterol": 102.6
+    },
+    {
+     "name": "Chicken Wing - Grilled with Skin",
+     "portion": "5 ounces",
+     "kcal": 263,
+     "protein": 22.5,
+     "carbs": 0.0,
+     "fat": 20.0
+    },
+    {
+     "name": "Bun, Hamburger, Plain",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.8,
+     "carbs": 21.3,
+     "fat": 1.9,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 206.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Corn on the Cob",
+     "portion": "1/2 each",
+     "kcal": 24,
+     "protein": 0.9,
+     "carbs": 5.3,
+     "fat": 0.4,
+     "satfat": 0.6,
+     "fiber": 0.7,
+     "sugar": 1.1,
+     "sodium": 41.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ground Beef, 85% Lean, Broiled",
+    "Chicken Wing - Grilled with Skin",
+    "Bun, Hamburger, Plain",
+    "Grilled Corn on the Cob"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-16-6",
+   "name": "Protein and Nutmilk, Almond and Cashew · Cereal, Honey Bunches of Oats, Honey Roasted",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 250,
+   "protein": 12.0,
+   "carbs": 28.0,
+   "fat": 9.5,
+   "satfat": 0.5,
+   "fiber": 3.0,
+   "sugar": 8.0,
+   "sodium": 355.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "3/4 cup",
+     "kcal": 120,
+     "protein": 2.0,
+     "carbs": 25.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 135.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Protein and Nutmilk, Almond and Cashew",
+    "Cereal, Honey Bunches of Oats, Honey Roasted"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

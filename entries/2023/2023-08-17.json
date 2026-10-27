@@ -1,0 +1,298 @@
+{
+ "date": "2023-08-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-17-1",
+   "name": "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 170,
+   "protein": 8.0,
+   "carbs": 18.0,
+   "fat": 6.0,
+   "satfat": 2.5,
+   "fiber": 1.0,
+   "sugar": 1.0,
+   "sodium": 0,
+   "cholesterol": 260.0,
+   "components": [
+    {
+     "name": "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+     "portion": "1 each",
+     "kcal": 170,
+     "protein": 8.0,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "cholesterol": 260.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-17-2",
+   "name": "Crawfish Creole Pasta · Yellow Potatoes, Roasted w/ Oil",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 434,
+   "protein": 10.9,
+   "carbs": 67.0,
+   "fat": 14.4,
+   "satfat": 4.2,
+   "fiber": 7.5,
+   "sugar": 9.2,
+   "sodium": 306.9,
+   "cholesterol": 14.4,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/2 serving",
+     "kcal": 258,
+     "protein": 8.0,
+     "carbs": 35.6,
+     "fat": 9.6,
+     "satfat": 3.5,
+     "fiber": 4.7,
+     "sugar": 7.8,
+     "sodium": 300.7,
+     "cholesterol": 14.4
+    },
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 176,
+     "protein": 2.9,
+     "carbs": 31.4,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 1.4,
+     "sodium": 6.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Yellow Potatoes, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-17-3",
+   "name": "Peach, Medium · Oat Milk Ranch Dressing · Cucumber, Medium + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 182,
+   "protein": 4.6,
+   "carbs": 32.8,
+   "fat": 6.2,
+   "satfat": 1.4,
+   "fiber": 6.3,
+   "sugar": 22.2,
+   "sodium": 215.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Peach, Medium",
+     "portion": "1 each",
+     "kcal": 59,
+     "protein": 1.4,
+     "carbs": 14.3,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 2.2,
+     "sugar": 12.6,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 5.2,
+     "satfat": 0.4,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 202.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cucumber, Medium",
+     "portion": "1 each",
+     "kcal": 42,
+     "protein": 1.8,
+     "carbs": 10.1,
+     "fat": 0.3,
+     "satfat": 0.8,
+     "fiber": 1.4,
+     "sugar": 4.7,
+     "sodium": 5.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grape Tomatos",
+     "portion": "20 each",
+     "kcal": 28,
+     "protein": 1.4,
+     "carbs": 6.9,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 1.9,
+     "sugar": 4.9,
+     "sodium": 7.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Peach, Medium",
+    "Oat Milk Ranch Dressing",
+    "Cucumber, Medium",
+    "Grape Tomatos"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-17-4",
+   "name": "Crawfish Creole Pasta · Veggie Pizza (No Cheese) · Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 862,
+   "protein": 24.9,
+   "carbs": 94.4,
+   "fat": 27.0,
+   "satfat": 9.6,
+   "fiber": 10.7,
+   "sugar": 17.3,
+   "sodium": 726.4,
+   "cholesterol": 288.8,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 517,
+     "protein": 15.9,
+     "carbs": 70.1,
+     "fat": 19.2,
+     "satfat": 7.1,
+     "fiber": 9.4,
+     "sugar": 15.6,
+     "sodium": 601.4,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Veggie Pizza (No Cheese)",
+     "portion": "1 slice",
+     "kcal": 175,
+     "protein": 1.0,
+     "carbs": 6.3,
+     "fat": 1.8,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+     "portion": "1 each",
+     "kcal": 170,
+     "protein": 8.0,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "cholesterol": 260.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Veggie Pizza (No Cheese)",
+    "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-17-5",
+   "name": "Chocolate Chip Crunchy Cookie",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 107,
+   "protein": 4.0,
+   "carbs": 9.3,
+   "fat": 5.3,
+   "satfat": 2.3,
+   "fiber": 2.7,
+   "sugar": 5.3,
+   "sodium": 86.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "4 pieces",
+     "kcal": 107,
+     "protein": 4.0,
+     "carbs": 9.3,
+     "fat": 5.3,
+     "satfat": 2.3,
+     "fiber": 2.7,
+     "sugar": 5.3,
+     "sodium": 86.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

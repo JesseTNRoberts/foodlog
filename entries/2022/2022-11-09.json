@@ -1,0 +1,179 @@
+{
+ "date": "2022-11-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-11-09-1",
+   "name": "Vegan mac and cheese · Iced Coffee With Oat Milk · Broccoli, Chopped, Steamed",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 560,
+   "protein": 6.4,
+   "carbs": 99.7,
+   "fat": 16.2,
+   "satfat": 10.4,
+   "fiber": 2.9,
+   "sugar": 40.8,
+   "sodium": 863.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegan mac and cheese",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 5.0,
+     "carbs": 55.0,
+     "fat": 16.0,
+     "satfat": 10.0,
+     "fiber": 1.0,
+     "sodium": 840.0
+    },
+    {
+     "name": "Iced Coffee With Oat Milk",
+     "portion": "2 servings",
+     "kcal": 160,
+     "carbs": 40.0,
+     "fat": 0.0,
+     "sugar": 40.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "2 ounces",
+     "kcal": 20,
+     "protein": 1.4,
+     "carbs": 4.7,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.9,
+     "sugar": 0.8,
+     "sodium": 23.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan mac and cheese",
+    "Iced Coffee With Oat Milk",
+    "Broccoli, Chopped, Steamed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-09-2",
+   "name": "Cauliflower Dip · Broccoli, Chopped, Steamed",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 135,
+   "protein": 6.0,
+   "carbs": 16.7,
+   "fat": 6.7,
+   "satfat": 0.1,
+   "fiber": 7.1,
+   "sugar": 3.9,
+   "sodium": 309.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cauliflower Dip",
+     "portion": "3 tablespoons",
+     "kcal": 75,
+     "protein": 1.5,
+     "carbs": 4.5,
+     "fat": 6.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 1.5,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "6 ounces",
+     "kcal": 60,
+     "protein": 4.5,
+     "carbs": 12.2,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 5.6,
+     "sugar": 2.4,
+     "sodium": 69.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cauliflower Dip",
+    "Broccoli, Chopped, Steamed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-09-3",
+   "name": "Farm Burger · French Fries · Soda, Root Beer",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1050,
+   "protein": 0.0,
+   "carbs": 38.8,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 38.8,
+   "sodium": 37.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Farm Burger",
+     "portion": "1 serving",
+     "kcal": 700
+    },
+    {
+     "name": "French Fries",
+     "portion": "2/3 serving",
+     "kcal": 200
+    },
+    {
+     "name": "Soda, Root Beer",
+     "portion": "10 fluid ounces",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 38.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 38.8,
+     "sodium": 37.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Farm Burger",
+    "French Fries",
+    "Soda, Root Beer"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

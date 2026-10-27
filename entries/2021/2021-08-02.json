@@ -1,0 +1,151 @@
+{
+ "date": "2021-08-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-08-02-1",
+   "name": "Fish, Channel Catfish, Breaded & Fried · Bread · French Fries",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 868,
+   "protein": 49.1,
+   "carbs": 113.1,
+   "fat": 63.2,
+   "satfat": 5.7,
+   "fiber": 0.0,
+   "sugar": 1.2,
+   "sodium": 1294.2,
+   "cholesterol": 140.9,
+   "components": [
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "2 pieces",
+     "kcal": 398,
+     "protein": 31.5,
+     "carbs": 14.0,
+     "fat": 23.2,
+     "satfat": 5.7,
+     "fiber": 0.0,
+     "sugar": 1.2,
+     "sodium": 487.2,
+     "cholesterol": 140.9
+    },
+    {
+     "name": "Bread",
+     "portion": "3 each",
+     "kcal": 270,
+     "protein": 15.6,
+     "carbs": 83.1,
+     "fat": 33.0,
+     "sodium": 807.0
+    },
+    {
+     "name": "French Fries",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.0,
+     "carbs": 16.0,
+     "fat": 7.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Channel Catfish, Breaded & Fried",
+    "Bread",
+    "French Fries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-08-02-2",
+   "name": "Oil, Olive, Extra Virgin · Amys Vegan rice Mac n Cheese · Broccoli, Sautéed w/ Oil + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 742,
+   "protein": 10.4,
+   "carbs": 57.1,
+   "fat": 56.7,
+   "satfat": 13.2,
+   "fiber": 10.5,
+   "sugar": 17.5,
+   "sodium": 2401.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "3 tablespoons",
+     "kcal": 357,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 40.5,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Amys Vegan rice Mac n Cheese",
+     "portion": "1/2 serving",
+     "kcal": 190,
+     "protein": 2.5,
+     "carbs": 27.5,
+     "fat": 8.0,
+     "satfat": 5.0,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 420.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Sautéed w/ Oil",
+     "portion": "3 servings",
+     "kcal": 107,
+     "protein": 3.1,
+     "carbs": 9.8,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 4.5,
+     "sugar": 1.9,
+     "sodium": 55.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Tomato, Canned",
+     "portion": "1 1/2 cups",
+     "kcal": 88,
+     "protein": 4.8,
+     "carbs": 19.8,
+     "fat": 0.7,
+     "satfat": 0.7,
+     "fiber": 5.5,
+     "sugar": 15.6,
+     "sodium": 1925.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oil, Olive, Extra Virgin",
+    "Amys Vegan rice Mac n Cheese",
+    "Broccoli, Sautéed w/ Oil",
+    "Sauce, Tomato, Canned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

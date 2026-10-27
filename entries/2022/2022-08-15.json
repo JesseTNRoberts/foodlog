@@ -1,0 +1,74 @@
+{
+ "date": "2022-08-15",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-08-15-1",
+   "name": "Oat Milk Barista Edition · Maple Syrup · Coffee, Brewed",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 318,
+   "protein": 4.1,
+   "carbs": 50.2,
+   "fat": 11.6,
+   "satfat": 1.7,
+   "fiber": 0.0,
+   "sugar": 40.7,
+   "sodium": 11.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Oat Milk Barista Edition",
+     "portion": "1 1/2 cups",
+     "kcal": 213,
+     "protein": 3.5,
+     "carbs": 23.7,
+     "fat": 10.7,
+     "satfat": 1.6,
+     "sugar": 14.2,
+     "sodium": 0.3
+    },
+    {
+     "name": "Maple Syrup",
+     "portion": "2 tablespoons",
+     "kcal": 100,
+     "protein": 0.0,
+     "carbs": 26.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 26.5,
+     "sodium": 1.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Coffee, Brewed",
+     "portion": "2 cups",
+     "kcal": 5,
+     "protein": 0.6,
+     "carbs": 0.0,
+     "fat": 0.9,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 9.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oat Milk Barista Edition",
+    "Maple Syrup",
+    "Coffee, Brewed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "date": "2021-08-01",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-08-01-1",
+   "name": "Custom Smoothy 1",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 351,
+   "protein": 14.7,
+   "carbs": 49.1,
+   "fat": 10.8,
+   "satfat": 1.0,
+   "fiber": 10.7,
+   "sugar": 24.2,
+   "sodium": 238.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Custom Smoothy 1",
+     "portion": "1 serving",
+     "kcal": 351,
+     "protein": 14.7,
+     "carbs": 49.1,
+     "fat": 10.8,
+     "satfat": 1.0,
+     "fiber": 10.7,
+     "sugar": 24.2,
+     "sodium": 238.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Custom Smoothy 1"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-08-01-2",
+   "name": "Chili, Texas Red, Bowl · Bread · Fish, Channel Catfish, Breaded & Fried",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 830,
+   "protein": 46.5,
+   "carbs": 102.6,
+   "fat": 72.8,
+   "satfat": 14.4,
+   "fiber": 3.0,
+   "sugar": 6.3,
+   "sodium": 2128.8,
+   "cholesterol": 120.2,
+   "components": [
+    {
+     "name": "Chili, Texas Red, Bowl",
+     "portion": "1 serving",
+     "kcal": 460,
+     "protein": 23.0,
+     "carbs": 16.0,
+     "fat": 34.0,
+     "satfat": 13.0,
+     "fiber": 3.0,
+     "sugar": 6.0,
+     "sodium": 1200.0,
+     "cholesterol": 85.0
+    },
+    {
+     "name": "Bread",
+     "portion": "3 each",
+     "kcal": 270,
+     "protein": 15.6,
+     "carbs": 83.1,
+     "fat": 33.0,
+     "sodium": 807.0
+    },
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "1/2 piece",
+     "kcal": 100,
+     "protein": 7.9,
+     "carbs": 3.5,
+     "fat": 5.8,
+     "satfat": 1.4,
+     "fiber": 0.0,
+     "sugar": 0.3,
+     "sodium": 121.8,
+     "cholesterol": 35.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chili, Texas Red, Bowl",
+    "Bread",
+    "Fish, Channel Catfish, Breaded & Fried"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-08-01-3",
+   "name": "Fish, Channel Catfish, Breaded & Fried · French Fries",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 449,
+   "protein": 21.7,
+   "carbs": 24.7,
+   "fat": 21.5,
+   "satfat": 3.6,
+   "fiber": 0.0,
+   "sugar": 0.8,
+   "sodium": 304.5,
+   "cholesterol": 88.9,
+   "components": [
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "1 1/4 pieces",
+     "kcal": 249,
+     "protein": 19.7,
+     "carbs": 8.7,
+     "fat": 14.5,
+     "satfat": 3.6,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 304.5,
+     "cholesterol": 88.9
+    },
+    {
+     "name": "French Fries",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.0,
+     "carbs": 16.0,
+     "fat": 7.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Channel Catfish, Breaded & Fried",
+    "French Fries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

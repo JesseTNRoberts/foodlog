@@ -1,0 +1,227 @@
+{
+ "date": "2024-01-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-01-02-1",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Oat Milk",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 333,
+   "protein": 6.5,
+   "carbs": 60.4,
+   "fat": 7.7,
+   "satfat": 0.5,
+   "fiber": 5.5,
+   "sugar": 17.7,
+   "sodium": 379.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 1/3 cups",
+     "kcal": 213,
+     "protein": 3.5,
+     "carbs": 44.4,
+     "fat": 2.7,
+     "satfat": 0.0,
+     "fiber": 3.5,
+     "sugar": 10.7,
+     "sodium": 239.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk",
+     "portion": "1 cup",
+     "kcal": 120,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 5.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 7.0,
+     "sodium": 140.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Oat Milk"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-01-02-2",
+   "name": "Stuffed Bell peppers · Quiche, Spinach & Mushroom",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 405,
+   "protein": 17.5,
+   "carbs": 59.4,
+   "fat": 10.5,
+   "satfat": 4.4,
+   "fiber": 10.9,
+   "sugar": 9.5,
+   "sodium": 974.2,
+   "cholesterol": 53.3,
+   "components": [
+    {
+     "name": "Stuffed Bell peppers",
+     "portion": "3/4 serving",
+     "kcal": 290,
+     "protein": 12.5,
+     "carbs": 49.9,
+     "fat": 4.0,
+     "satfat": 0.6,
+     "fiber": 10.1,
+     "sugar": 8.0,
+     "sodium": 791.7,
+     "cholesterol": 3.3
+    },
+    {
+     "name": "Quiche, Spinach & Mushroom",
+     "portion": "1/4 box",
+     "kcal": 115,
+     "protein": 5.0,
+     "carbs": 9.5,
+     "fat": 6.5,
+     "satfat": 3.8,
+     "fiber": 0.8,
+     "sugar": 1.5,
+     "sodium": 182.5,
+     "cholesterol": 50.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Stuffed Bell peppers",
+    "Quiche, Spinach & Mushroom"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-01-02-3",
+   "name": "Homemade Banana Pudding",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 215,
+   "protein": 6.2,
+   "carbs": 42.0,
+   "fat": 3.8,
+   "satfat": 2.1,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 349.5,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Homemade Banana Pudding",
+     "portion": "1 1/2 cups",
+     "kcal": 215,
+     "protein": 6.2,
+     "carbs": 42.0,
+     "fat": 3.8,
+     "satfat": 2.1,
+     "sodium": 349.5,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Homemade Banana Pudding"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-01-02-4",
+   "name": "Chicken, Orange · Chicken, Grilled Teriyaki · Chili Crisp Shrimp",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 890,
+   "protein": 63.0,
+   "carbs": 72.0,
+   "fat": 41.0,
+   "satfat": 9.5,
+   "fiber": 2.0,
+   "sugar": 28.0,
+   "sodium": 1490.0,
+   "cholesterol": 365.0,
+   "components": [
+    {
+     "name": "Chicken, Orange",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 14.0,
+     "carbs": 45.0,
+     "fat": 18.0,
+     "satfat": 3.5,
+     "fiber": 0.0,
+     "sugar": 19.0,
+     "sodium": 620.0,
+     "cholesterol": 80.0
+    },
+    {
+     "name": "Chicken, Grilled Teriyaki",
+     "portion": "1 serving",
+     "kcal": 300,
+     "protein": 36.0,
+     "carbs": 8.0,
+     "fat": 13.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 530.0,
+     "cholesterol": 185.0
+    },
+    {
+     "name": "Chili Crisp Shrimp",
+     "portion": "1 serving",
+     "kcal": 210,
+     "protein": 13.0,
+     "carbs": 19.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 1.0,
+     "sodium": 340.0,
+     "cholesterol": 100.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Orange",
+    "Chicken, Grilled Teriyaki",
+    "Chili Crisp Shrimp"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

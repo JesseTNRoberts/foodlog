@@ -1,0 +1,239 @@
+{
+ "date": "2023-08-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-05-1",
+   "name": "Chocolate Chip Crunchy Cookie",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 27,
+   "protein": 1.0,
+   "carbs": 2.3,
+   "fat": 1.3,
+   "satfat": 0.6,
+   "fiber": 0.7,
+   "sugar": 1.3,
+   "sodium": 21.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "1 piece",
+     "kcal": 27,
+     "protein": 1.0,
+     "carbs": 2.3,
+     "fat": 1.3,
+     "satfat": 0.6,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 21.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-05-2",
+   "name": "Chicken Tender · Culture Pop Soda - Watermelon · Beer, IPA",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1256,
+   "protein": 36.1,
+   "carbs": 88.0,
+   "fat": 120.0,
+   "satfat": 20.0,
+   "fiber": 4.0,
+   "sugar": 28.0,
+   "sodium": 732.0,
+   "cholesterol": 112.0,
+   "components": [
+    {
+     "name": "Chicken Tender",
+     "portion": "4 pieces",
+     "kcal": 1052,
+     "protein": 36.0,
+     "carbs": 52.0,
+     "fat": 120.0,
+     "satfat": 20.0,
+     "fiber": 4.0,
+     "sugar": 4.0,
+     "sodium": 732.0,
+     "cholesterol": 112.0
+    },
+    {
+     "name": "Culture Pop Soda - Watermelon",
+     "portion": "4 servings",
+     "kcal": 160,
+     "protein": 0.0,
+     "carbs": 32.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "sugar": 24.0,
+     "sodium": 0.0
+    },
+    {
+     "name": "Beer, IPA",
+     "portion": "1/3 cup",
+     "kcal": 44,
+     "protein": 0.1,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tender",
+    "Culture Pop Soda - Watermelon",
+    "Beer, IPA"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-05-3",
+   "name": "Triple Raspberry",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 600,
+   "protein": 8.0,
+   "carbs": 77.0,
+   "fat": 28.0,
+   "satfat": 18.0,
+   "fiber": 3.0,
+   "sugar": 39.0,
+   "sodium": 570.0,
+   "cholesterol": 75.0,
+   "components": [
+    {
+     "name": "Triple Raspberry",
+     "portion": "1 serving",
+     "kcal": 600,
+     "protein": 8.0,
+     "carbs": 77.0,
+     "fat": 28.0,
+     "satfat": 18.0,
+     "fiber": 3.0,
+     "sugar": 39.0,
+     "sodium": 570.0,
+     "cholesterol": 75.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Triple Raspberry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-05-4",
+   "name": "Brooklyn Bred Bistro Bun · Raw Goat Milk Mild Cheddar Cheese · Coke mini bottle + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 528,
+   "protein": 29.4,
+   "carbs": 83.7,
+   "fat": 16.9,
+   "satfat": 7.5,
+   "fiber": 2.3,
+   "sugar": 47.7,
+   "sodium": 1166.6,
+   "cholesterol": 85.5,
+   "components": [
+    {
+     "name": "Brooklyn Bred Bistro Bun",
+     "portion": "3 ounces",
+     "kcal": 202,
+     "protein": 6.7,
+     "carbs": 40.5,
+     "fat": 3.4,
+     "satfat": 0.0,
+     "fiber": 2.3,
+     "sugar": 4.5,
+     "sodium": 486.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1 1/2 ounces",
+     "kcal": 165,
+     "protein": 10.5,
+     "carbs": 0.8,
+     "fat": 12.0,
+     "satfat": 7.5,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 180.0,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Coke mini bottle",
+     "portion": "1 bottle",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 39.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hot And Honey Chicken Breast",
+     "portion": "2 ounces",
+     "kcal": 71,
+     "protein": 12.2,
+     "carbs": 3.4,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.4,
+     "sodium": 455.6,
+     "cholesterol": 40.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Brooklyn Bred Bistro Bun",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Coke mini bottle",
+    "Hot And Honey Chicken Breast"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

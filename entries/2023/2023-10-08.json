@@ -1,0 +1,205 @@
+{
+ "date": "2023-10-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-08-1",
+   "name": "Sour Dough Bread Slice",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 370,
+   "protein": 8.0,
+   "carbs": 72.0,
+   "fat": 2.4,
+   "satfat": 0.6,
+   "fiber": 3.0,
+   "sugar": 3.2,
+   "sodium": 656.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 8.0,
+     "carbs": 72.0,
+     "fat": 2.4,
+     "satfat": 0.6,
+     "fiber": 3.0,
+     "sugar": 3.2,
+     "sodium": 656.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-08-2",
+   "name": "Lobster",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 436,
+   "protein": 12.0,
+   "carbs": 37.0,
+   "fat": 21.0,
+   "satfat": 8.0,
+   "fiber": 3.0,
+   "sugar": 0,
+   "sodium": 808.0,
+   "cholesterol": 173.0,
+   "components": [
+    {
+     "name": "Lobster",
+     "portion": "1 serving",
+     "kcal": 436,
+     "protein": 12.0,
+     "carbs": 37.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 3.0,
+     "sodium": 808.0,
+     "cholesterol": 173.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Lobster"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-08-3",
+   "name": "Chili con Carne · Pumpkin Almond Milk Smoothie",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 528,
+   "protein": 2.0,
+   "carbs": 41.0,
+   "fat": 3.0,
+   "satfat": 0,
+   "fiber": 3.0,
+   "sugar": 37.0,
+   "sodium": 270.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Chili con Carne",
+     "portion": "8 fluid ounces",
+     "kcal": 328
+    },
+    {
+     "name": "Pumpkin Almond Milk Smoothie",
+     "portion": "8 ounces",
+     "kcal": 200,
+     "protein": 2.0,
+     "carbs": 41.0,
+     "fat": 3.0,
+     "fiber": 3.0,
+     "sugar": 37.0,
+     "sodium": 270.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chili con Carne",
+    "Pumpkin Almond Milk Smoothie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-08-4",
+   "name": "Fish and Chips - 3 Piece True Cod",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 900,
+   "protein": 0,
+   "carbs": 76.0,
+   "fat": 12.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Fish and Chips - 3 Piece True Cod",
+     "portion": "1 serving",
+     "kcal": 900,
+     "carbs": 76.0,
+     "fat": 12.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish and Chips - 3 Piece True Cod"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-08-5",
+   "name": "Calories",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 600,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "60 each",
+     "kcal": 600
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

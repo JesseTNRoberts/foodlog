@@ -1,0 +1,297 @@
+{
+ "date": "2024-09-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-09-05-1",
+   "name": "Eggs, Large · Cheese, Sharp White Cheddar · Cheese, Garlic & Herb, Wedge, Light + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 238,
+   "protein": 17.9,
+   "carbs": 3.6,
+   "fat": 16.0,
+   "satfat": 7.0,
+   "fiber": 0.2,
+   "sugar": 1.4,
+   "sodium": 491.3,
+   "cholesterol": 453.3,
+   "components": [
+    {
+     "name": "Eggs, Large",
+     "portion": "2 each",
+     "kcal": 140,
+     "protein": 12.0,
+     "carbs": 2.0,
+     "fat": 9.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 130.0,
+     "cholesterol": 430.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "2/3 slice",
+     "kcal": 60,
+     "protein": 3.3,
+     "carbs": 0.0,
+     "fat": 4.7,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 100.5,
+     "cholesterol": 13.3
+    },
+    {
+     "name": "Cheese, Garlic & Herb, Wedge, Light",
+     "portion": "1 piece",
+     "kcal": 35,
+     "protein": 2.5,
+     "carbs": 1.0,
+     "fat": 2.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 260.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Tomatoes, Fresh, Medium",
+     "portion": "1/8 each",
+     "kcal": 3,
+     "protein": 0.1,
+     "carbs": 0.6,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.4,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Eggs, Large",
+    "Cheese, Sharp White Cheddar",
+    "Cheese, Garlic & Herb, Wedge, Light",
+    "Tomatoes, Fresh, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-09-05-2",
+   "name": "Carrot cake w/cream cheese icing · Pasta, Penne, Cooked · Boiled Chicken Breast + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1126,
+   "protein": 48.0,
+   "carbs": 141.7,
+   "fat": 42.3,
+   "satfat": 5.2,
+   "fiber": 7.7,
+   "sugar": 46.2,
+   "sodium": 1468.6,
+   "cholesterol": 96.9,
+   "components": [
+    {
+     "name": "Carrot cake w/cream cheese icing",
+     "portion": "1/2 serving",
+     "kcal": 370,
+     "protein": 3.0,
+     "carbs": 49.0,
+     "fat": 19.0,
+     "fiber": 0.0,
+     "sugar": 34.0,
+     "sodium": 270.0
+    },
+    {
+     "name": "Pasta, Penne, Cooked",
+     "portion": "2 cups",
+     "kcal": 320,
+     "protein": 11.2,
+     "carbs": 67.2,
+     "fat": 1.6,
+     "satfat": 0.0,
+     "fiber": 3.2,
+     "sugar": 3.2,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Boiled Chicken Breast",
+     "portion": "1/3 cup",
+     "kcal": 141,
+     "protein": 27.3,
+     "carbs": 0.0,
+     "fat": 2.7,
+     "satfat": 0.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 58.6,
+     "cholesterol": 71.9
+    },
+    {
+     "name": "Sauce, Alfredo, Creamy",
+     "portion": "1/4 cup",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 3.0,
+     "fat": 9.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 430.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "Vegetables, Fresh Steamed",
+     "portion": "1 cup",
+     "kcal": 80,
+     "protein": 2.0,
+     "carbs": 8.0,
+     "fat": 5.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 160.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Garlic Knots",
+     "portion": "1 serving",
+     "kcal": 65,
+     "protein": 1.5,
+     "carbs": 9.5,
+     "fat": 2.0,
+     "satfat": 0.5,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Marinara",
+     "portion": "1/2 cup",
+     "kcal": 50,
+     "protein": 1.0,
+     "carbs": 5.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 4.0,
+     "sodium": 440.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Carrot cake w/cream cheese icing",
+    "Pasta, Penne, Cooked",
+    "Boiled Chicken Breast",
+    "Sauce, Alfredo, Creamy",
+    "Vegetables, Fresh Steamed",
+    "Bread, Garlic Knots",
+    "Sauce, Marinara"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-09-05-3",
+   "name": "Foccacia Bread · Pita Chips, Fire Roasted Jalapeno · F/C - Snack Mix - Sun Chips , Cheetos & Pretzels + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 528,
+   "protein": 13.6,
+   "carbs": 80.8,
+   "fat": 15.7,
+   "satfat": 1.3,
+   "fiber": 4.6,
+   "sugar": 3.8,
+   "sodium": 1113.2,
+   "cholesterol": 3.8,
+   "components": [
+    {
+     "name": "Foccacia Bread",
+     "portion": "1 each",
+     "kcal": 287,
+     "protein": 10.1,
+     "carbs": 53.2,
+     "fat": 3.5,
+     "fiber": 2.7,
+     "sugar": 1.6,
+     "sodium": 660.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "3/4 ounce",
+     "kcal": 99,
+     "protein": 2.3,
+     "carbs": 13.7,
+     "fat": 3.8,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 0.7,
+     "sodium": 212.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "F/C - Snack Mix - Sun Chips , Cheetos & Pretzels",
+     "portion": "2/3 ounce",
+     "kcal": 97,
+     "protein": 1.2,
+     "carbs": 12.5,
+     "fat": 4.4,
+     "satfat": 0.6,
+     "fiber": 0.8,
+     "sugar": 0.8,
+     "sodium": 177.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Babaganoush",
+     "portion": "2 tablespoons",
+     "kcal": 45,
+     "protein": 0.0,
+     "carbs": 1.4,
+     "fat": 4.0,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sugar": 0.7,
+     "sodium": 63.2,
+     "cholesterol": 3.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Foccacia Bread",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "F/C - Snack Mix - Sun Chips , Cheetos & Pretzels",
+    "Babaganoush"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

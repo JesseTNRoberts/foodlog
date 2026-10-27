@@ -1,0 +1,244 @@
+{
+ "date": "2023-06-14",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-14-1",
+   "name": "Spicy Chicken Sandwich · Cinnamon Rolls",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 390,
+   "protein": 16.5,
+   "carbs": 47.5,
+   "fat": 15.5,
+   "satfat": 5.0,
+   "fiber": 2.0,
+   "sugar": 14.5,
+   "sodium": 1185.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/2 piece",
+     "kcal": 225,
+     "protein": 14.5,
+     "carbs": 20.5,
+     "fat": 9.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Cinnamon Rolls",
+     "portion": "1/2 each",
+     "kcal": 165,
+     "protein": 2.0,
+     "carbs": 27.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 12.0,
+     "sodium": 385.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Sandwich",
+    "Cinnamon Rolls"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-14-2",
+   "name": "Crawfish Creole Pasta · Bread, Thin Sliced, 21 Whole Grains & Seeds · Cheese, Spicy Pepper Jack + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 723,
+   "protein": 37.7,
+   "carbs": 82.6,
+   "fat": 27.8,
+   "satfat": 10.9,
+   "fiber": 12.7,
+   "sugar": 17.7,
+   "sodium": 1148.4,
+   "cholesterol": 84.2,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 462,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 18.7,
+     "satfat": 6.9,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 433.5,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "2 slices",
+     "kcal": 120,
+     "protein": 6.0,
+     "carbs": 24.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 6.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Spicy Pepper Jack",
+     "portion": "1 serving",
+     "kcal": 80,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 6.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Chicken Breast, Blazing Buffalo Style",
+     "portion": "2 ounces",
+     "kcal": 61,
+     "protein": 13.2,
+     "carbs": 0.0,
+     "fat": 1.1,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 394.9,
+     "cholesterol": 35.4
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Cheese, Spicy Pepper Jack",
+    "Chicken Breast, Blazing Buffalo Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-14-3",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 114,
+   "protein": 4.3,
+   "carbs": 5.7,
+   "fat": 9.3,
+   "satfat": 1.7,
+   "fiber": 2.1,
+   "sugar": 1.4,
+   "sodium": 135.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "35 pieces",
+     "kcal": 114,
+     "protein": 4.3,
+     "carbs": 5.7,
+     "fat": 9.3,
+     "satfat": 1.7,
+     "fiber": 2.1,
+     "sugar": 1.4,
+     "sodium": 135.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-14-4",
+   "name": "Crawfish Creole Pasta · Un Chick Chickpea Salad",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 746,
+   "protein": 19.4,
+   "carbs": 94.1,
+   "fat": 34.2,
+   "satfat": 11.4,
+   "fiber": 10.9,
+   "sugar": 17.1,
+   "sodium": 924.7,
+   "cholesterol": 47.6,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 462,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 18.7,
+     "satfat": 6.9,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 433.5,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Un Chick Chickpea Salad",
+     "portion": "1 serving",
+     "kcal": 284,
+     "protein": 5.9,
+     "carbs": 35.5,
+     "fat": 15.5,
+     "satfat": 4.5,
+     "fiber": 4.2,
+     "sugar": 5.4,
+     "sodium": 491.2,
+     "cholesterol": 18.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Un Chick Chickpea Salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

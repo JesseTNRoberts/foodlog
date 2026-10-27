@@ -1,0 +1,337 @@
+{
+ "date": "2023-08-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-06-1",
+   "name": "French Toast, Cinnamon Sticks · Chocolate Chip Crunchy Cookie · Syrup, Maple",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 812,
+   "protein": 18.6,
+   "carbs": 113.8,
+   "fat": 32.0,
+   "satfat": 8.3,
+   "fiber": 8.4,
+   "sugar": 61.0,
+   "sodium": 786.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "French Toast, Cinnamon Sticks",
+     "portion": "6 sticks",
+     "kcal": 468,
+     "protein": 9.6,
+     "carbs": 66.0,
+     "fat": 19.2,
+     "satfat": 3.0,
+     "fiber": 2.4,
+     "sugar": 25.2,
+     "sodium": 588.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "9 pieces",
+     "kcal": 240,
+     "protein": 9.0,
+     "carbs": 21.0,
+     "fat": 12.0,
+     "satfat": 5.2,
+     "fiber": 6.0,
+     "sugar": 12.0,
+     "sodium": 195.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "2 tablespoons",
+     "kcal": 104,
+     "protein": 0.0,
+     "carbs": 26.8,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sugar": 23.8,
+     "sodium": 3.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast, Cinnamon Sticks",
+    "Chocolate Chip Crunchy Cookie",
+    "Syrup, Maple"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-06-2",
+   "name": "Brooklyn Flatbread with Goat Cheese · Tortilla Chips, Bite Size Rounds · Salsa, Chunky",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 670,
+   "protein": 16.8,
+   "carbs": 70.1,
+   "fat": 32.6,
+   "satfat": 7.4,
+   "fiber": 7.8,
+   "sugar": 11.9,
+   "sodium": 1777.8,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Brooklyn Flatbread with Goat Cheese",
+     "portion": "1 serving",
+     "kcal": 506,
+     "protein": 14.9,
+     "carbs": 47.8,
+     "fat": 25.9,
+     "satfat": 6.4,
+     "fiber": 4.3,
+     "sugar": 6.9,
+     "sodium": 1092.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "25 pieces",
+     "kcal": 144,
+     "protein": 1.9,
+     "carbs": 17.3,
+     "fat": 6.7,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 110.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "5 tablespoons",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.5,
+     "sugar": 5.0,
+     "sodium": 575.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Brooklyn Flatbread with Goat Cheese",
+    "Tortilla Chips, Bite Size Rounds",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-06-3",
+   "name": "Peach, Large",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 68,
+   "protein": 1.6,
+   "carbs": 16.7,
+   "fat": 0.4,
+   "satfat": 0.2,
+   "fiber": 2.6,
+   "sugar": 14.7,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Peach, Large",
+     "portion": "1 each",
+     "kcal": 68,
+     "protein": 1.6,
+     "carbs": 16.7,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 2.6,
+     "sugar": 14.7,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Peach, Large"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-06-4",
+   "name": "Crawfish Creole Pasta",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 129,
+   "protein": 4.0,
+   "carbs": 17.5,
+   "fat": 4.8,
+   "satfat": 1.8,
+   "fiber": 2.4,
+   "sugar": 3.9,
+   "sodium": 150.3,
+   "cholesterol": 7.2,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/4 serving",
+     "kcal": 129,
+     "protein": 4.0,
+     "carbs": 17.5,
+     "fat": 4.8,
+     "satfat": 1.8,
+     "fiber": 2.4,
+     "sugar": 3.9,
+     "sodium": 150.3,
+     "cholesterol": 7.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-06-5",
+   "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g · Sheep Milk Yogurt, Vanilla · Non Dairy Oatmeal Cream Pie + 3 more",
+   "portion": "Snacks · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 596,
+   "protein": 14.4,
+   "carbs": 74.2,
+   "fat": 29.9,
+   "satfat": 13.1,
+   "fiber": 2.6,
+   "sugar": 38.1,
+   "sodium": 578.0,
+   "cholesterol": 42.8,
+   "components": [
+    {
+     "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+     "portion": "1.65 ounces",
+     "kcal": 174,
+     "protein": 1.8,
+     "carbs": 23.4,
+     "fat": 9.6,
+     "satfat": 3.6,
+     "fiber": 1.2,
+     "sugar": 14.4,
+     "sodium": 137.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sheep Milk Yogurt, Vanilla",
+     "portion": "1 container",
+     "kcal": 170,
+     "protein": 10.0,
+     "carbs": 13.0,
+     "fat": 9.0,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 9.0,
+     "sodium": 90.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Non Dairy Oatmeal Cream Pie",
+     "portion": "1 1/2 ounces",
+     "kcal": 107,
+     "protein": 0.7,
+     "carbs": 17.1,
+     "fat": 4.3,
+     "satfat": 2.5,
+     "fiber": 0.4,
+     "sugar": 10.4
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "1 2/3 pieces",
+     "kcal": 78,
+     "protein": 1.1,
+     "carbs": 10.6,
+     "fat": 3.9,
+     "satfat": 0.6,
+     "fiber": 0.6,
+     "sugar": 1.1,
+     "sodium": 255.6,
+     "cholesterol": 2.8
+    },
+    {
+     "name": "Potato Chips, Voodoo Heat",
+     "portion": "11 grams",
+     "kcal": 55,
+     "protein": 0.8,
+     "carbs": 6.3,
+     "fat": 3.1,
+     "satfat": 0.4,
+     "fiber": 0.4,
+     "sugar": 0.4,
+     "sodium": 94.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chokecherry Syrup",
+     "portion": "1 teaspoon",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 0.0,
+     "sugar": 2.8,
+     "sodium": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+    "Sheep Milk Yogurt, Vanilla",
+    "Non Dairy Oatmeal Cream Pie",
+    "Hushpuppies",
+    "Potato Chips, Voodoo Heat",
+    "Chokecherry Syrup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

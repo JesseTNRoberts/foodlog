@@ -1,0 +1,271 @@
+{
+ "date": "2021-05-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-05-27-1",
+   "name": "Coffee, Iced",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 0,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Coffee, Iced",
+     "portion": "2 each",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Coffee, Iced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-27-2",
+   "name": "Dressing, Honey Mustard · Fried Cobb, no egg, bread, cheese. · Plant Based Non-dairy Hot Pepper Cheezy Slices + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 695,
+   "protein": 4.9,
+   "carbs": 37.9,
+   "fat": 31.5,
+   "satfat": 9.0,
+   "fiber": 6.7,
+   "sugar": 18.7,
+   "sodium": 875.9,
+   "cholesterol": 40.0,
+   "components": [
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2 packages",
+     "kcal": 300,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 26.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 10.0,
+     "sodium": 460.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Fried Cobb, no egg, bread, cheese.",
+     "portion": "1/2 serving",
+     "kcal": 218
+    },
+    {
+     "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "2 each",
+     "kcal": 56,
+     "protein": 2.0,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 4.0,
+     "sodium": 4.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Carrots, Shredded",
+     "portion": "80 grams",
+     "kcal": 40,
+     "protein": 0.3,
+     "carbs": 9.6,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 3.2,
+     "sugar": 4.3,
+     "sodium": 110.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "3 cups",
+     "kcal": 21,
+     "protein": 2.6,
+     "carbs": 3.3,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 0.4,
+     "sodium": 71.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Dressing, Honey Mustard",
+    "Fried Cobb, no egg, bread, cheese.",
+    "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+    "Tomatoes, Campari",
+    "Carrots, Shredded",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-27-3",
+   "name": "Crab, Snow Crab Legs, 1 Lb · Broccoli, Fresh",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 451,
+   "protein": 43.2,
+   "carbs": 40.9,
+   "fat": 11.4,
+   "satfat": 1.8,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 2218.8,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Crab, Snow Crab Legs, 1 Lb",
+     "portion": "7/8 each",
+     "kcal": 411,
+     "protein": 40.2,
+     "carbs": 35.9,
+     "fat": 11.4,
+     "satfat": 1.8,
+     "sodium": 1828.8
+    },
+    {
+     "name": "Broccoli, Fresh",
+     "portion": "1 each",
+     "kcal": 40,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "sodium": 390.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crab, Snow Crab Legs, 1 Lb",
+    "Broccoli, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-27-4",
+   "name": "Chips, Pita Thins, Sea Salt · Hummus, spinach and artichoke · Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 325,
+   "protein": 9.0,
+   "carbs": 35.5,
+   "fat": 18.5,
+   "satfat": 3.0,
+   "fiber": 5.5,
+   "sugar": 4.0,
+   "sodium": 442.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
+     "portion": "1 serving",
+     "kcal": 90,
+     "protein": 3.0,
+     "carbs": 8.0,
+     "fat": 7.0,
+     "satfat": 1.5,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 70.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Pita Thins, Sea Salt",
+    "Hummus, spinach and artichoke",
+    "Kind Bar Dark Chocolate Nuts And Sea Salt Mini"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

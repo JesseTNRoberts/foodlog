@@ -1,0 +1,130 @@
+{
+ "date": "2024-02-26",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-02-26-1",
+   "name": "Spring roll · Hibachi Vegetables · FrIed Rice",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 483,
+   "protein": 7.5,
+   "carbs": 74.5,
+   "fat": 28.5,
+   "satfat": 3.5,
+   "fiber": 4.5,
+   "sugar": 0.0,
+   "sodium": 660.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Spring roll",
+     "portion": "2 servings",
+     "kcal": 280,
+     "protein": 2.0,
+     "carbs": 18.0,
+     "fat": 22.0,
+     "satfat": 3.0,
+     "fiber": 2.0,
+     "sodium": 420.0
+    },
+    {
+     "name": "Hibachi Vegetables",
+     "portion": "1/2 serving",
+     "kcal": 130,
+     "protein": 2.0,
+     "carbs": 32.5,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "FrIed Rice",
+     "portion": "1/2 serving",
+     "kcal": 73,
+     "protein": 3.5,
+     "carbs": 24.0,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spring roll",
+    "Hibachi Vegetables",
+    "FrIed Rice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-02-26-2",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Milk, Oat Milk",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 300,
+   "protein": 5.7,
+   "carbs": 49.3,
+   "fat": 9.0,
+   "satfat": 0.5,
+   "fiber": 4.7,
+   "sugar": 15.0,
+   "sodium": 280.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Oat Milk",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 7.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Milk, Oat Milk"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

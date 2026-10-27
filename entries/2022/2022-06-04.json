@@ -1,0 +1,298 @@
+{
+ "date": "2022-06-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-06-04-1",
+   "name": "Spicy Chicken Biscuit · Broccoli, Chopped, Steamed · Simple Truth Organic Creamy Ranch Dressing Salad",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 636,
+   "protein": 25.1,
+   "carbs": 77.6,
+   "fat": 27.9,
+   "satfat": 8.8,
+   "fiber": 13.4,
+   "sugar": 11.2,
+   "sodium": 1543.5,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Biscuit",
+     "portion": "1 serving",
+     "kcal": 450,
+     "protein": 16.0,
+     "carbs": 50.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1260.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "2 cups",
+     "kcal": 109,
+     "protein": 7.4,
+     "carbs": 22.4,
+     "fat": 1.3,
+     "satfat": 0.2,
+     "fiber": 10.3,
+     "sugar": 4.3,
+     "sodium": 127.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Simple Truth Organic Creamy Ranch Dressing Salad",
+     "portion": "6 tablespoons",
+     "kcal": 77,
+     "protein": 1.7,
+     "carbs": 5.2,
+     "fat": 5.6,
+     "satfat": 0.6,
+     "fiber": 1.1,
+     "sugar": 0.9,
+     "sodium": 155.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Biscuit",
+    "Broccoli, Chopped, Steamed",
+    "Simple Truth Organic Creamy Ranch Dressing Salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-06-04-2",
+   "name": "Oarmeal Raisin Cookie · Plant-based meatballs with orzo and vegetables · Brussels Sprouts, Steamed + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 384,
+   "protein": 12.9,
+   "carbs": 35.0,
+   "fat": 10.8,
+   "satfat": 1.4,
+   "fiber": 8.8,
+   "sugar": 7.6,
+   "sodium": 472.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Oarmeal Raisin Cookie",
+     "portion": "1 serving",
+     "kcal": 113
+    },
+    {
+     "name": "Plant-based meatballs with orzo and vegetables",
+     "portion": "1/4 serving",
+     "kcal": 110,
+     "protein": 5.2,
+     "carbs": 13.2,
+     "fat": 4.0,
+     "satfat": 0.5,
+     "fiber": 1.5,
+     "sugar": 2.2,
+     "sodium": 267.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Steamed",
+     "portion": "1 1/2 cups",
+     "kcal": 84,
+     "protein": 6.0,
+     "carbs": 16.6,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 6.2,
+     "sugar": 4.5,
+     "sodium": 49.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Simple Truth Organic Creamy Ranch Dressing Salad",
+     "portion": "6 tablespoons",
+     "kcal": 77,
+     "protein": 1.7,
+     "carbs": 5.2,
+     "fat": 5.6,
+     "satfat": 0.6,
+     "fiber": 1.1,
+     "sugar": 0.9,
+     "sodium": 155.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oarmeal Raisin Cookie",
+    "Plant-based meatballs with orzo and vegetables",
+    "Brussels Sprouts, Steamed",
+    "Simple Truth Organic Creamy Ranch Dressing Salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-06-04-3",
+   "name": "Chicken Tenders,  Fried · Corn bread · Honey Mustard + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 2159,
+   "protein": 124.8,
+   "carbs": 261.0,
+   "fat": 80.0,
+   "satfat": 5.6,
+   "fiber": 9.7,
+   "sugar": 18.0,
+   "sodium": 3187.7,
+   "cholesterol": 33.9,
+   "components": [
+    {
+     "name": "Chicken Tenders,  Fried",
+     "portion": "7 pieces",
+     "kcal": 875,
+     "protein": 103.2,
+     "carbs": 59.5,
+     "fat": 7.3,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 2149.0
+    },
+    {
+     "name": "Corn bread",
+     "portion": "2 servings",
+     "kcal": 490,
+     "protein": 6.8,
+     "carbs": 74.0,
+     "fat": 6.0,
+     "fiber": 1.2
+    },
+    {
+     "name": "Honey Mustard",
+     "portion": "3 servings",
+     "kcal": 390,
+     "protein": 0.0,
+     "carbs": 13.5,
+     "fat": 24.9,
+     "satfat": 3.3,
+     "fiber": 0.0,
+     "sugar": 13.5,
+     "sodium": 337.5,
+     "cholesterol": 33.9
+    },
+    {
+     "name": "Side, Potato Wedges, Individual",
+     "portion": "1 serving",
+     "kcal": 270,
+     "protein": 4.0,
+     "carbs": 34.0,
+     "fat": 13.0,
+     "satfat": 1.5,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 700.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pan fried potatoes",
+     "portion": "3 servings",
+     "kcal": 90,
+     "protein": 8.4,
+     "carbs": 70.2,
+     "fat": 28.5
+    },
+    {
+     "name": "Green Beans, Cooked",
+     "portion": "1 cup",
+     "kcal": 44,
+     "protein": 2.4,
+     "carbs": 9.8,
+     "fat": 0.3,
+     "satfat": 0.8,
+     "fiber": 4.0,
+     "sugar": 4.5,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tenders,  Fried",
+    "Corn bread",
+    "Honey Mustard",
+    "Side, Potato Wedges, Individual",
+    "Pan fried potatoes",
+    "Green Beans, Cooked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-06-04-4",
+   "name": "Apple Bundt Cake · Dr. Pepper 16.9oz",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 490,
+   "protein": 0.0,
+   "carbs": 55.7,
+   "fat": 0.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 54.7,
+   "sodium": 79.5,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Apple Bundt Cake",
+     "portion": "1 serving",
+     "kcal": 280
+    },
+    {
+     "name": "Dr. Pepper 16.9oz",
+     "portion": "16.9 fluid ounces",
+     "kcal": 210,
+     "protein": 0.0,
+     "carbs": 55.7,
+     "fat": 0.0,
+     "sugar": 54.7,
+     "sodium": 79.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Bundt Cake",
+    "Dr. Pepper 16.9oz"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

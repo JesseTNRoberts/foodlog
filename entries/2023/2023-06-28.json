@@ -1,0 +1,396 @@
+{
+ "date": "2023-06-28",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-28-1",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 280,
+   "protein": 8.0,
+   "carbs": 43.0,
+   "fat": 8.0,
+   "satfat": 1.5,
+   "fiber": 2.0,
+   "sugar": 4.0,
+   "sodium": 460.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "1 serving",
+     "kcal": 280,
+     "protein": 8.0,
+     "carbs": 43.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-28-2",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 104,
+   "protein": 3.9,
+   "carbs": 5.2,
+   "fat": 8.5,
+   "satfat": 1.0,
+   "fiber": 2.0,
+   "sugar": 1.3,
+   "sodium": 124.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "32 pieces",
+     "kcal": 104,
+     "protein": 3.9,
+     "carbs": 5.2,
+     "fat": 8.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 1.3,
+     "sodium": 124.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-28-3",
+   "name": "Fries, Waffle, Medium · Fish, Channel Catfish, Breaded & Fried · Burger Buns Done Right + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 872,
+   "protein": 30.7,
+   "carbs": 95.6,
+   "fat": 40.3,
+   "satfat": 4.5,
+   "fiber": 7.0,
+   "sugar": 16.3,
+   "sodium": 1283.6,
+   "cholesterol": 90.8,
+   "components": [
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1 serving",
+     "kcal": 360,
+     "protein": 5.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "1 1/4 pieces",
+     "kcal": 249,
+     "protein": 19.7,
+     "carbs": 8.7,
+     "fat": 14.5,
+     "satfat": 3.6,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 304.5,
+     "cholesterol": 88.9
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Honey Mustard",
+     "portion": "1 tablespoon",
+     "kcal": 63,
+     "protein": 0.0,
+     "carbs": 1.9,
+     "fat": 6.3,
+     "satfat": 0.9,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 59.1,
+     "cholesterol": 1.9
+    },
+    {
+     "name": "Ketchup, Tomato",
+     "portion": "2 tablespoons",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 10.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle, Medium",
+    "Fish, Channel Catfish, Breaded & Fried",
+    "Burger Buns Done Right",
+    "Honey Mustard",
+    "Ketchup, Tomato"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-28-4",
+   "name": "Apple, Envy, small · Snack, Crunchy, Cheese-Less, Puffs",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 155,
+   "protein": 1.9,
+   "carbs": 5.5,
+   "fat": 4.2,
+   "satfat": 0.5,
+   "fiber": 1.4,
+   "sugar": 0.0,
+   "sodium": 78.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Apple, Envy, small",
+     "portion": "1 serving",
+     "kcal": 90
+    },
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "6 pieces",
+     "kcal": 65,
+     "protein": 1.9,
+     "carbs": 5.5,
+     "fat": 4.2,
+     "satfat": 0.5,
+     "fiber": 1.4,
+     "sugar": 0.0,
+     "sodium": 78.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple, Envy, small",
+    "Snack, Crunchy, Cheese-Less, Puffs"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-28-5",
+   "name": "Grilled Chicken · Chicken, Thigh, Skinless, Boneless, Grilled · Baba Ghannouj Eggplant Dip + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 757,
+   "protein": 91.6,
+   "carbs": 49.9,
+   "fat": 36.2,
+   "satfat": 4.3,
+   "fiber": 1.8,
+   "sugar": 2.3,
+   "sodium": 752.2,
+   "cholesterol": 234.0,
+   "components": [
+    {
+     "name": "Grilled Chicken",
+     "portion": "8 ounces",
+     "kcal": 240,
+     "protein": 52.0,
+     "carbs": 0.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 130.0
+    },
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "4 ounces",
+     "kcal": 232,
+     "protein": 28.8,
+     "carbs": 0.0,
+     "fat": 12.8,
+     "satfat": 3.4,
+     "sugar": 0.0,
+     "cholesterol": 104.0
+    },
+    {
+     "name": "Baba Ghannouj Eggplant Dip",
+     "portion": "2 ounces",
+     "kcal": 125,
+     "protein": 3.6,
+     "carbs": 10.7,
+     "fat": 8.9,
+     "satfat": 0.9,
+     "fiber": 1.8,
+     "sugar": 1.8,
+     "sodium": 223.2
+    },
+    {
+     "name": "Bread",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 5.2,
+     "carbs": 27.7,
+     "fat": 11.0,
+     "sodium": 269.0
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "2 each",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 11.5,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Grilled Chicken",
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Baba Ghannouj Eggplant Dip",
+    "Bread",
+    "Naan Bites"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-28-6",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Nectarines, Med, Fresh · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 265,
+   "protein": 7.5,
+   "carbs": 49.3,
+   "fat": 5.2,
+   "satfat": 0.5,
+   "fiber": 5.4,
+   "sugar": 19.9,
+   "sodium": 253.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Nectarines, Med, Fresh",
+     "portion": "1 each",
+     "kcal": 62,
+     "protein": 1.5,
+     "carbs": 15.0,
+     "fat": 0.5,
+     "satfat": 0.3,
+     "fiber": 2.4,
+     "sugar": 11.2,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Nectarines, Med, Fresh",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

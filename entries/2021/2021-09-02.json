@@ -1,0 +1,136 @@
+{
+ "date": "2021-09-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-09-02-1",
+   "name": "Peanut Butter, Natural, Crunchy · 21 Whole Grains & Seeds Organic Bread · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 358,
+   "protein": 13.8,
+   "carbs": 32.0,
+   "fat": 21.5,
+   "satfat": 3.8,
+   "fiber": 7.5,
+   "sugar": 8.8,
+   "sodium": 261.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Peanut Butter, Natural, Crunchy",
+     "portion": "2 1/2 tablespoons",
+     "kcal": 238,
+     "protein": 8.8,
+     "carbs": 10.0,
+     "fat": 20.0,
+     "satfat": 3.8,
+     "fiber": 2.5,
+     "sugar": 3.8,
+     "sodium": 81.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "1 piece",
+     "kcal": 110,
+     "protein": 5.0,
+     "carbs": 22.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 5.0,
+     "sodium": 170.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Peanut Butter, Natural, Crunchy",
+    "21 Whole Grains & Seeds Organic Bread",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-09-02-2",
+   "name": "Panera Mediterranean Grain Bowl · Bread, French Baguette · Panera 10 vegetable soup",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 840,
+   "protein": 35.0,
+   "carbs": 102.0,
+   "fat": 31.0,
+   "satfat": 0.0,
+   "fiber": 8.0,
+   "sugar": 6.0,
+   "sodium": 440.0,
+   "cholesterol": 55.0,
+   "components": [
+    {
+     "name": "Panera Mediterranean Grain Bowl",
+     "portion": "1 serving",
+     "kcal": 590,
+     "protein": 29.0,
+     "carbs": 66.0,
+     "fat": 30.0,
+     "fiber": 7.0,
+     "sugar": 6.0,
+     "cholesterol": 55.0
+    },
+    {
+     "name": "Bread, French Baguette",
+     "portion": "1 each",
+     "kcal": 180,
+     "protein": 6.0,
+     "carbs": 36.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 440.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Panera 10 vegetable soup",
+     "portion": "1 serving",
+     "kcal": 70
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Panera Mediterranean Grain Bowl",
+    "Bread, French Baguette",
+    "Panera 10 vegetable soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

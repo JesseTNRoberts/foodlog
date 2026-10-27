@@ -1,0 +1,379 @@
+{
+ "date": "2023-08-28",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-28-1",
+   "name": "Buffalo Chicken Wrapper · Honey Mustard Sauce",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 275,
+   "protein": 2.9,
+   "carbs": 10.7,
+   "fat": 4.6,
+   "satfat": 0.3,
+   "fiber": 0.1,
+   "sugar": 0.0,
+   "sodium": 88.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/4 serving",
+     "kcal": 225,
+     "protein": 2.8,
+     "carbs": 3.6,
+     "fat": 1.9
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "1 tablespoon",
+     "kcal": 50,
+     "protein": 0.1,
+     "carbs": 7.1,
+     "fat": 2.7,
+     "satfat": 0.3,
+     "fiber": 0.1,
+     "sugar": 0.0,
+     "sodium": 88.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Honey Mustard Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-28-2",
+   "name": "Chicken, Tenders, Breaded, 5pc · Dressing, Honey Mustard · Spinach, Baby, Fresh + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 601,
+   "protein": 43.3,
+   "carbs": 30.4,
+   "fat": 30.3,
+   "satfat": 6.5,
+   "fiber": 5.1,
+   "sugar": 12.5,
+   "sodium": 1745.8,
+   "cholesterol": 115.0,
+   "components": [
+    {
+     "name": "Chicken, Tenders, Breaded, 5pc",
+     "portion": "1 each",
+     "kcal": 440,
+     "protein": 41.0,
+     "carbs": 21.0,
+     "fat": 21.0,
+     "satfat": 4.5,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 1290.0,
+     "cholesterol": 115.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "3 tablespoons",
+     "kcal": 135,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 9.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 10.5,
+     "sodium": 405.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "2 cups",
+     "kcal": 14,
+     "protein": 1.7,
+     "carbs": 2.2,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.3,
+     "sugar": 0.2,
+     "sodium": 47.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "4 each",
+     "kcal": 12,
+     "protein": 0.6,
+     "carbs": 2.7,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 0.8,
+     "sugar": 1.8,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Tenders, Breaded, 5pc",
+    "Dressing, Honey Mustard",
+    "Spinach, Baby, Fresh",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-28-3",
+   "name": "Snack, Crunchy, Cheese-Less, Puffs",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 86,
+   "protein": 2.5,
+   "carbs": 7.4,
+   "fat": 5.5,
+   "satfat": 0.6,
+   "fiber": 1.9,
+   "sugar": 0.0,
+   "sodium": 104.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Snack, Crunchy, Cheese-Less, Puffs"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-28-4",
+   "name": "Sour Dough Bread Slice · Fries, Waffle, Medium · Spicy Chicken Sandwich + 6 more",
+   "portion": "Dinner · 9 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1254,
+   "protein": 62.4,
+   "carbs": 160.0,
+   "fat": 39.5,
+   "satfat": 8.5,
+   "fiber": 8.7,
+   "sugar": 48.5,
+   "sodium": 2969.9,
+   "cholesterol": 130.0,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "4 ounces",
+     "kcal": 279,
+     "protein": 10.5,
+     "carbs": 52.3,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 0.0,
+     "sodium": 558.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "2/3 serving",
+     "kcal": 240,
+     "protein": 3.3,
+     "carbs": 28.7,
+     "fat": 12.1,
+     "satfat": 0.0,
+     "fiber": 3.3,
+     "sugar": 0.0,
+     "sodium": 186.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/2 piece",
+     "kcal": 225,
+     "protein": 14.5,
+     "carbs": 20.5,
+     "fat": 9.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "12 fluid ounces",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 40.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 40.0,
+     "sodium": 55.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1 ounce",
+     "kcal": 110,
+     "protein": 7.0,
+     "carbs": 0.5,
+     "fat": 8.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 120.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "18 pieces",
+     "kcal": 104,
+     "protein": 1.4,
+     "carbs": 12.5,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sugar": 0.0,
+     "sodium": 79.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 18.0,
+     "carbs": 1.5,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 690.0,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Pork tenderloin lean grilled",
+     "portion": "2 ounces",
+     "kcal": 40,
+     "protein": 7.7,
+     "carbs": 0.0,
+     "fat": 0.8,
+     "satfat": 0.3,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 20.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "4 tablespoons",
+     "kcal": 16,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Fries, Waffle, Medium",
+    "Spicy Chicken Sandwich",
+    "Soda, Dr. Pepper",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Tortilla Chips, Bite Size Rounds",
+    "Turkey Breast, Santa Fe",
+    "Pork tenderloin lean grilled",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-28-5",
+   "name": "Moonpie Pumpkin Pie Minis (1 Pie)",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 50,
+   "protein": 0.5,
+   "carbs": 9.0,
+   "fat": 1.3,
+   "satfat": 0.8,
+   "fiber": 0.0,
+   "sugar": 49.5,
+   "sodium": 17.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Moonpie Pumpkin Pie Minis (1 Pie)",
+     "portion": "1/2 serving",
+     "kcal": 50,
+     "protein": 0.5,
+     "carbs": 9.0,
+     "fat": 1.3,
+     "satfat": 0.8,
+     "fiber": 0.0,
+     "sugar": 49.5,
+     "sodium": 17.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Moonpie Pumpkin Pie Minis (1 Pie)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

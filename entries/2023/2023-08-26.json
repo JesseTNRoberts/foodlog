@@ -1,0 +1,364 @@
+{
+ "date": "2023-08-26",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-26-1",
+   "name": "Apple Stack Cake",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 345,
+   "protein": 1.0,
+   "carbs": 60.0,
+   "fat": 10.0,
+   "satfat": 3.0,
+   "fiber": 1.0,
+   "sugar": 40.0,
+   "sodium": 226.0,
+   "cholesterol": 43.0,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1 serving",
+     "kcal": 345,
+     "protein": 1.0,
+     "carbs": 60.0,
+     "fat": 10.0,
+     "satfat": 3.0,
+     "fiber": 1.0,
+     "sugar": 40.0,
+     "sodium": 226.0,
+     "cholesterol": 43.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-26-2",
+   "name": "Chicken Wings, Boneless, Honey BBQ, Snack",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 148,
+   "protein": 6.8,
+   "carbs": 15.8,
+   "fat": 6.5,
+   "satfat": 2.5,
+   "fiber": 1.0,
+   "sugar": 4.5,
+   "sodium": 427.5,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Chicken Wings, Boneless, Honey BBQ, Snack",
+     "portion": "2 pieces",
+     "kcal": 148,
+     "protein": 6.8,
+     "carbs": 15.8,
+     "fat": 6.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 4.5,
+     "sodium": 427.5,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Wings, Boneless, Honey BBQ, Snack"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-26-3",
+   "name": "Sour Dough Bread Slice · Raw Goat Milk Mild Cheddar Cheese · Hot And Honey Chicken Breast + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 697,
+   "protein": 39.8,
+   "carbs": 81.2,
+   "fat": 23.9,
+   "satfat": 6.0,
+   "fiber": 4.8,
+   "sugar": 10.9,
+   "sodium": 2034.2,
+   "cholesterol": 90.8,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "3 ounces",
+     "kcal": 209,
+     "protein": 7.8,
+     "carbs": 39.2,
+     "fat": 2.6,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 0.0,
+     "sodium": 418.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1 ounce",
+     "kcal": 110,
+     "protein": 7.0,
+     "carbs": 0.5,
+     "fat": 8.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 120.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Hot And Honey Chicken Breast",
+     "portion": "3 ounces",
+     "kcal": 106,
+     "protein": 18.2,
+     "carbs": 4.6,
+     "fat": 2.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 4.6,
+     "sodium": 683.4,
+     "cholesterol": 60.8
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "3 each",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 17.2,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 165.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "14 pieces",
+     "kcal": 81,
+     "protein": 1.8,
+     "carbs": 9.7,
+     "fat": 3.8,
+     "satfat": 0.5,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 61.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Baba Ghannouj",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 5.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "4 tablespoons",
+     "kcal": 16,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Hot And Honey Chicken Breast",
+    "Naan Bites",
+    "Tortilla Chips, Bite Size Rounds",
+    "Baba Ghannouj",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-26-4",
+   "name": "Buffalo Chicken Wrapper · Fries Side · Red Beans + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1147,
+   "protein": 19.9,
+   "carbs": 100.4,
+   "fat": 81.2,
+   "satfat": 6.7,
+   "fiber": 8.2,
+   "sugar": 5.0,
+   "sodium": 1318.6,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/2 serving",
+     "kcal": 450,
+     "protein": 5.6,
+     "carbs": 7.2,
+     "fat": 3.8
+    },
+    {
+     "name": "Fries Side",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 5.0,
+     "carbs": 50.0,
+     "fat": 27.0,
+     "satfat": 5.0,
+     "fiber": 5.0,
+     "sugar": 1.0,
+     "sodium": 259.0
+    },
+    {
+     "name": "Red Beans",
+     "portion": "1 cup",
+     "kcal": 196,
+     "protein": 9.0,
+     "carbs": 29.0,
+     "fat": 45.0,
+     "satfat": 1.0,
+     "fiber": 3.0,
+     "sugar": 4.0,
+     "sodium": 882.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "2 tablespoons",
+     "kcal": 101,
+     "protein": 0.3,
+     "carbs": 14.2,
+     "fat": 5.4,
+     "satfat": 0.7,
+     "fiber": 0.2,
+     "sugar": 0.0,
+     "sodium": 177.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Fries Side",
+    "Red Beans",
+    "Honey Mustard Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-26-5",
+   "name": "Naan Bites · Hummus (original) · Cucumber, Small",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 277,
+   "protein": 8.4,
+   "carbs": 38.3,
+   "fat": 10.7,
+   "satfat": 0.6,
+   "fiber": 4.7,
+   "sugar": 6.1,
+   "sodium": 419.3,
+   "cholesterol": 13.4,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "4 each",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 23.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus (original)",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 195.0,
+     "cholesterol": 13.4
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Hummus (original)",
+    "Cucumber, Small"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

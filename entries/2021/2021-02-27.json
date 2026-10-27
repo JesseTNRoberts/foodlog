@@ -1,0 +1,270 @@
+{
+ "date": "2021-02-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-27-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 5,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 5.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-27-2",
+   "name": "Veggie Pizza · Half and Half Tea · Chips, Pita Thins, Sea Salt + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1044,
+   "protein": 29.4,
+   "carbs": 154.7,
+   "fat": 33.5,
+   "satfat": 3.5,
+   "fiber": 6.9,
+   "sugar": 48.5,
+   "sodium": 1144.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie Pizza",
+     "portion": "3 servings",
+     "kcal": 387,
+     "protein": 18.6,
+     "carbs": 58.2,
+     "fat": 7.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "2 servings",
+     "kcal": 184,
+     "protein": 0.0,
+     "carbs": 45.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 43.3,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "34 1/2 grams",
+     "kcal": 160,
+     "protein": 3.7,
+     "carbs": 24.6,
+     "fat": 4.9,
+     "satfat": 0.0,
+     "fiber": 1.2,
+     "sugar": 1.2,
+     "sodium": 246.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kickin’ Queso cashew Dip",
+     "portion": "1 ounce",
+     "kcal": 91,
+     "protein": 2.2,
+     "carbs": 4.5,
+     "fat": 8.1,
+     "satfat": 1.1,
+     "fiber": 1.1,
+     "sugar": 0.0,
+     "sodium": 151.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "4 pieces",
+     "kcal": 62,
+     "protein": 0.9,
+     "carbs": 8.4,
+     "fat": 2.7,
+     "satfat": 0.4,
+     "fiber": 0.9,
+     "sugar": 0.0,
+     "sodium": 51.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "1/4 cup",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie Pizza",
+    "Half and Half Tea",
+    "Chips, Pita Thins, Sea Salt",
+    "Hummus, spinach and artichoke",
+    "Kickin’ Queso cashew Dip",
+    "Tortilla Chips",
+    "Salsa, Chunky, Mild"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-27-3",
+   "name": "Veggie Pizza · Hamburger, Double Stack · Fries, Natural Cut, Large + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1215,
+   "protein": 45.9,
+   "carbs": 124.0,
+   "fat": 48.1,
+   "satfat": 11.2,
+   "fiber": 4.3,
+   "sugar": 6.8,
+   "sodium": 1477.5,
+   "cholesterol": 92.5,
+   "components": [
+    {
+     "name": "Veggie Pizza",
+     "portion": "3 servings",
+     "kcal": 387,
+     "protein": 18.6,
+     "carbs": 58.2,
+     "fat": 7.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hamburger, Double Stack",
+     "portion": "3/4 serving",
+     "kcal": 293,
+     "protein": 18.8,
+     "carbs": 18.8,
+     "fat": 15.8,
+     "satfat": 6.8,
+     "fiber": 0.8,
+     "sugar": 3.8,
+     "sodium": 802.5,
+     "cholesterol": 67.5
+    },
+    {
+     "name": "Fries, Natural Cut, Large",
+     "portion": "1/2 serving",
+     "kcal": 265,
+     "protein": 3.5,
+     "carbs": 35.0,
+     "fat": 12.0,
+     "satfat": 2.2,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Value Dr. Pepper",
+     "portion": "1 serving",
+     "kcal": 100
+    },
+    {
+     "name": "Chicken Nuggets, 4 Piece",
+     "portion": "1/2 serving",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 5.0,
+     "fat": 6.5,
+     "satfat": 1.2,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 195.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Honey Mustard Dipping Sauce",
+     "portion": "1 serving",
+     "kcal": 80,
+     "protein": 0.0,
+     "carbs": 7.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 220.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie Pizza",
+    "Hamburger, Double Stack",
+    "Fries, Natural Cut, Large",
+    "Value Dr. Pepper",
+    "Chicken Nuggets, 4 Piece",
+    "Honey Mustard Dipping Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

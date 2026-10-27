@@ -1,0 +1,62 @@
+{
+ "date": "2021-06-22",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-06-22-1",
+   "name": "Custom Smoothy 1 · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 244,
+   "protein": 5.7,
+   "carbs": 46.4,
+   "fat": 3.6,
+   "satfat": 0.5,
+   "fiber": 9.8,
+   "sugar": 22.4,
+   "sodium": 41.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Custom Smoothy 1",
+     "portion": "1 serving",
+     "kcal": 234,
+     "protein": 5.7,
+     "carbs": 46.4,
+     "fat": 3.6,
+     "satfat": 0.5,
+     "fiber": 9.8,
+     "sugar": 22.4,
+     "sodium": 31.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Custom Smoothy 1",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

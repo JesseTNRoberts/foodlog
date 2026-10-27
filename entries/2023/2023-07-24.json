@@ -1,0 +1,459 @@
+{
+ "date": "2023-07-24",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-24-1",
+   "name": "Chicken Finger · Sauce, Cane's · Fries, Crinkle Cut",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 595,
+   "protein": 28.0,
+   "carbs": 34.0,
+   "fat": 35.5,
+   "satfat": 4.0,
+   "fiber": 2.0,
+   "sugar": 4.0,
+   "sodium": 1055.0,
+   "cholesterol": 70.0,
+   "components": [
+    {
+     "name": "Chicken Finger",
+     "portion": "2 pieces",
+     "kcal": 240,
+     "protein": 26.0,
+     "carbs": 8.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 460.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 550.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Fries, Crinkle Cut",
+     "portion": "1/2 serving",
+     "kcal": 165,
+     "protein": 2.0,
+     "carbs": 21.0,
+     "fat": 7.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Finger",
+    "Sauce, Cane's",
+    "Fries, Crinkle Cut"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-24-2",
+   "name": "Breakfast Caserole · Tortilla Chips, Bite Size Rounds · Black Bean Salsa + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 454,
+   "protein": 21.6,
+   "carbs": 25.8,
+   "fat": 28.4,
+   "satfat": 8.4,
+   "fiber": 3.8,
+   "sugar": 2.7,
+   "sodium": 1095.9,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Breakfast Caserole",
+     "portion": "1 serving",
+     "kcal": 362,
+     "protein": 19.2,
+     "carbs": 13.4,
+     "fat": 24.4,
+     "satfat": 7.9,
+     "fiber": 1.9,
+     "sugar": 1.2,
+     "sodium": 894.5,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "9 pieces",
+     "kcal": 52,
+     "protein": 0.7,
+     "carbs": 6.2,
+     "fat": 2.4,
+     "satfat": 0.3,
+     "fiber": 0.3,
+     "sugar": 0.0,
+     "sodium": 39.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Black Bean Salsa",
+     "portion": "3 tablespoons",
+     "kcal": 23,
+     "protein": 1.5,
+     "carbs": 4.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 1.5,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Corn, Scoops",
+     "portion": "3 grams",
+     "kcal": 17,
+     "protein": 0.2,
+     "carbs": 1.7,
+     "fat": 1.6,
+     "satfat": 0.2,
+     "fiber": 0.1,
+     "sugar": 0.0,
+     "sodium": 11.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Breakfast Caserole",
+    "Tortilla Chips, Bite Size Rounds",
+    "Black Bean Salsa",
+    "Chips, Corn, Scoops"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-24-3",
+   "name": "Bagel, Plain, Mini · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew + 2 more",
+   "portion": "Afternoon Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 186,
+   "protein": 5.2,
+   "carbs": 27.7,
+   "fat": 6.3,
+   "satfat": 3.1,
+   "fiber": 1.4,
+   "sugar": 9.7,
+   "sodium": 285.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bagel, Plain, Mini",
+     "portion": "1/2 each",
+     "kcal": 60,
+     "protein": 2.0,
+     "carbs": 12.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 1.5,
+     "sodium": 105.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/4 cup",
+     "kcal": 40,
+     "protein": 0.7,
+     "carbs": 7.7,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 2.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/4 cup",
+     "kcal": 33,
+     "protein": 2.5,
+     "carbs": 0.8,
+     "fat": 2.0,
+     "satfat": 0.1,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 55.0
+    },
+    {
+     "name": "Philadelphia Vegan Cream Cheese",
+     "portion": "1 tablespoon",
+     "kcal": 30,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 3.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 85.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chokecherry Syrup",
+     "portion": "2 teaspoons",
+     "kcal": 23,
+     "protein": 0.0,
+     "carbs": 6.2,
+     "fat": 0.0,
+     "sugar": 5.7,
+     "sodium": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bagel, Plain, Mini",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Philadelphia Vegan Cream Cheese",
+    "Chokecherry Syrup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-24-4",
+   "name": "Salmon, Wild, Grilled · Anything sauce Creole · Hibachi Vegetables + 5 more",
+   "portion": "Dinner · 8 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 803,
+   "protein": 53.5,
+   "carbs": 48.0,
+   "fat": 53.6,
+   "satfat": 7.0,
+   "fiber": 5.0,
+   "sugar": 3.0,
+   "sodium": 868.8,
+   "cholesterol": 137.6,
+   "components": [
+    {
+     "name": "Salmon, Wild, Grilled",
+     "portion": "7 ounces",
+     "kcal": 409,
+     "protein": 43.7,
+     "carbs": 0.0,
+     "fat": 24.5,
+     "satfat": 4.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 120.6,
+     "cholesterol": 125.1
+    },
+    {
+     "name": "Anything sauce Creole",
+     "portion": "1 tablespoon",
+     "kcal": 195,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 22.5,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 540.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hibachi Vegetables",
+     "portion": "1/3 serving",
+     "kcal": 87,
+     "protein": 1.3,
+     "carbs": 21.6,
+     "fat": 2.0,
+     "satfat": 0.3,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 159.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "FrIed Rice",
+     "portion": "1/3 serving",
+     "kcal": 48,
+     "protein": 2.3,
+     "carbs": 16.0,
+     "fat": 2.3,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 28,
+     "protein": 2.0,
+     "carbs": 5.5,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 2.5,
+     "sugar": 1.4,
+     "sodium": 16.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pork tenderloin lean grilled",
+     "portion": "1 ounce",
+     "kcal": 20,
+     "protein": 3.8,
+     "carbs": 0.0,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 12.5
+    },
+    {
+     "name": "Carrots, Medium",
+     "portion": "1/2 each",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 2.9,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 0.8,
+     "sugar": 1.4,
+     "sodium": 21.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pepper, Poblano",
+     "portion": "1 gram",
+     "kcal": 3,
+     "protein": 0.1,
+     "carbs": 0.5,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "sugar": 0.2,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon, Wild, Grilled",
+    "Anything sauce Creole",
+    "Hibachi Vegetables",
+    "FrIed Rice",
+    "Brussels Sprouts, Steamed",
+    "Pork tenderloin lean grilled",
+    "Carrots, Medium",
+    "Pepper, Poblano"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-24-5",
+   "name": "Banana Pudding With Vanilla Wafers · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 226,
+   "protein": 5.2,
+   "carbs": 33.7,
+   "fat": 7.8,
+   "satfat": 0.2,
+   "fiber": 1.2,
+   "sugar": 10.9,
+   "sodium": 126.6,
+   "cholesterol": 115.0,
+   "components": [
+    {
+     "name": "Banana Pudding With Vanilla Wafers",
+     "portion": "1/2 cup",
+     "kcal": 130,
+     "protein": 1.0,
+     "carbs": 22.5,
+     "fat": 4.0,
+     "sugar": 7.5,
+     "cholesterol": 115.0
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/3 cup",
+     "kcal": 53,
+     "protein": 0.9,
+     "carbs": 10.2,
+     "fat": 1.1,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 53.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana Pudding With Vanilla Wafers",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "date": "2023-03-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-03-20-1",
+   "name": "JUST Egg, Plant-Based Scramble · Oil, Olive, Extra Virgin · Tomatoes, Campari + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 543,
+   "protein": 29.7,
+   "carbs": 11.0,
+   "fat": 40.2,
+   "satfat": 2.0,
+   "fiber": 1.5,
+   "sugar": 2.0,
+   "sodium": 928.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "JUST Egg, Plant-Based Scramble",
+     "portion": "1 cup",
+     "kcal": 373,
+     "protein": 26.7,
+     "carbs": 5.3,
+     "fat": 26.7,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 906.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1 tablespoon",
+     "kcal": 119,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Whole Baby Bellas",
+     "portion": "2 ounces",
+     "kcal": 13,
+     "protein": 2.0,
+     "carbs": 1.7,
+     "fat": 0.0,
+     "fiber": 0.7,
+     "sodium": 10.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "JUST Egg, Plant-Based Scramble",
+    "Oil, Olive, Extra Virgin",
+    "Tomatoes, Campari",
+    "Whole Baby Bellas",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-03-20-2",
+   "name": "Fries, Waffle, Medium · Sauce, Honey Roasted BBQ · Dr Pepper Medium",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 570,
+   "protein": 5.0,
+   "carbs": 73.0,
+   "fat": 28.0,
+   "satfat": 2.0,
+   "fiber": 5.0,
+   "sugar": 28.0,
+   "sodium": 430.0,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1 serving",
+     "kcal": 360,
+     "protein": 5.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "2 servings",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 150.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1/2 serving",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 24.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 24.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle, Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Dr Pepper Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-03-20-3",
+   "name": "Mediterranean Chickpea Salad · Pita Chips, Fire Roasted Jalapeno · Babaganoush",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 562,
+   "protein": 11.0,
+   "carbs": 55.1,
+   "fat": 33.2,
+   "satfat": 4.1,
+   "fiber": 10.4,
+   "sugar": 5.2,
+   "sodium": 702.7,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Mediterranean Chickpea Salad",
+     "portion": "1 serving",
+     "kcal": 312,
+     "protein": 8.0,
+     "carbs": 33.5,
+     "fat": 17.5,
+     "satfat": 2.4,
+     "fiber": 8.0,
+     "sugar": 2.4,
+     "sodium": 254.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 18.0,
+     "fat": 5.0,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.9,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Babaganoush",
+     "portion": "1/3 cup",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 3.6,
+     "fat": 10.7,
+     "satfat": 1.7,
+     "fiber": 1.9,
+     "sugar": 1.9,
+     "sodium": 168.5,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Mediterranean Chickpea Salad",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Babaganoush"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-03-20-4",
+   "name": "Super Dark Chocolate Peanut Butter Cups",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 130,
+   "protein": 2.0,
+   "carbs": 8.0,
+   "fat": 10.0,
+   "satfat": 5.0,
+   "fiber": 1.0,
+   "sugar": 5.0,
+   "sodium": 75.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Super Dark Chocolate Peanut Butter Cups",
+     "portion": "1 serving",
+     "kcal": 130,
+     "protein": 2.0,
+     "carbs": 8.0,
+     "fat": 10.0,
+     "satfat": 5.0,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 75.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Super Dark Chocolate Peanut Butter Cups"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

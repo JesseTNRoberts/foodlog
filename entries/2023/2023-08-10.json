@@ -1,0 +1,352 @@
+{
+ "date": "2023-08-10",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-10-1",
+   "name": "Sauce, Cane's · Chicken Finger · Fries, Waffle, Medium",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 785,
+   "protein": 39.6,
+   "carbs": 27.4,
+   "fat": 53.2,
+   "satfat": 6.0,
+   "fiber": 0.6,
+   "sugar": 8.0,
+   "sodium": 1825.0,
+   "cholesterol": 110.0,
+   "components": [
+    {
+     "name": "Sauce, Cane's",
+     "portion": "2 servings",
+     "kcal": 380,
+     "protein": 0.0,
+     "carbs": 10.0,
+     "fat": 36.0,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 1100.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Chicken Finger",
+     "portion": "3 pieces",
+     "kcal": 360,
+     "protein": 39.0,
+     "carbs": 12.0,
+     "fat": 15.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 690.0,
+     "cholesterol": 90.0
+    },
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1/8 serving",
+     "kcal": 45,
+     "protein": 0.6,
+     "carbs": 5.4,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.6,
+     "sugar": 0.0,
+     "sodium": 35.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sauce, Cane's",
+    "Chicken Finger",
+    "Fries, Waffle, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-10-2",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Cauliflower Dip, Spicy Queso",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 260,
+   "protein": 5.0,
+   "carbs": 43.6,
+   "fat": 8.1,
+   "satfat": 0.9,
+   "fiber": 4.3,
+   "sugar": 2.5,
+   "sodium": 141.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 1/3 cups",
+     "kcal": 235,
+     "protein": 3.9,
+     "carbs": 41.9,
+     "fat": 6.4,
+     "satfat": 0.9,
+     "fiber": 3.7,
+     "sugar": 1.9,
+     "sodium": 8.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "2/3 ounce",
+     "kcal": 25,
+     "protein": 1.1,
+     "carbs": 1.7,
+     "fat": 1.7,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 133.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Cauliflower Dip, Spicy Queso"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-10-3",
+   "name": "Chocolate Chip Crunchy Cookie",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 160,
+   "protein": 6.0,
+   "carbs": 14.0,
+   "fat": 8.0,
+   "satfat": 3.5,
+   "fiber": 4.0,
+   "sugar": 8.0,
+   "sodium": 130.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "6 pieces",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 14.0,
+     "fat": 8.0,
+     "satfat": 3.5,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-10-4",
+   "name": "Crawfish Creole Pasta · Pork Tenderloin, Chop, Baked · Yellow Potatoes, Roasted w/ Oil + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 461,
+   "protein": 27.9,
+   "carbs": 45.5,
+   "fat": 16.2,
+   "satfat": 4.7,
+   "fiber": 5.4,
+   "sugar": 6.5,
+   "sodium": 347.7,
+   "cholesterol": 72.3,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/3 serving",
+     "kcal": 172,
+     "protein": 5.3,
+     "carbs": 23.4,
+     "fat": 6.4,
+     "satfat": 2.3,
+     "fiber": 3.1,
+     "sugar": 5.2,
+     "sodium": 200.3,
+     "cholesterol": 9.6
+    },
+    {
+     "name": "Pork Tenderloin, Chop, Baked",
+     "portion": "4 ounces",
+     "kcal": 153,
+     "protein": 19.9,
+     "carbs": 0.0,
+     "fat": 5.4,
+     "satfat": 1.9,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 42.7,
+     "cholesterol": 62.7
+    },
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "2/3 cup",
+     "kcal": 117,
+     "protein": 1.9,
+     "carbs": 20.9,
+     "fat": 3.2,
+     "satfat": 0.5,
+     "fiber": 1.9,
+     "sugar": 0.9,
+     "sodium": 4.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "1/2 ounce",
+     "kcal": 19,
+     "protein": 0.8,
+     "carbs": 1.2,
+     "fat": 1.2,
+     "fiber": 0.4,
+     "sugar": 0.4,
+     "sodium": 100.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Pork Tenderloin, Chop, Baked",
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Cauliflower Dip, Spicy Queso"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-10-5",
+   "name": "Oat Milk Ranch Dressing · Brooklyn Flatbread with Goat Cheese · Homestyle Croutons Caesar + 2 more",
+   "portion": "Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 420,
+   "protein": 9.9,
+   "carbs": 42.4,
+   "fat": 24.7,
+   "satfat": 3.0,
+   "fiber": 5.2,
+   "sugar": 3.3,
+   "sodium": 1218.5,
+   "cholesterol": 7.5,
+   "components": [
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 14.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 540.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brooklyn Flatbread with Goat Cheese",
+     "portion": "1/4 serving",
+     "kcal": 126,
+     "protein": 3.7,
+     "carbs": 11.9,
+     "fat": 6.5,
+     "satfat": 1.6,
+     "fiber": 1.1,
+     "sugar": 1.7,
+     "sodium": 273.0,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spring Mix, Organic",
+     "portion": "2 cups",
+     "kcal": 20,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 95.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kale, All Varieties, Raw, Chopped",
+     "portion": "2 cups",
+     "kcal": 14,
+     "protein": 1.2,
+     "carbs": 2.5,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.1,
+     "sugar": 0.6,
+     "sodium": 10.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oat Milk Ranch Dressing",
+    "Brooklyn Flatbread with Goat Cheese",
+    "Homestyle Croutons Caesar",
+    "Spring Mix, Organic",
+    "Kale, All Varieties, Raw, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "date": "2023-06-16",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-16-1",
+   "name": "Crawfish Creole Pasta · jalapeno popper",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 606,
+   "protein": 17.5,
+   "carbs": 65.7,
+   "fat": 30.4,
+   "satfat": 8.4,
+   "fiber": 9.1,
+   "sugar": 14.6,
+   "sodium": 749.9,
+   "cholesterol": 28.8,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 462,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 18.7,
+     "satfat": 6.9,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 433.5,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "jalapeno popper",
+     "portion": "2 servings",
+     "kcal": 144,
+     "protein": 4.0,
+     "carbs": 7.1,
+     "fat": 11.7,
+     "satfat": 1.5,
+     "fiber": 2.4,
+     "sugar": 2.9,
+     "sodium": 316.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "jalapeno popper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-16-2",
+   "name": "Crawfish Creole Pasta",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 462,
+   "protein": 13.5,
+   "carbs": 58.6,
+   "fat": 18.7,
+   "satfat": 6.9,
+   "fiber": 6.7,
+   "sugar": 11.7,
+   "sodium": 433.5,
+   "cholesterol": 28.8,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 462,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 18.7,
+     "satfat": 6.9,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 433.5,
+     "cholesterol": 28.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-16-3",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 147,
+   "protein": 5.5,
+   "carbs": 7.3,
+   "fat": 11.9,
+   "satfat": 1.4,
+   "fiber": 2.8,
+   "sugar": 1.8,
+   "sodium": 174.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "45 pieces",
+     "kcal": 147,
+     "protein": 5.5,
+     "carbs": 7.3,
+     "fat": 11.9,
+     "satfat": 1.4,
+     "fiber": 2.8,
+     "sugar": 1.8,
+     "sodium": 174.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-16-4",
+   "name": "Honey Pistachio Energy Squares · Well Yes! New England Clam Chowder · Fish, Sardines, In Mustard & Dill Sauce + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 920,
+   "protein": 43.0,
+   "carbs": 89.0,
+   "fat": 46.0,
+   "satfat": 9.0,
+   "fiber": 10.5,
+   "sugar": 28.0,
+   "sodium": 2290.0,
+   "cholesterol": 110.0,
+   "components": [
+    {
+     "name": "Honey Pistachio Energy Squares",
+     "portion": "3 ounces",
+     "kcal": 360,
+     "protein": 15.0,
+     "carbs": 36.0,
+     "fat": 21.0,
+     "satfat": 3.0,
+     "fiber": 6.0,
+     "sugar": 24.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Well Yes! New England Clam Chowder",
+     "portion": "1 can",
+     "kcal": 270,
+     "protein": 10.0,
+     "carbs": 30.0,
+     "fat": 12.0,
+     "satfat": 1.5,
+     "fiber": 4.0,
+     "sugar": 2.0,
+     "sodium": 1310.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Fish, Sardines, In Mustard & Dill Sauce",
+     "portion": "1 package",
+     "kcal": 150,
+     "protein": 16.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 580.0,
+     "cholesterol": 100.0
+    },
+    {
+     "name": "Pretzels, Pieces, Jalapeño",
+     "portion": "1 serving",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 20.0,
+     "fat": 5.0,
+     "satfat": 3.0,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 370.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Honey Pistachio Energy Squares",
+    "Well Yes! New England Clam Chowder",
+    "Fish, Sardines, In Mustard & Dill Sauce",
+    "Pretzels, Pieces, Jalapeño"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

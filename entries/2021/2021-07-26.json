@@ -1,0 +1,187 @@
+{
+ "date": "2021-07-26",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-26-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-26-2",
+   "name": "Amys Vegan Broccoli & Cheeze Bake · Tortilla Chips · Salsa, Chunky, Med + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 759,
+   "protein": 13.6,
+   "carbs": 101.8,
+   "fat": 17.7,
+   "satfat": 8.8,
+   "fiber": 10.6,
+   "sugar": 14.0,
+   "sodium": 1964.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Amys Vegan Broccoli & Cheeze Bake",
+     "portion": "1 serving",
+     "kcal": 450,
+     "protein": 9.0,
+     "carbs": 55.0,
+     "fat": 7.0,
+     "satfat": 7.0,
+     "fiber": 5.0,
+     "sugar": 3.0,
+     "sodium": 850.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "16 pieces",
+     "kcal": 249,
+     "protein": 3.6,
+     "carbs": 33.8,
+     "fat": 10.7,
+     "satfat": 1.8,
+     "fiber": 3.6,
+     "sugar": 0.0,
+     "sodium": 204.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "7 tablespoons",
+     "kcal": 35,
+     "protein": 0.0,
+     "carbs": 7.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 7.0,
+     "sodium": 805.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Paste",
+     "portion": "2 tablespoons",
+     "kcal": 25,
+     "protein": 1.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 105.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Amys Vegan Broccoli & Cheeze Bake",
+    "Tortilla Chips",
+    "Salsa, Chunky, Med",
+    "Tomatoes, Paste"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-26-3",
+   "name": "Daiya New York Style Cheezecake · Burrito, Soft Veggie",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1060,
+   "protein": 23.5,
+   "carbs": 125.5,
+   "fat": 51.5,
+   "satfat": 31.0,
+   "fiber": 15.0,
+   "sugar": 28.5,
+   "sodium": 3176.0,
+   "cholesterol": 25.0,
+   "components": [
+    {
+     "name": "Daiya New York Style Cheezecake",
+     "portion": "1 1/2 servings",
+     "kcal": 540,
+     "protein": 4.5,
+     "carbs": 52.5,
+     "fat": 34.5,
+     "satfat": 24.0,
+     "fiber": 3.0,
+     "sugar": 25.5,
+     "sodium": 645.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burrito, Soft Veggie",
+     "portion": "1 serving",
+     "kcal": 520,
+     "protein": 19.0,
+     "carbs": 73.0,
+     "fat": 17.0,
+     "satfat": 7.0,
+     "fiber": 12.0,
+     "sugar": 3.0,
+     "sodium": 2531.0,
+     "cholesterol": 25.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Daiya New York Style Cheezecake",
+    "Burrito, Soft Veggie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

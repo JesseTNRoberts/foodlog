@@ -1,0 +1,127 @@
+{
+ "date": "2023-07-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-02-1",
+   "name": "Cheddar's · Fries Side · Honey Mustard Sauce + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1984,
+   "protein": 64.7,
+   "carbs": 172.5,
+   "fat": 116.5,
+   "satfat": 33.6,
+   "fiber": 9.6,
+   "sugar": 7.0,
+   "sodium": 1908.0,
+   "cholesterol": 228.0,
+   "components": [
+    {
+     "name": "Cheddar's",
+     "portion": "1 serving",
+     "kcal": 1087,
+     "protein": 59.0,
+     "carbs": 50.0,
+     "fat": 70.0,
+     "satfat": 27.0,
+     "fiber": 4.0,
+     "sugar": 6.0,
+     "sodium": 1205.0,
+     "cholesterol": 208.0
+    },
+    {
+     "name": "Fries Side",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 5.0,
+     "carbs": 50.0,
+     "fat": 27.0,
+     "satfat": 5.0,
+     "fiber": 5.0,
+     "sugar": 1.0,
+     "sodium": 259.0
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "5 tablespoons",
+     "kcal": 252,
+     "protein": 0.7,
+     "carbs": 35.5,
+     "fat": 13.5,
+     "satfat": 1.6,
+     "fiber": 0.6,
+     "sugar": 0.0,
+     "sodium": 444.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheddar's Red Beans and Rice",
+     "portion": "1 serving",
+     "kcal": 245,
+     "carbs": 37.0,
+     "fat": 6.0,
+     "sugar": 0.0,
+     "cholesterol": 20.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cheddar's",
+    "Fries Side",
+    "Honey Mustard Sauce",
+    "Cheddar's Red Beans and Rice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-02-2",
+   "name": "Dessert, Apple Crisp, Homemade",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 183,
+   "protein": 2.0,
+   "carbs": 35.0,
+   "fat": 3.9,
+   "satfat": 0.8,
+   "fiber": 1.6,
+   "sugar": 22.3,
+   "sodium": 398.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Dessert, Apple Crisp, Homemade",
+     "portion": "4 ounces",
+     "kcal": 183,
+     "protein": 2.0,
+     "carbs": 35.0,
+     "fat": 3.9,
+     "satfat": 0.8,
+     "fiber": 1.6,
+     "sugar": 22.3,
+     "sodium": 398.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Dessert, Apple Crisp, Homemade"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

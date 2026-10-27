@@ -1,0 +1,271 @@
+{
+ "date": "2023-09-15",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-15-1",
+   "name": "Avocado, Small · Greek Pita Bread, Flatbread, White · Tomatoes, Campari",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 475,
+   "protein": 10.7,
+   "carbs": 56.8,
+   "fat": 24.0,
+   "satfat": 2.9,
+   "fiber": 13.0,
+   "sugar": 6.4,
+   "sodium": 433.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Small",
+     "portion": "1 each",
+     "kcal": 227,
+     "protein": 2.7,
+     "carbs": 11.8,
+     "fat": 21.0,
+     "satfat": 2.9,
+     "fiber": 9.2,
+     "sugar": 0.4,
+     "sodium": 10.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greek Pita Bread, Flatbread, White",
+     "portion": "80 grams",
+     "kcal": 220,
+     "protein": 7.0,
+     "carbs": 41.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 4.0,
+     "sodium": 420.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Small",
+    "Greek Pita Bread, Flatbread, White",
+    "Tomatoes, Campari"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-15-2",
+   "name": "Protein and Nutmilk, Almond and Cashew · Naan Bites · Cereal, Honey Bunches of Oats, Honey Roasted + 2 more",
+   "portion": "Afternoon Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 639,
+   "protein": 25.9,
+   "carbs": 75.0,
+   "fat": 25.8,
+   "satfat": 0.9,
+   "fiber": 7.6,
+   "sugar": 14.2,
+   "sodium": 1286.2,
+   "cholesterol": 13.4,
+   "components": [
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 1/2 cups",
+     "kcal": 195,
+     "protein": 15.0,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 330.0
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "5 each",
+     "kcal": 175,
+     "protein": 5.0,
+     "carbs": 28.8,
+     "fat": 3.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.2,
+     "sodium": 275.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus (original)",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 195.0,
+     "cholesterol": 13.4
+    },
+    {
+     "name": "Pickles, Dill, Spears",
+     "portion": "1 each",
+     "kcal": 4,
+     "protein": 0.2,
+     "carbs": 0.9,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 0.4,
+     "sugar": 0.5,
+     "sodium": 306.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Protein and Nutmilk, Almond and Cashew",
+    "Naan Bites",
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Hummus (original)",
+    "Pickles, Dill, Spears"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-15-3",
+   "name": "Fries, Crinkle Cut · Bread, Texas Toast · Sauce, Cane's + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1280,
+   "protein": 38.0,
+   "carbs": 138.8,
+   "fat": 62.0,
+   "satfat": 8.5,
+   "fiber": 6.0,
+   "sugar": 48.5,
+   "sodium": 2000.8,
+   "cholesterol": 75.0,
+   "components": [
+    {
+     "name": "Fries, Crinkle Cut",
+     "portion": "1 serving",
+     "kcal": 330,
+     "protein": 4.0,
+     "carbs": 42.0,
+     "fat": 15.0,
+     "satfat": 2.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Texas Toast",
+     "portion": "2 servings",
+     "kcal": 300,
+     "protein": 8.0,
+     "carbs": 48.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 10.0,
+     "sodium": 580.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 1/2 servings",
+     "kcal": 285,
+     "protein": 0.0,
+     "carbs": 7.5,
+     "fat": 27.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 825.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Chicken Finger",
+     "portion": "2 pieces",
+     "kcal": 240,
+     "protein": 26.0,
+     "carbs": 8.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 460.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Soda, Dr Pepper",
+     "portion": "10 fluid ounces",
+     "kcal": 125,
+     "protein": 0.0,
+     "carbs": 33.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 32.5,
+     "sodium": 45.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Crinkle Cut",
+    "Bread, Texas Toast",
+    "Sauce, Cane's",
+    "Chicken Finger",
+    "Soda, Dr Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

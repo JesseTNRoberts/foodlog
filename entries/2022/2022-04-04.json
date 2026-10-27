@@ -1,0 +1,48 @@
+{
+ "date": "2022-04-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-04-1",
+   "name": "Spicy Chicken Biscuit",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 450,
+   "protein": 16.0,
+   "carbs": 50.0,
+   "fat": 21.0,
+   "satfat": 8.0,
+   "fiber": 2.0,
+   "sugar": 6.0,
+   "sodium": 1260.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Biscuit",
+     "portion": "1 serving",
+     "kcal": 450,
+     "protein": 16.0,
+     "carbs": 50.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1260.0,
+     "cholesterol": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Biscuit"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

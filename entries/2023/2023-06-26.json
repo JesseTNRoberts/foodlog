@@ -1,0 +1,351 @@
+{
+ "date": "2023-06-26",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-26-1",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 203,
+   "protein": 6.0,
+   "carbs": 34.3,
+   "fat": 4.7,
+   "satfat": 0.2,
+   "fiber": 3.0,
+   "sugar": 8.7,
+   "sodium": 253.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-26-2",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Grilled Chicken",
+   "portion": "Morning Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 176,
+   "protein": 27.4,
+   "carbs": 0.0,
+   "fat": 6.9,
+   "satfat": 1.7,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 37.5,
+   "cholesterol": 84.5,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "2 ounces",
+     "kcal": 116,
+     "protein": 14.4,
+     "carbs": 0.0,
+     "fat": 6.4,
+     "satfat": 1.7,
+     "sugar": 0.0,
+     "cholesterol": 52.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 13.0,
+     "carbs": 0.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 37.5,
+     "cholesterol": 32.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-26-3",
+   "name": "Salmon, baked or broiled · Vegan Dressing and Spread · Asparagus, Grilled w/ Oil",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 355,
+   "protein": 23.5,
+   "carbs": 2.7,
+   "fat": 25.6,
+   "satfat": 2.6,
+   "fiber": 1.9,
+   "sugar": 1.3,
+   "sodium": 633.8,
+   "cholesterol": 57.0,
+   "components": [
+    {
+     "name": "Salmon, baked or broiled",
+     "portion": "4 ounces",
+     "kcal": 180,
+     "protein": 22.1,
+     "carbs": 0.1,
+     "fat": 7.0,
+     "satfat": 1.2,
+     "fiber": 0.5,
+     "sugar": 0.1,
+     "sodium": 430.0,
+     "cholesterol": 57.0
+    },
+    {
+     "name": "Vegan Dressing and Spread",
+     "portion": "1 ounce",
+     "kcal": 142,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 16.2,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 202.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Asparagus, Grilled w/ Oil",
+     "portion": "2 1/3 ounces",
+     "kcal": 33,
+     "protein": 1.4,
+     "carbs": 2.6,
+     "fat": 2.4,
+     "satfat": 0.3,
+     "fiber": 1.4,
+     "sugar": 1.2,
+     "sodium": 1.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon, baked or broiled",
+    "Vegan Dressing and Spread",
+    "Asparagus, Grilled w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-26-4",
+   "name": "Fries, Waffle, Medium · Spicy Chicken Sandwich · Dr Pepper Medium",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 810,
+   "protein": 22.4,
+   "carbs": 115.6,
+   "fat": 29.4,
+   "satfat": 3.0,
+   "fiber": 6.2,
+   "sugar": 51.0,
+   "sodium": 1240.0,
+   "cholesterol": 36.0,
+   "components": [
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1 serving",
+     "kcal": 360,
+     "protein": 5.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "0.6 piece",
+     "kcal": 270,
+     "protein": 17.4,
+     "carbs": 24.6,
+     "fat": 11.4,
+     "satfat": 3.0,
+     "fiber": 1.2,
+     "sugar": 3.0,
+     "sodium": 960.0,
+     "cholesterol": 36.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle, Medium",
+    "Spicy Chicken Sandwich",
+    "Dr Pepper Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-26-5",
+   "name": "Plant-based Ranch Dressing · Homestyle Croutons Caesar · Grilled Chicken + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 304,
+   "protein": 12.1,
+   "carbs": 21.8,
+   "fat": 19.0,
+   "satfat": 2.0,
+   "fiber": 2.8,
+   "sugar": 3.9,
+   "sodium": 692.1,
+   "cholesterol": 16.2,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 16.5,
+     "satfat": 1.5,
+     "sugar": 1.5,
+     "sodium": 450.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/4 cup",
+     "kcal": 60,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.5,
+     "carbs": 0.0,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 18.8,
+     "cholesterol": 16.2
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "3 cups",
+     "kcal": 21,
+     "protein": 2.6,
+     "carbs": 3.3,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 0.4,
+     "sodium": 71.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Homestyle Croutons Caesar",
+    "Grilled Chicken",
+    "Tomatoes, Campari",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

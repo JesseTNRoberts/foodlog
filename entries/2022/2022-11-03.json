@@ -1,0 +1,253 @@
+{
+ "date": "2022-11-03",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-11-03-1",
+   "name": "Breakfast Sandwich, Chicken Biscuit · Fries, Waffle, Medium · Dr Pepper Medium + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 1165,
+   "protein": 21.0,
+   "carbs": 148.0,
+   "fat": 53.0,
+   "satfat": 11.0,
+   "fiber": 7.0,
+   "sugar": 60.0,
+   "sodium": 1720.0,
+   "cholesterol": 45.0,
+   "components": [
+    {
+     "name": "Breakfast Sandwich, Chicken Biscuit",
+     "portion": "1 each",
+     "kcal": 440,
+     "protein": 16.0,
+     "carbs": 48.0,
+     "fat": 20.0,
+     "satfat": 8.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1210.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1 serving",
+     "kcal": 360,
+     "protein": 5.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 225.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Breakfast Sandwich, Chicken Biscuit",
+    "Fries, Waffle, Medium",
+    "Dr Pepper Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-03-2",
+   "name": "Buffalo Chicken Wrapper Fried",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1640,
+   "protein": 65.0,
+   "carbs": 119.0,
+   "fat": 101.0,
+   "satfat": 24.0,
+   "fiber": 9.0,
+   "sugar": 16.0,
+   "sodium": 4741.0,
+   "cholesterol": 87.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper Fried",
+     "portion": "1 serving",
+     "kcal": 1640,
+     "protein": 65.0,
+     "carbs": 119.0,
+     "fat": 101.0,
+     "satfat": 24.0,
+     "fiber": 9.0,
+     "sugar": 16.0,
+     "sodium": 4741.0,
+     "cholesterol": 87.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper Fried"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-03-3",
+   "name": "Plant-based Ranch Dressing · Homestyle Croutons Caesar · vegan cheese + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 379,
+   "protein": 7.8,
+   "carbs": 33.0,
+   "fat": 23.4,
+   "satfat": 4.4,
+   "fiber": 3.0,
+   "sugar": 2.3,
+   "sodium": 951.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 16.5,
+     "satfat": 1.5,
+     "sugar": 1.5,
+     "sodium": 450.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "1/2 serving",
+     "kcal": 35,
+     "protein": 0.0,
+     "carbs": 2.5,
+     "fat": 2.5,
+     "satfat": 2.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salad, mixed greens",
+     "portion": "1 cup",
+     "kcal": 33,
+     "protein": 0.7,
+     "carbs": 2.0,
+     "fat": 0.0,
+     "fiber": 0.7,
+     "sodium": 10.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "3 cups",
+     "kcal": 21,
+     "protein": 2.6,
+     "carbs": 3.3,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 0.4,
+     "sodium": 71.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "1 cup",
+     "kcal": 5,
+     "protein": 0.5,
+     "carbs": 0.7,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.4,
+     "sodium": 5.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Homestyle Croutons Caesar",
+    "vegan cheese",
+    "Salad, mixed greens",
+    "Spinach, Baby, Fresh",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

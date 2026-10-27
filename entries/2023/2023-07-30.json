@@ -1,0 +1,431 @@
+{
+ "date": "2023-07-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-30-1",
+   "name": "Impossible Sausage Links Spicy · Burger Buns Done Right · Fruit Roll, no sugar added",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 350,
+   "protein": 17.0,
+   "carbs": 30.5,
+   "fat": 16.7,
+   "satfat": 7.0,
+   "fiber": 7.0,
+   "sugar": 7.0,
+   "sodium": 700.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Impossible Sausage Links Spicy",
+     "portion": "1 serving",
+     "kcal": 240,
+     "protein": 14.0,
+     "carbs": 8.0,
+     "fat": 16.0,
+     "satfat": 7.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 570.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1/2 serving",
+     "kcal": 80,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fruit Roll, no sugar added",
+     "portion": "10 grams",
+     "kcal": 30,
+     "protein": 0.0,
+     "carbs": 6.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 4.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Impossible Sausage Links Spicy",
+    "Burger Buns Done Right",
+    "Fruit Roll, no sugar added"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-30-2",
+   "name": "Snack, Crunchy, Cheese-Less, Puffs",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 86,
+   "protein": 2.5,
+   "carbs": 7.4,
+   "fat": 5.5,
+   "satfat": 0.6,
+   "fiber": 1.9,
+   "sugar": 0.0,
+   "sodium": 104.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Snack, Crunchy, Cheese-Less, Puffs"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-30-3",
+   "name": "Impossible Sausage Links Spicy · Sour Dough Bread Slice · Aged Raw Cheddar + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 703,
+   "protein": 39.7,
+   "carbs": 85.2,
+   "fat": 22.7,
+   "satfat": 10.2,
+   "fiber": 5.8,
+   "sugar": 30.0,
+   "sodium": 1547.5,
+   "cholesterol": 65.0,
+   "components": [
+    {
+     "name": "Impossible Sausage Links Spicy",
+     "portion": "3/4 serving",
+     "kcal": 180,
+     "protein": 10.5,
+     "carbs": 6.0,
+     "fat": 12.0,
+     "satfat": 5.2,
+     "fiber": 3.8,
+     "sugar": 0.0,
+     "sodium": 427.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "65 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 30.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Aged Raw Cheddar",
+     "portion": "1 ounce",
+     "kcal": 100,
+     "protein": 7.0,
+     "carbs": 1.0,
+     "fat": 7.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 35.0
+    },
+    {
+     "name": "Coke",
+     "portion": "8 fluid ounces",
+     "kcal": 93,
+     "protein": 0.0,
+     "carbs": 26.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 26.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1/2 serving",
+     "kcal": 80,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 12.0,
+     "carbs": 1.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 460.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Vegetarian Chili (8oz/1cup)",
+     "portion": "1/4 cup",
+     "kcal": 30,
+     "protein": 1.2,
+     "carbs": 5.2,
+     "fat": 0.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Impossible Sausage Links Spicy",
+    "Sour Dough Bread Slice",
+    "Aged Raw Cheddar",
+    "Coke",
+    "Burger Buns Done Right",
+    "Turkey Breast, Santa Fe",
+    "Vegetarian Chili (8oz/1cup)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-30-4",
+   "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 580,
+   "protein": 15.7,
+   "carbs": 72.7,
+   "fat": 27.3,
+   "satfat": 6.5,
+   "fiber": 5.7,
+   "sugar": 34.0,
+   "sodium": 609.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+     "portion": "2 3/4 ounces",
+     "kcal": 290,
+     "protein": 3.0,
+     "carbs": 39.0,
+     "fat": 16.0,
+     "satfat": 6.0,
+     "fiber": 2.0,
+     "sugar": 24.0,
+     "sodium": 229.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 30.7,
+     "fat": 3.3,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 160.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-30-5",
+   "name": "Veg Out Pizza, Large · Chicken, Drumsticks, W/skin, Grilled · Grilled Chicken",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 370,
+   "protein": 40.0,
+   "carbs": 24.5,
+   "fat": 14.8,
+   "satfat": 3.7,
+   "fiber": 1.5,
+   "sugar": 2.5,
+   "sodium": 593.7,
+   "cholesterol": 106.3,
+   "components": [
+    {
+     "name": "Veg Out Pizza, Large",
+     "portion": "1/2 serving",
+     "kcal": 190,
+     "protein": 9.5,
+     "carbs": 24.5,
+     "fat": 9.0,
+     "satfat": 2.5,
+     "fiber": 1.5,
+     "sugar": 2.5,
+     "sodium": 490.0,
+     "cholesterol": 12.5
+    },
+    {
+     "name": "Chicken, Drumsticks, W/skin, Grilled",
+     "portion": "2 ounces",
+     "kcal": 90,
+     "protein": 11.0,
+     "carbs": 0.0,
+     "fat": 5.0,
+     "satfat": 1.2,
+     "sodium": 47.5,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 19.5,
+     "carbs": 0.0,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 56.2,
+     "cholesterol": 48.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veg Out Pizza, Large",
+    "Chicken, Drumsticks, W/skin, Grilled",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-30-6",
+   "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 36,
+   "protein": 1.5,
+   "carbs": 4.2,
+   "fat": 1.4,
+   "satfat": 0.6,
+   "fiber": 0.4,
+   "sugar": 1.2,
+   "sodium": 47.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/8 cup",
+     "kcal": 20,
+     "protein": 0.3,
+     "carbs": 3.8,
+     "fat": 0.4,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 1.0,
+     "sodium": 20.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/8 cup",
+     "kcal": 16,
+     "protein": 1.2,
+     "carbs": 0.4,
+     "fat": 1.0,
+     "satfat": 0.6,
+     "fiber": 0.1,
+     "sugar": 0.2,
+     "sodium": 27.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "date": "2023-07-14",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-14-1",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 123,
+   "protein": 4.6,
+   "carbs": 17.7,
+   "fat": 3.7,
+   "satfat": 0.2,
+   "fiber": 1.6,
+   "sugar": 4.7,
+   "sodium": 163.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1/2 cup",
+     "kcal": 80,
+     "protein": 1.3,
+     "carbs": 16.7,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 4.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-14-2",
+   "name": "Butternut Manchego Mac and Cheese",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 231,
+   "protein": 9.3,
+   "carbs": 29.3,
+   "fat": 9.8,
+   "satfat": 4.4,
+   "fiber": 1.9,
+   "sugar": 2.8,
+   "sodium": 151.9,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Butternut Manchego Mac and Cheese",
+     "portion": "1/2 serving",
+     "kcal": 231,
+     "protein": 9.3,
+     "carbs": 29.3,
+     "fat": 9.8,
+     "satfat": 4.4,
+     "fiber": 1.9,
+     "sugar": 2.8,
+     "sodium": 151.9,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Butternut Manchego Mac and Cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-14-3",
+   "name": "Bold Rock Hard Cider",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 48,
+   "protein": 0.0,
+   "carbs": 4.3,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 4.3,
+   "sodium": 1.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bold Rock Hard Cider",
+     "portion": "1/3 serving",
+     "kcal": 48,
+     "protein": 0.0,
+     "carbs": 4.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 4.3,
+     "sodium": 1.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bold Rock Hard Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-14-4",
+   "name": "Bowtie Pasta, Cooked · Burger Buns Done Right · Zucchini, Grilled w/ Oil + 6 more",
+   "portion": "Dinner · 9 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 759,
+   "protein": 13.9,
+   "carbs": 82.3,
+   "fat": 18.1,
+   "satfat": 3.2,
+   "fiber": 7.8,
+   "sugar": 15.5,
+   "sodium": 664.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bowtie Pasta, Cooked",
+     "portion": "1 cup",
+     "kcal": 360,
+     "carbs": 32.8
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Zucchini, Grilled w/ Oil",
+     "portion": "3 ounces",
+     "kcal": 50,
+     "protein": 1.7,
+     "carbs": 4.1,
+     "fat": 3.8,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 4.5,
+     "sodium": 4.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    },
+    {
+     "name": "Baba Ghannouj",
+     "portion": "1 tablespoon",
+     "kcal": 35,
+     "protein": 1.0,
+     "carbs": 3.0,
+     "fat": 2.5,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 62.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Butter, Olive Oil",
+     "portion": "1/3 tablespoon",
+     "kcal": 33,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 3.7,
+     "satfat": 1.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 36.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Vegan Sour Cream",
+     "portion": "1 3/4 tablespoons",
+     "kcal": 31,
+     "protein": 0.0,
+     "carbs": 1.8,
+     "fat": 2.6,
+     "fiber": 0.9,
+     "sugar": 0.0,
+     "sodium": 65.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 27,
+     "protein": 1.9,
+     "carbs": 5.6,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.6,
+     "sugar": 1.8,
+     "sodium": 32.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Harissa, Mild",
+     "portion": "2 tablespoons",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bowtie Pasta, Cooked",
+    "Burger Buns Done Right",
+    "Zucchini, Grilled w/ Oil",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Baba Ghannouj",
+    "Plant Butter, Olive Oil",
+    "Plant Based Vegan Sour Cream",
+    "Broccoli, Chopped, Steamed",
+    "Sauce, Harissa, Mild"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-14-5",
+   "name": "Naan Bites · Baba Ghannouj · Protein and Nutmilk, Almond and Cashew + 3 more",
+   "portion": "Snacks · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 353,
+   "protein": 15.0,
+   "carbs": 31.8,
+   "fat": 18.7,
+   "satfat": 1.5,
+   "fiber": 3.3,
+   "sugar": 10.0,
+   "sodium": 607.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "3 each",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 17.2,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 165.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Baba Ghannouj",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 5.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0
+    },
+    {
+     "name": "Zucchini, Grilled w/ Oil",
+     "portion": "3 ounces",
+     "kcal": 50,
+     "protein": 1.7,
+     "carbs": 4.1,
+     "fat": 3.8,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 4.5,
+     "sodium": 4.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    },
+    {
+     "name": "Sauce, Harissa, Mild",
+     "portion": "2 tablespoons",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Baba Ghannouj",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Zucchini, Grilled w/ Oil",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Sauce, Harissa, Mild"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

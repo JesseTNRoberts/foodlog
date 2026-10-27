@@ -1,0 +1,295 @@
+{
+ "date": "2023-08-19",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-19-1",
+   "name": "Apple Stack Cake · Just Egg",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 469,
+   "protein": 9.9,
+   "carbs": 61.8,
+   "fat": 18.9,
+   "satfat": 3.0,
+   "fiber": 1.0,
+   "sugar": 40.0,
+   "sodium": 510.2,
+   "cholesterol": 43.0,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1 serving",
+     "kcal": 345,
+     "protein": 1.0,
+     "carbs": 60.0,
+     "fat": 10.0,
+     "satfat": 3.0,
+     "fiber": 1.0,
+     "sugar": 40.0,
+     "sodium": 226.0,
+     "cholesterol": 43.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "1/3 cup",
+     "kcal": 124,
+     "protein": 8.9,
+     "carbs": 1.8,
+     "fat": 8.9,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 284.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake",
+    "Just Egg"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-19-2",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Snack, Crunchy, Cheese-Less, Puffs · Tomatoes, Campari + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 517,
+   "protein": 11.2,
+   "carbs": 73.4,
+   "fat": 19.2,
+   "satfat": 2.8,
+   "fiber": 10.2,
+   "sugar": 12.6,
+   "sodium": 395.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 1/3 cups",
+     "kcal": 235,
+     "protein": 3.9,
+     "carbs": 41.9,
+     "fat": 6.4,
+     "satfat": 0.9,
+     "fiber": 3.7,
+     "sugar": 1.9,
+     "sodium": 8.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "3 each",
+     "kcal": 84,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.2,
+     "sugar": 6.0,
+     "sodium": 6.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 270.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cucumber, Medium",
+     "portion": "1 each",
+     "kcal": 42,
+     "protein": 1.8,
+     "carbs": 10.1,
+     "fat": 0.3,
+     "satfat": 0.8,
+     "fiber": 1.4,
+     "sugar": 4.7,
+     "sodium": 5.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Snack, Crunchy, Cheese-Less, Puffs",
+    "Tomatoes, Campari",
+    "Oat Milk Ranch Dressing",
+    "Cucumber, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-19-3",
+   "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 145,
+   "protein": 6.3,
+   "carbs": 16.8,
+   "fat": 5.7,
+   "satfat": 0.2,
+   "fiber": 1.8,
+   "sugar": 5.0,
+   "sodium": 190.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/2 cup",
+     "kcal": 80,
+     "protein": 1.3,
+     "carbs": 15.3,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 4.0,
+     "sodium": 80.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-19-4",
+   "name": "Chili, Texas Red, Bowl · Bread · Mixed Vegetables, Steamed + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 925,
+   "protein": 47.6,
+   "carbs": 144.8,
+   "fat": 80.0,
+   "satfat": 13.4,
+   "fiber": 6.2,
+   "sugar": 11.4,
+   "sodium": 2462.3,
+   "cholesterol": 85.0,
+   "components": [
+    {
+     "name": "Chili, Texas Red, Bowl",
+     "portion": "1 serving",
+     "kcal": 460,
+     "protein": 23.0,
+     "carbs": 16.0,
+     "fat": 34.0,
+     "satfat": 13.0,
+     "fiber": 3.0,
+     "sugar": 6.0,
+     "sodium": 1200.0,
+     "cholesterol": 85.0
+    },
+    {
+     "name": "Bread",
+     "portion": "4 each",
+     "kcal": 360,
+     "protein": 20.8,
+     "carbs": 110.8,
+     "fat": 44.0,
+     "sodium": 1076.0
+    },
+    {
+     "name": "Mixed Vegetables, Steamed",
+     "portion": "2/3 cup",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 5.0,
+     "sodium": 20.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Side, Rice, Seasoned",
+     "portion": "1/8 serving",
+     "kcal": 45,
+     "protein": 0.8,
+     "carbs": 5.9,
+     "fat": 2.0,
+     "satfat": 0.4,
+     "fiber": 0.2,
+     "sugar": 0.4,
+     "sodium": 166.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chili, Texas Red, Bowl",
+    "Bread",
+    "Mixed Vegetables, Steamed",
+    "Side, Rice, Seasoned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

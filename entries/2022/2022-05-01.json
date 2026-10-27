@@ -1,0 +1,189 @@
+{
+ "date": "2022-05-01",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-01-1",
+   "name": "Biscuits · Honey Sesame Chicken · Almond Milk, Original + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 583,
+   "protein": 2.3,
+   "carbs": 8.7,
+   "fat": 1.8,
+   "satfat": 0.0,
+   "fiber": 4.3,
+   "sugar": 2.3,
+   "sodium": 43.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Biscuits",
+     "portion": "3 pieces",
+     "kcal": 450
+    },
+    {
+     "name": "Honey Sesame Chicken",
+     "portion": "2/3 serving",
+     "kcal": 93
+    },
+    {
+     "name": "Almond Milk, Original",
+     "portion": "1/3 cup",
+     "kcal": 20,
+     "protein": 0.3,
+     "carbs": 2.7,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 2.3,
+     "sodium": 43.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cocoa Powder, Unsweetened",
+     "portion": "2 tablespoons",
+     "kcal": 20,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Biscuits",
+    "Honey Sesame Chicken",
+    "Almond Milk, Original",
+    "Cocoa Powder, Unsweetened"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-01-2",
+   "name": "Chicken, Wing, Boneless · Bread · Shoestrings french fries + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1536,
+   "protein": 79.6,
+   "carbs": 156.1,
+   "fat": 111.0,
+   "satfat": 24.0,
+   "fiber": 3.0,
+   "sugar": 9.0,
+   "sodium": 3343.0,
+   "cholesterol": 252.0,
+   "components": [
+    {
+     "name": "Chicken, Wing, Boneless",
+     "portion": "12 pieces",
+     "kcal": 1056,
+     "protein": 60.0,
+     "carbs": 36.0,
+     "fat": 72.0,
+     "satfat": 24.0,
+     "sodium": 2136.0,
+     "cholesterol": 252.0
+    },
+    {
+     "name": "Bread",
+     "portion": "3 each",
+     "kcal": 270,
+     "protein": 15.6,
+     "carbs": 83.1,
+     "fat": 33.0,
+     "sodium": 807.0
+    },
+    {
+     "name": "Shoestrings french fries",
+     "portion": "3 ounces",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 22.0,
+     "fat": 5.0
+    },
+    {
+     "name": "Sauce, Marinara",
+     "portion": "1 serving",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 15.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 9.0,
+     "sodium": 400.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Wing, Boneless",
+    "Bread",
+    "Shoestrings french fries",
+    "Sauce, Marinara"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-01-3",
+   "name": "Veg Out Pizza",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 560,
+   "protein": 28.0,
+   "carbs": 72.0,
+   "fat": 30.0,
+   "satfat": 6.0,
+   "fiber": 2.0,
+   "sugar": 6.0,
+   "sodium": 1400.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Veg Out Pizza",
+     "portion": "2 servings",
+     "kcal": 560,
+     "protein": 28.0,
+     "carbs": 72.0,
+     "fat": 30.0,
+     "satfat": 6.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1400.0,
+     "cholesterol": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veg Out Pizza"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "date": "2023-09-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-09-1",
+   "name": "Buffalo Chicken Wrapper · Fries Side",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 358,
+   "protein": 4.5,
+   "carbs": 20.2,
+   "fat": 10.9,
+   "satfat": 1.7,
+   "fiber": 1.7,
+   "sugar": 0.3,
+   "sodium": 86.2,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/4 serving",
+     "kcal": 225,
+     "protein": 2.8,
+     "carbs": 3.6,
+     "fat": 1.9
+    },
+    {
+     "name": "Fries Side",
+     "portion": "1/3 serving",
+     "kcal": 133,
+     "protein": 1.7,
+     "carbs": 16.6,
+     "fat": 9.0,
+     "satfat": 1.7,
+     "fiber": 1.7,
+     "sugar": 0.3,
+     "sodium": 86.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Fries Side"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-09-2",
+   "name": "Smoothie, Blue Goodness · Plant-based Ranch Dressing · Cucumber, Small + 1 more",
+   "portion": "Morning Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 410,
+   "protein": 4.0,
+   "carbs": 72.8,
+   "fat": 8.6,
+   "satfat": 1.6,
+   "fiber": 16.9,
+   "sugar": 57.4,
+   "sodium": 286.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Smoothie, Blue Goodness",
+     "portion": "14 fluid ounces",
+     "kcal": 280,
+     "protein": 1.8,
+     "carbs": 59.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 14.0,
+     "sugar": 50.8,
+     "sodium": 52.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 83,
+     "protein": 0.0,
+     "carbs": 2.2,
+     "fat": 8.2,
+     "satfat": 0.8,
+     "sugar": 0.8,
+     "sodium": 225.0
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "5 each",
+     "kcal": 15,
+     "protein": 0.8,
+     "carbs": 3.3,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 4.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Smoothie, Blue Goodness",
+    "Plant-based Ranch Dressing",
+    "Cucumber, Small",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-09-3",
+   "name": "Avocado, Small · White Mountain Bread · Kettle  Air Fried Salt and Vinegar Chips + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 594,
+   "protein": 8.7,
+   "carbs": 73.1,
+   "fat": 30.6,
+   "satfat": 3.3,
+   "fiber": 12.6,
+   "sugar": 7.6,
+   "sodium": 765.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Small",
+     "portion": "1 each",
+     "kcal": 227,
+     "protein": 2.7,
+     "carbs": 11.8,
+     "fat": 21.0,
+     "satfat": 2.9,
+     "fiber": 9.2,
+     "sugar": 0.4,
+     "sodium": 10.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "White Mountain Bread",
+     "portion": "2 slices",
+     "kcal": 160,
+     "protein": 2.0,
+     "carbs": 33.0,
+     "fat": 2.0,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 330.0
+    },
+    {
+     "name": "Kettle  Air Fried Salt and Vinegar Chips",
+     "portion": "3/4 serving",
+     "kcal": 105,
+     "protein": 1.5,
+     "carbs": 13.5,
+     "fat": 4.5,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "1/3 ounce",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 6.4,
+     "fat": 2.4,
+     "satfat": 0.3,
+     "fiber": 0.3,
+     "sugar": 0.0,
+     "sodium": 38.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 1/2 each",
+     "kcal": 42,
+     "protein": 1.5,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.1,
+     "sugar": 3.0,
+     "sodium": 3.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "2 tablespoons",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "1/2 cup",
+     "kcal": 3,
+     "protein": 0.3,
+     "carbs": 0.4,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 0.2,
+     "sugar": 0.2,
+     "sodium": 2.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Small",
+    "White Mountain Bread",
+    "Kettle  Air Fried Salt and Vinegar Chips",
+    "Chips, Tortilla, Scoops",
+    "Tomatoes, Campari",
+    "Salsa, Chunky, Med",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-09-4",
+   "name": "Pumpkin Muffins · Chocolate Chip Crunchy Cookie · Plant-based Ranch Dressing + 2 more",
+   "portion": "Afternoon Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 526,
+   "protein": 12.3,
+   "carbs": 67.1,
+   "fat": 26.4,
+   "satfat": 9.4,
+   "fiber": 10.1,
+   "sugar": 34.2,
+   "sodium": 431.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pumpkin Muffins",
+     "portion": "1 1/3 servings",
+     "kcal": 282,
+     "protein": 4.7,
+     "carbs": 40.8,
+     "fat": 13.7,
+     "satfat": 5.1,
+     "fiber": 3.5,
+     "sugar": 19.8,
+     "sodium": 161.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "5 pieces",
+     "kcal": 133,
+     "protein": 5.0,
+     "carbs": 11.7,
+     "fat": 6.7,
+     "satfat": 2.9,
+     "fiber": 3.3,
+     "sugar": 6.7,
+     "sodium": 108.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "1 tablespoon",
+     "kcal": 55,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 5.5,
+     "satfat": 0.5,
+     "sugar": 0.5,
+     "sodium": 150.0
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "8 each",
+     "kcal": 24,
+     "protein": 1.2,
+     "carbs": 5.3,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 1.6,
+     "sugar": 3.6,
+     "sodium": 6.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Muffins",
+    "Chocolate Chip Crunchy Cookie",
+    "Plant-based Ranch Dressing",
+    "Cucumber, Small",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-09-5",
+   "name": "Buffalo Chicken Wrapper · Protein and Nutmilk, Almond and Cashew · Cereal, Honey Bunches of Oats, Honey Roasted",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 580,
+   "protein": 20.5,
+   "carbs": 41.4,
+   "fat": 15.9,
+   "satfat": 0.8,
+   "fiber": 4.2,
+   "sugar": 11.0,
+   "sodium": 510.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/4 serving",
+     "kcal": 225,
+     "protein": 2.8,
+     "carbs": 3.6,
+     "fat": 1.9
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 1/2 cups",
+     "kcal": 195,
+     "protein": 15.0,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 330.0
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Cereal, Honey Bunches of Oats, Honey Roasted"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-09-6",
+   "name": "Naan Bites · Smoothie - Strawberry, Banana, Spinach, Oat · Hummus (original)",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 280,
+   "protein": 7.5,
+   "carbs": 40.5,
+   "fat": 9.9,
+   "satfat": 0.2,
+   "fiber": 3.9,
+   "sugar": 8.3,
+   "sodium": 384.4,
+   "cholesterol": 8.9,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "4 each",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 23.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Smoothie - Strawberry, Banana, Spinach, Oat",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "protein": 1.5,
+     "carbs": 12.5,
+     "fat": 1.9,
+     "satfat": 0.2,
+     "fiber": 1.9,
+     "sugar": 6.3,
+     "sodium": 34.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus (original)",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 1.0,
+     "sodium": 130.0,
+     "cholesterol": 8.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Smoothie - Strawberry, Banana, Spinach, Oat",
+    "Hummus (original)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

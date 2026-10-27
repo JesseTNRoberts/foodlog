@@ -1,0 +1,235 @@
+{
+ "date": "2022-04-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-30-1",
+   "name": "Happy Trekking Trail Mix · Granola bar cinnamon roll · Fruits and nuts + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 680,
+   "protein": 13.1,
+   "carbs": 85.1,
+   "fat": 31.3,
+   "satfat": 0.0,
+   "fiber": 7.9,
+   "sugar": 41.2,
+   "sodium": 32.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Happy Trekking Trail Mix",
+     "portion": "2 servings",
+     "kcal": 320,
+     "protein": 8.0,
+     "carbs": 24.0,
+     "fat": 22.0,
+     "fiber": 4.0,
+     "sugar": 16.0
+    },
+    {
+     "name": "Granola bar cinnamon roll",
+     "portion": "2 servings",
+     "kcal": 260,
+     "protein": 4.0,
+     "carbs": 42.0,
+     "fat": 7.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 12.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fruits and nuts",
+     "portion": "1 serving",
+     "kcal": 55,
+     "protein": 1.1,
+     "carbs": 7.1,
+     "fat": 2.3,
+     "fiber": 0.9,
+     "sugar": 5.2,
+     "sodium": 2.0
+    },
+    {
+     "name": "Fruit Leather, Sweet Strawberry",
+     "portion": "1 package",
+     "kcal": 45,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 8.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Happy Trekking Trail Mix",
+    "Granola bar cinnamon roll",
+    "Fruits and nuts",
+    "Fruit Leather, Sweet Strawberry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-30-2",
+   "name": "Side, Chow Mein · Chicken, Grilled Teriyaki · Fire Shrimp + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 888,
+   "protein": 46.9,
+   "carbs": 61.9,
+   "fat": 29.4,
+   "satfat": 7.0,
+   "fiber": 3.0,
+   "sugar": 14.7,
+   "sodium": 1259.8,
+   "cholesterol": 185.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "7 ounces",
+     "kcal": 380,
+     "protein": 9.7,
+     "carbs": 48.4,
+     "fat": 16.4,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 6.7,
+     "sodium": 729.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken, Grilled Teriyaki",
+     "portion": "1 serving",
+     "kcal": 300,
+     "protein": 36.0,
+     "carbs": 8.0,
+     "fat": 13.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 530.0,
+     "cholesterol": 185.0
+    },
+    {
+     "name": "Fire Shrimp",
+     "portion": "1 serving",
+     "kcal": 200
+    },
+    {
+     "name": "Mixed Veggies, Side",
+     "portion": "1/4 serving",
+     "kcal": 8,
+     "protein": 1.2,
+     "carbs": 5.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Chicken, Grilled Teriyaki",
+    "Fire Shrimp",
+    "Mixed Veggies, Side"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-30-3",
+   "name": "Bread · Pasta, Spaghetti, Cooked · Sauce, Marinara + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1159,
+   "protein": 51.7,
+   "carbs": 267.1,
+   "fat": 67.6,
+   "satfat": 2.0,
+   "fiber": 14.4,
+   "sugar": 27.0,
+   "sodium": 2355.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bread",
+     "portion": "5 each",
+     "kcal": 450,
+     "protein": 26.0,
+     "carbs": 138.5,
+     "fat": 55.0,
+     "sodium": 1345.0
+    },
+    {
+     "name": "Pasta, Spaghetti, Cooked",
+     "portion": "2 cups",
+     "kcal": 442,
+     "protein": 16.2,
+     "carbs": 86.4,
+     "fat": 2.6,
+     "satfat": 0.5,
+     "fiber": 5.4,
+     "sugar": 1.6,
+     "sodium": 2.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Marinara",
+     "portion": "2 1/2 servings",
+     "kcal": 175,
+     "protein": 5.0,
+     "carbs": 37.5,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 7.5,
+     "sugar": 22.5,
+     "sodium": 1000.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mushrooms, Sautéed w/ Oil",
+     "portion": "3 servings",
+     "kcal": 92,
+     "protein": 4.5,
+     "carbs": 4.7,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 2.9,
+     "sodium": 7.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread",
+    "Pasta, Spaghetti, Cooked",
+    "Sauce, Marinara",
+    "Mushrooms, Sautéed w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

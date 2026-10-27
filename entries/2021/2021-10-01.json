@@ -1,0 +1,61 @@
+{
+ "date": "2021-10-01",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-10-01-1",
+   "name": "Apple Crisp Machiato · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 310,
+   "protein": 12.0,
+   "carbs": 47.0,
+   "fat": 7.0,
+   "satfat": 4.5,
+   "fiber": 0.0,
+   "sugar": 45.0,
+   "sodium": 290.0,
+   "cholesterol": 25.0,
+   "components": [
+    {
+     "name": "Apple Crisp Machiato",
+     "portion": "16 ounces",
+     "kcal": 300,
+     "protein": 12.0,
+     "carbs": 47.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "sugar": 45.0,
+     "sodium": 280.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Crisp Machiato",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

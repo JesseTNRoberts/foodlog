@@ -1,0 +1,328 @@
+{
+ "date": "2023-10-19",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-19-1",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Just Egg",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 492,
+   "protein": 15.8,
+   "carbs": 64.8,
+   "fat": 19.6,
+   "satfat": 1.4,
+   "fiber": 5.6,
+   "sugar": 2.8,
+   "sodium": 332.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "2 cups",
+     "kcal": 352,
+     "protein": 5.8,
+     "carbs": 62.8,
+     "fat": 9.6,
+     "satfat": 1.4,
+     "fiber": 5.6,
+     "sugar": 2.8,
+     "sodium": 12.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "3 fluid ounces",
+     "kcal": 140,
+     "protein": 10.0,
+     "carbs": 2.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Just Egg"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-19-2",
+   "name": "Sour Dough Bread Slice · Chips, Potato, Sea Salt & Vinegar · Chips, Tortilla, Scoops + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 760,
+   "protein": 31.5,
+   "carbs": 107.4,
+   "fat": 19.7,
+   "satfat": 3.7,
+   "fiber": 6.4,
+   "sugar": 7.8,
+   "sodium": 2005.8,
+   "cholesterol": 52.5,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 8.0,
+     "carbs": 72.0,
+     "fat": 2.4,
+     "satfat": 0.6,
+     "fiber": 3.0,
+     "sugar": 3.2,
+     "sodium": 656.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Potato, Sea Salt & Vinegar",
+     "portion": "1 ounce",
+     "kcal": 152,
+     "protein": 2.2,
+     "carbs": 16.2,
+     "fat": 9.1,
+     "satfat": 1.1,
+     "fiber": 1.1,
+     "sugar": 0.0,
+     "sodium": 192.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "10 each",
+     "kcal": 108,
+     "protein": 1.5,
+     "carbs": 14.6,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 92.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 18.0,
+     "carbs": 1.5,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 690.0,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1/4 ounce",
+     "kcal": 28,
+     "protein": 1.8,
+     "carbs": 0.1,
+     "fat": 2.0,
+     "satfat": 1.2,
+     "fiber": 0.0,
+     "sugar": 0.1,
+     "sodium": 30.0,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Chips, Potato, Sea Salt & Vinegar",
+    "Chips, Tortilla, Scoops",
+    "Turkey Breast, Santa Fe",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-19-3",
+   "name": "Sour Dough Bread Slice · Chips, Tortilla, Scoops · Taco Soup + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 714,
+   "protein": 34.6,
+   "carbs": 105.0,
+   "fat": 14.2,
+   "satfat": 3.7,
+   "fiber": 8.0,
+   "sugar": 11.4,
+   "sodium": 2207.7,
+   "cholesterol": 52.5,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 8.0,
+     "carbs": 72.0,
+     "fat": 2.4,
+     "satfat": 0.6,
+     "fiber": 3.0,
+     "sugar": 3.2,
+     "sodium": 656.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "10 each",
+     "kcal": 108,
+     "protein": 1.5,
+     "carbs": 14.6,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 92.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Taco Soup",
+     "portion": "1/2 serving",
+     "kcal": 106,
+     "protein": 5.3,
+     "carbs": 13.8,
+     "fat": 3.6,
+     "satfat": 1.1,
+     "fiber": 2.7,
+     "sugar": 3.6,
+     "sodium": 394.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 18.0,
+     "carbs": 1.5,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 690.0,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1/4 ounce",
+     "kcal": 28,
+     "protein": 1.8,
+     "carbs": 0.1,
+     "fat": 2.0,
+     "satfat": 1.2,
+     "fiber": 0.0,
+     "sugar": 0.1,
+     "sodium": 30.0,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Chips, Tortilla, Scoops",
+    "Taco Soup",
+    "Turkey Breast, Santa Fe",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-19-4",
+   "name": "Ice Cream Sandwich, Vanilla",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 140,
+   "protein": 3.0,
+   "carbs": 25.0,
+   "fat": 3.0,
+   "satfat": 1.5,
+   "fiber": 1.0,
+   "sugar": 12.0,
+   "sodium": 170.0,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Ice Cream Sandwich, Vanilla",
+     "portion": "1 each",
+     "kcal": 140,
+     "protein": 3.0,
+     "carbs": 25.0,
+     "fat": 3.0,
+     "satfat": 1.5,
+     "fiber": 1.0,
+     "sugar": 12.0,
+     "sodium": 170.0,
+     "cholesterol": 5.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ice Cream Sandwich, Vanilla"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

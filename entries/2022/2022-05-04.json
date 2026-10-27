@@ -1,0 +1,295 @@
+{
+ "date": "2022-05-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-04-1",
+   "name": "Salad Dressing, Caesar · Homestyle Croutons Caesar · vegan cheese",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 298,
+   "protein": 2.7,
+   "carbs": 18.6,
+   "fat": 24.5,
+   "satfat": 4.9,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 499.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Salad Dressing, Caesar",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "sodium": 127.5
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/3 cup",
+     "kcal": 80,
+     "protein": 2.7,
+     "carbs": 13.3,
+     "fat": 2.7,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 199.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salad Dressing, Caesar",
+    "Homestyle Croutons Caesar",
+    "vegan cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-04-2",
+   "name": "Plant Based 2 Cheese Pizza · Hummus - Spinach and Artichoke · Stacy’s Pita Thins, Sea Salt",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 602,
+   "protein": 12.6,
+   "carbs": 68.2,
+   "fat": 32.3,
+   "satfat": 15.8,
+   "fiber": 5.9,
+   "sugar": 5.1,
+   "sodium": 1204.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant Based 2 Cheese Pizza",
+     "portion": "6 ounces",
+     "kcal": 376,
+     "protein": 6.2,
+     "carbs": 45.2,
+     "fat": 19.6,
+     "satfat": 13.6,
+     "fiber": 3.1,
+     "sugar": 4.5,
+     "sodium": 843.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus - Spinach and Artichoke",
+     "portion": "2 ounces",
+     "kcal": 142,
+     "protein": 4.5,
+     "carbs": 10.1,
+     "fat": 10.1,
+     "satfat": 2.2,
+     "fiber": 2.2,
+     "sugar": 0.0,
+     "sodium": 232.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Stacy’s Pita Thins, Sea Salt",
+     "portion": "18 grams",
+     "kcal": 84,
+     "protein": 1.9,
+     "carbs": 12.9,
+     "fat": 2.6,
+     "satfat": 0.0,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 128.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant Based 2 Cheese Pizza",
+    "Hummus - Spinach and Artichoke",
+    "Stacy’s Pita Thins, Sea Salt"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-04-3",
+   "name": "Chunky Guacamole · *Grain Free Chips, Nacho - 19 Ea · Hummus - Spinach and Artichoke + 6 more",
+   "portion": "Snacks · 9 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1061,
+   "protein": 29.5,
+   "carbs": 120.3,
+   "fat": 59.4,
+   "satfat": 4.6,
+   "fiber": 21.9,
+   "sugar": 21.6,
+   "sodium": 1924.6,
+   "cholesterol": 7.6,
+   "components": [
+    {
+     "name": "Chunky Guacamole",
+     "portion": "7 ounces",
+     "kcal": 219,
+     "protein": 5.5,
+     "carbs": 16.4,
+     "fat": 19.1,
+     "satfat": 0.0,
+     "fiber": 10.9,
+     "sugar": 0.0,
+     "sodium": 820.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "*Grain Free Chips, Nacho - 19 Ea",
+     "portion": "42 grams",
+     "kcal": 195,
+     "protein": 1.5,
+     "carbs": 28.5,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 4.5,
+     "sugar": 1.5,
+     "sodium": 187.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus - Spinach and Artichoke",
+     "portion": "2 ounces",
+     "kcal": 151,
+     "protein": 3.8,
+     "carbs": 9.4,
+     "fat": 11.3,
+     "satfat": 1.9,
+     "fiber": 1.9,
+     "sugar": 1.9,
+     "sodium": 217.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Granola bar cinnamon roll",
+     "portion": "1 serving",
+     "kcal": 130,
+     "protein": 2.0,
+     "carbs": 21.0,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 6.0,
+     "sodium": 15.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Popped Root Veggie Crisps",
+     "portion": "28 grams",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 19.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 170.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Naan Dippers",
+     "portion": "3 pieces",
+     "kcal": 90,
+     "protein": 2.4,
+     "carbs": 15.6,
+     "fat": 2.1,
+     "satfat": 0.6,
+     "fiber": 1.2,
+     "sugar": 1.2,
+     "sodium": 228.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "2/3 cup",
+     "kcal": 87,
+     "protein": 6.7,
+     "carbs": 2.0,
+     "fat": 5.3,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 146.7
+    },
+    {
+     "name": "Almond Butter Puff Cereal",
+     "portion": "1/2 ounce",
+     "kcal": 71,
+     "protein": 2.1,
+     "carbs": 7.9,
+     "fat": 3.5,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 2.1,
+     "sodium": 28.4
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/2 ounce",
+     "kcal": 18,
+     "protein": 3.5,
+     "carbs": 0.5,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.6,
+     "sodium": 111.4,
+     "cholesterol": 7.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chunky Guacamole",
+    "*Grain Free Chips, Nacho - 19 Ea",
+    "Hummus - Spinach and Artichoke",
+    "Granola bar cinnamon roll",
+    "Popped Root Veggie Crisps",
+    "Naan Dippers",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Almond Butter Puff Cereal",
+    "Turkey Breast, Maple Glazed Honey"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

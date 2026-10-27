@@ -1,0 +1,188 @@
+{
+ "date": "2021-06-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-06-30-1",
+   "name": "French Toast Sticks, 5 Piece · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 390,
+   "protein": 5.0,
+   "carbs": 49.0,
+   "fat": 18.0,
+   "satfat": 3.0,
+   "fiber": 2.0,
+   "sugar": 13.0,
+   "sodium": 440.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "French Toast Sticks, 5 Piece",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 5.0,
+     "carbs": 49.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 2.0,
+     "sugar": 13.0,
+     "sodium": 430.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast Sticks, 5 Piece",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-06-30-2",
+   "name": "Burger (King) Tuesday · Strawberry Sparkling Water",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 675,
+   "protein": 3.3,
+   "carbs": 41.5,
+   "fat": 21.2,
+   "satfat": 3.4,
+   "fiber": 2.1,
+   "sugar": 13.2,
+   "sodium": 904.6,
+   "cholesterol": 3.7,
+   "components": [
+    {
+     "name": "Burger (King) Tuesday",
+     "portion": "1 serving",
+     "kcal": 675,
+     "protein": 3.3,
+     "carbs": 41.5,
+     "fat": 21.2,
+     "satfat": 3.4,
+     "fiber": 2.1,
+     "sugar": 13.2,
+     "sodium": 904.6,
+     "cholesterol": 3.7
+    },
+    {
+     "name": "Strawberry Sparkling Water",
+     "portion": "1 serving",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger (King) Tuesday",
+    "Strawberry Sparkling Water"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-06-30-3",
+   "name": "Amys Vegan rice Mac n Cheese · Broccoli, Sautéed w/ Oil · Diced Tomatoes Canned",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 766,
+   "protein": 16.8,
+   "carbs": 101.4,
+   "fat": 36.0,
+   "satfat": 12.8,
+   "fiber": 19.8,
+   "sugar": 15.4,
+   "sodium": 1667.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Amys Vegan rice Mac n Cheese",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 5.0,
+     "carbs": 55.0,
+     "fat": 16.0,
+     "satfat": 10.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 840.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Sautéed w/ Oil",
+     "portion": "4 cups",
+     "kcal": 284,
+     "protein": 8.4,
+     "carbs": 26.0,
+     "fat": 20.0,
+     "satfat": 2.8,
+     "fiber": 12.0,
+     "sugar": 5.2,
+     "sodium": 147.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Diced Tomatoes Canned",
+     "portion": "14 1/2 ounces",
+     "kcal": 102,
+     "protein": 3.4,
+     "carbs": 20.4,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 6.8,
+     "sugar": 10.2,
+     "sodium": 679.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Amys Vegan rice Mac n Cheese",
+    "Broccoli, Sautéed w/ Oil",
+    "Diced Tomatoes Canned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

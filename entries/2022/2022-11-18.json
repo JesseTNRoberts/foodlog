@@ -1,0 +1,84 @@
+{
+ "date": "2022-11-18",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-11-18-1",
+   "name": "Gluten Free Pumpkin Spice Waffles · Maple Syrup, Real · Brussels Sprouts, Steamed + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 408,
+   "protein": 4.0,
+   "carbs": 364.5,
+   "fat": 7.4,
+   "satfat": 1.1,
+   "fiber": 4.5,
+   "sugar": 7.4,
+   "sodium": 411.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Gluten Free Pumpkin Spice Waffles",
+     "portion": "2 pieces",
+     "kcal": 210,
+     "protein": 2.0,
+     "carbs": 35.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 390.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Maple Syrup, Real",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 324.0
+    },
+    {
+     "name": "Brussels Sprouts, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 28,
+     "protein": 2.0,
+     "carbs": 5.5,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 2.5,
+     "sugar": 1.4,
+     "sodium": 16.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Gluten Free Pumpkin Spice Waffles",
+    "Maple Syrup, Real",
+    "Brussels Sprouts, Steamed",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "date": "2021-03-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-06-1",
+   "name": "Spicy Chicken Sandwich · Fries, Waffle Potato, Medium · Sauce, Honey Roasted BBQ + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 555,
+   "protein": 17.0,
+   "carbs": 50.5,
+   "fat": 30.0,
+   "satfat": 6.0,
+   "fiber": 3.0,
+   "sugar": 6.5,
+   "sodium": 1050.0,
+   "cholesterol": 40.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/2 piece",
+     "kcal": 225,
+     "protein": 14.5,
+     "carbs": 20.5,
+     "fat": 9.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 24.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "2 servings",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 150.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Sandwich",
+    "Fries, Waffle Potato, Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-06-2",
+   "name": "Gemelli Ready Pasta · Sauce, Pasta, Puttanesca · Plant Based Vegan Sour Cream + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 372,
+   "protein": 11.9,
+   "carbs": 54.9,
+   "fat": 14.6,
+   "satfat": 2.7,
+   "fiber": 10.7,
+   "sugar": 8.1,
+   "sodium": 798.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Gemelli Ready Pasta",
+     "portion": "1 cup",
+     "kcal": 190,
+     "protein": 7.0,
+     "carbs": 41.0,
+     "fat": 1.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Pasta, Puttanesca",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 480.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Vegan Sour Cream",
+     "portion": "2 tablespoons",
+     "kcal": 35,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 3.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 75.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Gemelli Ready Pasta",
+    "Sauce, Pasta, Puttanesca",
+    "Plant Based Vegan Sour Cream",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-06-3",
+   "name": "Calories",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 600,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "60 each",
+     "kcal": 600
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

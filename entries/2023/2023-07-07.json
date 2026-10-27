@@ -1,0 +1,373 @@
+{
+ "date": "2023-07-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-07-1",
+   "name": "Squawking Goat · Hashbrowns, From Restaurant · Maple Vanilla Latte",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 1186,
+   "protein": 58.9,
+   "carbs": 110.5,
+   "fat": 40.8,
+   "satfat": 3.1,
+   "fiber": 5.0,
+   "sugar": 3.8,
+   "sodium": 870.0,
+   "cholesterol": 1.5,
+   "components": [
+    {
+     "name": "Squawking Goat",
+     "portion": "1 serving",
+     "kcal": 675,
+     "protein": 54.2,
+     "carbs": 61.0,
+     "fat": 24.0
+    },
+    {
+     "name": "Hashbrowns, From Restaurant",
+     "portion": "1 1/2 servings",
+     "kcal": 366,
+     "protein": 4.7,
+     "carbs": 49.5,
+     "fat": 16.8,
+     "satfat": 3.1,
+     "fiber": 5.0,
+     "sugar": 3.8,
+     "sodium": 870.0,
+     "cholesterol": 1.5
+    },
+    {
+     "name": "Maple Vanilla Latte",
+     "portion": "1/2 serving",
+     "kcal": 145
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Squawking Goat",
+    "Hashbrowns, From Restaurant",
+    "Maple Vanilla Latte"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-07-2",
+   "name": "Apple, Envy · Blackberries",
+   "portion": "Morning Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 125,
+   "protein": 1.5,
+   "carbs": 31.7,
+   "fat": 0.6,
+   "satfat": 0.2,
+   "fiber": 8.1,
+   "sugar": 22.4,
+   "sodium": 2.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Apple, Envy",
+     "portion": "1 each",
+     "kcal": 95,
+     "protein": 0.5,
+     "carbs": 25.0,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 4.4,
+     "sugar": 19.0,
+     "sodium": 2.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "14 pieces",
+     "kcal": 30,
+     "protein": 1.0,
+     "carbs": 6.7,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 3.7,
+     "sugar": 3.4,
+     "sodium": 0.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple, Envy",
+    "Blackberries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-07-3",
+   "name": "Fries Side · Fish, Channel Catfish, Breaded & Fried · Beans, Baked, Canned + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 878,
+   "protein": 37.1,
+   "carbs": 97.8,
+   "fat": 45.8,
+   "satfat": 10.4,
+   "fiber": 10.7,
+   "sugar": 13.9,
+   "sodium": 1161.3,
+   "cholesterol": 105.7,
+   "components": [
+    {
+     "name": "Fries Side",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 5.0,
+     "carbs": 50.0,
+     "fat": 27.0,
+     "satfat": 5.0,
+     "fiber": 5.0,
+     "sugar": 1.0,
+     "sodium": 259.0
+    },
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "1 1/2 pieces",
+     "kcal": 299,
+     "protein": 23.6,
+     "carbs": 10.5,
+     "fat": 17.4,
+     "satfat": 4.3,
+     "fiber": 0.0,
+     "sugar": 0.9,
+     "sodium": 365.4,
+     "cholesterol": 105.7
+    },
+    {
+     "name": "Beans, Baked, Canned",
+     "portion": "1/2 cup",
+     "kcal": 119,
+     "protein": 6.1,
+     "carbs": 26.7,
+     "fat": 0.5,
+     "satfat": 0.9,
+     "fiber": 5.2,
+     "sugar": 10.7,
+     "sodium": 433.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bun, Hamburger, Plain",
+     "portion": "1/2 each",
+     "kcal": 60,
+     "protein": 2.4,
+     "carbs": 10.6,
+     "fat": 0.9,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.3,
+     "sodium": 103.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries Side",
+    "Fish, Channel Catfish, Breaded & Fried",
+    "Beans, Baked, Canned",
+    "Bun, Hamburger, Plain"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-07-4",
+   "name": "Chips, Tortilla, White Corn, Restaurant Style · Green Beans, Cut, Canned · Salsa, Chunky",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 302,
+   "protein": 5.7,
+   "carbs": 27.3,
+   "fat": 6.0,
+   "satfat": 0.0,
+   "fiber": 6.4,
+   "sugar": 5.0,
+   "sodium": 945.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Tortilla, White Corn, Restaurant Style",
+     "portion": "12 pieces",
+     "kcal": 240,
+     "protein": 1.7,
+     "carbs": 16.3,
+     "fat": 6.0,
+     "fiber": 0.9,
+     "sugar": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Green Beans, Cut, Canned",
+     "portion": "1 serving",
+     "kcal": 50,
+     "protein": 4.0,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 2.0,
+     "sodium": 600.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, White Corn, Restaurant Style",
+    "Green Beans, Cut, Canned",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-07-5",
+   "name": "Chicken Tenders · Soda, Dr. Pepper",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 633,
+   "protein": 0.0,
+   "carbs": 83.3,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 83.3,
+   "sodium": 114.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chicken Tenders",
+     "portion": "2 2/3 each",
+     "kcal": 320
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "25 fluid ounces",
+     "kcal": 313,
+     "protein": 0.0,
+     "carbs": 83.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 83.3,
+     "sodium": 114.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tenders",
+    "Soda, Dr. Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-07-6",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 194,
+   "protein": 8.5,
+   "carbs": 24.2,
+   "fat": 6.6,
+   "satfat": 0.3,
+   "fiber": 2.5,
+   "sugar": 6.6,
+   "sodium": 267.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "2/3 cup",
+     "kcal": 107,
+     "protein": 1.8,
+     "carbs": 22.2,
+     "fat": 1.3,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 5.3,
+     "sodium": 120.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "2/3 cup",
+     "kcal": 87,
+     "protein": 6.7,
+     "carbs": 2.0,
+     "fat": 5.3,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 146.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

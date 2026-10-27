@@ -1,0 +1,116 @@
+{
+ "date": "2023-10-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-05-1",
+   "name": "Margarita pizza",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 612,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Margarita pizza",
+     "portion": "3 slices",
+     "kcal": 612
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Margarita pizza"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-05-2",
+   "name": "Lobster Ravioli",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 250,
+   "protein": 11.0,
+   "carbs": 29.0,
+   "fat": 9.0,
+   "satfat": 4.0,
+   "fiber": 2.0,
+   "sugar": 3.2,
+   "sodium": 720.0,
+   "cholesterol": 45.0,
+   "components": [
+    {
+     "name": "Lobster Ravioli",
+     "portion": "7 each",
+     "kcal": 250,
+     "protein": 11.0,
+     "carbs": 29.0,
+     "fat": 9.0,
+     "satfat": 4.0,
+     "fiber": 2.0,
+     "sugar": 3.2,
+     "sodium": 720.0,
+     "cholesterol": 45.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Lobster Ravioli"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-05-3",
+   "name": "Calories",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1500,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "150 each",
+     "kcal": 1500
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

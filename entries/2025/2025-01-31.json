@@ -1,0 +1,256 @@
+{
+ "date": "2025-01-31",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-31-1",
+   "name": "Fish, Mahi Mahi, Fillet, Baked · Zucchini Noodles Steamed · Pasta Sauce, Mushroom",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 254,
+   "protein": 48.2,
+   "carbs": 5.2,
+   "fat": 2.3,
+   "satfat": 0.5,
+   "fiber": 0.5,
+   "sugar": 1.2,
+   "sodium": 336.7,
+   "cholesterol": 186.5,
+   "components": [
+    {
+     "name": "Fish, Mahi Mahi, Fillet, Baked",
+     "portion": "7 ounces",
+     "kcal": 216,
+     "protein": 47.7,
+     "carbs": 0.0,
+     "fat": 1.8,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 224.2,
+     "cholesterol": 186.5
+    },
+    {
+     "name": "Zucchini Noodles Steamed",
+     "portion": "3/4 cup",
+     "kcal": 23,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pasta Sauce, Mushroom",
+     "portion": "1/8 cup",
+     "kcal": 15,
+     "protein": 0.5,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "fiber": 0.5,
+     "sugar": 1.2,
+     "sodium": 112.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Mahi Mahi, Fillet, Baked",
+    "Zucchini Noodles Steamed",
+    "Pasta Sauce, Mushroom"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-31-2",
+   "name": "Loaded Baked Potato · Buffalo Chicken Wrapper Fried",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 498,
+   "protein": 14.8,
+   "carbs": 49.6,
+   "fat": 27.3,
+   "satfat": 9.0,
+   "fiber": 3.8,
+   "sugar": 4.7,
+   "sodium": 835.4,
+   "cholesterol": 73.2,
+   "components": [
+    {
+     "name": "Loaded Baked Potato",
+     "portion": "2/3 serving",
+     "kcal": 293,
+     "protein": 6.7,
+     "carbs": 34.7,
+     "fat": 14.7,
+     "satfat": 6.0,
+     "fiber": 2.7,
+     "sugar": 2.7,
+     "sodium": 242.8,
+     "cholesterol": 62.3
+    },
+    {
+     "name": "Buffalo Chicken Wrapper Fried",
+     "portion": "1/8 serving",
+     "kcal": 205,
+     "protein": 8.1,
+     "carbs": 14.9,
+     "fat": 12.6,
+     "satfat": 3.0,
+     "fiber": 1.1,
+     "sugar": 2.0,
+     "sodium": 592.6,
+     "cholesterol": 10.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Loaded Baked Potato",
+    "Buffalo Chicken Wrapper Fried"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-31-3",
+   "name": "Cheese pizza thin crust 14 inch size · Pie, Sweet Potato, Southern, Oven Fresh · Shrimp",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 817,
+   "protein": 32.6,
+   "carbs": 80.5,
+   "fat": 36.9,
+   "satfat": 15.2,
+   "fiber": 5.2,
+   "sugar": 23.0,
+   "sodium": 1420.6,
+   "cholesterol": 128.2,
+   "components": [
+    {
+     "name": "Cheese pizza thin crust 14 inch size",
+     "portion": "3 slices",
+     "kcal": 600,
+     "protein": 26.7,
+     "carbs": 50.1,
+     "fat": 29.7,
+     "satfat": 13.2,
+     "fiber": 3.9,
+     "sugar": 5.7,
+     "sodium": 1098.0,
+     "cholesterol": 66.0
+    },
+    {
+     "name": "Pie, Sweet Potato, Southern, Oven Fresh",
+     "portion": "2/3 slice",
+     "kcal": 187,
+     "protein": 2.7,
+     "carbs": 30.2,
+     "fat": 6.7,
+     "satfat": 2.0,
+     "fiber": 1.3,
+     "sugar": 17.3,
+     "sodium": 280.1,
+     "cholesterol": 23.4
+    },
+    {
+     "name": "Shrimp",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 3.2,
+     "carbs": 0.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 42.5,
+     "cholesterol": 38.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cheese pizza thin crust 14 inch size",
+    "Pie, Sweet Potato, Southern, Oven Fresh",
+    "Shrimp"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-31-4",
+   "name": "Banana, Medium, 7\" - 7 7/8\" Long · Apple, Honeycrisp, Medium",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 153,
+   "protein": 1.5,
+   "carbs": 39.4,
+   "fat": 0.5,
+   "satfat": 0.6,
+   "fiber": 5.9,
+   "sugar": 23.9,
+   "sodium": 2.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 105,
+     "protein": 1.3,
+     "carbs": 26.9,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 3.7,
+     "sugar": 14.4,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple, Honeycrisp, Medium",
+     "portion": "1/2 each",
+     "kcal": 48,
+     "protein": 0.2,
+     "carbs": 12.5,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 2.2,
+     "sugar": 9.5,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Medium, 7\" - 7 7/8\" Long",
+    "Apple, Honeycrisp, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

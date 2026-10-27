@@ -1,0 +1,187 @@
+{
+ "date": "2022-04-14",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-14-1",
+   "name": "Bagel, Cinnamon Crunch",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 430,
+   "protein": 10.0,
+   "carbs": 82.0,
+   "fat": 7.0,
+   "satfat": 4.5,
+   "fiber": 2.0,
+   "sugar": 32.0,
+   "sodium": 380.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bagel, Cinnamon Crunch",
+     "portion": "1 each",
+     "kcal": 430,
+     "protein": 10.0,
+     "carbs": 82.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 32.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bagel, Cinnamon Crunch"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-14-2",
+   "name": "Plant Based Caesar Salad Kit · Plant Based Beefy Nacho Burrito",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 680,
+   "protein": 15.0,
+   "carbs": 66.0,
+   "fat": 41.0,
+   "satfat": 16.0,
+   "fiber": 17.0,
+   "sugar": 6.0,
+   "sodium": 1190.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant Based Caesar Salad Kit",
+     "portion": "2 1/2 servings",
+     "kcal": 350,
+     "protein": 4.0,
+     "carbs": 23.0,
+     "fat": 28.0,
+     "satfat": 5.0,
+     "fiber": 4.0,
+     "sugar": 2.0,
+     "sodium": 500.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Beefy Nacho Burrito",
+     "portion": "1 serving",
+     "kcal": 330,
+     "protein": 11.0,
+     "carbs": 43.0,
+     "fat": 13.0,
+     "satfat": 11.0,
+     "fiber": 13.0,
+     "sugar": 4.0,
+     "sodium": 690.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant Based Caesar Salad Kit",
+    "Plant Based Beefy Nacho Burrito"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-14-3",
+   "name": "Crunchy Breaded Haddock Fish Fillets · Hushpuppies · 21 Whole Grains & Seeds Organic Bread + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1070,
+   "protein": 36.0,
+   "carbs": 129.0,
+   "fat": 49.0,
+   "satfat": 4.5,
+   "fiber": 14.0,
+   "sugar": 21.0,
+   "sodium": 2280.0,
+   "cholesterol": 60.0,
+   "components": [
+    {
+     "name": "Crunchy Breaded Haddock Fish Fillets",
+     "portion": "2 servings",
+     "kcal": 480,
+     "protein": 22.0,
+     "carbs": 46.0,
+     "fat": 22.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 960.0,
+     "cholesterol": 50.0
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "6 pieces",
+     "kcal": 280,
+     "protein": 4.0,
+     "carbs": 38.0,
+     "fat": 14.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 920.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "2 pieces",
+     "kcal": 220,
+     "protein": 10.0,
+     "carbs": 44.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 10.0,
+     "sugar": 10.0,
+     "sodium": 340.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bac-No-Naise Vegan Mayo",
+     "portion": "1 tablespoon",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 10.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 60.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crunchy Breaded Haddock Fish Fillets",
+    "Hushpuppies",
+    "21 Whole Grains & Seeds Organic Bread",
+    "Bac-No-Naise Vegan Mayo"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

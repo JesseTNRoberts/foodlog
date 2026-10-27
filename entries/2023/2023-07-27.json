@@ -1,0 +1,406 @@
+{
+ "date": "2023-07-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-27-1",
+   "name": "Banana Pudding With Vanilla Wafers",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 260,
+   "protein": 2.0,
+   "carbs": 45.0,
+   "fat": 8.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 15.0,
+   "sodium": 0,
+   "cholesterol": 230.0,
+   "components": [
+    {
+     "name": "Banana Pudding With Vanilla Wafers",
+     "portion": "1 cup",
+     "kcal": 260,
+     "protein": 2.0,
+     "carbs": 45.0,
+     "fat": 8.0,
+     "sugar": 15.0,
+     "cholesterol": 230.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana Pudding With Vanilla Wafers"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-27-2",
+   "name": "Fish, Salmon, Wild, Cooked · Vegan Dressing and Spread · Impossible Sausage Links Spicy + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 723,
+   "protein": 53.3,
+   "carbs": 20.0,
+   "fat": 46.8,
+   "satfat": 7.1,
+   "fiber": 3.5,
+   "sugar": 3.0,
+   "sodium": 814.0,
+   "cholesterol": 120.8,
+   "components": [
+    {
+     "name": "Fish, Salmon, Wild, Cooked",
+     "portion": "6 ounces",
+     "kcal": 310,
+     "protein": 43.3,
+     "carbs": 0.0,
+     "fat": 13.8,
+     "satfat": 2.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 95.2,
+     "cholesterol": 120.8
+    },
+    {
+     "name": "Vegan Dressing and Spread",
+     "portion": "1 1/2 ounces",
+     "kcal": 213,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 24.3,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 303.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Impossible Sausage Links Spicy",
+     "portion": "1/2 serving",
+     "kcal": 120,
+     "protein": 7.0,
+     "carbs": 4.0,
+     "fat": 8.0,
+     "satfat": 3.5,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 285.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1/2 serving",
+     "kcal": 80,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Salmon, Wild, Cooked",
+    "Vegan Dressing and Spread",
+    "Impossible Sausage Links Spicy",
+    "Burger Buns Done Right"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-27-3",
+   "name": "Chicken Thighs Grilled · Snack, Crunchy, Cheese-Less, Puffs · Golden Tater Tots (3 oz., about 9 pieces) + 2 more",
+   "portion": "Afternoon Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 597,
+   "protein": 40.0,
+   "carbs": 37.7,
+   "fat": 33.2,
+   "satfat": 8.5,
+   "fiber": 4.8,
+   "sugar": 17.0,
+   "sodium": 529.5,
+   "cholesterol": 188.3,
+   "components": [
+    {
+     "name": "Chicken Thighs Grilled",
+     "portion": "5 ounces",
+     "kcal": 329,
+     "protein": 33.1,
+     "carbs": 0.0,
+     "fat": 20.7,
+     "satfat": 6.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 144.8,
+     "cholesterol": 188.3
+    },
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "10 pieces",
+     "kcal": 108,
+     "protein": 3.8,
+     "carbs": 9.2,
+     "fat": 6.9,
+     "satfat": 0.8,
+     "fiber": 2.3,
+     "sugar": 0.0,
+     "sodium": 130.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Golden Tater Tots (3 oz., about 9 pieces)",
+     "portion": "5 pieces",
+     "kcal": 72,
+     "protein": 1.1,
+     "carbs": 7.8,
+     "fat": 4.4,
+     "satfat": 0.8,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 250.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plums, Very Cherry",
+     "portion": "2 each",
+     "kcal": 61,
+     "protein": 0.9,
+     "carbs": 15.7,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 1.9,
+     "sugar": 13.9,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pepper, Poblano",
+     "portion": "1/3 ounce",
+     "kcal": 27,
+     "protein": 1.1,
+     "carbs": 5.0,
+     "fat": 0.8,
+     "satfat": 0.6,
+     "sugar": 2.5,
+     "sodium": 3.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Thighs Grilled",
+    "Snack, Crunchy, Cheese-Less, Puffs",
+    "Golden Tater Tots (3 oz., about 9 pieces)",
+    "Plums, Very Cherry",
+    "Pepper, Poblano"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-27-4",
+   "name": "Burger Buns Done Right · Flatbread sandwich · Pork tenderloin lean grilled + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 447,
+   "protein": 22.9,
+   "carbs": 54.9,
+   "fat": 14.5,
+   "satfat": 4.6,
+   "fiber": 3.7,
+   "sugar": 21.1,
+   "sodium": 1411.2,
+   "cholesterol": 50.0,
+   "components": [
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Flatbread sandwich",
+     "portion": "1/2 serving",
+     "kcal": 140,
+     "protein": 1.3,
+     "carbs": 7.4,
+     "fat": 10.5,
+     "satfat": 3.8,
+     "fiber": 1.1,
+     "sugar": 1.2,
+     "sodium": 394.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pork tenderloin lean grilled",
+     "portion": "4 ounces",
+     "kcal": 80,
+     "protein": 15.3,
+     "carbs": 0.0,
+     "fat": 1.7,
+     "satfat": 0.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 50.0
+    },
+    {
+     "name": "Carolina Gold BBQ Sauce",
+     "portion": "2 tablespoons",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 14.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 13.0,
+     "sodium": 410.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pickles, Dill, Spears",
+     "portion": "1 each",
+     "kcal": 4,
+     "protein": 0.2,
+     "carbs": 0.9,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 0.4,
+     "sugar": 0.5,
+     "sodium": 306.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Fresh, Medium",
+     "portion": "1/8 each",
+     "kcal": 3,
+     "protein": 0.1,
+     "carbs": 0.6,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.4,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger Buns Done Right",
+    "Flatbread sandwich",
+    "Pork tenderloin lean grilled",
+    "Carolina Gold BBQ Sauce",
+    "Pickles, Dill, Spears",
+    "Tomatoes, Fresh, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-27-5",
+   "name": "Kettle  Air Fried Salt and Vinegar Chips · Grilled Chicken · Chicken, Drumsticks, W/skin, Grilled",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 153,
+   "protein": 16.8,
+   "carbs": 9.0,
+   "fat": 4.7,
+   "satfat": 0.3,
+   "fiber": 0.5,
+   "sugar": 0.0,
+   "sodium": 149.4,
+   "cholesterol": 43.7,
+   "components": [
+    {
+     "name": "Kettle  Air Fried Salt and Vinegar Chips",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "protein": 1.0,
+     "carbs": 9.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 13.0,
+     "carbs": 0.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 37.5,
+     "cholesterol": 32.5
+    },
+    {
+     "name": "Chicken, Drumsticks, W/skin, Grilled",
+     "portion": "1/2 ounce",
+     "kcal": 23,
+     "protein": 2.8,
+     "carbs": 0.0,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "sodium": 11.9,
+     "cholesterol": 11.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Kettle  Air Fried Salt and Vinegar Chips",
+    "Grilled Chicken",
+    "Chicken, Drumsticks, W/skin, Grilled"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

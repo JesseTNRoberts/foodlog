@@ -1,0 +1,160 @@
+{
+ "date": "2021-03-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-30-1",
+   "name": "Honey, Amber · Coffee, Brewed",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 67,
+   "protein": 1.0,
+   "carbs": 17.3,
+   "fat": 0.6,
+   "satfat": 0.1,
+   "fiber": 0.4,
+   "sugar": 17.2,
+   "sodium": 6.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Honey, Amber",
+     "portion": "1 tablespoon",
+     "kcal": 64,
+     "protein": 0.6,
+     "carbs": 17.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 17.2,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Coffee, Brewed",
+     "portion": "10 fluid ounces",
+     "kcal": 3,
+     "protein": 0.4,
+     "carbs": 0.0,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Honey, Amber",
+    "Coffee, Brewed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-30-2",
+   "name": "Sandwich, Spicy Chicken · Fries, Waffle Potato, Medium · Chips, Pita Thins, Sea Salt + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 830,
+   "protein": 25.0,
+   "carbs": 102.6,
+   "fat": 35.7,
+   "satfat": 5.7,
+   "fiber": 7.0,
+   "sugar": 25.4,
+   "sodium": 1358.2,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1/2 each",
+     "kcal": 245,
+     "protein": 15.0,
+     "carbs": 22.5,
+     "fat": 10.5,
+     "satfat": 2.2,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 24.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "33 grams",
+     "kcal": 153,
+     "protein": 3.5,
+     "carbs": 23.6,
+     "fat": 4.7,
+     "satfat": 0.0,
+     "fiber": 1.2,
+     "sugar": 1.2,
+     "sodium": 235.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sandwich, Spicy Chicken",
+    "Fries, Waffle Potato, Medium",
+    "Chips, Pita Thins, Sea Salt",
+    "Hummus, spinach and artichoke",
+    "Half and Half Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

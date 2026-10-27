@@ -1,0 +1,423 @@
+{
+ "date": "2023-07-21",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-21-1",
+   "name": "Butternut Manchego Mac and Cheese · Abe's Wild Blueberry Mini-muffin",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 331,
+   "protein": 10.3,
+   "carbs": 44.8,
+   "fat": 13.8,
+   "satfat": 4.9,
+   "fiber": 2.9,
+   "sugar": 12.8,
+   "sodium": 231.9,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Butternut Manchego Mac and Cheese",
+     "portion": "1/2 serving",
+     "kcal": 231,
+     "protein": 9.3,
+     "carbs": 29.3,
+     "fat": 9.8,
+     "satfat": 4.4,
+     "fiber": 1.9,
+     "sugar": 2.8,
+     "sodium": 151.9,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Abe's Wild Blueberry Mini-muffin",
+     "portion": "1/2 serving",
+     "kcal": 100,
+     "protein": 1.0,
+     "carbs": 15.5,
+     "fat": 4.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 10.0,
+     "sodium": 80.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Butternut Manchego Mac and Cheese",
+    "Abe's Wild Blueberry Mini-muffin"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-21-2",
+   "name": "Tortilla Chips, Bite Size Rounds · Myokos Roadhouse Cheddar Vegan Sharp · Black Bean Salsa + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 202,
+   "protein": 5.9,
+   "carbs": 25.2,
+   "fat": 10.1,
+   "satfat": 3.2,
+   "fiber": 4.5,
+   "sugar": 5.0,
+   "sodium": 355.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "15 pieces",
+     "kcal": 87,
+     "protein": 1.1,
+     "carbs": 10.4,
+     "fat": 4.4,
+     "satfat": 0.6,
+     "fiber": 0.6,
+     "sugar": 0.0,
+     "sodium": 66.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Myokos Roadhouse Cheddar Vegan Sharp",
+     "portion": "1/3 ounce",
+     "kcal": 33,
+     "protein": 0.7,
+     "carbs": 1.3,
+     "fat": 3.0,
+     "satfat": 1.7,
+     "fiber": 0.0,
+     "sugar": 0.3,
+     "sodium": 46.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Black Bean Salsa",
+     "portion": "4 tablespoons",
+     "kcal": 30,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Asparagus, Grilled w/ Oil",
+     "portion": "2 ounces",
+     "kcal": 28,
+     "protein": 1.2,
+     "carbs": 2.2,
+     "fat": 2.3,
+     "satfat": 0.3,
+     "fiber": 1.2,
+     "sugar": 1.6,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Corn on the Cob",
+     "portion": "1/2 each",
+     "kcal": 24,
+     "protein": 0.9,
+     "carbs": 5.3,
+     "fat": 0.4,
+     "satfat": 0.6,
+     "fiber": 0.7,
+     "sugar": 1.1,
+     "sodium": 41.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Tortilla Chips, Bite Size Rounds",
+    "Myokos Roadhouse Cheddar Vegan Sharp",
+    "Black Bean Salsa",
+    "Asparagus, Grilled w/ Oil",
+    "Grilled Corn on the Cob"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-21-3",
+   "name": "Rice Crispy Treat",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 150,
+   "protein": 0.8,
+   "carbs": 28.3,
+   "fat": 3.3,
+   "satfat": 0.8,
+   "fiber": 0.0,
+   "sugar": 13.3,
+   "sodium": 175.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Rice Crispy Treat",
+     "portion": "1 2/3 servings",
+     "kcal": 150,
+     "protein": 0.8,
+     "carbs": 28.3,
+     "fat": 3.3,
+     "satfat": 0.8,
+     "fiber": 0.0,
+     "sugar": 13.3,
+     "sodium": 175.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Rice Crispy Treat"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-21-4",
+   "name": "Stromboli Crust · Spring Roll, Vegetable · Buffalo Mozzerella (serving = .25 a ball, four servings to + 5 more",
+   "portion": "Dinner · 8 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 506,
+   "protein": 15.4,
+   "carbs": 65.0,
+   "fat": 25.2,
+   "satfat": 8.6,
+   "fiber": 7.2,
+   "sugar": 9.8,
+   "sodium": 1190.8,
+   "cholesterol": 8.5,
+   "components": [
+    {
+     "name": "Stromboli Crust",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 5.0,
+     "carbs": 31.0,
+     "fat": 2.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 4.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spring Roll, Vegetable",
+     "portion": "1 each",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Buffalo Mozzerella (serving = .25 a ball, four servings to",
+     "portion": "1 ounce",
+     "kcal": 74,
+     "protein": 4.5,
+     "carbs": 0.0,
+     "fat": 6.2,
+     "satfat": 5.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 113.4,
+     "cholesterol": 8.5
+    },
+    {
+     "name": "Homemade Sauteed Spinach W/ Olive Oil",
+     "portion": "1 cup",
+     "kcal": 65,
+     "protein": 2.0,
+     "carbs": 4.0,
+     "fat": 8.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 102.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Marinara",
+     "portion": "1/4 cup",
+     "kcal": 35,
+     "protein": 1.0,
+     "carbs": 7.5,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 4.5,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Olives, Ripe, Slcd",
+     "portion": "2 1/2 tablespoons",
+     "kcal": 31,
+     "protein": 0.0,
+     "carbs": 1.2,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 118.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Diced, Canned",
+     "portion": "1/2 cup",
+     "kcal": 31,
+     "protein": 0.9,
+     "carbs": 8.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 1.3,
+     "sodium": 206.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Peppers, Jalapeno, Pickled, Slc",
+     "portion": "2 tablespoons",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Stromboli Crust",
+    "Spring Roll, Vegetable",
+    "Buffalo Mozzerella (serving = .25 a ball, four servings to",
+    "Homemade Sauteed Spinach W/ Olive Oil",
+    "Sauce, Marinara",
+    "Olives, Ripe, Slcd",
+    "Tomatoes, Diced, Canned",
+    "Peppers, Jalapeno, Pickled, Slc"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-21-5",
+   "name": "Almond Butter Puff Cereal · Protein and Nutmilk, Almond and Cashew · Tortilla Chips, Bite Size Rounds + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 389,
+   "protein": 17.3,
+   "carbs": 33.6,
+   "fat": 20.3,
+   "satfat": 1.8,
+   "fiber": 5.0,
+   "sugar": 8.2,
+   "sodium": 543.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Almond Butter Puff Cereal",
+     "portion": "1 ounce",
+     "kcal": 142,
+     "protein": 4.2,
+     "carbs": 14.2,
+     "fat": 7.9,
+     "satfat": 0.7,
+     "fiber": 1.4,
+     "sugar": 4.2,
+     "sodium": 56.7
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "15 pieces",
+     "kcal": 87,
+     "protein": 1.1,
+     "carbs": 10.4,
+     "fat": 4.4,
+     "satfat": 0.6,
+     "fiber": 0.6,
+     "sugar": 0.0,
+     "sodium": 66.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Black Bean Salsa",
+     "portion": "4 tablespoons",
+     "kcal": 30,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter Puff Cereal",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Tortilla Chips, Bite Size Rounds",
+    "Black Bean Salsa"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

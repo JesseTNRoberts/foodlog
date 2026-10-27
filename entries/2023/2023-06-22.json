@@ -1,0 +1,172 @@
+{
+ "date": "2023-06-22",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-22-1",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 280,
+   "protein": 8.0,
+   "carbs": 43.0,
+   "fat": 8.0,
+   "satfat": 1.5,
+   "fiber": 2.0,
+   "sugar": 4.0,
+   "sodium": 460.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "1 serving",
+     "kcal": 280,
+     "protein": 8.0,
+     "carbs": 43.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-22-2",
+   "name": "Chicken, Breast, Meat Only, Grilled · Asparagus, Roasted w/ Oil",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 328,
+   "protein": 53.5,
+   "carbs": 5.9,
+   "fat": 11.2,
+   "satfat": 2.6,
+   "fiber": 3.2,
+   "sugar": 2.8,
+   "sodium": 363.6,
+   "cholesterol": 180.1,
+   "components": [
+    {
+     "name": "Chicken, Breast, Meat Only, Grilled",
+     "portion": "6 ounces",
+     "kcal": 252,
+     "protein": 50.2,
+     "carbs": 0.0,
+     "fat": 5.8,
+     "satfat": 1.8,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 360.2,
+     "cholesterol": 180.1
+    },
+    {
+     "name": "Asparagus, Roasted w/ Oil",
+     "portion": "1/3 pound",
+     "kcal": 76,
+     "protein": 3.3,
+     "carbs": 5.9,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 3.2,
+     "sugar": 2.8,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Breast, Meat Only, Grilled",
+    "Asparagus, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-22-3",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h · Fries, Steak, Side · Chicken, Rotisserie-Style, 6\" Portion",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 866,
+   "protein": 40.0,
+   "carbs": 117.0,
+   "fat": 28.0,
+   "satfat": 4.0,
+   "fiber": 6.0,
+   "sugar": 8.0,
+   "sodium": 1412.0,
+   "cholesterol": 55.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "2 servings",
+     "kcal": 560,
+     "protein": 16.0,
+     "carbs": 86.0,
+     "fat": 16.0,
+     "satfat": 3.0,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 920.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fries, Steak, Side",
+     "portion": "1/2 each",
+     "kcal": 186,
+     "protein": 3.0,
+     "carbs": 30.0,
+     "fat": 8.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 222.0
+    },
+    {
+     "name": "Chicken, Rotisserie-Style, 6\" Portion",
+     "portion": "1 serving",
+     "kcal": 120,
+     "protein": 21.0,
+     "carbs": 1.0,
+     "fat": 3.5,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 270.0,
+     "cholesterol": 55.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+    "Fries, Steak, Side",
+    "Chicken, Rotisserie-Style, 6\" Portion"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "date": "2023-07-31",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-31-1",
+   "name": "Avocado · Black Bean Burger",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 258,
+   "protein": 6.6,
+   "carbs": 27.3,
+   "fat": 16.0,
+   "satfat": 3.0,
+   "fiber": 10.5,
+   "sugar": 2.6,
+   "sodium": 239.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado",
+     "portion": "1/2 each",
+     "kcal": 161,
+     "protein": 2.1,
+     "carbs": 8.6,
+     "fat": 14.7,
+     "satfat": 2.1,
+     "fiber": 6.7,
+     "sugar": 0.7,
+     "sodium": 7.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Black Bean Burger",
+     "portion": "1 1/2 servings",
+     "kcal": 97,
+     "protein": 4.5,
+     "carbs": 18.7,
+     "fat": 1.3,
+     "satfat": 0.9,
+     "fiber": 3.8,
+     "sugar": 1.9,
+     "sodium": 232.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado",
+    "Black Bean Burger"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-31-2",
+   "name": "Burger Buns Done Right · Breakfast Side, Catfish, Grilled · Vegan mayonnaise",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 380,
+   "protein": 15.0,
+   "carbs": 34.0,
+   "fat": 16.5,
+   "satfat": 2.5,
+   "fiber": 3.0,
+   "sugar": 6.0,
+   "sodium": 430.0,
+   "cholesterol": 50.0,
+   "components": [
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Breakfast Side, Catfish, Grilled",
+     "portion": "1 serving",
+     "kcal": 130,
+     "protein": 9.0,
+     "carbs": 1.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 50.0,
+     "cholesterol": 50.0
+    },
+    {
+     "name": "Vegan mayonnaise",
+     "portion": "1 tablespoon",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 10.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger Buns Done Right",
+    "Breakfast Side, Catfish, Grilled",
+    "Vegan mayonnaise"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-31-3",
+   "name": "Veg Out Pizza, Large · Protein Chips Nacho Cheese · Grilled Chicken",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 330,
+   "protein": 26.0,
+   "carbs": 34.5,
+   "fat": 13.2,
+   "satfat": 2.5,
+   "fiber": 3.5,
+   "sugar": 2.5,
+   "sodium": 838.8,
+   "cholesterol": 28.7,
+   "components": [
+    {
+     "name": "Veg Out Pizza, Large",
+     "portion": "1/2 serving",
+     "kcal": 190,
+     "protein": 9.5,
+     "carbs": 24.5,
+     "fat": 9.0,
+     "satfat": 2.5,
+     "fiber": 1.5,
+     "sugar": 2.5,
+     "sodium": 490.0,
+     "cholesterol": 12.5
+    },
+    {
+     "name": "Protein Chips Nacho Cheese",
+     "portion": "1 ounce",
+     "kcal": 110,
+     "protein": 10.0,
+     "carbs": 10.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 330.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.5,
+     "carbs": 0.0,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 18.8,
+     "cholesterol": 16.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veg Out Pizza, Large",
+    "Protein Chips Nacho Cheese",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-31-4",
+   "name": "Veg Out Pizza, Large · Sour Dough Bread Slice · Aged Raw Cheddar + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 521,
+   "protein": 34.7,
+   "carbs": 58.9,
+   "fat": 19.5,
+   "satfat": 7.5,
+   "fiber": 2.5,
+   "sugar": 5.9,
+   "sodium": 1445.6,
+   "cholesterol": 88.0,
+   "components": [
+    {
+     "name": "Veg Out Pizza, Large",
+     "portion": "1/2 serving",
+     "kcal": 190,
+     "protein": 9.5,
+     "carbs": 24.5,
+     "fat": 9.0,
+     "satfat": 2.5,
+     "fiber": 1.5,
+     "sugar": 2.5,
+     "sodium": 490.0,
+     "cholesterol": 12.5
+    },
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "65 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 30.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Aged Raw Cheddar",
+     "portion": "1 ounce",
+     "kcal": 100,
+     "protein": 7.0,
+     "carbs": 1.0,
+     "fat": 7.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 35.0
+    },
+    {
+     "name": "Hot And Honey Chicken Breast",
+     "portion": "2 ounces",
+     "kcal": 71,
+     "protein": 12.2,
+     "carbs": 3.4,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.4,
+     "sodium": 455.6,
+     "cholesterol": 40.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veg Out Pizza, Large",
+    "Sour Dough Bread Slice",
+    "Aged Raw Cheddar",
+    "Hot And Honey Chicken Breast"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-31-5",
+   "name": "Vegetarian Chili (8oz/1cup) · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 314,
+   "protein": 13.5,
+   "carbs": 43.4,
+   "fat": 9.5,
+   "satfat": 0.3,
+   "fiber": 2.5,
+   "sugar": 6.6,
+   "sodium": 253.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegetarian Chili (8oz/1cup)",
+     "portion": "1 cup",
+     "kcal": 120,
+     "protein": 5.0,
+     "carbs": 21.0,
+     "fat": 2.0
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "2/3 cup",
+     "kcal": 107,
+     "protein": 1.8,
+     "carbs": 20.4,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 5.3,
+     "sodium": 106.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "2/3 cup",
+     "kcal": 87,
+     "protein": 6.7,
+     "carbs": 2.0,
+     "fat": 5.3,
+     "satfat": 0.3,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 146.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegetarian Chili (8oz/1cup)",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

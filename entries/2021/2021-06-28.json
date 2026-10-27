@@ -1,0 +1,296 @@
+{
+ "date": "2021-06-28",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-06-28-1",
+   "name": "Sparkling Flavored Water",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 0,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Sparkling Flavored Water",
+     "portion": "1 serving",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sparkling Flavored Water"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-06-28-2",
+   "name": "Ready Pasta · Tomato & Basil, Pasta Sauce · Hummus, spinach and artichoke + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 386,
+   "protein": 14.9,
+   "carbs": 66.1,
+   "fat": 8.8,
+   "satfat": 1.5,
+   "fiber": 11.9,
+   "sugar": 11.3,
+   "sodium": 1308.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Ready Pasta",
+     "portion": "1 cup",
+     "kcal": 190,
+     "protein": 7.0,
+     "carbs": 41.0,
+     "fat": 1.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Tomato & Basil, Pasta Sauce",
+     "portion": "10 ounces",
+     "kcal": 113,
+     "protein": 4.6,
+     "carbs": 18.1,
+     "fat": 2.3,
+     "satfat": 0.0,
+     "fiber": 4.6,
+     "sugar": 11.3,
+     "sodium": 929.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach",
+     "portion": "2 ounces",
+     "kcal": 13,
+     "protein": 1.3,
+     "carbs": 2.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 0.0,
+     "sodium": 43.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ready Pasta",
+    "Tomato & Basil, Pasta Sauce",
+    "Hummus, spinach and artichoke",
+    "Spinach"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-06-28-3",
+   "name": "Fried Chicken Cobb Salad, no cheese, no egg, with 2 honey m · Dressing, Honey Mustard · Strawberry Lemonade No Sugar Added + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 792,
+   "protein": 32.3,
+   "carbs": 58.4,
+   "fat": 48.0,
+   "satfat": 15.6,
+   "fiber": 13.6,
+   "sugar": 19.1,
+   "sodium": 1885.4,
+   "cholesterol": 109.2,
+   "components": [
+    {
+     "name": "Fried Chicken Cobb Salad, no cheese, no egg, with 2 honey m",
+     "portion": "1/2 serving",
+     "kcal": 444,
+     "protein": 22.5,
+     "carbs": 28.5,
+     "fat": 29.5,
+     "satfat": 9.0,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 1279.0,
+     "cholesterol": 89.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 package",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 13.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 5.0,
+     "sodium": 230.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Strawberry Lemonade No Sugar Added",
+     "portion": "6 servings",
+     "kcal": 90,
+     "protein": 6.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 6.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach",
+     "portion": "1/3 pound",
+     "kcal": 36,
+     "protein": 3.5,
+     "carbs": 5.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.5,
+     "sugar": 0.0,
+     "sodium": 115.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Croutons, Seasoned",
+     "portion": "10 each",
+     "kcal": 12,
+     "protein": 0.3,
+     "carbs": 1.6,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 0.1,
+     "sugar": 0.1,
+     "sodium": 30.9,
+     "cholesterol": 0.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fried Chicken Cobb Salad, no cheese, no egg, with 2 honey m",
+    "Dressing, Honey Mustard",
+    "Strawberry Lemonade No Sugar Added",
+    "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+    "Spinach",
+    "Croutons, Seasoned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-06-28-4",
+   "name": "Strawberry freezer jam · Bread, Thin Sliced, 21 Whole Grains & Seeds",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 210,
+   "protein": 3.2,
+   "carbs": 40.8,
+   "fat": 1.0,
+   "satfat": 0.0,
+   "fiber": 5.2,
+   "sugar": 29.6,
+   "sodium": 100.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Strawberry freezer jam",
+     "portion": "2 tablespoons",
+     "kcal": 150,
+     "protein": 0.2,
+     "carbs": 28.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.2,
+     "sugar": 26.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Strawberry freezer jam",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

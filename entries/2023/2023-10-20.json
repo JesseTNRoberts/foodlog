@@ -1,0 +1,236 @@
+{
+ "date": "2023-10-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-20-1",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Just Egg",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 492,
+   "protein": 15.8,
+   "carbs": 64.8,
+   "fat": 19.6,
+   "satfat": 1.4,
+   "fiber": 5.6,
+   "sugar": 2.8,
+   "sodium": 332.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "2 cups",
+     "kcal": 352,
+     "protein": 5.8,
+     "carbs": 62.8,
+     "fat": 9.6,
+     "satfat": 1.4,
+     "fiber": 5.6,
+     "sugar": 2.8,
+     "sodium": 12.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "3 fluid ounces",
+     "kcal": 140,
+     "protein": 10.0,
+     "carbs": 2.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Just Egg"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-20-2",
+   "name": "Sour Dough Bread Slice · Chips, Tortilla, Scoops · Turkey Breast, Santa Fe + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 608,
+   "protein": 29.3,
+   "carbs": 91.2,
+   "fat": 10.6,
+   "satfat": 2.6,
+   "fiber": 5.3,
+   "sugar": 7.8,
+   "sodium": 1813.4,
+   "cholesterol": 52.5,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 8.0,
+     "carbs": 72.0,
+     "fat": 2.4,
+     "satfat": 0.6,
+     "fiber": 3.0,
+     "sugar": 3.2,
+     "sodium": 656.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "10 each",
+     "kcal": 108,
+     "protein": 1.5,
+     "carbs": 14.6,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 92.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 18.0,
+     "carbs": 1.5,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 690.0,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1/4 ounce",
+     "kcal": 28,
+     "protein": 1.8,
+     "carbs": 0.1,
+     "fat": 2.0,
+     "satfat": 1.2,
+     "fiber": 0.0,
+     "sugar": 0.1,
+     "sodium": 30.0,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Chips, Tortilla, Scoops",
+    "Turkey Breast, Santa Fe",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-20-3",
+   "name": "Moonpie Pumpkin Pie Minis (1 Pie)",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 100,
+   "protein": 1.0,
+   "carbs": 18.0,
+   "fat": 2.6,
+   "satfat": 1.5,
+   "fiber": 0.0,
+   "sugar": 99.0,
+   "sodium": 35.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Moonpie Pumpkin Pie Minis (1 Pie)",
+     "portion": "1 serving",
+     "kcal": 100,
+     "protein": 1.0,
+     "carbs": 18.0,
+     "fat": 2.6,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 99.0,
+     "sodium": 35.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Moonpie Pumpkin Pie Minis (1 Pie)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-20-4",
+   "name": "Calories",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 700,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "70 each",
+     "kcal": 700
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

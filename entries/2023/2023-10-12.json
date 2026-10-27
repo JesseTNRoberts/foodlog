@@ -1,0 +1,174 @@
+{
+ "date": "2023-10-12",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-12-1",
+   "name": "Sauce, Cane's · Chicken Tender",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 317,
+   "protein": 7.0,
+   "carbs": 14.0,
+   "fat": 25.0,
+   "satfat": 3.0,
+   "fiber": 0.0,
+   "sugar": 4.0,
+   "sodium": 550.0,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 550.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Chicken Tender",
+     "portion": "1 piece",
+     "kcal": 127,
+     "protein": 7.0,
+     "carbs": 9.0,
+     "fat": 7.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sauce, Cane's",
+    "Chicken Tender"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-12-2",
+   "name": "Grilled Grouper Sandwich · Red Potatoes, Roasted w/ Oil",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 567,
+   "protein": 42.6,
+   "carbs": 64.6,
+   "fat": 12.9,
+   "satfat": 0.7,
+   "fiber": 5.8,
+   "sugar": 2.2,
+   "sodium": 318.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Grilled Grouper Sandwich",
+     "portion": "1 serving",
+     "kcal": 388,
+     "protein": 39.0,
+     "carbs": 34.0,
+     "fat": 8.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 300.0
+    },
+    {
+     "name": "Red Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 179,
+     "protein": 3.6,
+     "carbs": 30.6,
+     "fat": 4.9,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 2.2,
+     "sodium": 18.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Grilled Grouper Sandwich",
+    "Red Potatoes, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-12-3",
+   "name": "Buffalo Chicken Wrapper · Fries Side · Creamy Honey Mustard Salad Dressing",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 839,
+   "protein": 8.9,
+   "carbs": 53.4,
+   "fat": 28.9,
+   "satfat": 3.3,
+   "fiber": 3.3,
+   "sugar": 1.9,
+   "sodium": 672.0,
+   "cholesterol": 1.0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/2 serving",
+     "kcal": 450,
+     "protein": 5.6,
+     "carbs": 7.2,
+     "fat": 3.8
+    },
+    {
+     "name": "Fries Side",
+     "portion": "2/3 serving",
+     "kcal": 267,
+     "protein": 3.3,
+     "carbs": 33.4,
+     "fat": 18.1,
+     "satfat": 3.3,
+     "fiber": 3.3,
+     "sugar": 0.7,
+     "sodium": 172.8
+    },
+    {
+     "name": "Creamy Honey Mustard Salad Dressing",
+     "portion": "2 servings",
+     "kcal": 122,
+     "carbs": 12.8,
+     "fat": 7.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.2,
+     "sodium": 499.2,
+     "cholesterol": 1.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Fries Side",
+    "Creamy Honey Mustard Salad Dressing"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

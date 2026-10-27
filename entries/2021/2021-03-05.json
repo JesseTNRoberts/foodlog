@@ -1,0 +1,353 @@
+{
+ "date": "2021-03-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-05-1",
+   "name": "Burrito, Breakfast, Big Sur · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 400,
+   "protein": 24.0,
+   "carbs": 44.0,
+   "fat": 10.0,
+   "satfat": 1.0,
+   "fiber": 6.0,
+   "sugar": 3.0,
+   "sodium": 540.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Burrito, Breakfast, Big Sur",
+     "portion": "1 each",
+     "kcal": 390,
+     "protein": 24.0,
+     "carbs": 44.0,
+     "fat": 10.0,
+     "satfat": 1.0,
+     "fiber": 6.0,
+     "sugar": 3.0,
+     "sodium": 530.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burrito, Breakfast, Big Sur",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-05-2",
+   "name": "Magnum Non-Dairy Almond Bars · Gemelli Ready Pasta · Chips, Corn, Scoops + 5 more",
+   "portion": "Lunch · 8 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 926,
+   "protein": 15.2,
+   "carbs": 127.0,
+   "fat": 42.1,
+   "satfat": 13.1,
+   "fiber": 13.4,
+   "sugar": 51.7,
+   "sodium": 1771.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Magnum Non-Dairy Almond Bars",
+     "portion": "1 serving",
+     "kcal": 250,
+     "protein": 2.0,
+     "carbs": 25.0,
+     "fat": 16.0,
+     "satfat": 10.0,
+     "fiber": 2.0,
+     "sugar": 19.0,
+     "sodium": 35.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Gemelli Ready Pasta",
+     "portion": "1 cup",
+     "kcal": 190,
+     "protein": 7.0,
+     "carbs": 41.0,
+     "fat": 1.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Corn, Scoops",
+     "portion": "10 pieces",
+     "kcal": 160,
+     "protein": 2.0,
+     "carbs": 16.0,
+     "fat": 10.0,
+     "satfat": 1.5,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kickin’ Queso cashew Dip",
+     "portion": "1 ounce",
+     "kcal": 91,
+     "protein": 2.2,
+     "carbs": 4.5,
+     "fat": 8.1,
+     "satfat": 1.1,
+     "fiber": 1.1,
+     "sugar": 0.0,
+     "sodium": 151.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pasta Sauce, Mushroom",
+     "portion": "1/2 cup",
+     "kcal": 60,
+     "protein": 2.0,
+     "carbs": 9.0,
+     "fat": 2.0,
+     "fiber": 2.0,
+     "sugar": 5.0,
+     "sodium": 450.0
+    },
+    {
+     "name": "Plant Based Vegan Sour Cream",
+     "portion": "3 tablespoons",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 4.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 112.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "6 tablespoons",
+     "kcal": 30,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 690.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Magnum Non-Dairy Almond Bars",
+    "Gemelli Ready Pasta",
+    "Chips, Corn, Scoops",
+    "Half and Half Tea",
+    "Kickin’ Queso cashew Dip",
+    "Pasta Sauce, Mushroom",
+    "Plant Based Vegan Sour Cream",
+    "Salsa, Chunky, Med"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-05-3",
+   "name": "Spicy Chicken Sandwich · Fries, Waffle Potato, Medium · Sauce, Honey Roasted BBQ + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 755,
+   "protein": 17.0,
+   "carbs": 93.5,
+   "fat": 35.0,
+   "satfat": 7.0,
+   "fiber": 3.0,
+   "sugar": 47.5,
+   "sodium": 1170.0,
+   "cholesterol": 45.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/2 piece",
+     "kcal": 225,
+     "protein": 14.5,
+     "carbs": 20.5,
+     "fat": 9.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 24.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 225.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Soda, Dr Pepper",
+     "portion": "12 fluid ounces",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 40.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 55.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Sandwich",
+    "Fries, Waffle Potato, Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Soda, Dr Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-05-4",
+   "name": "Tortilla Chips · Salsa, Chunky, Mild · Half and Half Tea",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 485,
+   "protein": 3.3,
+   "carbs": 86.2,
+   "fat": 10.0,
+   "satfat": 1.7,
+   "fiber": 4.1,
+   "sugar": 53.7,
+   "sodium": 3874.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Tortilla Chips",
+     "portion": "15 pieces",
+     "kcal": 233,
+     "protein": 3.3,
+     "carbs": 31.7,
+     "fat": 10.0,
+     "satfat": 1.7,
+     "fiber": 3.3,
+     "sugar": 0.0,
+     "sodium": 191.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "2 cups",
+     "kcal": 160,
+     "protein": 0.0,
+     "carbs": 32.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 32.0,
+     "sodium": 3680.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Tortilla Chips",
+    "Salsa, Chunky, Mild",
+    "Half and Half Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

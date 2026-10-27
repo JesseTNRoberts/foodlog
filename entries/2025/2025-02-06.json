@@ -1,0 +1,339 @@
+{
+ "date": "2025-02-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-02-06-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Banana, Medium, 7\" - 7 7/8\" Long + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 379,
+   "protein": 16.7,
+   "carbs": 47.6,
+   "fat": 15.4,
+   "satfat": 1.6,
+   "fiber": 14.0,
+   "sugar": 22.0,
+   "sodium": 159.7,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1/2 each",
+     "kcal": 53,
+     "protein": 0.6,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 7.2,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "2/3 cup",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 12.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 7.3,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Banana, Medium, 7\" - 7 7/8\" Long",
+    "Blackberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-06-2",
+   "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size · Cheese, Sharp White Cheddar · Turkey Breast, Honey Smoked",
+   "portion": "Morning Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 236,
+   "protein": 12.4,
+   "carbs": 26.1,
+   "fat": 9.1,
+   "satfat": 2.5,
+   "fiber": 1.0,
+   "sugar": 0.0,
+   "sodium": 260.3,
+   "cholesterol": 20.5,
+   "components": [
+    {
+     "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+     "portion": "1/3 each",
+     "kcal": 176,
+     "protein": 4.0,
+     "carbs": 25.6,
+     "fat": 6.3,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 0.3,
+     "cholesterol": 1.3
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1/3 slice",
+     "kcal": 30,
+     "protein": 1.7,
+     "carbs": 0.0,
+     "fat": 2.3,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 50.0,
+     "cholesterol": 6.7
+    },
+    {
+     "name": "Turkey Breast, Honey Smoked",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.7,
+     "carbs": 0.5,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 210.0,
+     "cholesterol": 12.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+    "Cheese, Sharp White Cheddar",
+    "Turkey Breast, Honey Smoked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-06-3",
+   "name": "Red Snapper Filet · Apple, Honeycrisp, Medium",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 313,
+   "protein": 44.5,
+   "carbs": 25.0,
+   "fat": 3.3,
+   "satfat": 1.1,
+   "fiber": 4.4,
+   "sugar": 19.0,
+   "sodium": 142.0,
+   "cholesterol": 81.0,
+   "components": [
+    {
+     "name": "Red Snapper Filet",
+     "portion": "5 ounces",
+     "kcal": 218,
+     "protein": 44.0,
+     "carbs": 0.0,
+     "fat": 3.0,
+     "satfat": 1.0,
+     "sodium": 140.0,
+     "cholesterol": 81.0
+    },
+    {
+     "name": "Apple, Honeycrisp, Medium",
+     "portion": "1 each",
+     "kcal": 95,
+     "protein": 0.5,
+     "carbs": 25.0,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 4.4,
+     "sugar": 19.0,
+     "sodium": 2.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Red Snapper Filet",
+    "Apple, Honeycrisp, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-06-4",
+   "name": "Salmon Patty Red Pepper Mozzerella · Dressing, Ranch, Homestyle · Croutons, Homestyle Seasoned Herb + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 753,
+   "protein": 32.5,
+   "carbs": 51.4,
+   "fat": 47.4,
+   "satfat": 6.1,
+   "fiber": 4.8,
+   "sugar": 10.7,
+   "sodium": 1244.7,
+   "cholesterol": 65.1,
+   "components": [
+    {
+     "name": "Salmon Patty Red Pepper Mozzerella",
+     "portion": "1 2/3 servings",
+     "kcal": 367,
+     "protein": 21.7,
+     "carbs": 13.3,
+     "fat": 25.0,
+     "satfat": 4.2,
+     "fiber": 0.0,
+     "sugar": 1.7,
+     "sodium": 300.6,
+     "cholesterol": 50.1
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "3 tablespoons",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 1.5,
+     "sodium": 360.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Croutons, Homestyle Seasoned Herb",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spring Mix, Organic",
+     "portion": "3 cups",
+     "kcal": 52,
+     "protein": 5.2,
+     "carbs": 7.8,
+     "fat": 0.0,
+     "fiber": 2.6,
+     "sugar": 2.6,
+     "sodium": 274.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "11 each",
+     "kcal": 34,
+     "protein": 1.6,
+     "carbs": 7.3,
+     "fat": 0.4,
+     "satfat": 0.4,
+     "fiber": 2.2,
+     "sugar": 4.9,
+     "sodium": 9.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon Patty Red Pepper Mozzerella",
+    "Dressing, Ranch, Homestyle",
+    "Croutons, Homestyle Seasoned Herb",
+    "Spring Mix, Organic",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

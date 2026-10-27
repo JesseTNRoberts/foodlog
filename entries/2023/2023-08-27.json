@@ -1,0 +1,345 @@
+{
+ "date": "2023-08-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-27-1",
+   "name": "Apple Stack Cake · Buffalo Chicken Wrapper · Fries Side + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 720,
+   "protein": 5.1,
+   "carbs": 83.2,
+   "fat": 21.4,
+   "satfat": 4.5,
+   "fiber": 2.3,
+   "sugar": 40.2,
+   "sodium": 379.6,
+   "cholesterol": 43.0,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1 serving",
+     "kcal": 345,
+     "protein": 1.0,
+     "carbs": 60.0,
+     "fat": 10.0,
+     "satfat": 3.0,
+     "fiber": 1.0,
+     "sugar": 40.0,
+     "sodium": 226.0,
+     "cholesterol": 43.0
+    },
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/4 serving",
+     "kcal": 225,
+     "protein": 2.8,
+     "carbs": 3.6,
+     "fat": 1.9
+    },
+    {
+     "name": "Fries Side",
+     "portion": "1/4 serving",
+     "kcal": 100,
+     "protein": 1.2,
+     "carbs": 12.5,
+     "fat": 6.8,
+     "satfat": 1.2,
+     "fiber": 1.2,
+     "sugar": 0.2,
+     "sodium": 64.8
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "1 tablespoon",
+     "kcal": 50,
+     "protein": 0.1,
+     "carbs": 7.1,
+     "fat": 2.7,
+     "satfat": 0.3,
+     "fiber": 0.1,
+     "sugar": 0.0,
+     "sodium": 88.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake",
+    "Buffalo Chicken Wrapper",
+    "Fries Side",
+    "Honey Mustard Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-27-2",
+   "name": "Chicken Wings, Boneless, Honey BBQ, Snack · Naan Bites · Chicken, Tenders, Breaded, 5pc + 5 more",
+   "portion": "Lunch · 8 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1182,
+   "protein": 55.4,
+   "carbs": 123.3,
+   "fat": 49.9,
+   "satfat": 12.5,
+   "fiber": 13.0,
+   "sugar": 31.8,
+   "sodium": 2985.5,
+   "cholesterol": 102.5,
+   "components": [
+    {
+     "name": "Chicken Wings, Boneless, Honey BBQ, Snack",
+     "portion": "6 pieces",
+     "kcal": 443,
+     "protein": 20.2,
+     "carbs": 47.2,
+     "fat": 19.5,
+     "satfat": 7.5,
+     "fiber": 3.0,
+     "sugar": 13.5,
+     "sodium": 1282.5,
+     "cholesterol": 45.0
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "7 each",
+     "kcal": 245,
+     "protein": 7.0,
+     "carbs": 40.2,
+     "fat": 5.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.8,
+     "sodium": 385.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken, Tenders, Breaded, 5pc",
+     "portion": "1/2 each",
+     "kcal": 220,
+     "protein": 20.5,
+     "carbs": 10.5,
+     "fat": 10.5,
+     "satfat": 2.2,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 645.0,
+     "cholesterol": 57.5
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "3 tablespoons",
+     "kcal": 135,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 9.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 10.5,
+     "sodium": 405.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus",
+     "portion": "4 tablespoons",
+     "kcal": 93,
+     "protein": 4.4,
+     "carbs": 8.0,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 3.4,
+     "sugar": 0.0,
+     "sodium": 212.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Red, Orange, Yellow Peppers",
+     "portion": "2 pieces",
+     "kcal": 20,
+     "protein": 1.0,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "fiber": 3.0,
+     "sugar": 4.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "2 cups",
+     "kcal": 14,
+     "protein": 1.7,
+     "carbs": 2.2,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.3,
+     "sugar": 0.2,
+     "sodium": 47.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "4 each",
+     "kcal": 12,
+     "protein": 0.6,
+     "carbs": 2.7,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 0.8,
+     "sugar": 1.8,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Wings, Boneless, Honey BBQ, Snack",
+    "Naan Bites",
+    "Chicken, Tenders, Breaded, 5pc",
+    "Dressing, Honey Mustard",
+    "Hummus",
+    "Red, Orange, Yellow Peppers",
+    "Spinach, Baby, Fresh",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-27-3",
+   "name": "Non Dairy Oatmeal Cream Pie",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 214,
+   "protein": 1.4,
+   "carbs": 34.3,
+   "fat": 8.6,
+   "satfat": 5.0,
+   "fiber": 0.7,
+   "sugar": 20.7,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Non Dairy Oatmeal Cream Pie",
+     "portion": "3 ounces",
+     "kcal": 214,
+     "protein": 1.4,
+     "carbs": 34.3,
+     "fat": 8.6,
+     "satfat": 5.0,
+     "fiber": 0.7,
+     "sugar": 20.7
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Non Dairy Oatmeal Cream Pie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-27-4",
+   "name": "Grilled Ground Beef Chuck 80/20 · Bun, Hamburger, Plain · Fish, Salmon, Filet, Grilled + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 523,
+   "protein": 44.5,
+   "carbs": 22.5,
+   "fat": 21.7,
+   "satfat": 8.8,
+   "fiber": 0.9,
+   "sugar": 2.9,
+   "sodium": 564.6,
+   "cholesterol": 54.8,
+   "components": [
+    {
+     "name": "Grilled Ground Beef Chuck 80/20",
+     "portion": "1/4 pound",
+     "kcal": 248,
+     "protein": 19.3,
+     "carbs": 0.0,
+     "fat": 12.8,
+     "satfat": 5.3,
+     "fiber": 0.0,
+     "sugar": 0.0
+    },
+    {
+     "name": "Bun, Hamburger, Plain",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.8,
+     "carbs": 21.3,
+     "fat": 1.9,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 206.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fish, Salmon, Filet, Grilled",
+     "portion": "3 1/8 ounces",
+     "kcal": 100,
+     "protein": 16.9,
+     "carbs": 1.0,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 298.6,
+     "cholesterol": 39.8
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1/2 ounce",
+     "kcal": 55,
+     "protein": 3.5,
+     "carbs": 0.2,
+     "fat": 4.0,
+     "satfat": 2.5,
+     "fiber": 0.0,
+     "sugar": 0.2,
+     "sodium": 60.0,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Grilled Ground Beef Chuck 80/20",
+    "Bun, Hamburger, Plain",
+    "Fish, Salmon, Filet, Grilled",
+    "Raw Goat Milk Mild Cheddar Cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

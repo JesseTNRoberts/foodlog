@@ -1,0 +1,188 @@
+{
+ "date": "2023-06-21",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-21-1",
+   "name": "Big Zaxbys Snack · Dressing, Honey Mustard",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 950,
+   "protein": 38.0,
+   "carbs": 70.0,
+   "fat": 51.7,
+   "satfat": 6.8,
+   "fiber": 7.0,
+   "sugar": 8.3,
+   "sodium": 1673.4,
+   "cholesterol": 128.3,
+   "components": [
+    {
+     "name": "Big Zaxbys Snack",
+     "portion": "1 serving",
+     "kcal": 700,
+     "protein": 38.0,
+     "carbs": 60.0,
+     "fat": 30.0,
+     "satfat": 3.5,
+     "fiber": 7.0,
+     "sugar": 0.0,
+     "sodium": 1290.0,
+     "cholesterol": 95.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 2/3 packages",
+     "kcal": 250,
+     "protein": 0.0,
+     "carbs": 10.0,
+     "fat": 21.7,
+     "satfat": 3.3,
+     "fiber": 0.0,
+     "sugar": 8.3,
+     "sodium": 383.4,
+     "cholesterol": 33.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Big Zaxbys Snack",
+    "Dressing, Honey Mustard"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-21-2",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h · Apple, Envy",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 375,
+   "protein": 8.5,
+   "carbs": 68.0,
+   "fat": 8.3,
+   "satfat": 1.6,
+   "fiber": 6.4,
+   "sugar": 23.0,
+   "sodium": 462.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "1 serving",
+     "kcal": 280,
+     "protein": 8.0,
+     "carbs": 43.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apple, Envy",
+     "portion": "1 each",
+     "kcal": 95,
+     "protein": 0.5,
+     "carbs": 25.0,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 4.4,
+     "sugar": 19.0,
+     "sodium": 2.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+    "Apple, Envy"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-21-3",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h · Chips, Potato, Kettle Cooked, Jalapeno · Soup, Minestrone",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 715,
+   "protein": 20.0,
+   "carbs": 106.5,
+   "fat": 22.3,
+   "satfat": 3.8,
+   "fiber": 7.0,
+   "sugar": 11.0,
+   "sodium": 1425.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "2 servings",
+     "kcal": 560,
+     "protein": 16.0,
+     "carbs": 86.0,
+     "fat": 16.0,
+     "satfat": 3.0,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 920.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Potato, Kettle Cooked, Jalapeno",
+     "portion": "1/2 serving",
+     "kcal": 100,
+     "protein": 1.5,
+     "carbs": 11.5,
+     "fat": 5.5,
+     "satfat": 0.8,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 85.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Soup, Minestrone",
+     "portion": "1/2 each",
+     "kcal": 55,
+     "protein": 2.5,
+     "carbs": 9.0,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 420.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+    "Chips, Potato, Kettle Cooked, Jalapeno",
+    "Soup, Minestrone"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

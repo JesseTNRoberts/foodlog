@@ -1,0 +1,252 @@
+{
+ "date": "2023-08-11",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-11-1",
+   "name": "Oregon Trail Raisin Bread · Crawfish Creole Pasta",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 319,
+   "protein": 8.0,
+   "carbs": 55.5,
+   "fat": 7.3,
+   "satfat": 2.8,
+   "fiber": 4.4,
+   "sugar": 17.9,
+   "sodium": 370.3,
+   "cholesterol": 7.2,
+   "components": [
+    {
+     "name": "Oregon Trail Raisin Bread",
+     "portion": "1 slice",
+     "kcal": 190,
+     "protein": 4.0,
+     "carbs": 38.0,
+     "fat": 2.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 14.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/4 serving",
+     "kcal": 129,
+     "protein": 4.0,
+     "carbs": 17.5,
+     "fat": 4.8,
+     "satfat": 1.8,
+     "fiber": 2.4,
+     "sugar": 3.9,
+     "sodium": 150.3,
+     "cholesterol": 7.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oregon Trail Raisin Bread",
+    "Crawfish Creole Pasta"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-11-2",
+   "name": "Pork Tenderloin, Chop, Baked · Crawfish Creole Pasta · Hushpuppies",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 375,
+   "protein": 25.2,
+   "carbs": 30.2,
+   "fat": 14.9,
+   "satfat": 4.4,
+   "fiber": 3.1,
+   "sugar": 5.2,
+   "sodium": 499.7,
+   "cholesterol": 73.2,
+   "components": [
+    {
+     "name": "Pork Tenderloin, Chop, Baked",
+     "portion": "4 ounces",
+     "kcal": 153,
+     "protein": 19.9,
+     "carbs": 0.0,
+     "fat": 5.4,
+     "satfat": 1.9,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 42.7,
+     "cholesterol": 62.7
+    },
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/4 serving",
+     "kcal": 129,
+     "protein": 4.0,
+     "carbs": 17.5,
+     "fat": 4.8,
+     "satfat": 1.8,
+     "fiber": 2.4,
+     "sugar": 3.9,
+     "sodium": 150.3,
+     "cholesterol": 7.2
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "2 pieces",
+     "kcal": 93,
+     "protein": 1.3,
+     "carbs": 12.7,
+     "fat": 4.7,
+     "satfat": 0.7,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 306.7,
+     "cholesterol": 3.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pork Tenderloin, Chop, Baked",
+    "Crawfish Creole Pasta",
+    "Hushpuppies"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-11-3",
+   "name": "Hamburger Meat 80/20 · Burger Buns Done Right · Fried Oreo + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1218,
+   "protein": 45.8,
+   "carbs": 90.2,
+   "fat": 63.3,
+   "satfat": 18.0,
+   "fiber": 2.0,
+   "sugar": 48.2,
+   "sodium": 460.8,
+   "cholesterol": 167.0,
+   "components": [
+    {
+     "name": "Hamburger Meat 80/20",
+     "portion": "16 ounces",
+     "kcal": 750,
+     "protein": 38.0,
+     "fat": 52.0,
+     "satfat": 18.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "cholesterol": 160.0
+    },
+    {
+     "name": "Burger Buns Done Right",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fried Oreo",
+     "portion": "1 serving",
+     "kcal": 156,
+     "protein": 1.8,
+     "carbs": 16.0,
+     "fat": 9.8,
+     "sodium": 152.0,
+     "cholesterol": 7.0
+    },
+    {
+     "name": "Soda, Coke",
+     "portion": "13 fluid ounces",
+     "kcal": 152,
+     "protein": 0.0,
+     "carbs": 42.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 42.2,
+     "sodium": 48.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hamburger Meat 80/20",
+    "Burger Buns Done Right",
+    "Fried Oreo",
+    "Soda, Coke"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-11-4",
+   "name": "Chocolate Chip Crunchy Cookie",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 160,
+   "protein": 6.0,
+   "carbs": 14.0,
+   "fat": 8.0,
+   "satfat": 3.5,
+   "fiber": 4.0,
+   "sugar": 8.0,
+   "sodium": 130.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "6 pieces",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 14.0,
+     "fat": 8.0,
+     "satfat": 3.5,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

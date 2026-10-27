@@ -1,0 +1,307 @@
+{
+ "date": "2023-08-16",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-16-1",
+   "name": "Bagel, Plain, Mini · Jam, Strawberry · Chokecherry jelly",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 215,
+   "protein": 4.0,
+   "carbs": 48.0,
+   "fat": 1.0,
+   "satfat": 0.0,
+   "fiber": 1.0,
+   "sugar": 25.0,
+   "sodium": 210.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bagel, Plain, Mini",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 24.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 210.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Jam, Strawberry",
+     "portion": "1 tablespoon",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 13.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 12.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chokecherry jelly",
+     "portion": "1 tablespoon",
+     "kcal": 45,
+     "carbs": 11.0,
+     "fat": 0.0,
+     "sugar": 10.0,
+     "sodium": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bagel, Plain, Mini",
+    "Jam, Strawberry",
+    "Chokecherry jelly"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-16-2",
+   "name": "Honey Pistachio Energy Squares · Nuts, Pistachios, Kernels · Apricot, Dried",
+   "portion": "Morning Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 129,
+   "protein": 4.7,
+   "carbs": 13.0,
+   "fat": 8.1,
+   "satfat": 1.0,
+   "fiber": 2.5,
+   "sugar": 8.4,
+   "sodium": 68.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Honey Pistachio Energy Squares",
+     "portion": "1/2 ounce",
+     "kcal": 60,
+     "protein": 2.5,
+     "carbs": 6.0,
+     "fat": 3.5,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 4.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "16 pieces",
+     "kcal": 52,
+     "protein": 2.0,
+     "carbs": 2.6,
+     "fat": 4.2,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 0.7,
+     "sodium": 62.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apricot, Dried",
+     "portion": "1 each",
+     "kcal": 17,
+     "protein": 0.2,
+     "carbs": 4.4,
+     "fat": 0.4,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 3.7,
+     "sodium": 0.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Honey Pistachio Energy Squares",
+    "Nuts, Pistachios, Kernels",
+    "Apricot, Dried"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-16-3",
+   "name": "Crawfish Creole Pasta · Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice · Coke mini bottle",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 605,
+   "protein": 18.6,
+   "carbs": 103.8,
+   "fat": 18.8,
+   "satfat": 7.2,
+   "fiber": 7.3,
+   "sugar": 50.4,
+   "sodium": 446.1,
+   "cholesterol": 279.2,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "2/3 serving",
+     "kcal": 345,
+     "protein": 10.6,
+     "carbs": 46.8,
+     "fat": 12.8,
+     "satfat": 4.7,
+     "fiber": 6.3,
+     "sugar": 10.4,
+     "sodium": 401.1,
+     "cholesterol": 19.2
+    },
+    {
+     "name": "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+     "portion": "1 each",
+     "kcal": 170,
+     "protein": 8.0,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "cholesterol": 260.0
+    },
+    {
+     "name": "Coke mini bottle",
+     "portion": "1 bottle",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 39.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
+    "Coke mini bottle"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-16-4",
+   "name": "Crawfish Creole Pasta · Yellow Potatoes, Roasted w/ Oil",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 434,
+   "protein": 10.9,
+   "carbs": 67.0,
+   "fat": 14.4,
+   "satfat": 4.2,
+   "fiber": 7.5,
+   "sugar": 9.2,
+   "sodium": 306.9,
+   "cholesterol": 14.4,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1/2 serving",
+     "kcal": 258,
+     "protein": 8.0,
+     "carbs": 35.6,
+     "fat": 9.6,
+     "satfat": 3.5,
+     "fiber": 4.7,
+     "sugar": 7.8,
+     "sodium": 300.7,
+     "cholesterol": 14.4
+    },
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 176,
+     "protein": 2.9,
+     "carbs": 31.4,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 1.4,
+     "sodium": 6.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Yellow Potatoes, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-16-5",
+   "name": "Non Dairy Oatmeal Cream Pie",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 71,
+   "protein": 0.5,
+   "carbs": 11.4,
+   "fat": 2.9,
+   "satfat": 1.7,
+   "fiber": 0.2,
+   "sugar": 6.9,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Non Dairy Oatmeal Cream Pie",
+     "portion": "1 ounce",
+     "kcal": 71,
+     "protein": 0.5,
+     "carbs": 11.4,
+     "fat": 2.9,
+     "satfat": 1.7,
+     "fiber": 0.2,
+     "sugar": 6.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Non Dairy Oatmeal Cream Pie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

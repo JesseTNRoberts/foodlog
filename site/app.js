@@ -233,7 +233,9 @@ function renderTrends(){
   const T=keys.map(d=>totals(dayEntries(d)));
   const logged=T.map((t,i)=>({t,d:keys[i]})).filter(x=>x.t.n);
   const avg=f=>logged.length?logged.reduce((a,x)=>a+x.t[f],0)/logged.length:0;
-  const microAvg={}; for(const [k] of MICRO) microAvg[k]=logged.length?logged.reduce((a,x)=>a+num(x.t.micros[k]),0)/logged.length:0;
+  // Imported Lose It days have no vitamin data, so average only over days that do.
+  const withMicros=logged.filter(x=>Object.keys(x.t.micros).length);
+  const microAvg={}; for(const [k] of MICRO) microAvg[k]=withMicros.length?withMicros.reduce((a,x)=>a+num(x.t.micros[k]),0)/withMicros.length:0;
   const under=logged.filter(x=>x.t.kcal<=B).length;
   const [mk,ml,mu]=METRICS.find(m=>m[0]===trendState.metric);
   const target = mk==="kcal"?B: mk==="protein"?num(S.proteinGoal): mk==="fiber"?num(S.fiberGoal): mk==="sodium"?num(S.sodiumLimit): mk.startsWith("m:")?MICRO.find(m=>"m:"+m[0]===mk)[3]:null;
@@ -254,8 +256,8 @@ function renderTrends(){
     <section class="card"><div class="card-h"><h2>Calories by macro</h2><span class="sub">kcal from P / C / F</span></div><div class="chartbox"><canvas id="cMacros"></canvas></div></section>
     <section class="card"><div class="card-h"><h2>Calories by meal</h2><span class="sub">stacked per day</span></div><div class="chartbox"><canvas id="cMeals"></canvas></div></section>
   </div>
-  <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of daily value across logged days</span></div>
-    ${logged.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">Nothing logged in this range.</div>`}</section>
+  <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of daily value · ${withMicros.length} day${withMicros.length===1?"":"s"} with vitamin estimates</span></div>
+    ${withMicros.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">No vitamin estimates in this range (Lose It imports don't include them).</div>`}</section>
   <section class="card"><div class="card-h"><h2>Daily totals</h2><span class="sub">tap a row to open the day</span></div>
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th>Entries</th></tr></thead>
     <tbody>${[...logged].reverse().map(({t,d})=>`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="8" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;

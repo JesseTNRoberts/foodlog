@@ -1,0 +1,298 @@
+{
+ "date": "2025-03-03",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-03-03-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blackberries + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 326,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 15.2,
+   "satfat": 1.0,
+   "fiber": 12.5,
+   "sugar": 14.8,
+   "sodium": 159.1,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "2/3 cup",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 12.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 7.3,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blackberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-03-2",
+   "name": "Appalachian Irish Stew",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 334,
+   "protein": 8.3,
+   "carbs": 40.4,
+   "fat": 9.9,
+   "satfat": 1.4,
+   "fiber": 6.1,
+   "sugar": 7.0,
+   "sodium": 608.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Appalachian Irish Stew",
+     "portion": "1 1/2 servings",
+     "kcal": 334,
+     "protein": 8.3,
+     "carbs": 40.4,
+     "fat": 9.9,
+     "satfat": 1.4,
+     "fiber": 6.1,
+     "sugar": 7.0,
+     "sodium": 608.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Appalachian Irish Stew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-03-3",
+   "name": "Fries, Waffle Potato, Large · Spicy Chicken Sandwich · Sauce, Honey Roasted BBQ",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 560,
+   "protein": 14.6,
+   "carbs": 53.9,
+   "fat": 31.1,
+   "satfat": 6.0,
+   "fiber": 3.3,
+   "sugar": 6.0,
+   "sodium": 910.0,
+   "cholesterol": 34.0,
+   "components": [
+    {
+     "name": "Fries, Waffle Potato, Large",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 3.0,
+     "carbs": 31.5,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "0.4 piece",
+     "kcal": 180,
+     "protein": 11.6,
+     "carbs": 16.4,
+     "fat": 7.6,
+     "satfat": 2.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 640.0,
+     "cholesterol": 24.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "2 servings",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 150.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle Potato, Large",
+    "Spicy Chicken Sandwich",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-03-4",
+   "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size · Tennessee Whiskey Caramel popcorn · Cheese, Sharp White Cheddar + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 516,
+   "protein": 17.7,
+   "carbs": 50.1,
+   "fat": 24.6,
+   "satfat": 9.5,
+   "fiber": 1.5,
+   "sugar": 10.6,
+   "sodium": 383.3,
+   "cholesterol": 47.2,
+   "components": [
+    {
+     "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+     "portion": "1/2 each",
+     "kcal": 264,
+     "protein": 6.0,
+     "carbs": 38.5,
+     "fat": 9.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 0.5,
+     "cholesterol": 2.0
+    },
+    {
+     "name": "Tennessee Whiskey Caramel popcorn",
+     "portion": "1 ounce",
+     "kcal": 132,
+     "carbs": 11.1,
+     "fat": 7.6,
+     "satfat": 3.5,
+     "sugar": 10.6,
+     "sodium": 22.8,
+     "cholesterol": 12.7
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Turkey Breast, Honey Smoked",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.7,
+     "carbs": 0.5,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 210.0,
+     "cholesterol": 12.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+    "Tennessee Whiskey Caramel popcorn",
+    "Cheese, Sharp White Cheddar",
+    "Turkey Breast, Honey Smoked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

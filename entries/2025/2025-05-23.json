@@ -1,0 +1,360 @@
+{
+ "date": "2025-05-23",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-05-23-1",
+   "name": "Honey Cashew Protein Granola · Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds + 5 more",
+   "portion": "Breakfast · 8 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 493,
+   "protein": 18.4,
+   "carbs": 56.6,
+   "fat": 22.6,
+   "satfat": 2.0,
+   "fiber": 12.5,
+   "sugar": 24.3,
+   "sodium": 239.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Honey Cashew Protein Granola",
+     "portion": "1/2 serving",
+     "kcal": 165,
+     "protein": 5.0,
+     "carbs": 21.5,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 8.0,
+     "sodium": 65.0
+    },
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Silk Protein Almond Milk",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 3.9,
+     "carbs": 3.0,
+     "fat": 1.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 2.5,
+     "sodium": 73.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/3 cup",
+     "kcal": 28,
+     "protein": 0.4,
+     "carbs": 7.1,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.2,
+     "sugar": 5.1,
+     "sodium": 0.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chokecherry Syrup",
+     "portion": "1 teaspoon",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 0.0,
+     "sugar": 2.8,
+     "sodium": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "1/8 cup",
+     "kcal": 9,
+     "protein": 0.1,
+     "carbs": 2.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 1.4,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Honey Cashew Protein Granola",
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Silk Protein Almond Milk",
+    "Chia Seeds",
+    "Blueberries",
+    "Chokecherry Syrup",
+    "Blackberries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-05-23-2",
+   "name": "Avocado, Hass, Medium · Tortilla Chips, Strips · Homemade Salsa + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 680,
+   "protein": 13.7,
+   "carbs": 76.7,
+   "fat": 38.8,
+   "satfat": 5.9,
+   "fiber": 21.4,
+   "sugar": 14.3,
+   "sodium": 802.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Hass, Medium",
+     "portion": "1 each",
+     "kcal": 322,
+     "protein": 4.0,
+     "carbs": 17.0,
+     "fat": 29.0,
+     "satfat": 4.3,
+     "fiber": 13.0,
+     "sugar": 1.3,
+     "sodium": 14.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips, Strips",
+     "portion": "16 pieces",
+     "kcal": 187,
+     "protein": 2.7,
+     "carbs": 24.0,
+     "fat": 9.3,
+     "satfat": 1.3,
+     "fiber": 2.7,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Homemade Salsa",
+     "portion": "2 servings",
+     "kcal": 91,
+     "protein": 3.5,
+     "carbs": 20.2,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 4.2,
+     "sugar": 12.5,
+     "sodium": 596.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "1 slice",
+     "kcal": 70,
+     "protein": 2.5,
+     "carbs": 14.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 72.5
+    },
+    {
+     "name": "Broccoli, Sprouts",
+     "portion": "28 1/3 grams",
+     "kcal": 10,
+     "protein": 1.0,
+     "carbs": 1.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Hass, Medium",
+    "Tortilla Chips, Strips",
+    "Homemade Salsa",
+    "Sourdough Round Bread",
+    "Broccoli, Sprouts"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-05-23-3",
+   "name": "Natural Creamy Peanut Butter · Original Protein Almond & Cashew Milk · Mango, Slices + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 253,
+   "protein": 10.7,
+   "carbs": 18.9,
+   "fat": 16.1,
+   "satfat": 3.1,
+   "fiber": 4.2,
+   "sugar": 13.5,
+   "sodium": 176.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Natural Creamy Peanut Butter",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 143,
+     "protein": 5.2,
+     "carbs": 6.0,
+     "fat": 12.0,
+     "satfat": 2.6,
+     "fiber": 2.2,
+     "sugar": 3.0,
+     "sodium": 60.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Original Protein Almond & Cashew Milk",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mango, Slices",
+     "portion": "1/3 cup",
+     "kcal": 36,
+     "protein": 0.3,
+     "carbs": 9.3,
+     "fat": 0.1,
+     "satfat": 0.3,
+     "fiber": 1.0,
+     "sugar": 8.1,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Whole Fresh Strawberry",
+     "portion": "1 ounce",
+     "kcal": 9,
+     "protein": 0.2,
+     "carbs": 2.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 1.4,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Natural Creamy Peanut Butter",
+    "Original Protein Almond & Cashew Milk",
+    "Mango, Slices",
+    "Whole Fresh Strawberry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-05-23-4",
+   "name": "Homemade Chicken Noodle Soup",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 320,
+   "protein": 26.8,
+   "carbs": 36.4,
+   "fat": 110.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Homemade Chicken Noodle Soup",
+     "portion": "2 cups",
+     "kcal": 320,
+     "protein": 26.8,
+     "carbs": 36.4,
+     "fat": 110.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Homemade Chicken Noodle Soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

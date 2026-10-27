@@ -1,0 +1,70 @@
+{
+ "date": "2023-01-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-01-04-1",
+   "name": "Hamburger, Whiskey River BBQ Burger · Fries, Steak, Side · Broccoli, Steamed",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1520,
+   "protein": 57.0,
+   "carbs": 138.0,
+   "fat": 85.0,
+   "satfat": 0,
+   "fiber": 11.0,
+   "sugar": 16.0,
+   "sodium": 2136.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Hamburger, Whiskey River BBQ Burger",
+     "portion": "1 each",
+     "kcal": 1119,
+     "protein": 48.0,
+     "carbs": 72.0,
+     "fat": 68.0,
+     "fiber": 4.0,
+     "sugar": 16.0,
+     "sodium": 1662.0
+    },
+    {
+     "name": "Fries, Steak, Side",
+     "portion": "1 each",
+     "kcal": 371,
+     "protein": 6.0,
+     "carbs": 60.0,
+     "fat": 17.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 444.0
+    },
+    {
+     "name": "Broccoli, Steamed",
+     "portion": "1 each",
+     "kcal": 30,
+     "protein": 3.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hamburger, Whiskey River BBQ Burger",
+    "Fries, Steak, Side",
+    "Broccoli, Steamed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "date": "2021-02-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-20-1",
+   "name": "Cinnamon Rolls",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 165,
+   "protein": 2.0,
+   "carbs": 27.0,
+   "fat": 6.0,
+   "satfat": 2.5,
+   "fiber": 1.0,
+   "sugar": 12.0,
+   "sodium": 385.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cinnamon Rolls",
+     "portion": "1/2 each",
+     "kcal": 165,
+     "protein": 2.0,
+     "carbs": 27.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 12.0,
+     "sodium": 385.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cinnamon Rolls"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-20-2",
+   "name": "Sandwich, Spicy Chicken · Fries, Waffle Potato, Medium · Dr Pepper Medium",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 625,
+   "protein": 17.5,
+   "carbs": 94.5,
+   "fat": 21.0,
+   "satfat": 3.7,
+   "fiber": 3.0,
+   "sugar": 50.5,
+   "sodium": 890.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1/2 each",
+     "kcal": 245,
+     "protein": 15.0,
+     "carbs": 22.5,
+     "fat": 10.5,
+     "satfat": 2.2,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 24.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sandwich, Spicy Chicken",
+    "Fries, Waffle Potato, Medium",
+    "Dr Pepper Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-20-3",
+   "name": "Calories",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1500,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "150 each",
+     "kcal": 1500
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

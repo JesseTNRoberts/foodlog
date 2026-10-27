@@ -1,0 +1,248 @@
+{
+ "date": "2021-07-28",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-28-1",
+   "name": "Chicken Tenders · Dressing, Honey Mustard · French fries + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 605,
+   "protein": 41.5,
+   "carbs": 20.5,
+   "fat": 30.0,
+   "satfat": 2.0,
+   "fiber": 0.0,
+   "sugar": 5.0,
+   "sodium": 240.0,
+   "cholesterol": 20.0,
+   "components": [
+    {
+     "name": "Chicken Tenders",
+     "portion": "3 pieces",
+     "kcal": 345,
+     "protein": 39.0,
+     "carbs": 12.0,
+     "fat": 16.5
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 package",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 6.0,
+     "fat": 13.0,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 5.0,
+     "sodium": 230.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "French fries",
+     "portion": "1/4 cup",
+     "kcal": 100,
+     "protein": 2.5,
+     "carbs": 2.5,
+     "fat": 0.5
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tenders",
+    "Dressing, Honey Mustard",
+    "French fries",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-28-2",
+   "name": "Oil, Olive, Extra Virgin · Amys Vegan rice Mac n Cheese · Broccoli, Sautéed w/ Oil + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 837,
+   "protein": 11.7,
+   "carbs": 70.8,
+   "fat": 60.7,
+   "satfat": 15.7,
+   "fiber": 10.8,
+   "sugar": 17.5,
+   "sodium": 2611.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "3 tablespoons",
+     "kcal": 357,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 40.5,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Amys Vegan rice Mac n Cheese",
+     "portion": "3/4 serving",
+     "kcal": 285,
+     "protein": 3.8,
+     "carbs": 41.2,
+     "fat": 12.0,
+     "satfat": 7.5,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 630.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Sautéed w/ Oil",
+     "portion": "3 servings",
+     "kcal": 107,
+     "protein": 3.1,
+     "carbs": 9.8,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 4.5,
+     "sugar": 1.9,
+     "sodium": 55.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Tomato, Canned",
+     "portion": "1 1/2 cups",
+     "kcal": 88,
+     "protein": 4.8,
+     "carbs": 19.8,
+     "fat": 0.7,
+     "satfat": 0.7,
+     "fiber": 5.5,
+     "sugar": 15.6,
+     "sodium": 1925.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oil, Olive, Extra Virgin",
+    "Amys Vegan rice Mac n Cheese",
+    "Broccoli, Sautéed w/ Oil",
+    "Sauce, Tomato, Canned"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-28-3",
+   "name": "Chicken, Orange · Pizza Veggie Lovers · Hummus, spinach and artichoke + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1004,
+   "protein": 30.7,
+   "carbs": 127.4,
+   "fat": 43.8,
+   "satfat": 9.5,
+   "fiber": 11.7,
+   "sugar": 24.7,
+   "sodium": 1621.8,
+   "cholesterol": 80.0,
+   "components": [
+    {
+     "name": "Chicken, Orange",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 14.0,
+     "carbs": 45.0,
+     "fat": 18.0,
+     "satfat": 3.5,
+     "fiber": 0.0,
+     "sugar": 19.0,
+     "sodium": 620.0,
+     "cholesterol": 80.0
+    },
+    {
+     "name": "Pizza Veggie Lovers",
+     "portion": "1/2 each",
+     "kcal": 310,
+     "protein": 8.5,
+     "carbs": 48.5,
+     "fat": 9.0,
+     "satfat": 3.5,
+     "fiber": 7.5,
+     "sugar": 4.0,
+     "sodium": 500.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "5 tablespoons",
+     "kcal": 175,
+     "protein": 5.0,
+     "carbs": 12.5,
+     "fat": 12.5,
+     "satfat": 2.5,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 287.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "30 grams",
+     "kcal": 139,
+     "protein": 3.2,
+     "carbs": 21.4,
+     "fat": 4.3,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 1.7,
+     "sodium": 214.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Orange",
+    "Pizza Veggie Lovers",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "date": "2024-09-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-09-04-1",
+   "name": "Avocado Toast, Multigrain Bread, Pickled Turnips",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 350,
+   "protein": 32.0,
+   "carbs": 28.0,
+   "fat": 22.0,
+   "satfat": 3.5,
+   "fiber": 13.0,
+   "sugar": 5.0,
+   "sodium": 150.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Avocado Toast, Multigrain Bread, Pickled Turnips",
+     "portion": "1 serving",
+     "kcal": 350,
+     "protein": 32.0,
+     "carbs": 28.0,
+     "fat": 22.0,
+     "satfat": 3.5,
+     "fiber": 13.0,
+     "sugar": 5.0,
+     "sodium": 150.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado Toast, Multigrain Bread, Pickled Turnips"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-09-04-2",
+   "name": "F/C - Snack Mix - Sun Chips , Cheetos & Pretzels · Focaccia, Italian Flatbread, Plain · Blackberries + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 386,
+   "protein": 9.6,
+   "carbs": 58.0,
+   "fat": 13.5,
+   "satfat": 1.8,
+   "fiber": 12.2,
+   "sugar": 11.0,
+   "sodium": 636.6,
+   "cholesterol": 0.9,
+   "components": [
+    {
+     "name": "F/C - Snack Mix - Sun Chips , Cheetos & Pretzels",
+     "portion": "1 ounce",
+     "kcal": 145,
+     "protein": 1.8,
+     "carbs": 18.7,
+     "fat": 6.6,
+     "satfat": 0.9,
+     "fiber": 1.2,
+     "sugar": 1.2,
+     "sodium": 265.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Focaccia, Italian Flatbread, Plain",
+     "portion": "2 ounces",
+     "kcal": 141,
+     "protein": 5.0,
+     "carbs": 20.3,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 1.2,
+     "sodium": 318.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "6 ounces",
+     "kcal": 73,
+     "protein": 2.4,
+     "carbs": 16.4,
+     "fat": 0.8,
+     "satfat": 0.2,
+     "fiber": 9.2,
+     "sugar": 8.3,
+     "sodium": 1.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "1/8 ounce",
+     "kcal": 16,
+     "protein": 0.4,
+     "carbs": 2.3,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.6,
+     "sugar": 0.1,
+     "sodium": 35.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Babaganoush",
+     "portion": "1/2 tablespoon",
+     "kcal": 11,
+     "protein": 0.0,
+     "carbs": 0.3,
+     "fat": 1.0,
+     "satfat": 0.2,
+     "fiber": 0.2,
+     "sugar": 0.2,
+     "sodium": 15.8,
+     "cholesterol": 0.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "F/C - Snack Mix - Sun Chips , Cheetos & Pretzels",
+    "Focaccia, Italian Flatbread, Plain",
+    "Blackberries",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Babaganoush"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-09-04-3",
+   "name": "Homemade vegetable beef soup · Cornbread · Mini Apple Dumplings",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 792,
+   "protein": 34.0,
+   "carbs": 92.5,
+   "fat": 33.5,
+   "satfat": 9.5,
+   "fiber": 8.1,
+   "sugar": 18.4,
+   "sodium": 509.0,
+   "cholesterol": 107.5,
+   "components": [
+    {
+     "name": "Homemade vegetable beef soup",
+     "portion": "1 1/2 pints",
+     "kcal": 404,
+     "protein": 27.0,
+     "carbs": 25.5,
+     "fat": 22.5,
+     "satfat": 7.3,
+     "fiber": 5.7,
+     "sugar": 8.4,
+     "sodium": 150.0,
+     "cholesterol": 73.5
+    },
+    {
+     "name": "Cornbread",
+     "portion": "1 piece",
+     "kcal": 198,
+     "protein": 4.0,
+     "carbs": 33.0,
+     "fat": 6.0,
+     "satfat": 2.2,
+     "fiber": 1.4,
+     "sugar": 10.0,
+     "sodium": 359.0,
+     "cholesterol": 34.0
+    },
+    {
+     "name": "Mini Apple Dumplings",
+     "portion": "3 pieces",
+     "kcal": 190,
+     "protein": 3.0,
+     "carbs": 34.0,
+     "fat": 5.0,
+     "fiber": 1.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Homemade vegetable beef soup",
+    "Cornbread",
+    "Mini Apple Dumplings"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-09-04-4",
+   "name": "Focaccia, Italian Flatbread, Plain",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 71,
+   "protein": 2.5,
+   "carbs": 10.2,
+   "fat": 2.2,
+   "satfat": 0.2,
+   "fiber": 0.5,
+   "sugar": 0.6,
+   "sodium": 159.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Focaccia, Italian Flatbread, Plain",
+     "portion": "1 ounce",
+     "kcal": 71,
+     "protein": 2.5,
+     "carbs": 10.2,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 0.6,
+     "sodium": 159.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Focaccia, Italian Flatbread, Plain"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

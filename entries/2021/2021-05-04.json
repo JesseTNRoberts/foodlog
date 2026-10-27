@@ -1,0 +1,244 @@
+{
+ "date": "2021-05-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-05-04-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-04-2",
+   "name": "Hummus, spinach and artichoke · Kickin’ Queso cashew Dip · Small Red Potatos + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 699,
+   "protein": 37.7,
+   "carbs": 230.1,
+   "fat": 36.6,
+   "satfat": 5.5,
+   "fiber": 28.4,
+   "sugar": 13.8,
+   "sodium": 958.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "6 tablespoons",
+     "kcal": 210,
+     "protein": 6.0,
+     "carbs": 15.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 345.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kickin’ Queso cashew Dip",
+     "portion": "2 ounces",
+     "kcal": 182,
+     "protein": 4.5,
+     "carbs": 8.1,
+     "fat": 16.2,
+     "satfat": 2.2,
+     "fiber": 2.2,
+     "sugar": 0.0,
+     "sodium": 303.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Small Red Potatos",
+     "portion": "3 ounces",
+     "kcal": 132,
+     "protein": 21.0,
+     "carbs": 177.6,
+     "fat": 1.5,
+     "satfat": 0.3,
+     "fiber": 18.9,
+     "sugar": 11.1,
+     "sodium": 66.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "27 grams",
+     "kcal": 125,
+     "protein": 2.9,
+     "carbs": 19.3,
+     "fat": 3.9,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 192.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoletti",
+     "portion": "5 ounces",
+     "kcal": 50,
+     "protein": 3.3,
+     "carbs": 10.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.3,
+     "sugar": 1.7,
+     "sodium": 50.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus, spinach and artichoke",
+    "Kickin’ Queso cashew Dip",
+    "Small Red Potatos",
+    "Chips, Pita Thins, Sea Salt",
+    "Broccoletti"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-05-04-3",
+   "name": "Broccoli & Cheeze Bake · Fries, Waffle Potato, Large · Spicy Chicken Sandwich + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1245,
+   "protein": 26.5,
+   "carbs": 163.0,
+   "fat": 60.0,
+   "satfat": 14.5,
+   "fiber": 6.5,
+   "sugar": 59.5,
+   "sodium": 2025.0,
+   "cholesterol": 45.0,
+   "components": [
+    {
+     "name": "Broccoli & Cheeze Bake",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 9.0,
+     "carbs": 54.0,
+     "fat": 22.0,
+     "satfat": 7.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 880.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Large",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 3.0,
+     "carbs": 31.5,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/2 piece",
+     "kcal": 225,
+     "protein": 14.5,
+     "carbs": 20.5,
+     "fat": 9.5,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 225.0,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Broccoli & Cheeze Bake",
+    "Fries, Waffle Potato, Large",
+    "Spicy Chicken Sandwich",
+    "Dr Pepper Medium",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

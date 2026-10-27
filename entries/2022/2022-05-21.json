@@ -1,0 +1,410 @@
+{
+ "date": "2022-05-21",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-21-1",
+   "name": "Cheeseburger, Original, 1/3lb · French Fries, Med (no Salt) · Dr Pepper - med",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 1280,
+   "protein": 40.0,
+   "carbs": 176.0,
+   "fat": 52.0,
+   "satfat": 17.0,
+   "fiber": 7.0,
+   "sugar": 75.0,
+   "sodium": 1765.0,
+   "cholesterol": 85.0,
+   "components": [
+    {
+     "name": "Cheeseburger, Original, 1/3lb",
+     "portion": "1 each",
+     "kcal": 620,
+     "protein": 35.0,
+     "carbs": 51.0,
+     "fat": 33.0,
+     "satfat": 13.0,
+     "fiber": 3.0,
+     "sugar": 10.0,
+     "sodium": 1580.0,
+     "cholesterol": 80.0
+    },
+    {
+     "name": "French Fries, Med (no Salt)",
+     "portion": "1 each",
+     "kcal": 430,
+     "protein": 5.0,
+     "carbs": 60.0,
+     "fat": 19.0,
+     "satfat": 4.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 100.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Dr Pepper - med",
+     "portion": "1 serving",
+     "kcal": 230,
+     "carbs": 65.0,
+     "sugar": 65.0,
+     "sodium": 85.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cheeseburger, Original, 1/3lb",
+    "French Fries, Med (no Salt)",
+    "Dr Pepper - med"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-21-2",
+   "name": "Broccoli, Chopped, Steamed · Bac-No-Naise Vegan Mayo",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 100,
+   "protein": 3.7,
+   "carbs": 11.7,
+   "fat": 5.6,
+   "satfat": 0.3,
+   "fiber": 5.2,
+   "sugar": 2.7,
+   "sodium": 94.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1 cup",
+     "kcal": 55,
+     "protein": 3.7,
+     "carbs": 11.2,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 5.2,
+     "sugar": 2.2,
+     "sodium": 64.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bac-No-Naise Vegan Mayo",
+     "portion": "1/2 tablespoon",
+     "kcal": 45,
+     "protein": 0.0,
+     "carbs": 0.5,
+     "fat": 5.0,
+     "satfat": 0.2,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Broccoli, Chopped, Steamed",
+    "Bac-No-Naise Vegan Mayo"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-21-3",
+   "name": "Salad Dressing, Caesar · Homestyle Croutons Caesar · Unsalted Sunflower Kernals + 4 more",
+   "portion": "Dinner · 7 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 571,
+   "protein": 13.6,
+   "carbs": 43.7,
+   "fat": 35.0,
+   "satfat": 6.8,
+   "fiber": 7.1,
+   "sugar": 3.7,
+   "sodium": 757.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Salad Dressing, Caesar",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "sodium": 127.5
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "9 tablespoons",
+     "kcal": 135,
+     "protein": 4.5,
+     "carbs": 22.5,
+     "fat": 4.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 337.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Unsalted Sunflower Kernals",
+     "portion": "2 tablespoons",
+     "kcal": 105,
+     "protein": 3.5,
+     "carbs": 3.5,
+     "fat": 8.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salad, mixed greens",
+     "portion": "2 cups",
+     "kcal": 67,
+     "protein": 1.3,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "fiber": 1.3,
+     "sodium": 20.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "4 cups",
+     "kcal": 28,
+     "protein": 3.4,
+     "carbs": 4.4,
+     "fat": 0.5,
+     "satfat": 0.7,
+     "fiber": 2.6,
+     "sugar": 0.5,
+     "sodium": 94.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "6 each",
+     "kcal": 18,
+     "protein": 0.9,
+     "carbs": 4.0,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.7,
+     "sodium": 5.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salad Dressing, Caesar",
+    "Homestyle Croutons Caesar",
+    "Unsalted Sunflower Kernals",
+    "Salad, mixed greens",
+    "vegan cheese",
+    "Spinach, Baby, Fresh",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-21-4",
+   "name": "Fries, Crinkle Cut · Chicken Finger · Glazed Donut + 7 more",
+   "portion": "Snacks · 10 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 3033,
+   "protein": 85.5,
+   "carbs": 279.3,
+   "fat": 140.9,
+   "satfat": 25.0,
+   "fiber": 20.2,
+   "sugar": 38.3,
+   "sodium": 3374.8,
+   "cholesterol": 173.4,
+   "components": [
+    {
+     "name": "Fries, Crinkle Cut",
+     "portion": "2 1/2 servings",
+     "kcal": 825,
+     "protein": 10.0,
+     "carbs": 105.0,
+     "fat": 37.5,
+     "satfat": 5.0,
+     "fiber": 10.0,
+     "sugar": 0.0,
+     "sodium": 225.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken Finger",
+     "portion": "4 pieces",
+     "kcal": 480,
+     "protein": 52.0,
+     "carbs": 16.0,
+     "fat": 20.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 920.0,
+     "cholesterol": 120.0
+    },
+    {
+     "name": "Glazed Donut",
+     "portion": "2 servings",
+     "kcal": 440,
+     "protein": 3.0,
+     "carbs": 25.0,
+     "fat": 9.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2 ounces",
+     "kcal": 246,
+     "protein": 0.0,
+     "carbs": 13.2,
+     "fat": 20.8,
+     "satfat": 2.8,
+     "fiber": 0.0,
+     "sugar": 11.3,
+     "sodium": 396.9,
+     "cholesterol": 28.4
+    },
+    {
+     "name": "Donut, Cake, Old Fashion Plain",
+     "portion": "1 each",
+     "kcal": 210,
+     "protein": 3.0,
+     "carbs": 25.0,
+     "fat": 10.0,
+     "satfat": 5.0,
+     "fiber": 1.0,
+     "sugar": 8.0,
+     "sodium": 260.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Blueberry",
+     "portion": "5 ounces",
+     "kcal": 200,
+     "protein": 5.0,
+     "carbs": 30.0,
+     "fat": 7.0,
+     "satfat": 5.0,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 550.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Texas Toast",
+     "portion": "1 piece",
+     "kcal": 150,
+     "protein": 4.0,
+     "carbs": 24.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 290.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Naan Dippers",
+     "portion": "5 pieces",
+     "kcal": 150,
+     "protein": 4.0,
+     "carbs": 26.0,
+     "fat": 3.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus - Spinach and Artichoke",
+     "portion": "2 ounces",
+     "kcal": 142,
+     "protein": 4.5,
+     "carbs": 10.1,
+     "fat": 10.1,
+     "satfat": 2.2,
+     "fiber": 2.2,
+     "sugar": 0.0,
+     "sodium": 232.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Crinkle Cut",
+    "Chicken Finger",
+    "Glazed Donut",
+    "Dressing, Honey Mustard",
+    "Donut, Cake, Old Fashion Plain",
+    "Blueberry",
+    "Sauce, Cane's",
+    "Texas Toast",
+    "Naan Dippers",
+    "Hummus - Spinach and Artichoke"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

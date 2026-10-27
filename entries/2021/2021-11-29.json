@@ -1,0 +1,264 @@
+{
+ "date": "2021-11-29",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-11-29-1",
+   "name": "Chestnut Prelaine Latte Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 330,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Chestnut Prelaine Latte Grande",
+     "portion": "1 each",
+     "kcal": 330
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chestnut Prelaine Latte Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-11-29-2",
+   "name": "21 Whole Grains & Seeds Organic Bread · Tortilla Chips · Ham, Maple Glazed Honey Coat + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 673,
+   "protein": 35.1,
+   "carbs": 98.1,
+   "fat": 17.9,
+   "satfat": 1.4,
+   "fiber": 12.9,
+   "sugar": 26.7,
+   "sodium": 3186.5,
+   "cholesterol": 40.5,
+   "components": [
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "2 pieces",
+     "kcal": 220,
+     "protein": 10.0,
+     "carbs": 44.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 10.0,
+     "sugar": 10.0,
+     "sodium": 340.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "13 pieces",
+     "kcal": 202,
+     "protein": 2.9,
+     "carbs": 27.4,
+     "fat": 8.7,
+     "satfat": 1.4,
+     "fiber": 2.9,
+     "sugar": 0.0,
+     "sodium": 166.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Ham, Maple Glazed Honey Coat",
+     "portion": "4 ounces",
+     "kcal": 121,
+     "protein": 20.2,
+     "carbs": 6.7,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 6.7,
+     "sodium": 1154.2,
+     "cholesterol": 40.5
+    },
+    {
+     "name": "Cheese, Slices, Vegan Cheddar, Go Veggie'",
+     "portion": "2 slices",
+     "kcal": 80,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 360.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "10 tablespoons",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 10.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 10.0,
+     "sodium": 1150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Famous Unsweet Tea",
+     "portion": "13 ounces",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 16.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "21 Whole Grains & Seeds Organic Bread",
+    "Tortilla Chips",
+    "Ham, Maple Glazed Honey Coat",
+    "Cheese, Slices, Vegan Cheddar, Go Veggie'",
+    "Salsa, Chunky, Mild",
+    "Famous Unsweet Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-11-29-3",
+   "name": "Sandwich, Spicy Chicken · Fries, Waffle Potato, Medium · Dr Pepper Medium",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 810,
+   "protein": 32.5,
+   "carbs": 101.2,
+   "fat": 31.5,
+   "satfat": 6.0,
+   "fiber": 4.0,
+   "sugar": 37.2,
+   "sodium": 1690.0,
+   "cholesterol": 60.0,
+   "components": [
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1 each",
+     "kcal": 490,
+     "protein": 30.0,
+     "carbs": 45.0,
+     "fat": 21.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 5.0,
+     "sodium": 1600.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1/2 serving",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 24.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "2/3 serving",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 32.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 32.2,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sandwich, Spicy Chicken",
+    "Fries, Waffle Potato, Medium",
+    "Dr Pepper Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-11-29-4",
+   "name": "Bistro Crisps",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 61,
+   "protein": 0.5,
+   "carbs": 11.7,
+   "fat": 1.5,
+   "satfat": 0.2,
+   "fiber": 1.5,
+   "sugar": 0.0,
+   "sodium": 127.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bistro Crisps",
+     "portion": "32 pieces",
+     "kcal": 61,
+     "protein": 0.5,
+     "carbs": 11.7,
+     "fat": 1.5,
+     "satfat": 0.2,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 127.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bistro Crisps"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

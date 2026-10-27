@@ -1,0 +1,269 @@
+{
+ "date": "2023-09-25",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-25-1",
+   "name": "Just Egg · Colby Jack, Goat Cheese · Pie Filling, Pumpkin, Canned + 4 more",
+   "portion": "Breakfast · 7 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 489,
+   "protein": 27.3,
+   "carbs": 47.4,
+   "fat": 23.0,
+   "satfat": 5.8,
+   "fiber": 10.9,
+   "sugar": 2.8,
+   "sodium": 1043.5,
+   "cholesterol": 25.3,
+   "components": [
+    {
+     "name": "Just Egg",
+     "portion": "3 fluid ounces",
+     "kcal": 140,
+     "protein": 10.0,
+     "carbs": 2.0,
+     "fat": 10.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Colby Jack, Goat Cheese",
+     "portion": "1 ounce",
+     "kcal": 100,
+     "protein": 7.0,
+     "carbs": 0.0,
+     "fat": 8.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 220.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "Pie Filling, Pumpkin, Canned",
+     "portion": "1/3 cup",
+     "kcal": 94,
+     "protein": 1.0,
+     "carbs": 23.7,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 7.5,
+     "sugar": 0.0,
+     "sodium": 187.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Biscuit, Medium",
+     "portion": "1/2 each",
+     "kcal": 93,
+     "protein": 1.6,
+     "carbs": 12.4,
+     "fat": 4.2,
+     "satfat": 0.6,
+     "fiber": 0.3,
+     "sugar": 0.9,
+     "sodium": 268.3,
+     "cholesterol": 0.3
+    },
+    {
+     "name": "Mushrooms",
+     "portion": "6 pieces",
+     "kcal": 50,
+     "protein": 6.8,
+     "carbs": 6.8,
+     "fat": 0.0,
+     "fiber": 2.2,
+     "sugar": 0.0,
+     "sodium": 33.8
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "3 each",
+     "kcal": 9,
+     "protein": 0.5,
+     "carbs": 2.0,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 0.6,
+     "sugar": 1.3,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1/2 cup",
+     "kcal": 3,
+     "protein": 0.4,
+     "carbs": 0.5,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 0.3,
+     "sugar": 0.6,
+     "sodium": 11.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg",
+    "Colby Jack, Goat Cheese",
+    "Pie Filling, Pumpkin, Canned",
+    "Biscuit, Medium",
+    "Mushrooms",
+    "Tomatoes, Cherry",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-25-2",
+   "name": "Marys Gone Cheezee Crackers · Crunchy Fiery Curls · Fig Bar, Blueberry",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 185,
+   "protein": 5.0,
+   "carbs": 25.5,
+   "fat": 8.2,
+   "satfat": 1.5,
+   "fiber": 3.5,
+   "sugar": 5.5,
+   "sodium": 242.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Marys Gone Cheezee Crackers",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 9.5,
+     "fat": 3.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.5,
+     "sodium": 135.0
+    },
+    {
+     "name": "Crunchy Fiery Curls",
+     "portion": "1/2 ounce",
+     "kcal": 65,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 4.0,
+     "satfat": 0.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fig Bar, Blueberry",
+     "portion": "1/2 piece",
+     "kcal": 50,
+     "protein": 1.0,
+     "carbs": 10.0,
+     "fat": 1.2,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 17.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Marys Gone Cheezee Crackers",
+    "Crunchy Fiery Curls",
+    "Fig Bar, Blueberry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-25-3",
+   "name": "Pork Ribs, Country Style, Cooked · King’s Hawaiian Pretzel Slider Bun · Grilled Chicken",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1108,
+   "protein": 84.3,
+   "carbs": 64.0,
+   "fat": 56.3,
+   "satfat": 19.7,
+   "fiber": 4.0,
+   "sugar": 20.0,
+   "sodium": 1622.3,
+   "cholesterol": 277.7,
+   "components": [
+    {
+     "name": "Pork Ribs, Country Style, Cooked",
+     "portion": "6 ounces",
+     "kcal": 558,
+     "protein": 39.8,
+     "carbs": 0.0,
+     "fat": 43.1,
+     "satfat": 15.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 88.5,
+     "cholesterol": 156.5
+    },
+    {
+     "name": "King’s Hawaiian Pretzel Slider Bun",
+     "portion": "4 servings",
+     "kcal": 400,
+     "protein": 12.0,
+     "carbs": 64.0,
+     "fat": 12.0,
+     "satfat": 4.0,
+     "fiber": 4.0,
+     "sugar": 20.0,
+     "sodium": 1440.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "5 ounces",
+     "kcal": 150,
+     "protein": 32.5,
+     "carbs": 0.0,
+     "fat": 1.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 93.8,
+     "cholesterol": 81.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pork Ribs, Country Style, Cooked",
+    "King’s Hawaiian Pretzel Slider Bun",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

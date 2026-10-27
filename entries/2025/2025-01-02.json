@@ -1,0 +1,378 @@
+{
+ "date": "2025-01-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-02-1",
+   "name": "Almond Butter, Raw · Blueberries · Milk, Fat Free, Ultra-Filtered + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 223,
+   "protein": 12.3,
+   "carbs": 25.8,
+   "fat": 9.5,
+   "satfat": 0.6,
+   "fiber": 7.7,
+   "sugar": 13.9,
+   "sodium": 109.8,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "3/4 tablespoon",
+     "kcal": 75,
+     "protein": 2.2,
+     "carbs": 2.2,
+     "fat": 6.0,
+     "satfat": 0.4,
+     "fiber": 1.5,
+     "sugar": 0.8,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1/2 slice",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 6.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 1.5,
+     "sodium": 50.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "2 tablespoons",
+     "kcal": 7,
+     "protein": 0.1,
+     "carbs": 1.6,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 1.1,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Blueberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-02-2",
+   "name": "Bread, Sourdough · Pepperoni Pizza, Medium · Cheese, Sharp White Cheddar + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 865,
+   "protein": 51.9,
+   "carbs": 117.2,
+   "fat": 20.6,
+   "satfat": 9.6,
+   "fiber": 5.2,
+   "sugar": 9.3,
+   "sodium": 2387.0,
+   "cholesterol": 87.5,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 15.4,
+     "carbs": 72.2,
+     "fat": 2.3,
+     "satfat": 0.6,
+     "fiber": 3.7,
+     "sugar": 3.3,
+     "sodium": 832.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pepperoni Pizza, Medium",
+     "portion": "3 slices",
+     "kcal": 315,
+     "protein": 15.0,
+     "carbs": 42.0,
+     "fat": 10.5,
+     "satfat": 4.5,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 780.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 16.5,
+     "carbs": 3.0,
+     "fat": 0.8,
+     "sugar": 3.0,
+     "sodium": 585.0,
+     "cholesterol": 37.5
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Pepperoni Pizza, Medium",
+    "Cheese, Sharp White Cheddar",
+    "Maple And Honey Turkey",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-02-3",
+   "name": "Bread, Sourdough · Cheese, Sharp White Cheddar · Maple And Honey Turkey + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 260,
+   "protein": 15.5,
+   "carbs": 37.1,
+   "fat": 4.9,
+   "satfat": 2.5,
+   "fiber": 1.5,
+   "sugar": 2.6,
+   "sodium": 726.0,
+   "cholesterol": 22.5,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "1 slice",
+     "kcal": 185,
+     "protein": 7.5,
+     "carbs": 36.1,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 1.6,
+     "sodium": 416.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1/2 slice",
+     "kcal": 45,
+     "protein": 2.5,
+     "carbs": 0.0,
+     "fat": 3.5,
+     "satfat": 2.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 75.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 5.5,
+     "carbs": 1.0,
+     "fat": 0.2,
+     "sugar": 1.0,
+     "sodium": 195.0,
+     "cholesterol": 12.5
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Cheese, Sharp White Cheddar",
+    "Maple And Honey Turkey",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-02-4",
+   "name": "Bread, Sourdough · Cheese, Sharp White Cheddar · Maple And Honey Turkey + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 550,
+   "protein": 36.9,
+   "carbs": 75.2,
+   "fat": 10.1,
+   "satfat": 5.1,
+   "fiber": 3.7,
+   "sugar": 6.3,
+   "sodium": 1607.0,
+   "cholesterol": 57.5,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 15.4,
+     "carbs": 72.2,
+     "fat": 2.3,
+     "satfat": 0.6,
+     "fiber": 3.7,
+     "sugar": 3.3,
+     "sodium": 832.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 16.5,
+     "carbs": 3.0,
+     "fat": 0.8,
+     "sugar": 3.0,
+     "sodium": 585.0,
+     "cholesterol": 37.5
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Cheese, Sharp White Cheddar",
+    "Maple And Honey Turkey",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

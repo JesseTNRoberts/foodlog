@@ -1,0 +1,293 @@
+{
+ "date": "2022-05-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-08-1",
+   "name": "Falafel, Chickpea Patty · Cheese, Goat · Honey Mustard Sauce",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 270,
+   "protein": 11.7,
+   "carbs": 11.5,
+   "fat": 14.0,
+   "satfat": 5.9,
+   "fiber": 6.7,
+   "sugar": 4.6,
+   "sodium": 570.9,
+   "cholesterol": 40.0,
+   "components": [
+    {
+     "name": "Falafel, Chickpea Patty",
+     "portion": "2 ounces",
+     "kcal": 125,
+     "protein": 5.7,
+     "carbs": 9.5,
+     "fat": 6.0,
+     "satfat": 0.9,
+     "fiber": 6.7,
+     "sugar": 2.6,
+     "sodium": 330.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Goat",
+     "portion": "4 tablespoons",
+     "kcal": 100,
+     "protein": 6.0,
+     "carbs": 2.0,
+     "fat": 8.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 240.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "1 serving",
+     "kcal": 45
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Falafel, Chickpea Patty",
+    "Cheese, Goat",
+    "Honey Mustard Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-08-2",
+   "name": "Chips, Tortilla, Scoops · Salad Dressing, Caesar · Bread, Thin Sliced, 21 Whole Grains & Seeds + 5 more",
+   "portion": "Lunch · 8 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 866,
+   "protein": 26.8,
+   "carbs": 98.3,
+   "fat": 45.5,
+   "satfat": 11.3,
+   "fiber": 13.9,
+   "sugar": 38.2,
+   "sodium": 2986.6,
+   "cholesterol": 30.4,
+   "components": [
+    {
+     "name": "Chips, Tortilla, Scoops",
+     "portion": "25 each",
+     "kcal": 269,
+     "protein": 3.9,
+     "carbs": 36.5,
+     "fat": 13.5,
+     "satfat": 1.9,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 230.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salad Dressing, Caesar",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "sodium": 127.5
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "2 slices",
+     "kcal": 120,
+     "protein": 6.0,
+     "carbs": 24.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 6.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/3 cup",
+     "kcal": 80,
+     "protein": 2.7,
+     "carbs": 13.3,
+     "fat": 2.7,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 199.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/8 pound",
+     "kcal": 71,
+     "protein": 14.2,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 20.2,
+     "sodium": 445.5,
+     "cholesterol": 30.4
+    },
+    {
+     "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "12 tablespoons",
+     "kcal": 48,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 12.0,
+     "sodium": 1380.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, Scoops",
+    "Salad Dressing, Caesar",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Homestyle Croutons Caesar",
+    "Turkey Breast, Maple Glazed Honey",
+    "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+    "vegan cheese",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-08-3",
+   "name": "Fried Shrimp · French Fries, Adult · Dressing, Honey Mustard + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1483,
+   "protein": 11.0,
+   "carbs": 89.8,
+   "fat": 69.3,
+   "satfat": 13.9,
+   "fiber": 7.1,
+   "sugar": 26.8,
+   "sodium": 1270.0,
+   "cholesterol": 33.8,
+   "components": [
+    {
+     "name": "Fried Shrimp",
+     "portion": "5 pieces",
+     "kcal": 465
+    },
+    {
+     "name": "French Fries, Adult",
+     "portion": "1 each",
+     "kcal": 390,
+     "protein": 4.0,
+     "carbs": 40.0,
+     "fat": 24.0,
+     "satfat": 5.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 760.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 each",
+     "kcal": 350,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 34.0,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 8.0,
+     "sodium": 260.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Mashed Sweet Potatoes",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 3.0,
+     "carbs": 35.0,
+     "fat": 3.5,
+     "satfat": 1.5,
+     "fiber": 4.0,
+     "sugar": 18.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Cornmeal Fried Catfish",
+     "portion": "1/8 serving",
+     "kcal": 98,
+     "protein": 4.0,
+     "carbs": 2.8,
+     "fat": 7.8,
+     "satfat": 1.4,
+     "fiber": 0.1,
+     "sugar": 0.8,
+     "sodium": 250.0,
+     "cholesterol": 8.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fried Shrimp",
+    "French Fries, Adult",
+    "Dressing, Honey Mustard",
+    "Mashed Sweet Potatoes",
+    "Cornmeal Fried Catfish"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

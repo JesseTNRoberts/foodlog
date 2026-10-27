@@ -1,0 +1,59 @@
+{
+ "date": "2023-01-25",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-01-25-1",
+   "name": "Banana Pudding With Vanilla Wafers · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 265,
+   "protein": 2.0,
+   "carbs": 45.0,
+   "fat": 8.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 15.0,
+   "sodium": 5.0,
+   "cholesterol": 230.0,
+   "components": [
+    {
+     "name": "Banana Pudding With Vanilla Wafers",
+     "portion": "1 cup",
+     "kcal": 260,
+     "protein": 2.0,
+     "carbs": 45.0,
+     "fat": 8.0,
+     "sugar": 15.0,
+     "cholesterol": 230.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana Pudding With Vanilla Wafers",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "date": "2023-08-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-04-1",
+   "name": "Sour Dough Bread Slice · Tortilla Chips, Bite Size Rounds · Hot And Honey Chicken Breast + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 539,
+   "protein": 32.7,
+   "carbs": 67.8,
+   "fat": 15.2,
+   "satfat": 3.4,
+   "fiber": 4.3,
+   "sugar": 9.9,
+   "sodium": 1730.6,
+   "cholesterol": 76.7,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "65 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 30.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "20 pieces",
+     "kcal": 115,
+     "protein": 1.5,
+     "carbs": 13.8,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 88.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hot And Honey Chicken Breast",
+     "portion": "3 ounces",
+     "kcal": 106,
+     "protein": 18.2,
+     "carbs": 4.6,
+     "fat": 2.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 4.6,
+     "sodium": 683.4,
+     "cholesterol": 60.8
+    },
+    {
+     "name": "Vegetarian Chili (8oz/1cup)",
+     "portion": "2/3 cup",
+     "kcal": 80,
+     "protein": 3.3,
+     "carbs": 14.1,
+     "fat": 1.3
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "15 grams",
+     "kcal": 58,
+     "protein": 3.7,
+     "carbs": 0.3,
+     "fat": 4.2,
+     "satfat": 2.6,
+     "fiber": 0.0,
+     "sugar": 0.3,
+     "sodium": 63.5,
+     "cholesterol": 15.9
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "5 tablespoons",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.5,
+     "sugar": 5.0,
+     "sodium": 575.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Tortilla Chips, Bite Size Rounds",
+    "Hot And Honey Chicken Breast",
+    "Vegetarian Chili (8oz/1cup)",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-04-2",
+   "name": "Protein Chips Nacho Cheese · Chocolate Chip Crunchy Cookie",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 380,
+   "protein": 26.0,
+   "carbs": 34.0,
+   "fat": 16.0,
+   "satfat": 3.5,
+   "fiber": 8.0,
+   "sugar": 8.0,
+   "sodium": 790.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Protein Chips Nacho Cheese",
+     "portion": "2 ounces",
+     "kcal": 220,
+     "protein": 20.0,
+     "carbs": 20.0,
+     "fat": 8.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 660.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "6 pieces",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 14.0,
+     "fat": 8.0,
+     "satfat": 3.5,
+     "fiber": 4.0,
+     "sugar": 8.0,
+     "sodium": 130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Protein Chips Nacho Cheese",
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-04-3",
+   "name": "Raw Goat Milk Mild Cheddar Cheese · Hot And Honey Chicken Breast · Sour Dough Bread Slice",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 555,
+   "protein": 52.6,
+   "carbs": 35.5,
+   "fat": 21.9,
+   "satfat": 10.0,
+   "fiber": 0.9,
+   "sugar": 9.3,
+   "sodium": 1772.1,
+   "cholesterol": 171.4,
+   "components": [
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "2 ounces",
+     "kcal": 220,
+     "protein": 14.0,
+     "carbs": 1.0,
+     "fat": 16.0,
+     "satfat": 10.0,
+     "fiber": 0.0,
+     "sugar": 1.0,
+     "sodium": 240.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Hot And Honey Chicken Breast",
+     "portion": "5 1/2 ounces",
+     "kcal": 195,
+     "protein": 33.4,
+     "carbs": 8.3,
+     "fat": 4.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 8.3,
+     "sodium": 1253.0,
+     "cholesterol": 111.4
+    },
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "2 ounces",
+     "kcal": 140,
+     "protein": 5.2,
+     "carbs": 26.2,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 0.0,
+     "sodium": 279.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Hot And Honey Chicken Breast",
+    "Sour Dough Bread Slice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-04-4",
+   "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 290,
+   "protein": 3.0,
+   "carbs": 39.0,
+   "fat": 16.0,
+   "satfat": 6.0,
+   "fiber": 2.0,
+   "sugar": 24.0,
+   "sodium": 229.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegan Chocolate Blackout Layer Cake 1/4cake/78g",
+     "portion": "2 3/4 ounces",
+     "kcal": 290,
+     "protein": 3.0,
+     "carbs": 39.0,
+     "fat": 16.0,
+     "satfat": 6.0,
+     "fiber": 2.0,
+     "sugar": 24.0,
+     "sodium": 229.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Chocolate Blackout Layer Cake 1/4cake/78g"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

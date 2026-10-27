@@ -1,0 +1,48 @@
+{
+ "date": "2024-11-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-11-09-1",
+   "name": "Falafel Salad Bowl",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 677,
+   "protein": 25.0,
+   "carbs": 88.0,
+   "fat": 30.0,
+   "satfat": 3.0,
+   "fiber": 20.0,
+   "sugar": 15.0,
+   "sodium": 1753.0,
+   "cholesterol": 3.0,
+   "components": [
+    {
+     "name": "Falafel Salad Bowl",
+     "portion": "1 serving",
+     "kcal": 677,
+     "protein": 25.0,
+     "carbs": 88.0,
+     "fat": 30.0,
+     "satfat": 3.0,
+     "fiber": 20.0,
+     "sugar": 15.0,
+     "sodium": 1753.0,
+     "cholesterol": 3.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Falafel Salad Bowl"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

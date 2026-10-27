@@ -1,0 +1,255 @@
+{
+ "date": "2022-05-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-05-1",
+   "name": "Salad Dressing, Caesar · Homestyle Croutons Caesar · vegan cheese",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 298,
+   "protein": 2.7,
+   "carbs": 18.6,
+   "fat": 24.5,
+   "satfat": 4.9,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 499.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Salad Dressing, Caesar",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "sodium": 127.5
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/3 cup",
+     "kcal": 80,
+     "protein": 2.7,
+     "carbs": 13.3,
+     "fat": 2.7,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 199.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salad Dressing, Caesar",
+    "Homestyle Croutons Caesar",
+    "vegan cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-05-2",
+   "name": "Sandwich, Spicy Chicken · Fries, Waffle, Medium · Dr Pepper Medium + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1210,
+   "protein": 35.0,
+   "carbs": 145.0,
+   "fat": 54.0,
+   "satfat": 7.5,
+   "fiber": 7.0,
+   "sugar": 59.0,
+   "sodium": 2105.0,
+   "cholesterol": 75.0,
+   "components": [
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1 each",
+     "kcal": 490,
+     "protein": 30.0,
+     "carbs": 45.0,
+     "fat": 21.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 5.0,
+     "sodium": 1600.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Fries, Waffle, Medium",
+     "portion": "1 serving",
+     "kcal": 360,
+     "protein": 5.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 280.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 225.0,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sandwich, Spicy Chicken",
+    "Fries, Waffle, Medium",
+    "Dr Pepper Medium",
+    "Sauce, Honey Roasted BBQ"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-05-3",
+   "name": "Hummus - Spinach and Artichoke · Stacy’s Pita Thins, Sea Salt · Grain Free Tortilla Chips, Nacho + 2 more",
+   "portion": "Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1068,
+   "protein": 28.5,
+   "carbs": 123.0,
+   "fat": 57.9,
+   "satfat": 8.1,
+   "fiber": 20.2,
+   "sugar": 22.6,
+   "sodium": 1572.7,
+   "cholesterol": 7.6,
+   "components": [
+    {
+     "name": "Hummus - Spinach and Artichoke",
+     "portion": "7 ounces",
+     "kcal": 529,
+     "protein": 13.2,
+     "carbs": 33.7,
+     "fat": 39.7,
+     "satfat": 6.6,
+     "fiber": 6.6,
+     "sugar": 6.6,
+     "sodium": 760.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Stacy’s Pita Thins, Sea Salt",
+     "portion": "3 ounces",
+     "kcal": 395,
+     "protein": 9.1,
+     "carbs": 60.8,
+     "fat": 12.2,
+     "satfat": 0.0,
+     "fiber": 3.4,
+     "sugar": 2.7,
+     "sodium": 607.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "14 pieces",
+     "kcal": 96,
+     "protein": 0.7,
+     "carbs": 14.0,
+     "fat": 5.2,
+     "satfat": 1.5,
+     "fiber": 2.2,
+     "sugar": 0.7,
+     "sodium": 92.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "BlackBerry",
+     "portion": "2 tablespoons",
+     "kcal": 30,
+     "protein": 2.0,
+     "carbs": 14.0,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 8.0,
+     "sugar": 7.0,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/2 ounce",
+     "kcal": 18,
+     "protein": 3.5,
+     "carbs": 0.5,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.6,
+     "sodium": 111.4,
+     "cholesterol": 7.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus - Spinach and Artichoke",
+    "Stacy’s Pita Thins, Sea Salt",
+    "Grain Free Tortilla Chips, Nacho",
+    "BlackBerry",
+    "Turkey Breast, Maple Glazed Honey"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "date": "2021-03-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-17-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-17-2",
+   "name": "Rattle Snake Bites · Tortilla Chips · Four Potato Hash Browns + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 729,
+   "protein": 12.1,
+   "carbs": 92.0,
+   "fat": 34.8,
+   "satfat": 3.1,
+   "fiber": 11.2,
+   "sugar": 22.8,
+   "sodium": 3660.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Rattle Snake Bites",
+     "portion": "3 pieces",
+     "kcal": 198,
+     "protein": 7.0,
+     "carbs": 18.0,
+     "fat": 12.0,
+     "fiber": 2.0,
+     "sodium": 450.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "11 pieces",
+     "kcal": 171,
+     "protein": 2.4,
+     "carbs": 23.2,
+     "fat": 7.3,
+     "satfat": 1.2,
+     "fiber": 2.4,
+     "sugar": 0.0,
+     "sodium": 140.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Four Potato Hash Browns",
+     "portion": "3 pieces",
+     "kcal": 170,
+     "protein": 2.0,
+     "carbs": 21.0,
+     "fat": 9.0,
+     "satfat": 1.0,
+     "fiber": 5.0,
+     "sugar": 3.0,
+     "sodium": 350.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "1 cup",
+     "kcal": 80,
+     "protein": 0.0,
+     "carbs": 16.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 16.0,
+     "sodium": 1840.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "8 pieces",
+     "kcal": 55,
+     "protein": 0.4,
+     "carbs": 8.0,
+     "fat": 3.0,
+     "satfat": 0.8,
+     "fiber": 1.3,
+     "sugar": 0.4,
+     "sodium": 52.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blue Cheese Buffalo Wing Sauce",
+     "portion": "2 tablespoons",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 660.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Ketchup",
+     "portion": "1 tablespoon",
+     "kcal": 15,
+     "protein": 0.3,
+     "carbs": 3.8,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 0.5,
+     "sugar": 3.4,
+     "sodium": 167.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Rattle Snake Bites",
+    "Tortilla Chips",
+    "Four Potato Hash Browns",
+    "Salsa, Chunky, Mild",
+    "Grain Free Tortilla Chips, Nacho",
+    "Blue Cheese Buffalo Wing Sauce",
+    "Ketchup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-17-3",
+   "name": "Organic Vegan Mac, Cheddar Flavor · Half and Half Tea",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 964,
+   "protein": 24.0,
+   "carbs": 192.0,
+   "fat": 9.0,
+   "satfat": 4.5,
+   "fiber": 7.7,
+   "sugar": 46.3,
+   "sodium": 1745.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Organic Vegan Mac, Cheddar Flavor",
+     "portion": "3 cups",
+     "kcal": 780,
+     "protein": 24.0,
+     "carbs": 147.0,
+     "fat": 9.0,
+     "satfat": 4.5,
+     "fiber": 6.0,
+     "sugar": 3.0,
+     "sodium": 1740.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "2 servings",
+     "kcal": 184,
+     "protein": 0.0,
+     "carbs": 45.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 43.3,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Organic Vegan Mac, Cheddar Flavor",
+    "Half and Half Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

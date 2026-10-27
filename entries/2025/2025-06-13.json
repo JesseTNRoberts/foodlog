@@ -1,0 +1,216 @@
+{
+ "date": "2025-06-13",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-06-13-1",
+   "name": "French Toast, Cinnamon Sticks · Syrup, Maple · Oatmeal, Oats, Old Fashioned, Dry + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 741,
+   "protein": 11.9,
+   "carbs": 137.2,
+   "fat": 18.4,
+   "satfat": 3.0,
+   "fiber": 6.5,
+   "sugar": 76.8,
+   "sodium": 497.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "French Toast, Cinnamon Sticks",
+     "portion": "5 sticks",
+     "kcal": 390,
+     "protein": 8.0,
+     "carbs": 55.0,
+     "fat": 16.0,
+     "satfat": 2.5,
+     "fiber": 2.0,
+     "sugar": 21.0,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "1/4 cup",
+     "kcal": 209,
+     "protein": 0.0,
+     "carbs": 53.7,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 0.0,
+     "sugar": 47.6,
+     "sodium": 7.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oatmeal, Oats, Old Fashioned, Dry",
+     "portion": "1/3 cup",
+     "kcal": 100,
+     "protein": 3.3,
+     "carbs": 18.0,
+     "fat": 2.0,
+     "satfat": 0.3,
+     "fiber": 2.7,
+     "sugar": 0.7,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast, Cinnamon Sticks",
+    "Syrup, Maple",
+    "Oatmeal, Oats, Old Fashioned, Dry",
+    "Blueberries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-06-13-2",
+   "name": "Taco Soup · Cheese, Red Leicester · Honey Roasted Turkey Breast (3 slices)",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 336,
+   "protein": 26.3,
+   "carbs": 29.4,
+   "fat": 12.9,
+   "satfat": 4.7,
+   "fiber": 7.4,
+   "sugar": 9.0,
+   "sodium": 1154.4,
+   "cholesterol": 51.8,
+   "components": [
+    {
+     "name": "Taco Soup",
+     "portion": "1 cup",
+     "kcal": 237,
+     "protein": 15.7,
+     "carbs": 26.7,
+     "fat": 8.7,
+     "satfat": 2.3,
+     "fiber": 7.4,
+     "sugar": 7.0,
+     "sodium": 667.4,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Cheese, Red Leicester",
+     "portion": "1/2 ounce",
+     "kcal": 52,
+     "protein": 3.3,
+     "carbs": 0.0,
+     "fat": 4.2,
+     "satfat": 2.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 80.3,
+     "cholesterol": 11.8
+    },
+    {
+     "name": "Honey Roasted Turkey Breast (3 slices)",
+     "portion": "2 slices",
+     "kcal": 47,
+     "protein": 7.3,
+     "carbs": 2.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 406.7,
+     "cholesterol": 20.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Taco Soup",
+    "Cheese, Red Leicester",
+    "Honey Roasted Turkey Breast (3 slices)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-06-13-3",
+   "name": "Bbq Chicken Pizza · Caramel Apple Tartlets",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1193,
+   "protein": 42.8,
+   "carbs": 136.5,
+   "fat": 56.0,
+   "satfat": 28.0,
+   "fiber": 1.2,
+   "sugar": 37.5,
+   "sodium": 1812.5,
+   "cholesterol": 87.5,
+   "components": [
+    {
+     "name": "Bbq Chicken Pizza",
+     "portion": "3 slices",
+     "kcal": 780,
+     "protein": 39.0,
+     "carbs": 84.0,
+     "fat": 36.0,
+     "satfat": 18.0,
+     "fiber": 0.0,
+     "sugar": 15.0,
+     "sodium": 1500.0,
+     "cholesterol": 75.0
+    },
+    {
+     "name": "Caramel Apple Tartlets",
+     "portion": "1 1/4 servings",
+     "kcal": 413,
+     "protein": 3.8,
+     "carbs": 52.5,
+     "fat": 20.0,
+     "satfat": 10.0,
+     "fiber": 1.2,
+     "sugar": 22.5,
+     "sodium": 312.5,
+     "cholesterol": 12.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bbq Chicken Pizza",
+    "Caramel Apple Tartlets"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

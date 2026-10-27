@@ -1,0 +1,160 @@
+{
+ "date": "2023-06-12",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-12-1",
+   "name": "Cinnamon Rolls",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 330,
+   "protein": 4.0,
+   "carbs": 54.0,
+   "fat": 12.0,
+   "satfat": 5.0,
+   "fiber": 2.0,
+   "sugar": 24.0,
+   "sodium": 770.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cinnamon Rolls",
+     "portion": "1 each",
+     "kcal": 330,
+     "protein": 4.0,
+     "carbs": 54.0,
+     "fat": 12.0,
+     "satfat": 5.0,
+     "fiber": 2.0,
+     "sugar": 24.0,
+     "sodium": 770.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cinnamon Rolls"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-12-2",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 114,
+   "protein": 4.3,
+   "carbs": 5.7,
+   "fat": 9.3,
+   "satfat": 1.7,
+   "fiber": 2.1,
+   "sugar": 1.4,
+   "sodium": 135.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "35 pieces",
+     "kcal": 114,
+     "protein": 4.3,
+     "carbs": 5.7,
+     "fat": 9.3,
+     "satfat": 1.7,
+     "fiber": 2.1,
+     "sugar": 1.4,
+     "sodium": 135.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-12-3",
+   "name": "Crawfish Creole Pasta · Un Chick Chickpea Salad · Croissant, Butter, Medium",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1073,
+   "protein": 24.1,
+   "carbs": 120.2,
+   "fat": 57.1,
+   "satfat": 19.4,
+   "fiber": 12.4,
+   "sugar": 23.5,
+   "sodium": 1340.3,
+   "cholesterol": 85.8,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 558,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 29.6,
+     "satfat": 8.3,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 424.3,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Un Chick Chickpea Salad",
+     "portion": "1 serving",
+     "kcal": 284,
+     "protein": 5.9,
+     "carbs": 35.5,
+     "fat": 15.5,
+     "satfat": 4.5,
+     "fiber": 4.2,
+     "sugar": 5.4,
+     "sodium": 491.2,
+     "cholesterol": 18.8
+    },
+    {
+     "name": "Croissant, Butter, Medium",
+     "portion": "1 each",
+     "kcal": 231,
+     "protein": 4.7,
+     "carbs": 26.1,
+     "fat": 12.0,
+     "satfat": 6.6,
+     "fiber": 1.5,
+     "sugar": 6.4,
+     "sodium": 424.8,
+     "cholesterol": 38.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Un Chick Chickpea Salad",
+    "Croissant, Butter, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

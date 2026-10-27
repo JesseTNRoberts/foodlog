@@ -1,0 +1,300 @@
+{
+ "date": "2023-06-15",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-15-1",
+   "name": "Cinnamon Rolls · Blackberries",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 187,
+   "protein": 2.7,
+   "carbs": 31.8,
+   "fat": 6.2,
+   "satfat": 2.6,
+   "fiber": 3.6,
+   "sugar": 14.4,
+   "sodium": 385.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cinnamon Rolls",
+     "portion": "1/2 each",
+     "kcal": 165,
+     "protein": 2.0,
+     "carbs": 27.0,
+     "fat": 6.0,
+     "satfat": 2.5,
+     "fiber": 1.0,
+     "sugar": 12.0,
+     "sodium": 385.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "10 pieces",
+     "kcal": 22,
+     "protein": 0.7,
+     "carbs": 4.8,
+     "fat": 0.2,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 2.4,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cinnamon Rolls",
+    "Blackberries"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-15-2",
+   "name": "Jalapeño Poppers",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 354,
+   "protein": 7.5,
+   "carbs": 33.4,
+   "fat": 8.6,
+   "satfat": 1.5,
+   "fiber": 3.6,
+   "sugar": 2.4,
+   "sodium": 462.2,
+   "cholesterol": 8.8,
+   "components": [
+    {
+     "name": "Jalapeño Poppers",
+     "portion": "5 servings",
+     "kcal": 354,
+     "protein": 7.5,
+     "carbs": 33.4,
+     "fat": 8.6,
+     "satfat": 1.5,
+     "fiber": 3.6,
+     "sugar": 2.4,
+     "sodium": 462.2,
+     "cholesterol": 8.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Jalapeño Poppers"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-15-3",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 147,
+   "protein": 5.5,
+   "carbs": 7.3,
+   "fat": 11.9,
+   "satfat": 1.4,
+   "fiber": 2.8,
+   "sugar": 1.8,
+   "sodium": 174.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "45 pieces",
+     "kcal": 147,
+     "protein": 5.5,
+     "carbs": 7.3,
+     "fat": 11.9,
+     "satfat": 1.4,
+     "fiber": 2.8,
+     "sugar": 1.8,
+     "sodium": 174.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-15-4",
+   "name": "Crawfish Creole Pasta · Un Chick Chickpea Salad",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 746,
+   "protein": 19.4,
+   "carbs": 94.1,
+   "fat": 34.2,
+   "satfat": 11.4,
+   "fiber": 10.9,
+   "sugar": 17.1,
+   "sodium": 924.7,
+   "cholesterol": 47.6,
+   "components": [
+    {
+     "name": "Crawfish Creole Pasta",
+     "portion": "1 serving",
+     "kcal": 462,
+     "protein": 13.5,
+     "carbs": 58.6,
+     "fat": 18.7,
+     "satfat": 6.9,
+     "fiber": 6.7,
+     "sugar": 11.7,
+     "sodium": 433.5,
+     "cholesterol": 28.8
+    },
+    {
+     "name": "Un Chick Chickpea Salad",
+     "portion": "1 serving",
+     "kcal": 284,
+     "protein": 5.9,
+     "carbs": 35.5,
+     "fat": 15.5,
+     "satfat": 4.5,
+     "fiber": 4.2,
+     "sugar": 5.4,
+     "sodium": 491.2,
+     "cholesterol": 18.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crawfish Creole Pasta",
+    "Un Chick Chickpea Salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-15-5",
+   "name": "Salad Dressing, Ranch Plant Powered · Tomatoes, Campari · Spinach + 2 more",
+   "portion": "Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 277,
+   "protein": 2.9,
+   "carbs": 10.8,
+   "fat": 25.1,
+   "satfat": 3.2,
+   "fiber": 2.6,
+   "sugar": 4.9,
+   "sodium": 570.5,
+   "cholesterol": 0.2,
+   "components": [
+    {
+     "name": "Salad Dressing, Ranch Plant Powered",
+     "portion": "4 tablespoons",
+     "kcal": 217,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 23.7,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 492.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach",
+     "portion": "2 ounces",
+     "kcal": 13,
+     "protein": 1.3,
+     "carbs": 2.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 0.0,
+     "sodium": 43.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Croutons, Seasoned",
+     "portion": "10 each",
+     "kcal": 12,
+     "protein": 0.3,
+     "carbs": 1.6,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 0.1,
+     "sugar": 0.1,
+     "sodium": 30.9,
+     "cholesterol": 0.2
+    },
+    {
+     "name": "Cucumber, Sliced",
+     "portion": "2 ounces",
+     "kcal": 7,
+     "protein": 0.3,
+     "carbs": 1.2,
+     "fat": 0.9,
+     "satfat": 0.1,
+     "fiber": 0.4,
+     "sugar": 0.8,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salad Dressing, Ranch Plant Powered",
+    "Tomatoes, Campari",
+    "Spinach",
+    "Croutons, Seasoned",
+    "Cucumber, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

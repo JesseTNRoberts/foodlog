@@ -1,0 +1,194 @@
+{
+ "date": "2025-02-10",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-02-10-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blackberries + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 326,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 15.2,
+   "satfat": 1.0,
+   "fiber": 12.5,
+   "sugar": 14.8,
+   "sodium": 159.1,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries",
+     "portion": "2/3 cup",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 12.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 7.3,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blackberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-10-2",
+   "name": "Avocado, Hass, Medium · Brussels Sprouts, Roasted w/ Oil",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 415,
+   "protein": 7.9,
+   "carbs": 27.7,
+   "fat": 34.2,
+   "satfat": 5.1,
+   "fiber": 17.0,
+   "sugar": 3.9,
+   "sodium": 45.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Hass, Medium",
+     "portion": "1 each",
+     "kcal": 322,
+     "protein": 4.0,
+     "carbs": 17.0,
+     "fat": 29.0,
+     "satfat": 4.3,
+     "fiber": 13.0,
+     "sugar": 1.3,
+     "sodium": 14.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Roasted w/ Oil",
+     "portion": "3 ounces",
+     "kcal": 93,
+     "protein": 3.9,
+     "carbs": 10.7,
+     "fat": 5.2,
+     "satfat": 0.8,
+     "fiber": 4.0,
+     "sugar": 2.6,
+     "sodium": 31.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Hass, Medium",
+    "Brussels Sprouts, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-02-10-3",
+   "name": "Calories",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1000,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "100 each",
+     "kcal": 1000
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

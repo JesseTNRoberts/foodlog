@@ -1,0 +1,256 @@
+{
+ "date": "2021-01-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-01-30-1",
+   "name": "Chicken, Tenders, w/ Honey Mustard · French Fries, Adult · Roll, Yeast + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1062,
+   "protein": 35.5,
+   "carbs": 135.2,
+   "fat": 44.5,
+   "satfat": 7.5,
+   "fiber": 5.3,
+   "sugar": 59.4,
+   "sodium": 2364.2,
+   "cholesterol": 65.0,
+   "components": [
+    {
+     "name": "Chicken, Tenders, w/ Honey Mustard",
+     "portion": "1/2 each",
+     "kcal": 545,
+     "protein": 29.5,
+     "carbs": 41.0,
+     "fat": 30.5,
+     "satfat": 5.0,
+     "fiber": 2.0,
+     "sugar": 3.0,
+     "sodium": 1840.0,
+     "cholesterol": 65.0
+    },
+    {
+     "name": "French Fries, Adult",
+     "portion": "1/2 each",
+     "kcal": 195,
+     "protein": 2.0,
+     "carbs": 20.0,
+     "fat": 12.0,
+     "satfat": 2.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Roll, Yeast",
+     "portion": "1 each",
+     "kcal": 130,
+     "protein": 4.0,
+     "carbs": 25.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 8.0,
+     "sodium": 105.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "8 fluid ounces",
+     "kcal": 100,
+     "protein": 0.0,
+     "carbs": 26.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 26.7,
+     "sodium": 36.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Tenders, w/ Honey Mustard",
+    "French Fries, Adult",
+    "Roll, Yeast",
+    "Soda, Dr. Pepper",
+    "Half and Half Tea"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-01-30-2",
+   "name": "Zuchinni, sauted · Soda, Dr. Pepper",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 519,
+   "protein": 12.3,
+   "carbs": 72.7,
+   "fat": 28.7,
+   "satfat": 4.1,
+   "fiber": 11.3,
+   "sugar": 75.0,
+   "sodium": 94.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Zuchinni, sauted",
+     "portion": "5 cups",
+     "kcal": 361,
+     "protein": 12.3,
+     "carbs": 30.7,
+     "fat": 28.7,
+     "satfat": 4.1,
+     "fiber": 11.3,
+     "sugar": 33.8,
+     "sodium": 34.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "3/4 serving",
+     "kcal": 158,
+     "protein": 0.0,
+     "carbs": 42.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 41.2,
+     "sodium": 60.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Zuchinni, sauted",
+    "Soda, Dr. Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-01-30-3",
+   "name": "Pistachios, Lightly Salted · Hummus, spinach and artichoke · Chips, Pita Thins, Sea Salt + 2 more",
+   "portion": "Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 304,
+   "protein": 10.6,
+   "carbs": 26.8,
+   "fat": 19.9,
+   "satfat": 2.5,
+   "fiber": 6.3,
+   "sugar": 3.9,
+   "sodium": 253.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pistachios, Lightly Salted",
+     "portion": "28 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 8.0,
+     "fat": 13.0,
+     "satfat": 1.5,
+     "fiber": 3.0,
+     "sugar": 2.0,
+     "sodium": 65.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "10 grams",
+     "kcal": 46,
+     "protein": 1.7,
+     "carbs": 7.1,
+     "fat": 1.4,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 0.4,
+     "sodium": 71.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Healthy Vegan Bites",
+     "portion": "1/3 piece",
+     "kcal": 15,
+     "protein": 0.7,
+     "carbs": 2.3,
+     "fat": 0.5,
+     "fiber": 1.7,
+     "sugar": 0.3,
+     "sodium": 1.7
+    },
+    {
+     "name": "Juice, Lemon",
+     "portion": "10 teaspoons",
+     "kcal": 13,
+     "protein": 0.2,
+     "carbs": 4.4,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 1.2,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pistachios, Lightly Salted",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt",
+    "Healthy Vegan Bites",
+    "Juice, Lemon"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

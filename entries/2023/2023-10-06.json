@@ -1,0 +1,114 @@
+{
+ "date": "2023-10-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-06-1",
+   "name": "Apple Cider Donuts",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1500,
+   "protein": 20.0,
+   "carbs": 170.0,
+   "fat": 80.0,
+   "satfat": 40.0,
+   "fiber": 5.0,
+   "sugar": 75.0,
+   "sodium": 1650.0,
+   "cholesterol": 75.0,
+   "components": [
+    {
+     "name": "Apple Cider Donuts",
+     "portion": "5 each",
+     "kcal": 1500,
+     "protein": 20.0,
+     "carbs": 170.0,
+     "fat": 80.0,
+     "satfat": 40.0,
+     "fiber": 5.0,
+     "sugar": 75.0,
+     "sodium": 1650.0,
+     "cholesterol": 75.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Cider Donuts"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-10-06-2",
+   "name": "Butter, Drawn · Lobster · MCCOUN",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 510,
+   "protein": 11.7,
+   "carbs": 0.8,
+   "fat": 46.4,
+   "satfat": 29.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 5.0,
+   "cholesterol": 122.5,
+   "components": [
+    {
+     "name": "Butter, Drawn",
+     "portion": "1/2 each",
+     "kcal": 405,
+     "protein": 0.2,
+     "carbs": 0.0,
+     "fat": 46.0,
+     "satfat": 29.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 122.5
+    },
+    {
+     "name": "Lobster",
+     "portion": "6 ounces",
+     "kcal": 53,
+     "protein": 11.2,
+     "carbs": 0.8,
+     "fat": 0.4,
+     "sugar": 0.0
+    },
+    {
+     "name": "MCCOUN",
+     "portion": "1 serving",
+     "kcal": 52,
+     "protein": 0.3,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Butter, Drawn",
+    "Lobster",
+    "MCCOUN"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

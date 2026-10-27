@@ -1,0 +1,319 @@
+{
+ "date": "2023-06-23",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-23-1",
+   "name": "Cinnamon Rolls",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 330,
+   "protein": 4.0,
+   "carbs": 54.0,
+   "fat": 12.0,
+   "satfat": 5.0,
+   "fiber": 2.0,
+   "sugar": 24.0,
+   "sodium": 770.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cinnamon Rolls",
+     "portion": "1 each",
+     "kcal": 330,
+     "protein": 4.0,
+     "carbs": 54.0,
+     "fat": 12.0,
+     "satfat": 5.0,
+     "fiber": 2.0,
+     "sugar": 24.0,
+     "sodium": 770.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cinnamon Rolls"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-23-2",
+   "name": "Chicken, Breast, Meat Only, Grilled · Asparagus, Roasted w/ Oil",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 370,
+   "protein": 61.9,
+   "carbs": 5.9,
+   "fat": 12.2,
+   "satfat": 2.9,
+   "fiber": 3.2,
+   "sugar": 2.8,
+   "sodium": 423.6,
+   "cholesterol": 210.1,
+   "components": [
+    {
+     "name": "Chicken, Breast, Meat Only, Grilled",
+     "portion": "7 ounces",
+     "kcal": 294,
+     "protein": 58.6,
+     "carbs": 0.0,
+     "fat": 6.8,
+     "satfat": 2.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 420.2,
+     "cholesterol": 210.1
+    },
+    {
+     "name": "Asparagus, Roasted w/ Oil",
+     "portion": "1/3 pound",
+     "kcal": 76,
+     "protein": 3.3,
+     "carbs": 5.9,
+     "fat": 5.4,
+     "satfat": 0.8,
+     "fiber": 3.2,
+     "sugar": 2.8,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Breast, Meat Only, Grilled",
+    "Asparagus, Roasted w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-23-3",
+   "name": "Nuts, Pistachios, Kernels · Powerade Grape",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 184,
+   "protein": 3.9,
+   "carbs": 26.2,
+   "fat": 8.5,
+   "satfat": 1.0,
+   "fiber": 2.0,
+   "sugar": 22.3,
+   "sodium": 364.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "32 pieces",
+     "kcal": 104,
+     "protein": 3.9,
+     "carbs": 5.2,
+     "fat": 8.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 1.3,
+     "sodium": 124.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Powerade Grape",
+     "portion": "12 ounces",
+     "kcal": 80,
+     "protein": 0.0,
+     "carbs": 21.0,
+     "fat": 0.0,
+     "sugar": 21.0,
+     "sodium": 240.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels",
+    "Powerade Grape"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-23-4",
+   "name": "Chicken Thigh (grilled-no skin) · Chips, Corn, Scoops · Grilled Chicken + 5 more",
+   "portion": "Dinner · 8 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 991,
+   "protein": 133.9,
+   "carbs": 71.1,
+   "fat": 33.7,
+   "satfat": 8.3,
+   "fiber": 4.6,
+   "sugar": 3.8,
+   "sodium": 1070.3,
+   "cholesterol": 305.5,
+   "components": [
+    {
+     "name": "Chicken Thigh (grilled-no skin)",
+     "portion": "2 pieces",
+     "kcal": 292,
+     "protein": 34.0,
+     "carbs": 0.0,
+     "fat": 18.0,
+     "satfat": 6.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 452.0,
+     "cholesterol": 208.0
+    },
+    {
+     "name": "Chips, Corn, Scoops",
+     "portion": "1 1/4 ounces",
+     "kcal": 200,
+     "protein": 2.5,
+     "carbs": 20.0,
+     "fat": 12.5,
+     "satfat": 1.9,
+     "fiber": 1.2,
+     "sugar": 0.0,
+     "sodium": 137.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "6 ounces",
+     "kcal": 180,
+     "protein": 39.0,
+     "carbs": 0.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 112.5,
+     "cholesterol": 97.5
+    },
+    {
+     "name": "Bowtie Pasta, Cooked",
+     "portion": "1/2 cup",
+     "kcal": 180,
+     "carbs": 16.4
+    },
+    {
+     "name": "Vegan Alfredo Sauce",
+     "portion": "1 serving",
+     "kcal": 65
+    },
+    {
+     "name": "Jumbo Shrimp Cocktail",
+     "portion": "3 pieces",
+     "kcal": 42,
+     "protein": 57.0,
+     "carbs": 27.0,
+     "fat": 1.5
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "2 ounces",
+     "kcal": 20,
+     "protein": 1.4,
+     "carbs": 4.7,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.9,
+     "sugar": 0.8,
+     "sodium": 23.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Thigh (grilled-no skin)",
+    "Chips, Corn, Scoops",
+    "Grilled Chicken",
+    "Bowtie Pasta, Cooked",
+    "Vegan Alfredo Sauce",
+    "Jumbo Shrimp Cocktail",
+    "Broccoli, Chopped, Steamed",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-23-5",
+   "name": "Cookie, Oatmeal Raisin",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 3.0,
+   "carbs": 30.0,
+   "fat": 8.0,
+   "satfat": 3.5,
+   "fiber": 1.0,
+   "sugar": 16.0,
+   "sodium": 130.0,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Cookie, Oatmeal Raisin",
+     "portion": "1 each",
+     "kcal": 200,
+     "protein": 3.0,
+     "carbs": 30.0,
+     "fat": 8.0,
+     "satfat": 3.5,
+     "fiber": 1.0,
+     "sugar": 16.0,
+     "sodium": 130.0,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cookie, Oatmeal Raisin"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

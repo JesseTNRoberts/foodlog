@@ -1,0 +1,325 @@
+{
+ "date": "2023-07-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-04-1",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Grilled Chicken",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 204,
+   "protein": 28.1,
+   "carbs": 0.0,
+   "fat": 9.8,
+   "satfat": 2.5,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 18.8,
+   "cholesterol": 94.2,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "3 ounces",
+     "kcal": 174,
+     "protein": 21.6,
+     "carbs": 0.0,
+     "fat": 9.6,
+     "satfat": 2.5,
+     "sugar": 0.0,
+     "cholesterol": 78.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.5,
+     "carbs": 0.0,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 18.8,
+     "cholesterol": 16.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-04-2",
+   "name": "Spring Roll, Vegetable",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 100,
+   "protein": 2.0,
+   "carbs": 10.0,
+   "fat": 6.0,
+   "satfat": 1.0,
+   "fiber": 0.8,
+   "sugar": 0.0,
+   "sodium": 30.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Spring Roll, Vegetable",
+     "portion": "1 each",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spring Roll, Vegetable"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-04-3",
+   "name": "Impossible Sausage Links Spicy · Anything sauce Creole · Bread, Thin Sliced, 21 Whole Grains & Seeds + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 388,
+   "protein": 17.7,
+   "carbs": 23.4,
+   "fat": 26.1,
+   "satfat": 7.7,
+   "fiber": 9.0,
+   "sugar": 3.4,
+   "sodium": 861.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Impossible Sausage Links Spicy",
+     "portion": "1 serving",
+     "kcal": 240,
+     "protein": 14.0,
+     "carbs": 8.0,
+     "fat": 16.0,
+     "satfat": 7.0,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 570.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Anything sauce Creole",
+     "portion": "1 teaspoon",
+     "kcal": 65,
+     "protein": 0.0,
+     "carbs": 0.5,
+     "fat": 7.5,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Grilled w/ Oil",
+     "portion": "1 ounce",
+     "kcal": 23,
+     "protein": 0.7,
+     "carbs": 2.9,
+     "fat": 1.6,
+     "satfat": 0.2,
+     "fiber": 1.0,
+     "sugar": 0.4,
+     "sodium": 11.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Impossible Sausage Links Spicy",
+    "Anything sauce Creole",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Broccoli, Grilled w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-04-4",
+   "name": "Pistachios, Lightly Salted",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 183,
+   "protein": 6.9,
+   "carbs": 9.1,
+   "fat": 14.9,
+   "satfat": 1.7,
+   "fiber": 3.4,
+   "sugar": 2.3,
+   "sodium": 74.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pistachios, Lightly Salted",
+     "portion": "32 grams",
+     "kcal": 183,
+     "protein": 6.9,
+     "carbs": 9.1,
+     "fat": 14.9,
+     "satfat": 1.7,
+     "fiber": 3.4,
+     "sugar": 2.3,
+     "sodium": 74.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pistachios, Lightly Salted"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-04-5",
+   "name": "Fries Side · Hush Puppies, Homemade · Fish, Channel Catfish, Breaded & Fried + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1071,
+   "protein": 31.3,
+   "carbs": 115.7,
+   "fat": 60.4,
+   "satfat": 11.3,
+   "fiber": 7.8,
+   "sugar": 11.6,
+   "sodium": 1359.5,
+   "cholesterol": 115.2,
+   "components": [
+    {
+     "name": "Fries Side",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 5.0,
+     "carbs": 50.0,
+     "fat": 27.0,
+     "satfat": 5.0,
+     "fiber": 5.0,
+     "sugar": 1.0,
+     "sodium": 259.0
+    },
+    {
+     "name": "Hush Puppies, Homemade",
+     "portion": "3 each",
+     "kcal": 222,
+     "protein": 5.8,
+     "carbs": 30.4,
+     "fat": 8.9,
+     "satfat": 1.4,
+     "fiber": 1.9,
+     "sugar": 1.3,
+     "sodium": 440.9,
+     "cholesterol": 29.7
+    },
+    {
+     "name": "Fish, Channel Catfish, Breaded & Fried",
+     "portion": "1 piece",
+     "kcal": 199,
+     "protein": 15.7,
+     "carbs": 7.0,
+     "fat": 11.6,
+     "satfat": 2.9,
+     "fiber": 0.0,
+     "sugar": 0.6,
+     "sodium": 243.6,
+     "cholesterol": 70.5
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2 tablespoons",
+     "kcal": 130,
+     "protein": 0.0,
+     "carbs": 7.0,
+     "fat": 11.0,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 210.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Bun, Hamburger, Plain",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.8,
+     "carbs": 21.3,
+     "fat": 1.9,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 206.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries Side",
+    "Hush Puppies, Homemade",
+    "Fish, Channel Catfish, Breaded & Fried",
+    "Dressing, Honey Mustard",
+    "Bun, Hamburger, Plain"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

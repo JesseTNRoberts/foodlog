@@ -1,0 +1,104 @@
+{
+ "date": "2025-12-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-12-30-1",
+   "name": "Pan Cake Bread · Almond Butter, Raw · Cranberry Sauce + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 416,
+   "protein": 10.5,
+   "carbs": 72.1,
+   "fat": 16.0,
+   "satfat": 2.3,
+   "fiber": 14.4,
+   "sugar": 45.2,
+   "sodium": 169.0,
+   "cholesterol": 41.2,
+   "components": [
+    {
+     "name": "Pan Cake Bread",
+     "portion": "1 serving",
+     "kcal": 153,
+     "protein": 5.3,
+     "carbs": 20.4,
+     "fat": 6.2,
+     "satfat": 1.6,
+     "fiber": 1.8,
+     "sugar": 8.9,
+     "sodium": 164.9,
+     "cholesterol": 41.2
+    },
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 tablespoon",
+     "kcal": 100,
+     "protein": 3.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 1.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cranberry Sauce",
+     "portion": "6 tablespoons",
+     "kcal": 81,
+     "protein": 0.2,
+     "carbs": 21.3,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 16.4,
+     "sodium": 1.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Syrup, Maple",
+     "portion": "1 tablespoon",
+     "kcal": 52,
+     "protein": 0.0,
+     "carbs": 13.4,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sugar": 11.9,
+     "sodium": 1.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "BlackBerry",
+     "portion": "1/8 cup",
+     "kcal": 30,
+     "protein": 2.0,
+     "carbs": 14.0,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 8.0,
+     "sugar": 7.0,
+     "sodium": 1.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pan Cake Bread",
+    "Almond Butter, Raw",
+    "Cranberry Sauce",
+    "Syrup, Maple",
+    "BlackBerry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

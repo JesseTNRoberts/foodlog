@@ -1,0 +1,129 @@
+{
+ "date": "2025-12-21",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-12-21-1",
+   "name": "Avocado · Bread, Sourdough · “Sizzle” Extra Virgin Olive Oil + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 627,
+   "protein": 11.7,
+   "carbs": 53.2,
+   "fat": 44.7,
+   "satfat": 6.6,
+   "fiber": 15.0,
+   "sugar": 2.9,
+   "sodium": 540.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado",
+     "portion": "1 each",
+     "kcal": 322,
+     "protein": 4.2,
+     "carbs": 17.1,
+     "fat": 29.5,
+     "satfat": 4.3,
+     "fiber": 13.5,
+     "sugar": 1.3,
+     "sodium": 14.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Sourdough",
+     "portion": "1 slice",
+     "kcal": 185,
+     "protein": 7.5,
+     "carbs": 36.1,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 1.6,
+     "sodium": 416.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "“Sizzle” Extra Virgin Olive Oil",
+     "portion": "1 tablespoon",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 14.0,
+     "satfat": 2.0,
+     "sodium": 0.0
+    },
+    {
+     "name": "Chulula Hot Sauce",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado",
+    "Bread, Sourdough",
+    "“Sizzle” Extra Virgin Olive Oil",
+    "Chulula Hot Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-12-21-2",
+   "name": "Mocha Choco Bun",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 170,
+   "protein": 3.5,
+   "carbs": 23.0,
+   "fat": 7.0,
+   "satfat": 4.0,
+   "fiber": 1.0,
+   "sugar": 7.5,
+   "sodium": 155.0,
+   "cholesterol": 12.5,
+   "components": [
+    {
+     "name": "Mocha Choco Bun",
+     "portion": "1/2 serving",
+     "kcal": 170,
+     "protein": 3.5,
+     "carbs": 23.0,
+     "fat": 7.0,
+     "satfat": 4.0,
+     "fiber": 1.0,
+     "sugar": 7.5,
+     "sodium": 155.0,
+     "cholesterol": 12.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Mocha Choco Bun"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

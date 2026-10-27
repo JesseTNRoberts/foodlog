@@ -1,0 +1,138 @@
+{
+ "date": "2021-07-24",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-24-1",
+   "name": "Blue Corn Tortilla Chips · Nectarines, Med, Fresh · Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 547,
+   "protein": 11.4,
+   "carbs": 85.7,
+   "fat": 21.9,
+   "satfat": 4.3,
+   "fiber": 14.1,
+   "sugar": 36.6,
+   "sodium": 195.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Blue Corn Tortilla Chips",
+     "portion": "54 grams",
+     "kcal": 270,
+     "protein": 3.9,
+     "carbs": 32.8,
+     "fat": 13.5,
+     "satfat": 1.9,
+     "fiber": 3.9,
+     "sugar": 0.0,
+     "sodium": 125.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Nectarines, Med, Fresh",
+     "portion": "3 each",
+     "kcal": 187,
+     "protein": 4.5,
+     "carbs": 44.9,
+     "fat": 1.4,
+     "satfat": 0.9,
+     "fiber": 7.2,
+     "sugar": 33.6,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
+     "portion": "1 serving",
+     "kcal": 90,
+     "protein": 3.0,
+     "carbs": 8.0,
+     "fat": 7.0,
+     "satfat": 1.5,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 70.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Blue Corn Tortilla Chips",
+    "Nectarines, Med, Fresh",
+    "Kind Bar Dark Chocolate Nuts And Sea Salt Mini"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-24-2",
+   "name": "Fish Fried Catfish Breaded · Homestyle Fries, Side · Hushpuppies",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1335,
+   "protein": 11.8,
+   "carbs": 93.8,
+   "fat": 28.9,
+   "satfat": 5.0,
+   "fiber": 5.4,
+   "sugar": 1.8,
+   "sodium": 2060.0,
+   "cholesterol": 588.0,
+   "components": [
+    {
+     "name": "Fish Fried Catfish Breaded",
+     "portion": "18 ounces",
+     "kcal": 585
+    },
+    {
+     "name": "Homestyle Fries, Side",
+     "portion": "1 each",
+     "kcal": 390,
+     "protein": 5.0,
+     "carbs": 53.0,
+     "fat": 17.0,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 1420.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hushpuppies",
+     "portion": "8 each",
+     "kcal": 360,
+     "protein": 6.8,
+     "carbs": 40.8,
+     "fat": 11.9,
+     "satfat": 2.0,
+     "fiber": 2.4,
+     "sugar": 1.8,
+     "sodium": 640.0,
+     "cholesterol": 588.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish Fried Catfish Breaded",
+    "Homestyle Fries, Side",
+    "Hushpuppies"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

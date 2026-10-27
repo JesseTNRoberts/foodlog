@@ -1,0 +1,250 @@
+{
+ "date": "2021-07-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-07-07-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-07-2",
+   "name": "Burrito, Breakfast, Big Sur · Guacamole · Grain Free Tortilla Chips, Nacho + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 786,
+   "protein": 32.4,
+   "carbs": 93.1,
+   "fat": 34.0,
+   "satfat": 3.7,
+   "fiber": 24.1,
+   "sugar": 15.1,
+   "sodium": 1418.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Burrito, Breakfast, Big Sur",
+     "portion": "1 each",
+     "kcal": 390,
+     "protein": 24.0,
+     "carbs": 44.0,
+     "fat": 10.0,
+     "satfat": 1.0,
+     "fiber": 6.0,
+     "sugar": 3.0,
+     "sodium": 530.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Guacamole",
+     "portion": "1/3 pound",
+     "kcal": 183,
+     "protein": 4.6,
+     "carbs": 13.7,
+     "fat": 16.2,
+     "satfat": 0.0,
+     "fiber": 9.2,
+     "sugar": 0.0,
+     "sodium": 686.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "19 pieces",
+     "kcal": 130,
+     "protein": 1.0,
+     "carbs": 19.0,
+     "fat": 7.0,
+     "satfat": 2.0,
+     "fiber": 3.0,
+     "sugar": 1.0,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Peppers, Bell, Red, Sweet, Small",
+     "portion": "3 each",
+     "kcal": 69,
+     "protein": 2.2,
+     "carbs": 13.4,
+     "fat": 0.7,
+     "satfat": 0.4,
+     "fiber": 4.7,
+     "sugar": 9.3,
+     "sodium": 8.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Celery, Stalk, Fresh, Med",
+     "portion": "2 pieces",
+     "kcal": 14,
+     "protein": 0.6,
+     "carbs": 3.0,
+     "fat": 0.1,
+     "satfat": 0.3,
+     "fiber": 1.2,
+     "sugar": 1.8,
+     "sodium": 68.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burrito, Breakfast, Big Sur",
+    "Guacamole",
+    "Grain Free Tortilla Chips, Nacho",
+    "Peppers, Bell, Red, Sweet, Small",
+    "Celery, Stalk, Fresh, Med"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-07-3",
+   "name": "Signature Sandwich Spicy · Tortilla Chips · Salsa, Chunky, Mild",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1099,
+   "protein": 40.6,
+   "carbs": 112.8,
+   "fat": 51.7,
+   "satfat": 7.8,
+   "fiber": 6.6,
+   "sugar": 29.0,
+   "sodium": 5754.4,
+   "cholesterol": 95.0,
+   "components": [
+    {
+     "name": "Signature Sandwich Spicy",
+     "portion": "1 serving",
+     "kcal": 730,
+     "protein": 37.0,
+     "carbs": 55.0,
+     "fat": 41.0,
+     "satfat": 6.0,
+     "fiber": 3.0,
+     "sugar": 5.0,
+     "sodium": 2790.0,
+     "cholesterol": 95.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "16 pieces",
+     "kcal": 249,
+     "protein": 3.6,
+     "carbs": 33.8,
+     "fat": 10.7,
+     "satfat": 1.8,
+     "fiber": 3.6,
+     "sugar": 0.0,
+     "sodium": 204.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "1 1/2 cups",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 24.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 24.0,
+     "sodium": 2760.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Signature Sandwich Spicy",
+    "Tortilla Chips",
+    "Salsa, Chunky, Mild"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-07-07-4",
+   "name": "Pecan Pin Wheels (Little Debbie's)",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 110,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Pecan Pin Wheels (Little Debbie's)",
+     "portion": "1 each",
+     "kcal": 110
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pecan Pin Wheels (Little Debbie's)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "date": "2021-02-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-06-1",
+   "name": "Soup, Vegetable Garden · Side, Biscuit · Banana, Medium, 7\" - 7 7/8\" Long + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 422,
+   "protein": 10.8,
+   "carbs": 79.8,
+   "fat": 6.1,
+   "satfat": 1.2,
+   "fiber": 13.5,
+   "sugar": 21.9,
+   "sodium": 960.8,
+   "cholesterol": 3.8,
+   "components": [
+    {
+     "name": "Soup, Vegetable Garden",
+     "portion": "10 fluid ounces",
+     "kcal": 157,
+     "protein": 6.5,
+     "carbs": 30.9,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 5.8,
+     "sugar": 6.5,
+     "sodium": 599.6,
+     "cholesterol": 3.8
+    },
+    {
+     "name": "Side, Biscuit",
+     "portion": "1 each",
+     "kcal": 150,
+     "protein": 3.0,
+     "carbs": 22.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 4.0,
+     "sugar": 1.0,
+     "sodium": 350.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 105,
+     "protein": 1.3,
+     "carbs": 26.9,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 3.7,
+     "sugar": 14.4,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soup, Vegetable Garden",
+    "Side, Biscuit",
+    "Banana, Medium, 7\" - 7 7/8\" Long",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-06-2",
+   "name": "Fries, Waffle Potato, Large · Sandwich, Spicy Chicken · Dr Pepper Medium + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1072,
+   "protein": 19.9,
+   "carbs": 141.4,
+   "fat": 48.7,
+   "satfat": 9.6,
+   "fiber": 7.4,
+   "sugar": 60.5,
+   "sodium": 1666.1,
+   "cholesterol": 45.0,
+   "components": [
+    {
+     "name": "Fries, Waffle Potato, Large",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 3.0,
+     "carbs": 31.5,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1/2 each",
+     "kcal": 245,
+     "protein": 15.0,
+     "carbs": 22.5,
+     "fat": 10.5,
+     "satfat": 2.2,
+     "fiber": 1.0,
+     "sugar": 2.5,
+     "sodium": 800.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 15.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 225.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Grain Free Tortilla Chips, Nacho",
+     "portion": "19 pieces",
+     "kcal": 130,
+     "protein": 1.0,
+     "carbs": 19.0,
+     "fat": 7.0,
+     "satfat": 2.0,
+     "fiber": 3.0,
+     "sugar": 1.0,
+     "sodium": 125.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "4 pieces",
+     "kcal": 62,
+     "protein": 0.9,
+     "carbs": 8.4,
+     "fat": 2.7,
+     "satfat": 0.4,
+     "fiber": 0.9,
+     "sugar": 0.0,
+     "sodium": 51.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "3 tablespoons",
+     "kcal": 15,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 345.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Waffle Potato, Large",
+    "Sandwich, Spicy Chicken",
+    "Dr Pepper Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Grain Free Tortilla Chips, Nacho",
+    "Tortilla Chips",
+    "Salsa, Chunky, Med"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-06-3",
+   "name": "Side, Chow Mein · Hummus, spinach and artichoke · Chips, Pita Thins, Sea Salt + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 765,
+   "protein": 25.5,
+   "carbs": 112.5,
+   "fat": 26.5,
+   "satfat": 4.3,
+   "fiber": 16.7,
+   "sugar": 33.7,
+   "sodium": 1715.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "5 ounces",
+     "kcal": 271,
+     "protein": 6.9,
+     "carbs": 34.6,
+     "fat": 11.7,
+     "satfat": 2.1,
+     "fiber": 2.1,
+     "sugar": 4.8,
+     "sodium": 521.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "4 tablespoons",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Brussels Sprouts, Raw",
+     "portion": "10 ounces",
+     "kcal": 122,
+     "protein": 9.6,
+     "carbs": 25.4,
+     "fat": 0.8,
+     "satfat": 0.2,
+     "fiber": 10.8,
+     "sugar": 6.2,
+     "sodium": 70.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Liquid Aminos",
+     "portion": "2 teaspoons",
+     "kcal": 10,
+     "protein": 2.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 690.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt",
+    "Brussels Sprouts, Raw",
+    "Half and Half Tea",
+    "Liquid Aminos"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-06-4",
+   "name": "Juice, Lemon",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 5,
+   "protein": 0.8,
+   "carbs": 1.8,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.8,
+   "sugar": 0.5,
+   "sodium": 0.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Juice, Lemon",
+     "portion": "4 teaspoons",
+     "kcal": 5,
+     "protein": 0.8,
+     "carbs": 1.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 0.5,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Juice, Lemon"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

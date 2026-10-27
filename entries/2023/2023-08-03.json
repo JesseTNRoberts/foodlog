@@ -1,0 +1,332 @@
+{
+ "date": "2023-08-03",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-03-1",
+   "name": "Chicken, Breast, Spicy · Dressing, Honey Mustard · Sour Dough Bread Slice + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 981,
+   "protein": 42.7,
+   "carbs": 127.3,
+   "fat": 40.9,
+   "satfat": 8.1,
+   "fiber": 2.0,
+   "sugar": 49.6,
+   "sodium": 2221.9,
+   "cholesterol": 104.2,
+   "components": [
+    {
+     "name": "Chicken, Breast, Spicy",
+     "portion": "1/2 serving",
+     "kcal": 320,
+     "protein": 28.0,
+     "carbs": 29.0,
+     "fat": 10.0,
+     "satfat": 1.5,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 1620.0,
+     "cholesterol": 75.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2/3 each",
+     "kcal": 233,
+     "protein": 0.0,
+     "carbs": 8.0,
+     "fat": 22.7,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 5.3,
+     "sodium": 173.4,
+     "cholesterol": 13.3
+    },
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "65 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 30.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Vegetarian Chili (8oz/1cup)",
+     "portion": "1 cup",
+     "kcal": 120,
+     "protein": 5.0,
+     "carbs": 21.0,
+     "fat": 2.0
+    },
+    {
+     "name": "Coke mini bottle",
+     "portion": "1 bottle",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 39.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "15 grams",
+     "kcal": 58,
+     "protein": 3.7,
+     "carbs": 0.3,
+     "fat": 4.2,
+     "satfat": 2.6,
+     "fiber": 0.0,
+     "sugar": 0.3,
+     "sodium": 63.5,
+     "cholesterol": 15.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Breast, Spicy",
+    "Dressing, Honey Mustard",
+    "Sour Dough Bread Slice",
+    "Vegetarian Chili (8oz/1cup)",
+    "Coke mini bottle",
+    "Raw Goat Milk Mild Cheddar Cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-03-2",
+   "name": "Pinto Beans Boiled · Bread, Cornbread, From Mix · Vegetarian Chili (8oz/1cup)",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 440,
+   "protein": 21.6,
+   "carbs": 75.9,
+   "fat": 6.3,
+   "satfat": 1.4,
+   "fiber": 16.7,
+   "sugar": 0.6,
+   "sodium": 332.5,
+   "cholesterol": 25.9,
+   "components": [
+    {
+     "name": "Pinto Beans Boiled",
+     "portion": "1 cup",
+     "kcal": 246,
+     "protein": 15.5,
+     "carbs": 45.0,
+     "fat": 1.1,
+     "satfat": 0.2,
+     "fiber": 15.5,
+     "sugar": 0.6,
+     "sodium": 1.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Cornbread, From Mix",
+     "portion": "1 1/2 ounces",
+     "kcal": 134,
+     "protein": 3.6,
+     "carbs": 20.4,
+     "fat": 4.2,
+     "satfat": 1.2,
+     "fiber": 1.2,
+     "sugar": 0.0,
+     "sodium": 330.8,
+     "cholesterol": 25.9
+    },
+    {
+     "name": "Vegetarian Chili (8oz/1cup)",
+     "portion": "1/2 cup",
+     "kcal": 60,
+     "protein": 2.5,
+     "carbs": 10.5,
+     "fat": 1.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pinto Beans Boiled",
+    "Bread, Cornbread, From Mix",
+    "Vegetarian Chili (8oz/1cup)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-03-3",
+   "name": "Pistachios, Lightly Salted",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 162,
+   "protein": 6.7,
+   "carbs": 8.1,
+   "fat": 13.2,
+   "satfat": 1.5,
+   "fiber": 3.4,
+   "sugar": 2.2,
+   "sodium": 65.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pistachios, Lightly Salted",
+     "portion": "1 ounce",
+     "kcal": 162,
+     "protein": 6.7,
+     "carbs": 8.1,
+     "fat": 13.2,
+     "satfat": 1.5,
+     "fiber": 3.4,
+     "sugar": 2.2,
+     "sodium": 65.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pistachios, Lightly Salted"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-03-4",
+   "name": "Fries, Crinkle, Regular · Pulled Pork, in BBQ Sauce · Coke + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1584,
+   "protein": 49.8,
+   "carbs": 231.8,
+   "fat": 49.7,
+   "satfat": 10.6,
+   "fiber": 15.9,
+   "sugar": 98.7,
+   "sodium": 3112.3,
+   "cholesterol": 104.6,
+   "components": [
+    {
+     "name": "Fries, Crinkle, Regular",
+     "portion": "1 serving",
+     "kcal": 440,
+     "protein": 5.0,
+     "carbs": 54.0,
+     "fat": 22.0,
+     "satfat": 3.0,
+     "fiber": 5.0,
+     "sugar": 1.0,
+     "sodium": 510.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pulled Pork, in BBQ Sauce",
+     "portion": "1 cup",
+     "kcal": 418,
+     "protein": 32.9,
+     "carbs": 46.6,
+     "fat": 11.0,
+     "satfat": 3.5,
+     "fiber": 3.0,
+     "sugar": 12.5,
+     "sodium": 1660.0,
+     "cholesterol": 87.0
+    },
+    {
+     "name": "Coke",
+     "portion": "24 fluid ounces",
+     "kcal": 280,
+     "protein": 0.0,
+     "carbs": 78.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 78.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Beans, Baked, Homemade",
+     "portion": "1/2 cup",
+     "kcal": 196,
+     "protein": 7.1,
+     "carbs": 27.4,
+     "fat": 6.5,
+     "satfat": 2.5,
+     "fiber": 7.0,
+     "sugar": 0.0,
+     "sodium": 533.8,
+     "cholesterol": 6.3
+    },
+    {
+     "name": "Honey Mustard",
+     "portion": "1 serving",
+     "kcal": 130,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 8.3,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 4.5,
+     "sodium": 112.5,
+     "cholesterol": 11.3
+    },
+    {
+     "name": "Bun, Hamburger, Plain",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.8,
+     "carbs": 21.3,
+     "fat": 1.9,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 206.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fries, Crinkle, Regular",
+    "Pulled Pork, in BBQ Sauce",
+    "Coke",
+    "Beans, Baked, Homemade",
+    "Honey Mustard",
+    "Bun, Hamburger, Plain"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

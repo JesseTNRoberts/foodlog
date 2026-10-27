@@ -1,0 +1,306 @@
+{
+ "date": "2024-02-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-02-27-1",
+   "name": "Hibachi Vegetables · FrIed Rice",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 203,
+   "protein": 5.5,
+   "carbs": 56.5,
+   "fat": 6.5,
+   "satfat": 0.5,
+   "fiber": 2.5,
+   "sugar": 0.0,
+   "sodium": 240.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hibachi Vegetables",
+     "portion": "1/2 serving",
+     "kcal": 130,
+     "protein": 2.0,
+     "carbs": 32.5,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "FrIed Rice",
+     "portion": "1/2 serving",
+     "kcal": 73,
+     "protein": 3.5,
+     "carbs": 24.0,
+     "fat": 3.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hibachi Vegetables",
+    "FrIed Rice"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-02-27-2",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Milk, Oat Milk · Cereal, Raisin Bran",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 362,
+   "protein": 7.2,
+   "carbs": 64.6,
+   "fat": 9.5,
+   "satfat": 0.6,
+   "fiber": 7.0,
+   "sugar": 21.0,
+   "sodium": 349.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Oat Milk",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 7.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Raisin Bran",
+     "portion": "1/3 cup",
+     "kcal": 62,
+     "protein": 1.5,
+     "carbs": 15.3,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 2.3,
+     "sugar": 6.0,
+     "sodium": 69.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Milk, Oat Milk",
+    "Cereal, Raisin Bran"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-02-27-3",
+   "name": "Babaganoush · Tortilla Chips · Pita Chips, Fire Roasted Jalapeno + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 551,
+   "protein": 5.3,
+   "carbs": 56.1,
+   "fat": 32.2,
+   "satfat": 4.8,
+   "fiber": 13.6,
+   "sugar": 13.0,
+   "sodium": 1282.7,
+   "cholesterol": 20.1,
+   "components": [
+    {
+     "name": "Babaganoush",
+     "portion": "2/3 cup",
+     "kcal": 240,
+     "protein": 0.0,
+     "carbs": 7.2,
+     "fat": 21.3,
+     "satfat": 3.5,
+     "fiber": 3.7,
+     "sugar": 3.7,
+     "sodium": 337.5,
+     "cholesterol": 20.1
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "11 pieces",
+     "kcal": 171,
+     "protein": 2.4,
+     "carbs": 23.2,
+     "fat": 7.3,
+     "satfat": 1.2,
+     "fiber": 2.4,
+     "sugar": 0.0,
+     "sodium": 140.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "1/2 ounce",
+     "kcal": 66,
+     "protein": 1.5,
+     "carbs": 9.1,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 141.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sweet red peppers small seedless",
+     "portion": "3 1/2 ounces",
+     "kcal": 31,
+     "protein": 1.0,
+     "carbs": 6.0,
+     "fat": 0.3,
+     "fiber": 2.8
+    },
+    {
+     "name": "Carrots, Baby, Fresh",
+     "portion": "1/2 cup",
+     "kcal": 22,
+     "protein": 0.4,
+     "carbs": 5.3,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 1.9,
+     "sugar": 3.5,
+     "sodium": 49.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "1/3 cup",
+     "kcal": 21,
+     "protein": 0.0,
+     "carbs": 5.3,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.6,
+     "sugar": 5.3,
+     "sodium": 612.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Babaganoush",
+    "Tortilla Chips",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Sweet red peppers small seedless",
+    "Carrots, Baby, Fresh",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-02-27-4",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Milk, Oat Milk · Puffs, Aged White Cheddar",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 440,
+   "protein": 7.7,
+   "carbs": 67.3,
+   "fat": 15.0,
+   "satfat": 0.5,
+   "fiber": 4.7,
+   "sugar": 15.0,
+   "sodium": 470.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Oat Milk",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 7.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Puffs, Aged White Cheddar",
+     "portion": "1 serving",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "sodium": 190.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Milk, Oat Milk",
+    "Puffs, Aged White Cheddar"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

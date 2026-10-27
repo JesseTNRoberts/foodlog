@@ -1,0 +1,410 @@
+{
+ "date": "2025-01-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-04-1",
+   "name": "Jumbo Black Tiger Shrimp",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 18,
+   "protein": 3.0,
+   "carbs": 1.2,
+   "fat": 0.1,
+   "satfat": 0.5,
+   "fiber": 0.2,
+   "sugar": 1.0,
+   "sodium": 10.5,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Jumbo Black Tiger Shrimp",
+     "portion": "1 each",
+     "kcal": 18,
+     "protein": 3.0,
+     "carbs": 1.2,
+     "fat": 0.1,
+     "satfat": 0.5,
+     "fiber": 0.2,
+     "sugar": 1.0,
+     "sodium": 10.5,
+     "cholesterol": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Jumbo Black Tiger Shrimp"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-04-2",
+   "name": "Cinnamon Sugar Morning Bun · Ham And Cheese Croissant · Pastry, Cinnamon Roll",
+   "portion": "Morning Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 557,
+   "protein": 15.4,
+   "carbs": 63.2,
+   "fat": 27.9,
+   "satfat": 16.0,
+   "fiber": 2.6,
+   "sugar": 20.7,
+   "sodium": 719.3,
+   "cholesterol": 87.8,
+   "components": [
+    {
+     "name": "Cinnamon Sugar Morning Bun",
+     "portion": "1/2 serving",
+     "kcal": 260,
+     "protein": 4.5,
+     "carbs": 32.0,
+     "fat": 13.5,
+     "satfat": 8.5,
+     "fiber": 1.5,
+     "sugar": 11.5,
+     "sodium": 310.0,
+     "cholesterol": 32.5
+    },
+    {
+     "name": "Ham And Cheese Croissant",
+     "portion": "2/3 serving",
+     "kcal": 213,
+     "protein": 9.3,
+     "carbs": 18.7,
+     "fat": 11.3,
+     "satfat": 6.0,
+     "fiber": 0.7,
+     "sugar": 3.3,
+     "sodium": 326.8,
+     "cholesterol": 43.4
+    },
+    {
+     "name": "Pastry, Cinnamon Roll",
+     "portion": "1/8 each",
+     "kcal": 84,
+     "protein": 1.6,
+     "carbs": 12.5,
+     "fat": 3.1,
+     "satfat": 1.5,
+     "fiber": 0.4,
+     "sugar": 5.9,
+     "sodium": 82.5,
+     "cholesterol": 11.9
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cinnamon Sugar Morning Bun",
+    "Ham And Cheese Croissant",
+    "Pastry, Cinnamon Roll"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-04-3",
+   "name": "Red Potatoes, Roasted w/ Oil · Jumbo Black Tiger Shrimp · Broccoli, Chopped, Steamed",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 339,
+   "protein": 25.3,
+   "carbs": 49.3,
+   "fat": 6.3,
+   "satfat": 1.1,
+   "fiber": 9.5,
+   "sugar": 10.4,
+   "sodium": 145.7,
+   "cholesterol": 180.0,
+   "components": [
+    {
+     "name": "Red Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 179,
+     "protein": 3.6,
+     "carbs": 30.6,
+     "fat": 4.9,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 2.2,
+     "sodium": 18.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Jumbo Black Tiger Shrimp",
+     "portion": "6 each",
+     "kcal": 105,
+     "protein": 18.0,
+     "carbs": 7.5,
+     "fat": 0.8,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 6.0,
+     "sodium": 63.0,
+     "cholesterol": 180.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "1 cup",
+     "kcal": 55,
+     "protein": 3.7,
+     "carbs": 11.2,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 5.2,
+     "sugar": 2.2,
+     "sodium": 64.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Red Potatoes, Roasted w/ Oil",
+    "Jumbo Black Tiger Shrimp",
+    "Broccoli, Chopped, Steamed"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-04-4",
+   "name": "Bread, Sourdough · Tortilla Chips (Rounds) 10 Chips · Maple And Honey Turkey + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 705,
+   "protein": 38.9,
+   "carbs": 96.2,
+   "fat": 17.1,
+   "satfat": 6.1,
+   "fiber": 5.7,
+   "sugar": 9.3,
+   "sodium": 2042.0,
+   "cholesterol": 57.5,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "2 slices",
+     "kcal": 370,
+     "protein": 15.4,
+     "carbs": 72.2,
+     "fat": 2.3,
+     "satfat": 0.6,
+     "fiber": 3.7,
+     "sugar": 3.3,
+     "sodium": 832.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips (Rounds) 10 Chips",
+     "portion": "10 pieces",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 18.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 16.5,
+     "carbs": 3.0,
+     "fat": 0.8,
+     "sugar": 3.0,
+     "sodium": 585.0,
+     "cholesterol": 37.5
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "3 tablespoons",
+     "kcal": 15,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 345.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Tortilla Chips (Rounds) 10 Chips",
+    "Maple And Honey Turkey",
+    "Cheese, Sharp White Cheddar",
+    "Salsa, Chunky, Med",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-04-5",
+   "name": "Croutons, Homestyle Seasoned Herb · Dressing, Ranch, Homestyle · Banana, Small, 6\" to 6 7/8\" Long + 3 more",
+   "portion": "Snacks · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 365,
+   "protein": 7.7,
+   "carbs": 58.6,
+   "fat": 13.9,
+   "satfat": 1.4,
+   "fiber": 6.8,
+   "sugar": 22.0,
+   "sodium": 520.8,
+   "cholesterol": 7.5,
+   "components": [
+    {
+     "name": "Croutons, Homestyle Seasoned Herb",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 9.0,
+     "satfat": 0.8,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 180.0,
+     "cholesterol": 7.5
+    },
+    {
+     "name": "Banana, Small, 6\" to 6 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 1.1,
+     "carbs": 23.7,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 12.3,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cuties",
+     "portion": "1 each",
+     "kcal": 40,
+     "protein": 0.5,
+     "carbs": 8.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "5 each",
+     "kcal": 15,
+     "protein": 0.8,
+     "carbs": 3.3,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 4.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Chopped",
+     "portion": "1 1/2 cups",
+     "kcal": 10,
+     "protein": 1.3,
+     "carbs": 1.6,
+     "fat": 0.2,
+     "satfat": 0.3,
+     "fiber": 1.0,
+     "sugar": 0.2,
+     "sodium": 35.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Croutons, Homestyle Seasoned Herb",
+    "Dressing, Ranch, Homestyle",
+    "Banana, Small, 6\" to 6 7/8\" Long",
+    "Cuties",
+    "Tomatoes, Cherry",
+    "Spinach, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

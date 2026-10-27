@@ -1,0 +1,90 @@
+{
+ "date": "2026-01-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-01-02-1",
+   "name": "Pistachio Bread",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 463,
+   "protein": 7.7,
+   "carbs": 42.5,
+   "fat": 30.6,
+   "satfat": 4.8,
+   "fiber": 1.0,
+   "sugar": 22.8,
+   "sodium": 358.1,
+   "cholesterol": 84.0,
+   "components": [
+    {
+     "name": "Pistachio Bread",
+     "portion": "1 1/2 servings",
+     "kcal": 463,
+     "protein": 7.7,
+     "carbs": 42.5,
+     "fat": 30.6,
+     "satfat": 4.8,
+     "fiber": 1.0,
+     "sugar": 22.8,
+     "sodium": 358.1,
+     "cholesterol": 84.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pistachio Bread"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-01-02-2",
+   "name": "Cabbage Chef Boyardee",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 184,
+   "protein": 11.3,
+   "carbs": 9.3,
+   "fat": 19.7,
+   "satfat": 6.6,
+   "fiber": 2.6,
+   "sugar": 4.8,
+   "sodium": 67.9,
+   "cholesterol": 43.8,
+   "components": [
+    {
+     "name": "Cabbage Chef Boyardee",
+     "portion": "1 cup",
+     "kcal": 184,
+     "protein": 11.3,
+     "carbs": 9.3,
+     "fat": 19.7,
+     "satfat": 6.6,
+     "fiber": 2.6,
+     "sugar": 4.8,
+     "sodium": 67.9,
+     "cholesterol": 43.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cabbage Chef Boyardee"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

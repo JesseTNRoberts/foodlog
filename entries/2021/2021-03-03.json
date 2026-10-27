@@ -1,0 +1,300 @@
+{
+ "date": "2021-03-03",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-03-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 5,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 5.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-03-2",
+   "name": "Chips, Pita Thins, Sea Salt · Gemelli Ready Pasta · Half and Half Tea + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 865,
+   "protein": 21.5,
+   "carbs": 146.1,
+   "fat": 23.7,
+   "satfat": 4.3,
+   "fiber": 15.2,
+   "sugar": 52.9,
+   "sodium": 1632.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "43 grams",
+     "kcal": 200,
+     "protein": 4.6,
+     "carbs": 30.7,
+     "fat": 6.1,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 1.5,
+     "sodium": 307.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Gemelli Ready Pasta",
+     "portion": "1 cup",
+     "kcal": 190,
+     "protein": 7.0,
+     "carbs": 41.0,
+     "fat": 1.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "2 servings",
+     "kcal": 184,
+     "protein": 0.0,
+     "carbs": 45.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 43.3,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "5 tablespoons",
+     "kcal": 175,
+     "protein": 5.0,
+     "carbs": 12.5,
+     "fat": 12.5,
+     "satfat": 2.5,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 287.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomato & Basil, Pasta Sauce",
+     "portion": "7 ounces",
+     "kcal": 79,
+     "protein": 3.2,
+     "carbs": 12.7,
+     "fat": 1.6,
+     "satfat": 0.0,
+     "fiber": 3.2,
+     "sugar": 7.9,
+     "sodium": 650.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dairy Free Parmesan",
+     "portion": "1/4 ounce",
+     "kcal": 23,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 1.8,
+     "satfat": 0.9,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "2 cups",
+     "kcal": 14,
+     "protein": 1.7,
+     "carbs": 2.2,
+     "fat": 0.2,
+     "satfat": 0.4,
+     "fiber": 1.3,
+     "sugar": 0.2,
+     "sodium": 47.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Pita Thins, Sea Salt",
+    "Gemelli Ready Pasta",
+    "Half and Half Tea",
+    "Hummus, spinach and artichoke",
+    "Tomato & Basil, Pasta Sauce",
+    "Dairy Free Parmesan",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-03-3",
+   "name": "Signature Sandwich Spicy · Side, Chow Mein · Chips, Pita Thins, Sea Salt + 4 more",
+   "portion": "Dinner · 7 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1357,
+   "protein": 53.2,
+   "carbs": 145.4,
+   "fat": 63.5,
+   "satfat": 9.5,
+   "fiber": 11.0,
+   "sugar": 33.5,
+   "sodium": 4039.5,
+   "cholesterol": 95.0,
+   "components": [
+    {
+     "name": "Signature Sandwich Spicy",
+     "portion": "1 serving",
+     "kcal": 730,
+     "protein": 37.0,
+     "carbs": 55.0,
+     "fat": 41.0,
+     "satfat": 6.0,
+     "fiber": 3.0,
+     "sugar": 5.0,
+     "sodium": 2790.0,
+     "cholesterol": 95.0
+    },
+    {
+     "name": "Side, Chow Mein",
+     "portion": "133 grams",
+     "kcal": 255,
+     "protein": 6.5,
+     "carbs": 32.4,
+     "fat": 11.0,
+     "satfat": 2.0,
+     "fiber": 2.0,
+     "sugar": 4.5,
+     "sodium": 489.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "28 grams",
+     "kcal": 130,
+     "protein": 3.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 1.0,
+     "sodium": 200.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoletti",
+     "portion": "4 ounces",
+     "kcal": 40,
+     "protein": 2.7,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 1.3,
+     "sodium": 40.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Liquid Aminos",
+     "portion": "1 teaspoon",
+     "kcal": 5,
+     "protein": 1.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 345.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Signature Sandwich Spicy",
+    "Side, Chow Mein",
+    "Chips, Pita Thins, Sea Salt",
+    "Hummus, spinach and artichoke",
+    "Half and Half Tea",
+    "Broccoletti",
+    "Liquid Aminos"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

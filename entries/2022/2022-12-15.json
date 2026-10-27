@@ -1,0 +1,203 @@
+{
+ "date": "2022-12-15",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-12-15-1",
+   "name": "Just Egg · Kroger vegan cheese · Tomatoes, Campari + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 310,
+   "protein": 14.3,
+   "carbs": 11.7,
+   "fat": 18.3,
+   "satfat": 4.5,
+   "fiber": 0.8,
+   "sugar": 2.0,
+   "sodium": 658.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Just Egg",
+     "portion": "1/2 cup",
+     "kcal": 187,
+     "protein": 13.3,
+     "carbs": 2.7,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 426.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Kroger vegan cheese",
+     "portion": "1 serving",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee with Oat Milk",
+     "portion": "8 ounces",
+     "kcal": 25
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg",
+    "Kroger vegan cheese",
+    "Tomatoes, Campari",
+    "Iced Coffee with Oat Milk"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-12-15-2",
+   "name": "Bread, Dave's Killer, 21 Whole Grains and Seeds · Just Egg · Mushy peas + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 844,
+   "protein": 44.8,
+   "carbs": 77.6,
+   "fat": 30.3,
+   "satfat": 11.4,
+   "fiber": 18.0,
+   "sugar": 33.5,
+   "sodium": 1748.4,
+   "cholesterol": 30.4,
+   "components": [
+    {
+     "name": "Bread, Dave's Killer, 21 Whole Grains and Seeds",
+     "portion": "2 slices",
+     "kcal": 240,
+     "protein": 10.0,
+     "carbs": 44.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 10.0,
+     "sugar": 10.0,
+     "sodium": 360.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Just Egg",
+     "portion": "1/2 cup",
+     "kcal": 187,
+     "protein": 13.3,
+     "carbs": 2.7,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 426.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mushy peas",
+     "portion": "100 grams",
+     "kcal": 167,
+     "protein": 6.3,
+     "carbs": 11.8,
+     "fat": 0.8,
+     "satfat": 0.2,
+     "fiber": 7.2,
+     "sugar": 1.3,
+     "sodium": 0.5
+    },
+    {
+     "name": "Cheese, Non-Dairy, Cheddar Style Shreds",
+     "portion": "1 ounce",
+     "kcal": 81,
+     "carbs": 7.9,
+     "fat": 6.7,
+     "satfat": 6.7,
+     "sodium": 283.5
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/8 pound",
+     "kcal": 71,
+     "protein": 14.2,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 20.2,
+     "sodium": 445.5,
+     "cholesterol": 30.4
+    },
+    {
+     "name": "Kroger vegan cheese",
+     "portion": "1 serving",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Dave's Killer, 21 Whole Grains and Seeds",
+    "Just Egg",
+    "Mushy peas",
+    "Cheese, Non-Dairy, Cheddar Style Shreds",
+    "Turkey Breast, Maple Glazed Honey",
+    "Kroger vegan cheese",
+    "Tomatoes, Campari"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

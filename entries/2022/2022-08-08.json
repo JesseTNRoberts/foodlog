@@ -1,0 +1,372 @@
+{
+ "date": "2022-08-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-08-08-1",
+   "name": "Biscuit, w/ Chicken, Spicy · Tater Tots · Dr Pepper Medium + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 990,
+   "protein": 21.0,
+   "carbs": 142.0,
+   "fat": 42.0,
+   "satfat": 8.0,
+   "fiber": 3.0,
+   "sugar": 67.0,
+   "sodium": 1790.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Biscuit, w/ Chicken, Spicy",
+     "portion": "1 each",
+     "kcal": 450,
+     "protein": 16.0,
+     "carbs": 50.0,
+     "fat": 21.0,
+     "satfat": 8.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 1260.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Tater Tots",
+     "portion": "1 serving",
+     "kcal": 240,
+     "protein": 3.0,
+     "carbs": 24.0,
+     "fat": 18.0,
+     "sodium": 410.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Iced Coffee w/ Oatmilk, Grande",
+     "portion": "16 ounces",
+     "kcal": 120,
+     "protein": 2.0,
+     "carbs": 20.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 13.0,
+     "sodium": 120.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Biscuit, w/ Chicken, Spicy",
+    "Tater Tots",
+    "Dr Pepper Medium",
+    "Iced Coffee w/ Oatmilk, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-08-08-2",
+   "name": "Cold Pressed Juice, Green · Chocolate Peanut Butter",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 195,
+   "protein": 11.0,
+   "carbs": 29.5,
+   "fat": 4.0,
+   "satfat": 1.8,
+   "fiber": 2.0,
+   "sugar": 17.5,
+   "sodium": 445.0,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Cold Pressed Juice, Green",
+     "portion": "1 bottle",
+     "kcal": 100,
+     "protein": 5.0,
+     "carbs": 20.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 11.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chocolate Peanut Butter",
+     "portion": "1/2 each",
+     "kcal": 95,
+     "protein": 6.0,
+     "carbs": 9.5,
+     "fat": 4.0,
+     "satfat": 1.8,
+     "fiber": 1.0,
+     "sugar": 6.5,
+     "sodium": 125.0,
+     "cholesterol": 2.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cold Pressed Juice, Green",
+    "Chocolate Peanut Butter"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-08-08-3",
+   "name": "Chips, Tortilla, Yellow Corn · Soda, Dr. Pepper · Plant-based Ranch Dressing + 7 more",
+   "portion": "Dinner · 10 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1367,
+   "protein": 20.6,
+   "carbs": 231.7,
+   "fat": 40.6,
+   "satfat": 3.1,
+   "fiber": 22.4,
+   "sugar": 118.9,
+   "sodium": 3410.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Tortilla, Yellow Corn",
+     "portion": "25 pieces",
+     "kcal": 385,
+     "protein": 5.5,
+     "carbs": 52.2,
+     "fat": 16.5,
+     "satfat": 1.4,
+     "fiber": 2.8,
+     "sugar": 0.0,
+     "sodium": 275.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "30 fluid ounces",
+     "kcal": 375,
+     "protein": 0.0,
+     "carbs": 100.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 100.0,
+     "sodium": 137.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 16.5,
+     "satfat": 1.5,
+     "sugar": 1.5,
+     "sodium": 450.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1/2 cup",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 20.0,
+     "fat": 4.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Grilled Mixed Vegetables",
+     "portion": "2 cups",
+     "kcal": 100,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 2.0,
+     "fiber": 5.0
+    },
+    {
+     "name": "Beans, Refried",
+     "portion": "1/2 cup",
+     "kcal": 81,
+     "protein": 5.5,
+     "carbs": 13.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 5.8,
+     "sugar": 3.2,
+     "sodium": 695.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mexican Rice",
+     "portion": "1/4 cup",
+     "kcal": 75,
+     "protein": 1.5,
+     "carbs": 14.3,
+     "fat": 1.3,
+     "satfat": 0.2,
+     "fiber": 0.6,
+     "sugar": 1.3,
+     "sodium": 101.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "12 tablespoons",
+     "kcal": 48,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 6.0,
+     "sugar": 12.0,
+     "sodium": 1380.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Baby Spring Mix",
+     "portion": "3 cups",
+     "kcal": 15,
+     "protein": 1.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 70.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Fresh, Medium",
+     "portion": "1/8 each",
+     "kcal": 3,
+     "protein": 0.1,
+     "carbs": 0.6,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.4,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Tortilla, Yellow Corn",
+    "Soda, Dr. Pepper",
+    "Plant-based Ranch Dressing",
+    "Homestyle Croutons Caesar",
+    "Grilled Mixed Vegetables",
+    "Beans, Refried",
+    "Mexican Rice",
+    "Salsa, Chunky",
+    "Greens, Baby Spring Mix",
+    "Tomatoes, Fresh, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-08-08-4",
+   "name": "Bread, Sourdough · Salt And Vinegar Chips · Turkey Breast, Maple Glazed Honey",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 428,
+   "protein": 24.2,
+   "carbs": 56.8,
+   "fat": 13.5,
+   "satfat": 1.5,
+   "fiber": 4.0,
+   "sugar": 21.8,
+   "sodium": 1083.0,
+   "cholesterol": 30.4,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "1 slice",
+     "kcal": 185,
+     "protein": 7.5,
+     "carbs": 36.1,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 1.6,
+     "sodium": 416.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salt And Vinegar Chips",
+     "portion": "16 pieces",
+     "kcal": 172,
+     "protein": 2.5,
+     "carbs": 18.5,
+     "fat": 11.8,
+     "satfat": 1.2,
+     "fiber": 2.5,
+     "sodium": 221.5
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/8 pound",
+     "kcal": 71,
+     "protein": 14.2,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 20.2,
+     "sodium": 445.5,
+     "cholesterol": 30.4
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Salt And Vinegar Chips",
+    "Turkey Breast, Maple Glazed Honey"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

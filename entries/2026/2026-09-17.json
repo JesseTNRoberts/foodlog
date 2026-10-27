@@ -1,0 +1,384 @@
+{
+ "date": "2026-09-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-09-17-1",
+   "name": "Homemade Bagels · Avocado · Salmon, Sockeye, Wild Caught + 1 more",
+   "portion": "Breakfast · 4 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 536,
+   "protein": 21.1,
+   "carbs": 67.0,
+   "fat": 23.7,
+   "satfat": 2.9,
+   "fiber": 12.2,
+   "sugar": 13.8,
+   "sodium": 892.3,
+   "cholesterol": 58.1,
+   "components": [
+    {
+     "name": "Homemade Bagels",
+     "portion": "1 serving",
+     "kcal": 225,
+     "protein": 6.5,
+     "carbs": 40.0,
+     "fat": 5.9,
+     "satfat": 0.2,
+     "fiber": 1.8,
+     "sugar": 1.5,
+     "sodium": 848.8,
+     "cholesterol": 23.1
+    },
+    {
+     "name": "Avocado",
+     "portion": "1/2 each",
+     "kcal": 161,
+     "protein": 2.1,
+     "carbs": 8.6,
+     "fat": 14.7,
+     "satfat": 2.1,
+     "fiber": 6.7,
+     "sugar": 0.7,
+     "sodium": 7.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salmon, Sockeye, Wild Caught",
+     "portion": "2 ounces",
+     "kcal": 81,
+     "protein": 12.0,
+     "carbs": 0.0,
+     "fat": 3.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 35.0,
+     "cholesterol": 35.0
+    },
+    {
+     "name": "Pear, Medium",
+     "portion": "2/3 each",
+     "kcal": 69,
+     "protein": 0.5,
+     "carbs": 18.4,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 3.7,
+     "sugar": 11.6,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Homemade Bagels",
+    "Avocado",
+    "Salmon, Sockeye, Wild Caught",
+    "Pear, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-17-2",
+   "name": "Cookeville Pizza and Pub - Music City Miracle Med- Doublecut",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 10.0,
+   "carbs": 33.3,
+   "fat": 11.7,
+   "satfat": 5.0,
+   "fiber": 2.0,
+   "sugar": 3.0,
+   "sodium": 500.0,
+   "cholesterol": 30.0,
+   "components": [
+    {
+     "name": "Cookeville Pizza and Pub - Music City Miracle Med- Doublecut",
+     "portion": "4 slices",
+     "kcal": 200,
+     "protein": 10.0,
+     "carbs": 33.3,
+     "fat": 11.7,
+     "satfat": 5.0,
+     "fiber": 2.0,
+     "sugar": 3.0,
+     "sodium": 500.0,
+     "cholesterol": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cookeville Pizza and Pub - Music City Miracle Med- Doublecut"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-17-3",
+   "name": "Sorbet, Mango",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 65,
+   "protein": 0.0,
+   "carbs": 16.5,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 16.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Sorbet, Mango",
+     "portion": "1/4 cup",
+     "kcal": 65,
+     "protein": 0.0,
+     "carbs": 16.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 16.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sorbet, Mango"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-17-4",
+   "name": "Salmon, Sockeye, Wild Caught · Avocado · Chickpeas, Cooked, No Salt + 7 more",
+   "portion": "Dinner · 10 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 868,
+   "protein": 42.2,
+   "carbs": 77.7,
+   "fat": 47.8,
+   "satfat": 8.1,
+   "fiber": 25.0,
+   "sugar": 25.3,
+   "sodium": 156.4,
+   "cholesterol": 70.0,
+   "components": [
+    {
+     "name": "Salmon, Sockeye, Wild Caught",
+     "portion": "4 ounces",
+     "kcal": 161,
+     "protein": 24.0,
+     "carbs": 0.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 70.0,
+     "cholesterol": 70.0
+    },
+    {
+     "name": "Avocado",
+     "portion": "1/2 each",
+     "kcal": 161,
+     "protein": 2.1,
+     "carbs": 8.6,
+     "fat": 14.7,
+     "satfat": 2.1,
+     "fiber": 6.7,
+     "sugar": 0.7,
+     "sodium": 7.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chickpeas, Cooked, No Salt",
+     "portion": "1/2 cup",
+     "kcal": 134,
+     "protein": 7.3,
+     "carbs": 22.5,
+     "fat": 2.1,
+     "satfat": 0.2,
+     "fiber": 6.2,
+     "sugar": 3.9,
+     "sodium": 5.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1 tablespoon",
+     "kcal": 119,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pear, Medium",
+     "portion": "1 each",
+     "kcal": 103,
+     "protein": 0.7,
+     "carbs": 27.5,
+     "fat": 0.2,
+     "satfat": 0.1,
+     "fiber": 5.5,
+     "sugar": 17.4,
+     "sodium": 1.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cashews, Whole, Raw",
+     "portion": "1/8 cup",
+     "kcal": 95,
+     "protein": 3.1,
+     "carbs": 5.2,
+     "fat": 7.5,
+     "satfat": 1.3,
+     "fiber": 0.6,
+     "sugar": 1.1,
+     "sodium": 2.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus",
+     "portion": "1/8 cup",
+     "kcal": 51,
+     "protein": 1.6,
+     "carbs": 4.3,
+     "fat": 3.3,
+     "satfat": 0.5,
+     "fiber": 1.9,
+     "sugar": 0.7,
+     "sodium": 2.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "2/3 cup",
+     "kcal": 36,
+     "protein": 2.5,
+     "carbs": 7.5,
+     "fat": 0.4,
+     "satfat": 0.7,
+     "fiber": 3.4,
+     "sugar": 1.4,
+     "sodium": 42.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Vinegar, Red Wine",
+     "portion": "1/2 tablespoon",
+     "kcal": 1,
+     "protein": 0.0,
+     "carbs": 0.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon, Sockeye, Wild Caught",
+    "Avocado",
+    "Chickpeas, Cooked, No Salt",
+    "Oil, Olive, Extra Virgin",
+    "Pear, Medium",
+    "Cashews, Whole, Raw",
+    "Hummus",
+    "Broccoli, Chopped, Steamed",
+    "Spinach, Baby, Fresh",
+    "Vinegar, Red Wine"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-09-17-5",
+   "name": "Pumpkin Bread",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 109,
+   "protein": 1.4,
+   "carbs": 16.3,
+   "fat": 4.3,
+   "satfat": 0.7,
+   "fiber": 0.4,
+   "sugar": 8.2,
+   "sodium": 94.3,
+   "cholesterol": 13.2,
+   "components": [
+    {
+     "name": "Pumpkin Bread",
+     "portion": "1/2 serving",
+     "kcal": 109,
+     "protein": 1.4,
+     "carbs": 16.3,
+     "fat": 4.3,
+     "satfat": 0.7,
+     "fiber": 0.4,
+     "sugar": 8.2,
+     "sodium": 94.3,
+     "cholesterol": 13.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Bread"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

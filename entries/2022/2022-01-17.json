@@ -1,0 +1,188 @@
+{
+ "date": "2022-01-17",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-01-17-1",
+   "name": "Coffee, Iced",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 0,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Coffee, Iced",
+     "portion": "2 each",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Coffee, Iced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-01-17-2",
+   "name": "21 Whole Grains & Seeds Organic Bread · Salt And Vinegar Chips · Plant Based Non-dairy Hot Pepper Cheezy Slices + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 999,
+   "protein": 46.8,
+   "carbs": 138.9,
+   "fat": 37.0,
+   "satfat": 15.0,
+   "fiber": 26.6,
+   "sugar": 28.3,
+   "sodium": 2869.6,
+   "cholesterol": 40.5,
+   "components": [
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "4 pieces",
+     "kcal": 440,
+     "protein": 20.0,
+     "carbs": 88.0,
+     "fat": 6.0,
+     "satfat": 0.0,
+     "fiber": 20.0,
+     "sugar": 20.0,
+     "sodium": 680.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salt And Vinegar Chips",
+     "portion": "20 pieces",
+     "kcal": 215,
+     "protein": 3.8,
+     "carbs": 23.8,
+     "fat": 13.8,
+     "satfat": 1.5,
+     "fiber": 3.8,
+     "sodium": 276.9
+    },
+    {
+     "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+     "portion": "3 servings",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 15.0,
+     "fat": 15.0,
+     "satfat": 13.5,
+     "fiber": 0.0,
+     "sodium": 690.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Ham, Maple Glazed Honey Coat",
+     "portion": "4 ounces",
+     "kcal": 121,
+     "protein": 20.2,
+     "carbs": 6.7,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 6.7,
+     "sodium": 1154.2,
+     "cholesterol": 40.5
+    },
+    {
+     "name": "Grape Tomatos",
+     "portion": "4 ounces",
+     "kcal": 23,
+     "protein": 0.8,
+     "carbs": 2.4,
+     "fiber": 0.8,
+     "sugar": 1.6,
+     "sodium": 3.1
+    },
+    {
+     "name": "Spinach",
+     "portion": "3 ounces",
+     "kcal": 20,
+     "protein": 2.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 65.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "21 Whole Grains & Seeds Organic Bread",
+    "Salt And Vinegar Chips",
+    "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+    "Ham, Maple Glazed Honey Coat",
+    "Grape Tomatos",
+    "Spinach"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-01-17-3",
+   "name": "Calories",
+   "portion": "Dinner · 1 food as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 810,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Calories",
+     "portion": "81 each",
+     "kcal": 810
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Calories"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

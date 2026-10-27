@@ -1,0 +1,301 @@
+{
+ "date": "2022-11-01",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-11-01-1",
+   "name": "Medium Iced Vanilla Latte With Almond Milk",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 180,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Medium Iced Vanilla Latte With Almond Milk",
+     "portion": "1 serving",
+     "kcal": 180
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Medium Iced Vanilla Latte With Almond Milk"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-01-2",
+   "name": "Plant-based Ranch Dressing · Homestyle Croutons Caesar · Salad, mixed greens + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 686,
+   "protein": 15.8,
+   "carbs": 63.3,
+   "fat": 40.3,
+   "satfat": 6.3,
+   "fiber": 5.9,
+   "sugar": 4.1,
+   "sodium": 1695.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "5 tablespoons",
+     "kcal": 275,
+     "protein": 0.0,
+     "carbs": 7.5,
+     "fat": 27.5,
+     "satfat": 2.5,
+     "sugar": 2.5,
+     "sodium": 750.0
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "1 cup",
+     "kcal": 240,
+     "protein": 8.0,
+     "carbs": 40.0,
+     "fat": 8.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 600.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salad, mixed greens",
+     "portion": "2 cups",
+     "kcal": 67,
+     "protein": 1.3,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "fiber": 1.3,
+     "sodium": 20.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "6 cups",
+     "kcal": 41,
+     "protein": 5.2,
+     "carbs": 6.5,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 4.0,
+     "sugar": 0.8,
+     "sodium": 142.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "2 cups",
+     "kcal": 10,
+     "protein": 1.3,
+     "carbs": 1.5,
+     "fat": 0.3,
+     "satfat": 0.3,
+     "fiber": 0.6,
+     "sugar": 0.8,
+     "sodium": 10.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Homestyle Croutons Caesar",
+    "Salad, mixed greens",
+    "vegan cheese",
+    "Spinach, Baby, Fresh",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-01-3",
+   "name": "Mini Dark Chocolate Peanut Butter Cups",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 70,
+   "protein": 1.3,
+   "carbs": 7.0,
+   "fat": 4.6,
+   "satfat": 2.3,
+   "fiber": 0.0,
+   "sugar": 5.6,
+   "sodium": 40.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Mini Dark Chocolate Peanut Butter Cups",
+     "portion": "1 piece",
+     "kcal": 70,
+     "protein": 1.3,
+     "carbs": 7.0,
+     "fat": 4.6,
+     "satfat": 2.3,
+     "fiber": 0.0,
+     "sugar": 5.6,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Mini Dark Chocolate Peanut Butter Cups"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-01-4",
+   "name": "Pinto Beans Boiled · Bread, Cornbread, From Mix",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 434,
+   "protein": 19.8,
+   "carbs": 73.9,
+   "fat": 7.1,
+   "satfat": 1.8,
+   "fiber": 16.9,
+   "sugar": 0.6,
+   "sodium": 468.5,
+   "cholesterol": 36.6,
+   "components": [
+    {
+     "name": "Pinto Beans Boiled",
+     "portion": "1 cup",
+     "kcal": 246,
+     "protein": 15.5,
+     "carbs": 45.0,
+     "fat": 1.1,
+     "satfat": 0.2,
+     "fiber": 15.5,
+     "sugar": 0.6,
+     "sodium": 1.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Cornbread, From Mix",
+     "portion": "1 piece",
+     "kcal": 188,
+     "protein": 4.3,
+     "carbs": 28.9,
+     "fat": 6.0,
+     "satfat": 1.6,
+     "fiber": 1.4,
+     "sugar": 0.0,
+     "sodium": 466.8,
+     "cholesterol": 36.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pinto Beans Boiled",
+    "Bread, Cornbread, From Mix"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-01-5",
+   "name": "Chips, Potato, Sea Salt & Vinegar · Cauliflower Dip",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 531,
+   "protein": 8.2,
+   "carbs": 53.1,
+   "fat": 33.3,
+   "satfat": 3.4,
+   "fiber": 4.9,
+   "sugar": 1.5,
+   "sodium": 817.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chips, Potato, Sea Salt & Vinegar",
+     "portion": "3 ounces",
+     "kcal": 456,
+     "protein": 6.7,
+     "carbs": 48.6,
+     "fat": 27.3,
+     "satfat": 3.4,
+     "fiber": 3.4,
+     "sugar": 0.0,
+     "sodium": 577.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip",
+     "portion": "3 tablespoons",
+     "kcal": 75,
+     "protein": 1.5,
+     "carbs": 4.5,
+     "fat": 6.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 1.5,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chips, Potato, Sea Salt & Vinegar",
+    "Cauliflower Dip"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

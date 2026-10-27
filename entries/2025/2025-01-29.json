@@ -1,0 +1,326 @@
+{
+ "date": "2025-01-29",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-29-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blueberries + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 356,
+   "protein": 16.5,
+   "carbs": 41.5,
+   "fat": 15.4,
+   "satfat": 1.0,
+   "fiber": 13.3,
+   "sugar": 20.5,
+   "sodium": 159.6,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Blackberries",
+     "portion": "1/2 cup",
+     "kcal": 35,
+     "protein": 0.5,
+     "carbs": 9.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 5.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blueberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Blackberries",
+    "Chia Seeds"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-29-2",
+   "name": "Avocado, Hass, Medium · Dressing, Ranch, Homestyle · broccoli Shreds + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 433,
+   "protein": 6.5,
+   "carbs": 27.5,
+   "fat": 35.2,
+   "satfat": 5.0,
+   "fiber": 16.0,
+   "sugar": 5.7,
+   "sodium": 143.5,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Avocado, Hass, Medium",
+     "portion": "1 each",
+     "kcal": 322,
+     "protein": 4.0,
+     "carbs": 17.0,
+     "fat": 29.0,
+     "satfat": 4.3,
+     "fiber": 13.0,
+     "sugar": 1.3,
+     "sodium": 14.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 6.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 120.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "broccoli Shreds",
+     "portion": "2/3 cup",
+     "kcal": 36,
+     "protein": 1.7,
+     "carbs": 6.2,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 1.7,
+     "sodium": 5.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "5 each",
+     "kcal": 15,
+     "protein": 0.8,
+     "carbs": 3.3,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 4.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Hass, Medium",
+    "Dressing, Ranch, Homestyle",
+    "broccoli Shreds",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-29-3",
+   "name": "Buffalo Chicken Wrapper Fried · French Fries side · Honey Butter Croissant + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1532,
+   "protein": 51.5,
+   "carbs": 189.9,
+   "fat": 135.6,
+   "satfat": 23.7,
+   "fiber": 16.5,
+   "sugar": 17.0,
+   "sodium": 3369.5,
+   "cholesterol": 83.5,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper Fried",
+     "portion": "1/2 serving",
+     "kcal": 820,
+     "protein": 32.5,
+     "carbs": 59.5,
+     "fat": 50.5,
+     "satfat": 12.0,
+     "fiber": 4.5,
+     "sugar": 8.0,
+     "sodium": 2370.5,
+     "cholesterol": 43.5
+    },
+    {
+     "name": "French Fries side",
+     "portion": "2/3 serving",
+     "kcal": 313,
+     "protein": 8.0,
+     "carbs": 80.4,
+     "fat": 28.1,
+     "satfat": 6.7,
+     "fiber": 8.0,
+     "sugar": 0.0
+    },
+    {
+     "name": "Honey Butter Croissant",
+     "portion": "1 serving",
+     "kcal": 203,
+     "protein": 2.0,
+     "carbs": 21.0,
+     "fat": 12.0,
+     "satfat": 4.0,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 117.0,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Red Beans",
+     "portion": "1 cup",
+     "kcal": 196,
+     "protein": 9.0,
+     "carbs": 29.0,
+     "fat": 45.0,
+     "satfat": 1.0,
+     "fiber": 3.0,
+     "sugar": 4.0,
+     "sodium": 882.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper Fried",
+    "French Fries side",
+    "Honey Butter Croissant",
+    "Red Beans"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-29-4",
+   "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 53,
+   "protein": 0.6,
+   "carbs": 13.5,
+   "fat": 0.2,
+   "satfat": 0.6,
+   "fiber": 1.5,
+   "sugar": 7.2,
+   "sodium": 0.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1/2 each",
+     "kcal": 53,
+     "protein": 0.6,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 7.2,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Medium, 7\" - 7 7/8\" Long"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

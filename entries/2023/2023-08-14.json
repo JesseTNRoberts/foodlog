@@ -1,0 +1,102 @@
+{
+ "date": "2023-08-14",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-14-1",
+   "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 290,
+   "protein": 12.7,
+   "carbs": 33.7,
+   "fat": 11.3,
+   "satfat": 0.5,
+   "fiber": 3.7,
+   "sugar": 10.0,
+   "sodium": 380.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 30.7,
+     "fat": 3.3,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 160.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-14-2",
+   "name": "Egg Sandwich with Sausage",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 44,
+   "protein": 2.5,
+   "carbs": 3.2,
+   "fat": 1.7,
+   "satfat": 0,
+   "fiber": 0.9,
+   "sugar": 0.2,
+   "sodium": 87.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Egg Sandwich with Sausage",
+     "portion": "1/8 serving",
+     "kcal": 44,
+     "protein": 2.5,
+     "carbs": 3.2,
+     "fat": 1.7,
+     "fiber": 0.9,
+     "sugar": 0.2,
+     "sodium": 87.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Egg Sandwich with Sausage"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

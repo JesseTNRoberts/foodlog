@@ -1,0 +1,212 @@
+{
+ "date": "2026-06-15",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2026-06-15-1",
+   "name": "Cashew Granola · Almond Butter · Honey Mango + 5 more",
+   "portion": "Breakfast · 8 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 495,
+   "protein": 22.6,
+   "carbs": 74.2,
+   "fat": 23.0,
+   "satfat": 2.3,
+   "fiber": 15.3,
+   "sugar": 43.5,
+   "sodium": 103.9,
+   "cholesterol": 4.6,
+   "components": [
+    {
+     "name": "Cashew Granola",
+     "portion": "1/3 dry cup",
+     "kcal": 173,
+     "protein": 6.0,
+     "carbs": 23.3,
+     "fat": 6.7,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 8.7,
+     "sodium": 69.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Almond Butter",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 152,
+     "protein": 5.7,
+     "carbs": 5.7,
+     "fat": 13.3,
+     "satfat": 0.9,
+     "fiber": 2.9,
+     "sugar": 0.9,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Honey Mango",
+     "portion": "1 cup",
+     "kcal": 50,
+     "protein": 1.0,
+     "carbs": 28.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 24.0,
+     "sodium": 3.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blackberries Fresh",
+     "portion": "1/2 cup",
+     "kcal": 31,
+     "protein": 1.2,
+     "carbs": 7.3,
+     "fat": 0.4,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 4.0,
+     "sodium": 1.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greek Yogurt, Plain, 0%",
+     "portion": "2 ounces",
+     "kcal": 30,
+     "protein": 6.0,
+     "carbs": 1.7,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.7,
+     "sodium": 21.7,
+     "cholesterol": 3.3
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/4 cup",
+     "kcal": 21,
+     "protein": 0.3,
+     "carbs": 5.3,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 3.8,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "2% Protein Milk",
+     "portion": "1/2 fluid ounce",
+     "kcal": 8,
+     "protein": 0.9,
+     "carbs": 0.4,
+     "fat": 0.3,
+     "satfat": 0.2,
+     "sugar": 0.4,
+     "sodium": 7.9,
+     "cholesterol": 1.3
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cashew Granola",
+    "Almond Butter",
+    "Honey Mango",
+    "Blackberries Fresh",
+    "Chia Seeds",
+    "Greek Yogurt, Plain, 0%",
+    "Blueberries",
+    "2% Protein Milk"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2026-06-15-2",
+   "name": "Avocado, Hass, Medium · “Sizzle” Extra Virgin Olive Oil · Chulula Hot Sauce",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 382,
+   "protein": 4.0,
+   "carbs": 17.0,
+   "fat": 36.0,
+   "satfat": 5.3,
+   "fiber": 13.0,
+   "sugar": 1.3,
+   "sodium": 124.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Hass, Medium",
+     "portion": "1 each",
+     "kcal": 322,
+     "protein": 4.0,
+     "carbs": 17.0,
+     "fat": 29.0,
+     "satfat": 4.3,
+     "fiber": 13.0,
+     "sugar": 1.3,
+     "sodium": 14.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "“Sizzle” Extra Virgin Olive Oil",
+     "portion": "1/2 tablespoon",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "sodium": 0.0
+    },
+    {
+     "name": "Chulula Hot Sauce",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Hass, Medium",
+    "“Sizzle” Extra Virgin Olive Oil",
+    "Chulula Hot Sauce"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "date": "2022-11-16",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-11-16-1",
+   "name": "Gluten Free Pumpkin Spice Waffles · Maple Syrup, Real · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 380,
+   "protein": 2.0,
+   "carbs": 359.0,
+   "fat": 7.0,
+   "satfat": 1.0,
+   "fiber": 2.0,
+   "sugar": 6.0,
+   "sodium": 395.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Gluten Free Pumpkin Spice Waffles",
+     "portion": "2 pieces",
+     "kcal": 210,
+     "protein": 2.0,
+     "carbs": 35.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 390.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Maple Syrup, Real",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 324.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Gluten Free Pumpkin Spice Waffles",
+    "Maple Syrup, Real",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-16-2",
+   "name": "Veggie Sushi Brown Rice · Whole Wheat Scoops · Maple Syrup, Real + 6 more",
+   "portion": "Lunch · 9 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 743,
+   "protein": 8.7,
+   "carbs": 274.9,
+   "fat": 27.2,
+   "satfat": 9.6,
+   "fiber": 4.7,
+   "sugar": 26.3,
+   "sodium": 404.1,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Veggie Sushi Brown Rice",
+     "portion": "7/8 serving",
+     "kcal": 254
+    },
+    {
+     "name": "Whole Wheat Scoops",
+     "portion": "15 each",
+     "kcal": 175,
+     "protein": 2.5,
+     "carbs": 21.2,
+     "fat": 8.8,
+     "satfat": 1.2,
+     "fiber": 1.2,
+     "sugar": 1.2,
+     "sodium": 137.5
+    },
+    {
+     "name": "Maple Syrup, Real",
+     "portion": "2 tablespoons",
+     "kcal": 110,
+     "protein": 0.0,
+     "carbs": 216.0
+    },
+    {
+     "name": "Oat Milk Barista Edition",
+     "portion": "1/2 cup",
+     "kcal": 71,
+     "protein": 1.2,
+     "carbs": 7.7,
+     "fat": 3.5,
+     "satfat": 0.3,
+     "sugar": 4.7,
+     "sodium": 0.1
+    },
+    {
+     "name": "Babybel Vegan Cheese - (1Piece/20g)",
+     "portion": "1 piece",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 3.5,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Reeses Peanut Butter Cups Minis",
+     "portion": "1 piece",
+     "kcal": 40,
+     "protein": 3.0,
+     "carbs": 20.5,
+     "fat": 11.0,
+     "satfat": 5.0,
+     "fiber": 1.0,
+     "sugar": 19.0,
+     "sodium": 90.0,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Brussels Sprouts, Steamed",
+     "portion": "1/2 cup",
+     "kcal": 28,
+     "protein": 2.0,
+     "carbs": 5.5,
+     "fat": 0.4,
+     "satfat": 0.1,
+     "fiber": 2.5,
+     "sugar": 1.4,
+     "sodium": 16.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa",
+     "portion": "2 tablespoons",
+     "kcal": 10
+    },
+    {
+     "name": "Pike Place Roast",
+     "portion": "1 serving",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie Sushi Brown Rice",
+    "Whole Wheat Scoops",
+    "Maple Syrup, Real",
+    "Oat Milk Barista Edition",
+    "Babybel Vegan Cheese - (1Piece/20g)",
+    "Reeses Peanut Butter Cups Minis",
+    "Brussels Sprouts, Steamed",
+    "Salsa",
+    "Pike Place Roast"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-11-16-3",
+   "name": "Whole Wheat Scoops · Plant-based Ranch Dressing · Arnold Organic 22 Grains & Seeds + 4 more",
+   "portion": "Dinner · 7 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 783,
+   "protein": 25.4,
+   "carbs": 75.1,
+   "fat": 39.6,
+   "satfat": 8.8,
+   "fiber": 8.8,
+   "sugar": 31.0,
+   "sodium": 1644.7,
+   "cholesterol": 30.4,
+   "components": [
+    {
+     "name": "Whole Wheat Scoops",
+     "portion": "25 each",
+     "kcal": 292,
+     "protein": 4.2,
+     "carbs": 35.4,
+     "fat": 14.6,
+     "satfat": 2.8,
+     "fiber": 2.8,
+     "sugar": 2.8,
+     "sodium": 229.2
+    },
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 4.5,
+     "fat": 16.5,
+     "satfat": 1.5,
+     "sugar": 1.5,
+     "sodium": 450.0
+    },
+    {
+     "name": "Arnold Organic 22 Grains & Seeds",
+     "portion": "2 pieces",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 26.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 6.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1/8 pound",
+     "kcal": 71,
+     "protein": 14.2,
+     "carbs": 2.2,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 20.2,
+     "sodium": 445.5,
+     "cholesterol": 30.4
+    },
+    {
+     "name": "American Style Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 190.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa",
+     "portion": "4 tablespoons",
+     "kcal": 20
+    },
+    {
+     "name": "Greens, Baby Spring Mix",
+     "portion": "3 cups",
+     "kcal": 15,
+     "protein": 1.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 70.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Whole Wheat Scoops",
+    "Plant-based Ranch Dressing",
+    "Arnold Organic 22 Grains & Seeds",
+    "Turkey Breast, Maple Glazed Honey",
+    "American Style Slices",
+    "Salsa",
+    "Greens, Baby Spring Mix"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "date": "2024-10-25",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-10-25-1",
+   "name": "Almond Butter, Raw · Milk, Fat Free, Ultra-Filtered · Bread, Thin Sliced, 21 Whole Grains & Seeds + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 404,
+   "protein": 24.2,
+   "carbs": 41.1,
+   "fat": 17.8,
+   "satfat": 1.3,
+   "fiber": 13.6,
+   "sugar": 20.2,
+   "sodium": 219.2,
+   "cholesterol": 4.9,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1 cup",
+     "kcal": 79,
+     "protein": 12.8,
+     "carbs": 5.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.9,
+     "sodium": 118.3,
+     "cholesterol": 4.9
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "4 tablespoons",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 3.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Chia Seeds",
+    "Blueberries",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-25-2",
+   "name": "Soup, Gumbo, Grilled Chicken & Sausage, Chunky · Coke",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 860,
+   "protein": 42.4,
+   "carbs": 147.4,
+   "fat": 15.0,
+   "satfat": 5.9,
+   "fiber": 17.6,
+   "sugar": 69.0,
+   "sodium": 4719.6,
+   "cholesterol": 88.2,
+   "components": [
+    {
+     "name": "Soup, Gumbo, Grilled Chicken & Sausage, Chunky",
+     "portion": "6 cups",
+     "kcal": 720,
+     "protein": 42.4,
+     "carbs": 108.4,
+     "fat": 15.0,
+     "satfat": 5.9,
+     "fiber": 17.6,
+     "sugar": 30.0,
+     "sodium": 4674.6,
+     "cholesterol": 88.2
+    },
+    {
+     "name": "Coke",
+     "portion": "12 fluid ounces",
+     "kcal": 140,
+     "protein": 0.0,
+     "carbs": 39.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soup, Gumbo, Grilled Chicken & Sausage, Chunky",
+    "Coke"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-25-3",
+   "name": "Hummus, Original (2T = 30g) · Pita Chips, Fire Roasted Jalapeno",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 279,
+   "protein": 6.3,
+   "carbs": 23.7,
+   "fat": 17.8,
+   "satfat": 1.0,
+   "fiber": 0.4,
+   "sugar": 2.7,
+   "sodium": 452.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Hummus, Original (2T = 30g)",
+     "portion": "60 grams",
+     "kcal": 180,
+     "protein": 4.0,
+     "carbs": 10.0,
+     "fat": 14.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "3/4 ounce",
+     "kcal": 99,
+     "protein": 2.3,
+     "carbs": 13.7,
+     "fat": 3.8,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 0.7,
+     "sodium": 212.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Hummus, Original (2T = 30g)",
+    "Pita Chips, Fire Roasted Jalapeno"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-25-4",
+   "name": "Almond Butter, Raw · 2% Milk Fairlife · Chia Seeds + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 445,
+   "protein": 24.4,
+   "carbs": 41.2,
+   "fat": 22.3,
+   "satfat": 4.3,
+   "fiber": 13.6,
+   "sugar": 20.3,
+   "sodium": 220.9,
+   "cholesterol": 20.0,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "2% Milk Fairlife",
+     "portion": "1 cup",
+     "kcal": 120,
+     "protein": 13.0,
+     "carbs": 6.0,
+     "fat": 4.5,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 6.0,
+     "sodium": 120.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "4 tablespoons",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 3.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "2% Milk Fairlife",
+    "Chia Seeds",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blueberries",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

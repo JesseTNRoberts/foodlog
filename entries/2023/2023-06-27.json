@@ -1,0 +1,374 @@
+{
+ "date": "2023-06-27",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-27-1",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Grilled Chicken",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 176,
+   "protein": 27.4,
+   "carbs": 0.0,
+   "fat": 6.9,
+   "satfat": 1.7,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 37.5,
+   "cholesterol": 84.5,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "2 ounces",
+     "kcal": 116,
+     "protein": 14.4,
+     "carbs": 0.0,
+     "fat": 6.4,
+     "satfat": 1.7,
+     "sugar": 0.0,
+     "cholesterol": 52.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 13.0,
+     "carbs": 0.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 37.5,
+     "cholesterol": 32.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Grilled Chicken"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-27-2",
+   "name": "Vegan Dressing and Spread · Fish, Salmon, Wild, Cooked · Asparagus, Grilled w/ Oil",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 425,
+   "protein": 24.1,
+   "carbs": 4.4,
+   "fat": 35.8,
+   "satfat": 3.7,
+   "fiber": 2.4,
+   "sugar": 2.1,
+   "sodium": 353.7,
+   "cholesterol": 60.4,
+   "components": [
+    {
+     "name": "Vegan Dressing and Spread",
+     "portion": "1 1/2 ounces",
+     "kcal": 213,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 24.3,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 303.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fish, Salmon, Wild, Cooked",
+     "portion": "3 ounces",
+     "kcal": 155,
+     "protein": 21.6,
+     "carbs": 0.0,
+     "fat": 6.9,
+     "satfat": 1.6,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 47.6,
+     "cholesterol": 60.4
+    },
+    {
+     "name": "Asparagus, Grilled w/ Oil",
+     "portion": "4 ounces",
+     "kcal": 57,
+     "protein": 2.5,
+     "carbs": 4.4,
+     "fat": 4.6,
+     "satfat": 0.6,
+     "fiber": 2.4,
+     "sugar": 2.1,
+     "sodium": 2.3,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Dressing and Spread",
+    "Fish, Salmon, Wild, Cooked",
+    "Asparagus, Grilled w/ Oil"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-27-3",
+   "name": "Naan Bites · Baba Ghannouj Eggplant Dip",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 133,
+   "protein": 3.8,
+   "carbs": 16.9,
+   "fat": 6.0,
+   "satfat": 0.5,
+   "fiber": 0.9,
+   "sugar": 1.4,
+   "sodium": 221.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "2 each",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 11.5,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Baba Ghannouj Eggplant Dip",
+     "portion": "1 ounce",
+     "kcal": 63,
+     "protein": 1.8,
+     "carbs": 5.4,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 0.9,
+     "sodium": 111.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Baba Ghannouj Eggplant Dip"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-27-4",
+   "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h · Spicy Dill Pickle Chips · Bread + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 606,
+   "protein": 30.5,
+   "carbs": 86.1,
+   "fat": 30.1,
+   "satfat": 3.6,
+   "fiber": 3.3,
+   "sugar": 5.3,
+   "sodium": 1098.0,
+   "cholesterol": 41.3,
+   "components": [
+    {
+     "name": "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+     "portion": "1 serving",
+     "kcal": 280,
+     "protein": 8.0,
+     "carbs": 43.0,
+     "fat": 8.0,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 4.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spicy Dill Pickle Chips",
+     "portion": "2/3 serving",
+     "kcal": 133,
+     "protein": 1.3,
+     "carbs": 15.3,
+     "fat": 7.3,
+     "satfat": 1.0,
+     "fiber": 1.3,
+     "sugar": 1.3,
+     "sodium": 146.7
+    },
+    {
+     "name": "Bread",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 5.2,
+     "carbs": 27.7,
+     "fat": 11.0,
+     "sodium": 269.0
+    },
+    {
+     "name": "Grilled Chicken",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 13.0,
+     "carbs": 0.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 37.5,
+     "cholesterol": 32.5
+    },
+    {
+     "name": "Bacon, Cooked",
+     "portion": "1 piece",
+     "kcal": 43,
+     "protein": 3.0,
+     "carbs": 0.1,
+     "fat": 3.3,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 184.8,
+     "cholesterol": 8.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie w/ cucumber, lettuce, tomato,spinach,green pepper, h",
+    "Spicy Dill Pickle Chips",
+    "Bread",
+    "Grilled Chicken",
+    "Bacon, Cooked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-27-5",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew · Naan Bites + 2 more",
+   "portion": "Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 453,
+   "protein": 17.5,
+   "carbs": 59.2,
+   "fat": 16.0,
+   "satfat": 1.0,
+   "fiber": 5.6,
+   "sugar": 16.4,
+   "sodium": 1061.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 cup",
+     "kcal": 130,
+     "protein": 10.0,
+     "carbs": 3.0,
+     "fat": 8.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 220.0
+    },
+    {
+     "name": "Naan Bites",
+     "portion": "2 each",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 11.5,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 110.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Baba Ghannouj Eggplant Dip",
+     "portion": "1 ounce",
+     "kcal": 63,
+     "protein": 1.8,
+     "carbs": 5.4,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 0.9,
+     "sugar": 0.9,
+     "sodium": 111.6
+    },
+    {
+     "name": "V8 original 5.5fl oz",
+     "portion": "1 can",
+     "kcal": 30,
+     "protein": 1.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 5.0,
+     "sodium": 440.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Naan Bites",
+    "Baba Ghannouj Eggplant Dip",
+    "V8 original 5.5fl oz"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

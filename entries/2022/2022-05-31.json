@@ -1,0 +1,374 @@
+{
+ "date": "2022-05-31",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-31-1",
+   "name": "Burrito, Big Sur Breakfast · Oat milk latte",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 570,
+   "protein": 18.0,
+   "carbs": 40.0,
+   "fat": 7.0,
+   "satfat": 1.0,
+   "fiber": 3.0,
+   "sugar": 2.0,
+   "sodium": 490.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Burrito, Big Sur Breakfast",
+     "portion": "1 each",
+     "kcal": 290,
+     "protein": 18.0,
+     "carbs": 40.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 3.0,
+     "sugar": 2.0,
+     "sodium": 490.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat milk latte",
+     "portion": "2 servings",
+     "kcal": 280
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burrito, Big Sur Breakfast",
+    "Oat milk latte"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-31-2",
+   "name": "Dressing, Honey Mustard · Beyond Burger · Cheddar Cheese Shredded + 7 more",
+   "portion": "Lunch · 10 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1126,
+   "protein": 36.6,
+   "carbs": 102.2,
+   "fat": 77.0,
+   "satfat": 17.2,
+   "fiber": 13.7,
+   "sugar": 46.3,
+   "sodium": 2341.6,
+   "cholesterol": 42.5,
+   "components": [
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "3 ounces",
+     "kcal": 369,
+     "protein": 0.0,
+     "carbs": 19.8,
+     "fat": 31.2,
+     "satfat": 4.2,
+     "fiber": 0.0,
+     "sugar": 17.1,
+     "sodium": 595.3,
+     "cholesterol": 42.5
+    },
+    {
+     "name": "Beyond Burger",
+     "portion": "1 serving",
+     "kcal": 290,
+     "protein": 20.0,
+     "carbs": 6.0,
+     "fat": 22.0,
+     "satfat": 5.0,
+     "fiber": 3.0,
+     "sugar": 20.0,
+     "sodium": 450.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheddar Cheese Shredded",
+     "portion": "1/3 dry cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 18.6,
+     "fat": 18.6,
+     "satfat": 5.3,
+     "fiber": 2.7,
+     "sodium": 666.0
+    },
+    {
+     "name": "Buns, Burger",
+     "portion": "1 each",
+     "kcal": 120,
+     "protein": 4.0,
+     "carbs": 24.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 240.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chickpeas, Canned",
+     "portion": "1/4 cup",
+     "kcal": 71,
+     "protein": 3.0,
+     "carbs": 13.6,
+     "fat": 0.7,
+     "satfat": 0.7,
+     "fiber": 2.6,
+     "sugar": 0.0,
+     "sodium": 179.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "French Fries, Shoestring, French Fried Potatoes",
+     "portion": "1 ounce",
+     "kcal": 47,
+     "protein": 0.7,
+     "carbs": 7.4,
+     "fat": 1.7,
+     "satfat": 0.8,
+     "fiber": 0.7,
+     "sugar": 0.3,
+     "sodium": 108.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "4 cups",
+     "kcal": 28,
+     "protein": 3.4,
+     "carbs": 4.4,
+     "fat": 0.5,
+     "satfat": 0.7,
+     "fiber": 2.6,
+     "sugar": 0.5,
+     "sodium": 94.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Onion, Red, Chopped",
+     "portion": "1/4 cup",
+     "kcal": 16,
+     "protein": 0.4,
+     "carbs": 3.7,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 1.7,
+     "sodium": 1.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Grape",
+     "portion": "2 2/3 ounces",
+     "kcal": 13,
+     "protein": 0.7,
+     "carbs": 2.9,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 2.0,
+     "sodium": 3.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mushrooms, Medium",
+     "portion": "3 each",
+     "kcal": 12,
+     "protein": 1.7,
+     "carbs": 1.8,
+     "fat": 0.2,
+     "satfat": 0.3,
+     "fiber": 0.5,
+     "sugar": 1.7,
+     "sodium": 2.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Dressing, Honey Mustard",
+    "Beyond Burger",
+    "Cheddar Cheese Shredded",
+    "Buns, Burger",
+    "Chickpeas, Canned",
+    "French Fries, Shoestring, French Fried Potatoes",
+    "Spinach, Baby, Fresh",
+    "Onion, Red, Chopped",
+    "Tomatoes, Grape",
+    "Mushrooms, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-31-3",
+   "name": "Biscuit · Soda, Dr. Pepper · Fancy Fixin's, Trout, Grilled, w/o Sides + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1680,
+   "protein": 57.0,
+   "carbs": 171.5,
+   "fat": 20.5,
+   "satfat": 5.0,
+   "fiber": 17.5,
+   "sugar": 140.5,
+   "sodium": 837.5,
+   "cholesterol": 145.0,
+   "components": [
+    {
+     "name": "Biscuit",
+     "portion": "5 each",
+     "kcal": 625,
+     "protein": 7.5,
+     "fiber": 10.0
+    },
+    {
+     "name": "Soda, Dr. Pepper",
+     "portion": "30 fluid ounces",
+     "kcal": 375,
+     "protein": 0.0,
+     "carbs": 100.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 100.0,
+     "sodium": 137.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fancy Fixin's, Trout, Grilled, w/o Sides",
+     "portion": "1 serving",
+     "kcal": 330,
+     "protein": 43.0,
+     "carbs": 1.0,
+     "fat": 14.0,
+     "satfat": 4.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 610.0,
+     "cholesterol": 140.0
+    },
+    {
+     "name": "Side, Fries, Steak",
+     "portion": "1/2 serving",
+     "kcal": 170,
+     "protein": 2.5,
+     "carbs": 25.5,
+     "fat": 6.5,
+     "satfat": 1.0,
+     "fiber": 2.5,
+     "sugar": 0.5,
+     "sodium": 35.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Soda, Coke",
+     "portion": "1 can",
+     "kcal": 140,
+     "protein": 0.0,
+     "carbs": 39.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 39.0,
+     "sodium": 45.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Side, Broccoli, Steamed, Fresh",
+     "portion": "1 serving",
+     "kcal": 40,
+     "protein": 4.0,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 1.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Biscuit",
+    "Soda, Dr. Pepper",
+    "Fancy Fixin's, Trout, Grilled, w/o Sides",
+    "Side, Fries, Steak",
+    "Soda, Coke",
+    "Side, Broccoli, Steamed, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-31-4",
+   "name": "Vegan Apple Fritter · Coffee",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 330,
+   "protein": 5.0,
+   "carbs": 38.0,
+   "fat": 4.5,
+   "satfat": 1.5,
+   "fiber": 2.0,
+   "sugar": 1.0,
+   "sodium": 300.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Vegan Apple Fritter",
+     "portion": "1 serving",
+     "kcal": 210,
+     "protein": 5.0,
+     "carbs": 38.0,
+     "fat": 4.5,
+     "satfat": 1.5,
+     "fiber": 2.0,
+     "sugar": 1.0,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Coffee",
+     "portion": "16 ounces",
+     "kcal": 120
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegan Apple Fritter",
+    "Coffee"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

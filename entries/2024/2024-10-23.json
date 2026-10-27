@@ -1,0 +1,363 @@
+{
+ "date": "2024-10-23",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-10-23-1",
+   "name": "Almond Butter, Raw · Milk, Fat Free, Ultra-Filtered · Bread, Thin Sliced, 21 Whole Grains & Seeds + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 404,
+   "protein": 24.2,
+   "carbs": 41.1,
+   "fat": 17.8,
+   "satfat": 1.3,
+   "fiber": 13.6,
+   "sugar": 20.2,
+   "sodium": 219.2,
+   "cholesterol": 4.9,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1 cup",
+     "kcal": 79,
+     "protein": 12.8,
+     "carbs": 5.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.9,
+     "sodium": 118.3,
+     "cholesterol": 4.9
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "4 tablespoons",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 3.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Chia Seeds",
+    "Blueberries",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-23-2",
+   "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size · Sunchips, Multigrain, Garden Salsa · Cheese, Sharp White Cheddar + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 548,
+   "protein": 13.8,
+   "carbs": 63.3,
+   "fat": 26.0,
+   "satfat": 6.9,
+   "fiber": 4.3,
+   "sugar": 2.0,
+   "sodium": 399.7,
+   "cholesterol": 22.0,
+   "components": [
+    {
+     "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+     "portion": "1/2 each",
+     "kcal": 264,
+     "protein": 6.0,
+     "carbs": 38.5,
+     "fat": 9.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 0.5,
+     "cholesterol": 2.0
+    },
+    {
+     "name": "Sunchips, Multigrain, Garden Salsa",
+     "portion": "15 each",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 19.0,
+     "fat": 6.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 140.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Salt And Vinegar Chips",
+     "portion": "5 pieces",
+     "kcal": 54,
+     "protein": 0.8,
+     "carbs": 5.8,
+     "fat": 3.5,
+     "satfat": 0.4,
+     "fiber": 0.8,
+     "sodium": 69.2
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+    "Sunchips, Multigrain, Garden Salsa",
+    "Cheese, Sharp White Cheddar",
+    "Salt And Vinegar Chips",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-23-3",
+   "name": "Juice, Apple Cider",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 140,
+   "protein": 0.0,
+   "carbs": 35.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 31.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Juice, Apple Cider",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 0.0,
+     "carbs": 35.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 31.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Juice, Apple Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-23-4",
+   "name": "Baked Salmon With Mayo, Dill, Garlic Powder, And Garlic Salt · Asparagus Souffle · Roasted Carrots",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 572,
+   "protein": 33.6,
+   "carbs": 11.2,
+   "fat": 41.5,
+   "satfat": 8.0,
+   "fiber": 2.6,
+   "sugar": 3.0,
+   "sodium": 415.3,
+   "cholesterol": 28.5,
+   "components": [
+    {
+     "name": "Baked Salmon With Mayo, Dill, Garlic Powder, And Garlic Salt",
+     "portion": "5 ounces",
+     "kcal": 275,
+     "protein": 28.3,
+     "carbs": 3.3,
+     "fat": 15.0,
+     "sugar": 0.0,
+     "sodium": 173.3
+    },
+    {
+     "name": "Asparagus Souffle",
+     "portion": "1/2 serving",
+     "kcal": 242,
+     "protein": 4.8,
+     "carbs": 1.9,
+     "fat": 23.0,
+     "satfat": 7.5,
+     "fiber": 0.8,
+     "cholesterol": 28.5
+    },
+    {
+     "name": "Roasted Carrots",
+     "portion": "1 each",
+     "kcal": 55,
+     "protein": 0.5,
+     "carbs": 6.0,
+     "fat": 3.5,
+     "satfat": 0.5,
+     "fiber": 1.8,
+     "sugar": 3.0,
+     "sodium": 242.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Baked Salmon With Mayo, Dill, Garlic Powder, And Garlic Salt",
+    "Asparagus Souffle",
+    "Roasted Carrots"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-10-23-5",
+   "name": "Pie, Apple",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 296,
+   "protein": 2.4,
+   "carbs": 42.5,
+   "fat": 13.8,
+   "satfat": 4.7,
+   "fiber": 2.0,
+   "sugar": 19.6,
+   "sodium": 332.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pie, Apple",
+     "portion": "1 piece",
+     "kcal": 296,
+     "protein": 2.4,
+     "carbs": 42.5,
+     "fat": 13.8,
+     "satfat": 4.7,
+     "fiber": 2.0,
+     "sugar": 19.6,
+     "sodium": 332.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pie, Apple"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

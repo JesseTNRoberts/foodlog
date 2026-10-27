@@ -1,0 +1,150 @@
+{
+ "date": "2022-04-26",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-26-1",
+   "name": "Pita Wrap, Falafel · Side, Salad, Greek",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 720,
+   "protein": 26.0,
+   "carbs": 101.0,
+   "fat": 27.5,
+   "satfat": 6.0,
+   "fiber": 11.0,
+   "sugar": 3.0,
+   "sodium": 1630.0,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Pita Wrap, Falafel",
+     "portion": "1 each",
+     "kcal": 530,
+     "protein": 18.0,
+     "carbs": 77.0,
+     "fat": 19.5,
+     "satfat": 3.0,
+     "fiber": 8.0,
+     "sodium": 1020.0
+    },
+    {
+     "name": "Side, Salad, Greek",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 8.0,
+     "carbs": 24.0,
+     "fat": 8.0,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 610.0,
+     "cholesterol": 15.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pita Wrap, Falafel",
+    "Side, Salad, Greek"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-26-2",
+   "name": "Big Zax Snak, Meal · Dressing, Honey Mustard",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1225,
+   "protein": 34.0,
+   "carbs": 97.0,
+   "fat": 75.5,
+   "satfat": 11.0,
+   "fiber": 7.0,
+   "sugar": 14.5,
+   "sodium": 2845.0,
+   "cholesterol": 115.0,
+   "components": [
+    {
+     "name": "Big Zax Snak, Meal",
+     "portion": "1 serving",
+     "kcal": 1000,
+     "protein": 34.0,
+     "carbs": 88.0,
+     "fat": 56.0,
+     "satfat": 8.0,
+     "fiber": 7.0,
+     "sugar": 7.0,
+     "sodium": 2500.0,
+     "cholesterol": 85.0
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "1 1/2 packages",
+     "kcal": 225,
+     "protein": 0.0,
+     "carbs": 9.0,
+     "fat": 19.5,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 7.5,
+     "sodium": 345.0,
+     "cholesterol": 30.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Big Zax Snak, Meal",
+    "Dressing, Honey Mustard"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-26-3",
+   "name": "Apricot Pie",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 174,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Apricot Pie",
+     "portion": "1 slice",
+     "kcal": 174
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apricot Pie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

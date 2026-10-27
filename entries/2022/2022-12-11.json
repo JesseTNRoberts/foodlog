@@ -1,0 +1,159 @@
+{
+ "date": "2022-12-11",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-12-11-1",
+   "name": "Just Egg · Spinach · Tomatoes, Grape",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 199,
+   "protein": 14.2,
+   "carbs": 4.8,
+   "fat": 13.9,
+   "satfat": 0.0,
+   "fiber": 1.0,
+   "sugar": 0.7,
+   "sodium": 449.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Just Egg",
+     "portion": "1/2 cup",
+     "kcal": 187,
+     "protein": 13.3,
+     "carbs": 2.7,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 426.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach",
+     "portion": "1 ounce",
+     "kcal": 7,
+     "protein": 0.7,
+     "carbs": 1.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 0.0,
+     "sodium": 21.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Grape",
+     "portion": "1 ounce",
+     "kcal": 5,
+     "protein": 0.2,
+     "carbs": 1.1,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 1.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg",
+    "Spinach",
+    "Tomatoes, Grape"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-12-11-2",
+   "name": "Bread, Sourdough, Bread Bowl · Taco Soup · Iced Coffee With Oat Milk + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 879,
+   "protein": 15.0,
+   "carbs": 123.5,
+   "fat": 16.4,
+   "satfat": 0.8,
+   "fiber": 5.5,
+   "sugar": 42.5,
+   "sodium": 983.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bread, Sourdough, Bread Bowl",
+     "portion": "1/2 each",
+     "kcal": 330,
+     "protein": 11.5,
+     "carbs": 66.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 525.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Taco Soup",
+     "portion": "1 serving",
+     "kcal": 181
+    },
+    {
+     "name": "Iced Coffee With Oat Milk",
+     "portion": "2 servings",
+     "kcal": 160,
+     "carbs": 40.0,
+     "fat": 0.0,
+     "sugar": 40.0
+    },
+    {
+     "name": "Salt And Vinegar Chips",
+     "portion": "10 pieces",
+     "kcal": 108,
+     "protein": 1.5,
+     "carbs": 11.5,
+     "fat": 6.9,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sodium": 138.5
+    },
+    {
+     "name": "Cauliflower Dip",
+     "portion": "4 tablespoons",
+     "kcal": 100,
+     "protein": 2.0,
+     "carbs": 6.0,
+     "fat": 8.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough, Bread Bowl",
+    "Taco Soup",
+    "Iced Coffee With Oat Milk",
+    "Salt And Vinegar Chips",
+    "Cauliflower Dip"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

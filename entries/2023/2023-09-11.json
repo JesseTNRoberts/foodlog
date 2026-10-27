@@ -1,0 +1,269 @@
+{
+ "date": "2023-09-11",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-11-1",
+   "name": "Plant-based Ranch Dressing · Cucumber, Small · Tomatoes, Cherry",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 136,
+   "protein": 2.9,
+   "carbs": 14.7,
+   "fat": 8.6,
+   "satfat": 1.6,
+   "fiber": 3.1,
+   "sugar": 7.5,
+   "sodium": 235.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 83,
+     "protein": 0.0,
+     "carbs": 2.2,
+     "fat": 8.2,
+     "satfat": 0.8,
+     "sugar": 0.8,
+     "sodium": 225.0
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "7 each",
+     "kcal": 21,
+     "protein": 1.5,
+     "carbs": 4.7,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.4,
+     "sugar": 3.1,
+     "sodium": 6.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Cucumber, Small",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-11-2",
+   "name": "Naan Bites · Hummus (original)",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 193,
+   "protein": 5.5,
+   "carbs": 23.4,
+   "fat": 8.4,
+   "satfat": 0.0,
+   "fiber": 2.5,
+   "sugar": 2.0,
+   "sodium": 327.5,
+   "cholesterol": 11.2,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "3 each",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 17.2,
+     "fat": 2.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 165.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus (original)",
+     "portion": "2 1/2 tablespoons",
+     "kcal": 88,
+     "protein": 2.5,
+     "carbs": 6.2,
+     "fat": 6.2,
+     "satfat": 0.0,
+     "fiber": 2.5,
+     "sugar": 1.2,
+     "sodium": 162.5,
+     "cholesterol": 11.2
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Hummus (original)"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-11-3",
+   "name": "Chicken, Orange · Side, Chow Mein · Shrimp, Crispy, Entrée",
+   "portion": "Dinner · 3 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1020,
+   "protein": 32.7,
+   "carbs": 119.4,
+   "fat": 47.4,
+   "satfat": 8.5,
+   "fiber": 4.0,
+   "sugar": 27.7,
+   "sodium": 2149.8,
+   "cholesterol": 140.0,
+   "components": [
+    {
+     "name": "Chicken, Orange",
+     "portion": "1 serving",
+     "kcal": 380,
+     "protein": 14.0,
+     "carbs": 45.0,
+     "fat": 18.0,
+     "satfat": 3.5,
+     "fiber": 0.0,
+     "sugar": 19.0,
+     "sodium": 620.0,
+     "cholesterol": 80.0
+    },
+    {
+     "name": "Side, Chow Mein",
+     "portion": "7 ounces",
+     "kcal": 380,
+     "protein": 9.7,
+     "carbs": 48.4,
+     "fat": 16.4,
+     "satfat": 3.0,
+     "fiber": 3.0,
+     "sugar": 6.7,
+     "sodium": 729.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Shrimp, Crispy, Entrée",
+     "portion": "1 serving",
+     "kcal": 260,
+     "protein": 9.0,
+     "carbs": 26.0,
+     "fat": 13.0,
+     "satfat": 2.0,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 800.0,
+     "cholesterol": 60.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Orange",
+    "Side, Chow Mein",
+    "Shrimp, Crispy, Entrée"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-11-4",
+   "name": "Protein and Nutmilk, Almond and Cashew · Cereal, Honey Bunches of Oats, Honey Roasted · Smoothie - Strawberry, Banana, Spinach, Oat",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 425,
+   "protein": 19.2,
+   "carbs": 50.3,
+   "fat": 15.9,
+   "satfat": 1.0,
+   "fiber": 6.1,
+   "sugar": 17.3,
+   "sodium": 544.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1 1/2 cups",
+     "kcal": 195,
+     "protein": 15.0,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 330.0
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 cup",
+     "kcal": 160,
+     "protein": 2.7,
+     "carbs": 33.3,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 8.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Smoothie - Strawberry, Banana, Spinach, Oat",
+     "portion": "1/2 serving",
+     "kcal": 70,
+     "protein": 1.5,
+     "carbs": 12.5,
+     "fat": 1.9,
+     "satfat": 0.2,
+     "fiber": 1.9,
+     "sugar": 6.3,
+     "sodium": 34.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Protein and Nutmilk, Almond and Cashew",
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Smoothie - Strawberry, Banana, Spinach, Oat"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

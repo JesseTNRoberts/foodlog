@@ -1,0 +1,237 @@
+{
+ "date": "2021-09-16",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-09-16-1",
+   "name": "Crunchy Natural Peanut Butter · 21 Whole Grains & Seeds Organic Bread",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 395,
+   "protein": 15.5,
+   "carbs": 34.0,
+   "fat": 25.5,
+   "satfat": 5.2,
+   "fiber": 9.5,
+   "sugar": 9.5,
+   "sodium": 267.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Crunchy Natural Peanut Butter",
+     "portion": "3 tablespoons",
+     "kcal": 285,
+     "protein": 10.5,
+     "carbs": 12.0,
+     "fat": 24.0,
+     "satfat": 5.2,
+     "fiber": 4.5,
+     "sugar": 4.5,
+     "sodium": 97.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "1 piece",
+     "kcal": 110,
+     "protein": 5.0,
+     "carbs": 22.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 5.0,
+     "sodium": 170.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Crunchy Natural Peanut Butter",
+    "21 Whole Grains & Seeds Organic Bread"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-09-16-2",
+   "name": "Pulled pork lunch with fries · Cheddars Dr. Pepper · Baked beans + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 1460,
+   "protein": 9.0,
+   "carbs": 50.0,
+   "fat": 6.0,
+   "satfat": 1.0,
+   "fiber": 4.0,
+   "sugar": 18.0,
+   "sodium": 260.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pulled pork lunch with fries",
+     "portion": "1 serving",
+     "kcal": 1000
+    },
+    {
+     "name": "Cheddars Dr. Pepper",
+     "portion": "1 serving",
+     "kcal": 160
+    },
+    {
+     "name": "Baked beans",
+     "portion": "1 serving",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 32.0,
+     "fiber": 4.0,
+     "sugar": 16.0
+    },
+    {
+     "name": "Texas Toast",
+     "portion": "1 serving",
+     "kcal": 140,
+     "protein": 3.0,
+     "carbs": 18.0,
+     "fat": 6.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 2.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pulled pork lunch with fries",
+    "Cheddars Dr. Pepper",
+    "Baked beans",
+    "Texas Toast"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-09-16-3",
+   "name": "Zalad, The Cobb, Fried, No Dressing · Dressing, Honey Mustard · Naan Dippers + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1019,
+   "protein": 37.1,
+   "carbs": 73.8,
+   "fat": 63.0,
+   "satfat": 18.8,
+   "fiber": 7.5,
+   "sugar": 15.9,
+   "sodium": 2433.6,
+   "cholesterol": 227.5,
+   "components": [
+    {
+     "name": "Zalad, The Cobb, Fried, No Dressing",
+     "portion": "1/2 serving",
+     "kcal": 418,
+     "protein": 28.5,
+     "carbs": 22.5,
+     "fat": 23.2,
+     "satfat": 7.8,
+     "fiber": 2.5,
+     "sugar": 3.5,
+     "sodium": 1177.5,
+     "cholesterol": 187.5
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2 packages",
+     "kcal": 300,
+     "protein": 0.0,
+     "carbs": 12.0,
+     "fat": 26.0,
+     "satfat": 4.0,
+     "fiber": 0.0,
+     "sugar": 10.0,
+     "sodium": 460.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Naan Dippers",
+     "portion": "5 pieces",
+     "kcal": 150,
+     "protein": 4.0,
+     "carbs": 26.0,
+     "fat": 3.5,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 380.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 1.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 115.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+     "portion": "1 serving",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 5.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sodium": 230.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "3 cups",
+     "kcal": 21,
+     "protein": 2.6,
+     "carbs": 3.3,
+     "fat": 0.3,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 0.4,
+     "sodium": 71.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Zalad, The Cobb, Fried, No Dressing",
+    "Dressing, Honey Mustard",
+    "Naan Dippers",
+    "Hummus, spinach and artichoke",
+    "Plant Based Non-dairy Hot Pepper Cheezy Slices",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

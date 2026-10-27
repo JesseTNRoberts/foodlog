@@ -1,0 +1,47 @@
+{
+ "date": "2025-03-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-03-07-1",
+   "name": "Avocado Toast, Multigrain Bread, Pickled Turnips",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 350,
+   "protein": 32.0,
+   "carbs": 28.0,
+   "fat": 22.0,
+   "satfat": 3.5,
+   "fiber": 13.0,
+   "sugar": 5.0,
+   "sodium": 150.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Avocado Toast, Multigrain Bread, Pickled Turnips",
+     "portion": "1 serving",
+     "kcal": 350,
+     "protein": 32.0,
+     "carbs": 28.0,
+     "fat": 22.0,
+     "satfat": 3.5,
+     "fiber": 13.0,
+     "sugar": 5.0,
+     "sodium": 150.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado Toast, Multigrain Bread, Pickled Turnips"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

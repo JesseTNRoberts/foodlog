@@ -1,0 +1,262 @@
+{
+ "date": "2023-06-19",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-06-19-1",
+   "name": "Justin's Dark Chocolate Peanut Butter Cups (singles) · Reese’s Plant Based · Lärabar, Blueberry Muffin",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 305,
+   "protein": 5.5,
+   "carbs": 34.0,
+   "fat": 18.0,
+   "satfat": 0.8,
+   "fiber": 3.0,
+   "sugar": 24.5,
+   "sodium": 40.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+     "portion": "1 serving",
+     "kcal": 105,
+     "protein": 2.0,
+     "carbs": 10.5,
+     "fat": 7.0,
+     "fiber": 0.5,
+     "sugar": 8.5
+    },
+    {
+     "name": "Reese’s Plant Based",
+     "portion": "1 piece",
+     "kcal": 105,
+     "protein": 1.5,
+     "carbs": 10.5,
+     "fat": 7.0,
+     "fiber": 1.0,
+     "sugar": 7.5,
+     "sodium": 37.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Lärabar, Blueberry Muffin",
+     "portion": "1/2 each",
+     "kcal": 95,
+     "protein": 2.0,
+     "carbs": 13.0,
+     "fat": 4.0,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 8.5,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Justin's Dark Chocolate Peanut Butter Cups (singles)",
+    "Reese’s Plant Based",
+    "Lärabar, Blueberry Muffin"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-19-2",
+   "name": "Burger No Cheese · French Fries, Small · Chilli dog no cheese",
+   "portion": "Lunch · 3 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 718,
+   "protein": 18.5,
+   "carbs": 54.0,
+   "fat": 30.5,
+   "satfat": 9.0,
+   "fiber": 4.0,
+   "sugar": 3.5,
+   "sodium": 655.0,
+   "cholesterol": 50.0,
+   "components": [
+    {
+     "name": "Burger No Cheese",
+     "portion": "1/2 serving",
+     "kcal": 320,
+     "protein": 15.5,
+     "carbs": 21.0,
+     "fat": 18.5,
+     "satfat": 7.0,
+     "fiber": 1.0,
+     "sugar": 3.5,
+     "sodium": 395.0,
+     "cholesterol": 50.0
+    },
+    {
+     "name": "French Fries, Small",
+     "portion": "1 serving",
+     "kcal": 200,
+     "protein": 3.0,
+     "carbs": 33.0,
+     "fat": 12.0,
+     "satfat": 2.0,
+     "fiber": 3.0,
+     "sugar": 0.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chilli dog no cheese",
+     "portion": "1 serving",
+     "kcal": 198
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger No Cheese",
+    "French Fries, Small",
+    "Chilli dog no cheese"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-19-3",
+   "name": "Breadstick, w/ Garlic Butter Spread · Soup, Minestrone",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 195,
+   "protein": 6.5,
+   "carbs": 34.0,
+   "fat": 3.3,
+   "satfat": 0.5,
+   "fiber": 2.5,
+   "sugar": 3.0,
+   "sodium": 880.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Breadstick, w/ Garlic Butter Spread",
+     "portion": "1 each",
+     "kcal": 140,
+     "protein": 4.0,
+     "carbs": 25.0,
+     "fat": 2.5,
+     "satfat": 0.5,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 460.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Soup, Minestrone",
+     "portion": "1/2 each",
+     "kcal": 55,
+     "protein": 2.5,
+     "carbs": 9.0,
+     "fat": 0.8,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 420.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Breadstick, w/ Garlic Butter Spread",
+    "Soup, Minestrone"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-06-19-4",
+   "name": "Bar Wings 'n' Yukon Chips W/ Whiskey Sauce · Fries, Steak, Side · Honey Mustard Poppyseed Dressing + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1569,
+   "protein": 8.1,
+   "carbs": 118.0,
+   "fat": 44.0,
+   "satfat": 12.1,
+   "fiber": 6.0,
+   "sugar": 2.0,
+   "sodium": 2083.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bar Wings 'n' Yukon Chips W/ Whiskey Sauce",
+     "portion": "2/3 each",
+     "kcal": 873,
+     "carbs": 39.4,
+     "satfat": 12.1,
+     "sodium": 1624.2
+    },
+    {
+     "name": "Fries, Steak, Side",
+     "portion": "1 each",
+     "kcal": 371,
+     "protein": 6.0,
+     "carbs": 60.0,
+     "fat": 17.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 444.0
+    },
+    {
+     "name": "Honey Mustard Poppyseed Dressing",
+     "portion": "1 1/8 servings",
+     "kcal": 305,
+     "protein": 1.1,
+     "carbs": 14.6,
+     "fat": 27.0
+    },
+    {
+     "name": "Side salad",
+     "portion": "1 serving",
+     "kcal": 20,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 2.0,
+     "sodium": 15.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bar Wings 'n' Yukon Chips W/ Whiskey Sauce",
+    "Fries, Steak, Side",
+    "Honey Mustard Poppyseed Dressing",
+    "Side salad"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

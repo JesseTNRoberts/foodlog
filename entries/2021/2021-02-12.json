@@ -1,0 +1,364 @@
+{
+ "date": "2021-02-12",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-12-1",
+   "name": "Boneless Hot Honey Mustard Wings · Fries Regular · Chicken Fingers + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 858,
+   "protein": 34.7,
+   "carbs": 76.8,
+   "fat": 54.4,
+   "satfat": 4.6,
+   "fiber": 6.6,
+   "sugar": 7.8,
+   "sodium": 1792.7,
+   "cholesterol": 95.0,
+   "components": [
+    {
+     "name": "Boneless Hot Honey Mustard Wings",
+     "portion": "4 pieces",
+     "kcal": 360,
+     "protein": 15.2,
+     "carbs": 21.6,
+     "fat": 18.4,
+     "fiber": 1.6,
+     "sugar": 4.0,
+     "sodium": 776.0,
+     "cholesterol": 40.0
+    },
+    {
+     "name": "Fries Regular",
+     "portion": "1/2 serving",
+     "kcal": 185,
+     "protein": 4.0,
+     "carbs": 43.0,
+     "fat": 18.0,
+     "satfat": 2.5,
+     "fiber": 4.0,
+     "sugar": 0.5,
+     "sodium": 405.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken Fingers",
+     "portion": "1 piece",
+     "kcal": 133,
+     "protein": 15.0,
+     "carbs": 4.7,
+     "fat": 6.3,
+     "satfat": 0.8,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 453.3,
+     "cholesterol": 41.7
+    },
+    {
+     "name": "Dressing, Honey Mustard",
+     "portion": "2/3 package",
+     "kcal": 100,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 8.7,
+     "satfat": 1.3,
+     "fiber": 0.0,
+     "sugar": 3.3,
+     "sodium": 153.4,
+     "cholesterol": 13.3
+    },
+    {
+     "name": "zaxbys toast",
+     "portion": "1/2 slice",
+     "kcal": 75,
+     "protein": 0.5,
+     "carbs": 3.5,
+     "fat": 3.0
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Boneless Hot Honey Mustard Wings",
+    "Fries Regular",
+    "Chicken Fingers",
+    "Dressing, Honey Mustard",
+    "zaxbys toast",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-12-2",
+   "name": "Veggie Soup (mushroom and celery) · Half and Half Tea · Hummus, spinach and artichoke + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 659,
+   "protein": 17.8,
+   "carbs": 95.7,
+   "fat": 20.6,
+   "satfat": 2.9,
+   "fiber": 19.2,
+   "sugar": 34.6,
+   "sodium": 2088.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Veggie Soup (mushroom and celery)",
+     "portion": "14 ounces",
+     "kcal": 373,
+     "protein": 12.3,
+     "carbs": 49.5,
+     "fat": 11.3,
+     "satfat": 1.7,
+     "fiber": 14.8,
+     "sugar": 9.1,
+     "sodium": 1625.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "2 1/2 tablespoons",
+     "kcal": 88,
+     "protein": 2.5,
+     "carbs": 6.2,
+     "fat": 6.2,
+     "satfat": 1.2,
+     "fiber": 1.2,
+     "sugar": 0.0,
+     "sodium": 143.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "17 1/3 grams",
+     "kcal": 80,
+     "protein": 1.9,
+     "carbs": 12.4,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 123.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pasta sauce, fire roasted tomato and garlic",
+     "portion": "1/4 cup",
+     "kcal": 25,
+     "protein": 1.0,
+     "carbs": 5.0,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 190.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1/8 cup",
+     "kcal": 1,
+     "protein": 0.1,
+     "carbs": 0.1,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 0.2,
+     "sodium": 3.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Veggie Soup (mushroom and celery)",
+    "Half and Half Tea",
+    "Hummus, spinach and artichoke",
+    "Chips, Pita Thins, Sea Salt",
+    "Pasta sauce, fire roasted tomato and garlic",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-12-3",
+   "name": "Side, Chow Mein · Half and Half Tea · Broccoletti + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 448,
+   "protein": 13.2,
+   "carbs": 73.2,
+   "fat": 11.7,
+   "satfat": 2.1,
+   "fiber": 8.2,
+   "sugar": 29.2,
+   "sodium": 949.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "5 ounces",
+     "kcal": 271,
+     "protein": 6.9,
+     "carbs": 34.6,
+     "fat": 11.7,
+     "satfat": 2.1,
+     "fiber": 2.1,
+     "sugar": 4.8,
+     "sodium": 521.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoletti",
+     "portion": "8 ounces",
+     "kcal": 80,
+     "protein": 5.3,
+     "carbs": 16.1,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 5.3,
+     "sugar": 2.7,
+     "sodium": 80.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Liquid Aminos",
+     "portion": "1 teaspoon",
+     "kcal": 5,
+     "protein": 1.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 345.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Half and Half Tea",
+    "Broccoletti",
+    "Liquid Aminos"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-12-4",
+   "name": "Tortilla Chips · Salsa, Chunky, Mild",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 221,
+   "protein": 2.4,
+   "carbs": 33.2,
+   "fat": 7.3,
+   "satfat": 1.2,
+   "fiber": 2.4,
+   "sugar": 10.0,
+   "sodium": 1290.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Tortilla Chips",
+     "portion": "11 pieces",
+     "kcal": 171,
+     "protein": 2.4,
+     "carbs": 23.2,
+     "fat": 7.3,
+     "satfat": 1.2,
+     "fiber": 2.4,
+     "sugar": 0.0,
+     "sodium": 140.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "5 fluid ounces",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 10.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 10.0,
+     "sodium": 1150.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Tortilla Chips",
+    "Salsa, Chunky, Mild"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

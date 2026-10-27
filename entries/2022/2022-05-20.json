@@ -1,0 +1,191 @@
+{
+ "date": "2022-05-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-20-1",
+   "name": "Salad Dressing, Caesar · Homestyle Croutons Caesar · Unsalted Sunflower Kernals + 4 more",
+   "portion": "Lunch · 7 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 571,
+   "protein": 13.6,
+   "carbs": 43.7,
+   "fat": 35.0,
+   "satfat": 6.8,
+   "fiber": 7.1,
+   "sugar": 3.7,
+   "sodium": 757.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Salad Dressing, Caesar",
+     "portion": "3 tablespoons",
+     "kcal": 165,
+     "protein": 0.0,
+     "carbs": 1.5,
+     "fat": 18.0,
+     "satfat": 1.5,
+     "sodium": 127.5
+    },
+    {
+     "name": "Homestyle Croutons Caesar",
+     "portion": "9 tablespoons",
+     "kcal": 135,
+     "protein": 4.5,
+     "carbs": 22.5,
+     "fat": 4.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 337.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Unsalted Sunflower Kernals",
+     "portion": "2 tablespoons",
+     "kcal": 105,
+     "protein": 3.5,
+     "carbs": 3.5,
+     "fat": 8.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salad, mixed greens",
+     "portion": "2 cups",
+     "kcal": 67,
+     "protein": 1.3,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "fiber": 1.3,
+     "sodium": 20.0
+    },
+    {
+     "name": "vegan cheese",
+     "portion": "3/4 serving",
+     "kcal": 53,
+     "protein": 0.0,
+     "carbs": 3.8,
+     "fat": 3.8,
+     "satfat": 3.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "4 cups",
+     "kcal": 28,
+     "protein": 3.4,
+     "carbs": 4.4,
+     "fat": 0.5,
+     "satfat": 0.7,
+     "fiber": 2.6,
+     "sugar": 0.5,
+     "sodium": 94.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "6 each",
+     "kcal": 18,
+     "protein": 0.9,
+     "carbs": 4.0,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.7,
+     "sodium": 5.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salad Dressing, Caesar",
+    "Homestyle Croutons Caesar",
+    "Unsalted Sunflower Kernals",
+    "Salad, mixed greens",
+    "vegan cheese",
+    "Spinach, Baby, Fresh",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-20-2",
+   "name": "Chicken Tender · Fries, Crinkle Cut · Sauce, Cane's",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 1028,
+   "protein": 32.0,
+   "carbs": 83.0,
+   "fat": 61.0,
+   "satfat": 5.0,
+   "fiber": 4.0,
+   "sugar": 4.0,
+   "sodium": 640.0,
+   "cholesterol": 10.0,
+   "components": [
+    {
+     "name": "Chicken Tender",
+     "portion": "4 pieces",
+     "kcal": 508,
+     "protein": 28.0,
+     "carbs": 36.0,
+     "fat": 28.0
+    },
+    {
+     "name": "Fries, Crinkle Cut",
+     "portion": "1 serving",
+     "kcal": 330,
+     "protein": 4.0,
+     "carbs": 42.0,
+     "fat": 15.0,
+     "satfat": 2.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Cane's",
+     "portion": "1 serving",
+     "kcal": 190,
+     "protein": 0.0,
+     "carbs": 5.0,
+     "fat": 18.0,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 4.0,
+     "sodium": 550.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tender",
+    "Fries, Crinkle Cut",
+    "Sauce, Cane's"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

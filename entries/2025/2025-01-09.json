@@ -1,0 +1,490 @@
+{
+ "date": "2025-01-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-09-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blueberries + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 328,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 16.0,
+   "satfat": 1.0,
+   "fiber": 10.7,
+   "sugar": 16.1,
+   "sodium": 159.8,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "2 tablespoons",
+     "kcal": 7,
+     "protein": 0.1,
+     "carbs": 1.6,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 1.1,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blueberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-09-2",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Foccacia Bread · Oat Milk + 3 more",
+   "portion": "Morning Snacks · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 579,
+   "protein": 22.4,
+   "carbs": 94.1,
+   "fat": 12.5,
+   "satfat": 2.0,
+   "fiber": 7.4,
+   "sugar": 21.3,
+   "sodium": 1122.6,
+   "cholesterol": 25.5,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1 1/2 cups",
+     "kcal": 240,
+     "protein": 4.0,
+     "carbs": 50.0,
+     "fat": 3.0,
+     "satfat": 0.0,
+     "fiber": 4.0,
+     "sugar": 12.0,
+     "sodium": 270.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Foccacia Bread",
+     "portion": "1/2 each",
+     "kcal": 144,
+     "protein": 5.5,
+     "carbs": 26.6,
+     "fat": 1.8,
+     "fiber": 1.4,
+     "sugar": 0.8,
+     "sodium": 330.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk",
+     "portion": "1 cup",
+     "kcal": 120,
+     "protein": 3.0,
+     "carbs": 16.0,
+     "fat": 5.0,
+     "satfat": 0.5,
+     "fiber": 2.0,
+     "sugar": 7.0,
+     "sodium": 140.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "1 1/2 ounces",
+     "kcal": 45,
+     "protein": 8.2,
+     "carbs": 1.5,
+     "fat": 0.4,
+     "sugar": 1.5,
+     "sodium": 292.5,
+     "cholesterol": 18.8
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1/3 slice",
+     "kcal": 30,
+     "protein": 1.7,
+     "carbs": 0.0,
+     "fat": 2.3,
+     "satfat": 1.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 50.0,
+     "cholesterol": 6.7
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Foccacia Bread",
+    "Oat Milk",
+    "Maple And Honey Turkey",
+    "Cheese, Sharp White Cheddar",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-09-3",
+   "name": "French Toast Casserole · Potatoes, skillet fried · Broccoli And Cheddar Cheese Soup + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 739,
+   "protein": 36.7,
+   "carbs": 64.3,
+   "fat": 37.5,
+   "satfat": 14.8,
+   "fiber": 6.1,
+   "sugar": 19.3,
+   "sodium": 2013.9,
+   "cholesterol": 463.4,
+   "components": [
+    {
+     "name": "French Toast Casserole",
+     "portion": "1 serving",
+     "kcal": 191,
+     "protein": 5.5,
+     "carbs": 14.5,
+     "fat": 3.5,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sodium": 242.4,
+     "cholesterol": 75.6
+    },
+    {
+     "name": "Potatoes, skillet fried",
+     "portion": "1/2 cup",
+     "kcal": 175,
+     "protein": 2.0,
+     "carbs": 16.5,
+     "fat": 5.0,
+     "satfat": 0.8,
+     "fiber": 1.6,
+     "sugar": 1.5,
+     "sodium": 100.0
+    },
+    {
+     "name": "Broccoli And Cheddar Cheese Soup",
+     "portion": "1 cup",
+     "kcal": 140,
+     "protein": 18.0,
+     "carbs": 16.0,
+     "fat": 16.0,
+     "satfat": 8.0,
+     "fiber": 1.0,
+     "sugar": 9.0,
+     "sodium": 806.0,
+     "cholesterol": 59.0
+    },
+    {
+     "name": "Scrambled Eggs (2 eggs), just eggs",
+     "portion": "3 ounces",
+     "kcal": 133,
+     "protein": 10.2,
+     "carbs": 1.3,
+     "fat": 8.5,
+     "satfat": 2.5,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 105.5,
+     "cholesterol": 318.8
+    },
+    {
+     "name": "Pumpkin Butternut Squash Bisque",
+     "portion": "1 cup",
+     "kcal": 100,
+     "protein": 1.0,
+     "carbs": 16.0,
+     "fat": 4.5,
+     "satfat": 2.0,
+     "fiber": 3.0,
+     "sugar": 8.0,
+     "sodium": 760.0,
+     "cholesterol": 10.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "French Toast Casserole",
+    "Potatoes, skillet fried",
+    "Broccoli And Cheddar Cheese Soup",
+    "Scrambled Eggs (2 eggs), just eggs",
+    "Pumpkin Butternut Squash Bisque"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-09-4",
+   "name": "Tortilla Chips (Rounds) 10 Chips · Salsa, Chunky, Med",
+   "portion": "Afternoon Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 155,
+   "protein": 2.0,
+   "carbs": 21.0,
+   "fat": 7.0,
+   "satfat": 1.0,
+   "fiber": 2.0,
+   "sugar": 3.0,
+   "sodium": 435.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Tortilla Chips (Rounds) 10 Chips",
+     "portion": "10 pieces",
+     "kcal": 140,
+     "protein": 2.0,
+     "carbs": 18.0,
+     "fat": 7.0,
+     "satfat": 1.0,
+     "fiber": 2.0,
+     "sugar": 0.0,
+     "sodium": 90.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Salsa, Chunky, Med",
+     "portion": "3 tablespoons",
+     "kcal": 15,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 345.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Tortilla Chips (Rounds) 10 Chips",
+    "Salsa, Chunky, Med"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-09-5",
+   "name": "Banana, Small, 6\" to 6 7/8\" Long · Cuties",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 130,
+   "protein": 1.6,
+   "carbs": 32.2,
+   "fat": 0.5,
+   "satfat": 0.1,
+   "fiber": 4.6,
+   "sugar": 18.8,
+   "sodium": 1.1,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Banana, Small, 6\" to 6 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 1.1,
+     "carbs": 23.7,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 12.3,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cuties",
+     "portion": "1 each",
+     "kcal": 40,
+     "protein": 0.5,
+     "carbs": 8.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Small, 6\" to 6 7/8\" Long",
+    "Cuties"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-09-6",
+   "name": "Red Cabbage Veggie Soup · Roasted Chimichurri Rainbow Carrots",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 195,
+   "protein": 4.4,
+   "carbs": 36.3,
+   "fat": 11.3,
+   "satfat": 1.0,
+   "fiber": 7.8,
+   "sugar": 11.1,
+   "sodium": 566.6,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Red Cabbage Veggie Soup",
+     "portion": "1/2 serving",
+     "kcal": 105,
+     "protein": 3.4,
+     "carbs": 22.3,
+     "fat": 5.8,
+     "satfat": 0.9,
+     "fiber": 3.8,
+     "sugar": 4.1,
+     "sodium": 176.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Roasted Chimichurri Rainbow Carrots",
+     "portion": "4 ounces",
+     "kcal": 90,
+     "protein": 1.0,
+     "carbs": 14.0,
+     "fat": 5.5,
+     "satfat": 0.1,
+     "fiber": 4.0,
+     "sugar": 7.0,
+     "sodium": 390.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Red Cabbage Veggie Soup",
+    "Roasted Chimichurri Rainbow Carrots"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

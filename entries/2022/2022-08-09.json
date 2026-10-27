@@ -1,0 +1,104 @@
+{
+ "date": "2022-08-09",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-08-09-1",
+   "name": "Bread, Sourdough · Cultured Vegan Butter Made With Oat Milk · Peach, Large + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 391,
+   "protein": 9.5,
+   "carbs": 68.5,
+   "fat": 10.5,
+   "satfat": 5.1,
+   "fiber": 4.6,
+   "sugar": 30.1,
+   "sodium": 489.4,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bread, Sourdough",
+     "portion": "1 slice",
+     "kcal": 185,
+     "protein": 7.5,
+     "carbs": 36.1,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 1.6,
+     "sodium": 416.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cultured Vegan Butter Made With Oat Milk",
+     "portion": "1/2 ounce",
+     "kcal": 81,
+     "protein": 0.0,
+     "carbs": 1.1,
+     "fat": 8.1,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 70.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Peach, Large",
+     "portion": "1 each",
+     "kcal": 68,
+     "protein": 1.6,
+     "carbs": 16.7,
+     "fat": 0.4,
+     "satfat": 0.2,
+     "fiber": 2.6,
+     "sugar": 14.7,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Jelly, Concord Grape",
+     "portion": "1 tablespoon",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 13.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 12.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Fresh, Medium",
+     "portion": "1/3 each",
+     "kcal": 7,
+     "protein": 0.4,
+     "carbs": 1.6,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 0.5,
+     "sugar": 1.8,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Sourdough",
+    "Cultured Vegan Butter Made With Oat Milk",
+    "Peach, Large",
+    "Jelly, Concord Grape",
+    "Tomatoes, Fresh, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

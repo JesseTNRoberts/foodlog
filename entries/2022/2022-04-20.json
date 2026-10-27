@@ -1,0 +1,169 @@
+{
+ "date": "2022-04-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-20-1",
+   "name": "Plant-based ranch chopped salad kit",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 420,
+   "protein": 9.3,
+   "carbs": 30.3,
+   "fat": 32.7,
+   "satfat": 3.5,
+   "fiber": 7.0,
+   "sugar": 4.7,
+   "sodium": 886.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant-based ranch chopped salad kit",
+     "portion": "2 1/3 servings",
+     "kcal": 420,
+     "protein": 9.3,
+     "carbs": 30.3,
+     "fat": 32.7,
+     "satfat": 3.5,
+     "fiber": 7.0,
+     "sugar": 4.7,
+     "sodium": 886.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based ranch chopped salad kit"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-20-2",
+   "name": "Salmon Patty · Croissant / Crescent, Rolls · Apricot Pie + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1314,
+   "protein": 65.0,
+   "carbs": 91.0,
+   "fat": 47.0,
+   "satfat": 8.0,
+   "fiber": 0.0,
+   "sugar": 52.0,
+   "sodium": 895.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Salmon Patty",
+     "portion": "3 servings",
+     "kcal": 420,
+     "protein": 57.0,
+     "carbs": 3.0,
+     "fat": 27.0,
+     "fiber": 0.0,
+     "sugar": 0.0
+    },
+    {
+     "name": "Croissant / Crescent, Rolls",
+     "portion": "4 each",
+     "kcal": 400,
+     "protein": 8.0,
+     "carbs": 48.0,
+     "fat": 20.0,
+     "satfat": 8.0,
+     "fiber": 0.0,
+     "sugar": 12.0,
+     "sodium": 840.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Apricot Pie",
+     "portion": "1 slice",
+     "kcal": 174
+    },
+    {
+     "name": "Vegetable Soup",
+     "portion": "2 cups",
+     "kcal": 170
+    },
+    {
+     "name": "12oz Can",
+     "portion": "1 can",
+     "kcal": 150,
+     "protein": 0.0,
+     "carbs": 40.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 40.0,
+     "sodium": 55.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Salmon Patty",
+    "Croissant / Crescent, Rolls",
+    "Apricot Pie",
+    "Vegetable Soup",
+    "12oz Can"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-04-20-3",
+   "name": "Bistro Crisps",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 32,
+   "protein": 0.3,
+   "carbs": 6.2,
+   "fat": 0.8,
+   "satfat": 0.1,
+   "fiber": 0.8,
+   "sugar": 0.0,
+   "sodium": 67.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bistro Crisps",
+     "portion": "17 pieces",
+     "kcal": 32,
+     "protein": 0.3,
+     "carbs": 6.2,
+     "fat": 0.8,
+     "satfat": 0.1,
+     "fiber": 0.8,
+     "sugar": 0.0,
+     "sodium": 67.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bistro Crisps"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

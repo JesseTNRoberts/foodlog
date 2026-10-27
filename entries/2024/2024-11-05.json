@@ -1,0 +1,427 @@
+{
+ "date": "2024-11-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-11-05-1",
+   "name": "Almond Butter, Raw · Milk, Fat Free, Ultra-Filtered · Bread, Thin Sliced, 21 Whole Grains & Seeds + 3 more",
+   "portion": "Coffee · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 404,
+   "protein": 24.2,
+   "carbs": 41.1,
+   "fat": 17.8,
+   "satfat": 1.3,
+   "fiber": 13.6,
+   "sugar": 20.2,
+   "sodium": 219.2,
+   "cholesterol": 4.9,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1 cup",
+     "kcal": 79,
+     "protein": 12.8,
+     "carbs": 5.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 5.9,
+     "sodium": 118.3,
+     "cholesterol": 4.9
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 5.0,
+     "fat": 4.5,
+     "satfat": 0.5,
+     "fiber": 5.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "4 tablespoons",
+     "kcal": 13,
+     "protein": 0.3,
+     "carbs": 3.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.3,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Chia Seeds",
+    "Blueberries",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-11-05-2",
+   "name": "Clam Chowder, New England, Chunky · Fish Cod Baked · Roasted Carrots + 1 more",
+   "portion": "Lunch · 4 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 790,
+   "protein": 30.6,
+   "carbs": 47.6,
+   "fat": 33.4,
+   "satfat": 5.3,
+   "fiber": 11.2,
+   "sugar": 12.1,
+   "sodium": 2246.6,
+   "cholesterol": 69.5,
+   "components": [
+    {
+     "name": "Clam Chowder, New England, Chunky",
+     "portion": "1 1/2 cups",
+     "kcal": 301,
+     "protein": 9.0,
+     "carbs": 27.1,
+     "fat": 18.1,
+     "satfat": 3.8,
+     "fiber": 4.4,
+     "sugar": 3.1,
+     "sodium": 1304.6,
+     "cholesterol": 22.5
+    },
+    {
+     "name": "Fish Cod Baked",
+     "portion": "4 ounces",
+     "kcal": 280,
+     "protein": 19.0,
+     "carbs": 0.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 66.0,
+     "cholesterol": 47.0
+    },
+    {
+     "name": "Roasted Carrots",
+     "portion": "3 each",
+     "kcal": 165,
+     "protein": 1.5,
+     "carbs": 18.0,
+     "fat": 10.5,
+     "satfat": 1.5,
+     "fiber": 5.4,
+     "sugar": 9.0,
+     "sodium": 726.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Roasted Cauliflower",
+     "portion": "1 cup",
+     "kcal": 44,
+     "protein": 1.1,
+     "carbs": 2.5,
+     "fat": 3.8,
+     "fiber": 1.4,
+     "sodium": 150.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Clam Chowder, New England, Chunky",
+    "Fish Cod Baked",
+    "Roasted Carrots",
+    "Roasted Cauliflower"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-11-05-3",
+   "name": "Mini Dark Chocolate Peanut Butter Cups",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 70,
+   "protein": 1.3,
+   "carbs": 7.0,
+   "fat": 4.6,
+   "satfat": 2.3,
+   "fiber": 0.0,
+   "sugar": 5.6,
+   "sodium": 40.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Mini Dark Chocolate Peanut Butter Cups",
+     "portion": "1 piece",
+     "kcal": 70,
+     "protein": 1.3,
+     "carbs": 7.0,
+     "fat": 4.6,
+     "satfat": 2.3,
+     "fiber": 0.0,
+     "sugar": 5.6,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Mini Dark Chocolate Peanut Butter Cups"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-11-05-4",
+   "name": "Avocado, Small · Red Potatoes, Roasted w/ Oil · Cheddar Jalapeno Sourdough Bread 1/2 Inch Slice + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 711,
+   "protein": 16.3,
+   "carbs": 83.9,
+   "fat": 41.9,
+   "satfat": 4.6,
+   "fiber": 15.0,
+   "sugar": 12.1,
+   "sodium": 384.6,
+   "cholesterol": 15.0,
+   "components": [
+    {
+     "name": "Avocado, Small",
+     "portion": "1 each",
+     "kcal": 227,
+     "protein": 2.7,
+     "carbs": 11.8,
+     "fat": 21.0,
+     "satfat": 2.9,
+     "fiber": 9.2,
+     "sugar": 0.4,
+     "sodium": 10.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Red Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 179,
+     "protein": 3.6,
+     "carbs": 30.6,
+     "fat": 4.9,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 2.2,
+     "sodium": 18.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheddar Jalapeno Sourdough Bread 1/2 Inch Slice",
+     "portion": "1 slice",
+     "kcal": 100,
+     "protein": 6.0,
+     "carbs": 26.0,
+     "fat": 2.0
+    },
+    {
+     "name": "Mayonnaise, Chipotle",
+     "portion": "1 tablespoon",
+     "kcal": 90,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 10.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 95.0,
+     "cholesterol": 15.0
+    },
+    {
+     "name": "Mushroom, Super Chunky Spaghetti Sauce",
+     "portion": "1/2 cup",
+     "kcal": 70,
+     "protein": 2.0,
+     "carbs": 14.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 9.0,
+     "sodium": 260.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Goat Cheese - classic chevre",
+     "portion": "1/2 serving",
+     "kcal": 45,
+     "protein": 2.0,
+     "carbs": 0.5,
+     "fat": 3.0,
+     "sugar": 0.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Small",
+    "Red Potatoes, Roasted w/ Oil",
+    "Cheddar Jalapeno Sourdough Bread 1/2 Inch Slice",
+    "Mayonnaise, Chipotle",
+    "Mushroom, Super Chunky Spaghetti Sauce",
+    "Goat Cheese - classic chevre"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-11-05-5",
+   "name": "Blueberry Scones · Sunchips, Multigrain, Garden Salsa · Hummus, Original (2T = 30g) + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 644,
+   "protein": 8.8,
+   "carbs": 62.9,
+   "fat": 26.9,
+   "satfat": 1.3,
+   "fiber": 8.5,
+   "sugar": 9.6,
+   "sodium": 739.5,
+   "cholesterol": 43.3,
+   "components": [
+    {
+     "name": "Blueberry Scones",
+     "portion": "1 piece",
+     "kcal": 260,
+     "protein": 2.1,
+     "carbs": 17.4,
+     "fat": 7.8,
+     "fiber": 5.0,
+     "sugar": 4.9,
+     "sodium": 251.0,
+     "cholesterol": 43.3
+    },
+    {
+     "name": "Sunchips, Multigrain, Garden Salsa",
+     "portion": "25 each",
+     "kcal": 233,
+     "protein": 3.3,
+     "carbs": 31.7,
+     "fat": 10.0,
+     "satfat": 0.8,
+     "fiber": 3.3,
+     "sugar": 3.3,
+     "sodium": 233.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, Original (2T = 30g)",
+     "portion": "1 ounce",
+     "kcal": 85,
+     "protein": 1.9,
+     "carbs": 4.7,
+     "fat": 6.6,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.9,
+     "sodium": 113.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "1/2 ounce",
+     "kcal": 66,
+     "protein": 1.5,
+     "carbs": 9.1,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.5,
+     "sodium": 141.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Blueberry Scones",
+    "Sunchips, Multigrain, Garden Salsa",
+    "Hummus, Original (2T = 30g)",
+    "Pita Chips, Fire Roasted Jalapeno"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

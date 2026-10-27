@@ -1,0 +1,401 @@
+{
+ "date": "2023-09-08",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-08-1",
+   "name": "Pumpkin Muffins",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 212,
+   "protein": 3.5,
+   "carbs": 30.6,
+   "fat": 10.2,
+   "satfat": 3.9,
+   "fiber": 2.6,
+   "sugar": 14.8,
+   "sodium": 121.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pumpkin Muffins",
+     "portion": "1 serving",
+     "kcal": 212,
+     "protein": 3.5,
+     "carbs": 30.6,
+     "fat": 10.2,
+     "satfat": 3.9,
+     "fiber": 2.6,
+     "sugar": 14.8,
+     "sodium": 121.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Muffins"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-08-2",
+   "name": "Juice, Apple Cider",
+   "portion": "Morning Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 120,
+   "protein": 0.0,
+   "carbs": 30.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 30.0,
+   "sodium": 60.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Juice, Apple Cider",
+     "portion": "8 fluid ounces",
+     "kcal": 120,
+     "protein": 0.0,
+     "carbs": 30.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 30.0,
+     "sodium": 60.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Juice, Apple Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-08-3",
+   "name": "Avocado, Small · White Mountain Bread · Oil, Olive, Extra Virgin + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 492,
+   "protein": 6.5,
+   "carbs": 51.2,
+   "fat": 30.5,
+   "satfat": 4.0,
+   "fiber": 11.5,
+   "sugar": 5.6,
+   "sodium": 346.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Avocado, Small",
+     "portion": "1 each",
+     "kcal": 227,
+     "protein": 2.7,
+     "carbs": 11.8,
+     "fat": 21.0,
+     "satfat": 2.9,
+     "fiber": 9.2,
+     "sugar": 0.4,
+     "sodium": 10.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "White Mountain Bread",
+     "portion": "2 slices",
+     "kcal": 160,
+     "protein": 2.0,
+     "carbs": 33.0,
+     "fat": 2.0,
+     "fiber": 1.0,
+     "sugar": 2.0,
+     "sodium": 330.0
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1/2 tablespoon",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 6.8,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 1/2 each",
+     "kcal": 42,
+     "protein": 1.5,
+     "carbs": 6.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.1,
+     "sugar": 3.0,
+     "sodium": 3.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "1/2 cup",
+     "kcal": 3,
+     "protein": 0.3,
+     "carbs": 0.4,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 0.2,
+     "sugar": 0.2,
+     "sodium": 2.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Avocado, Small",
+    "White Mountain Bread",
+    "Oil, Olive, Extra Virgin",
+    "Tomatoes, Campari",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-08-4",
+   "name": "Plant-based Ranch Dressing · Baby Bell Vegan Cheese · Cucumber, Small + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 195,
+   "protein": 1.7,
+   "carbs": 15.2,
+   "fat": 15.4,
+   "satfat": 4.7,
+   "fiber": 1.9,
+   "sugar": 4.8,
+   "sodium": 457.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "2 tablespoons",
+     "kcal": 110,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 11.0,
+     "satfat": 1.0,
+     "sugar": 1.0,
+     "sodium": 300.0
+    },
+    {
+     "name": "Baby Bell Vegan Cheese",
+     "portion": "1 serving",
+     "kcal": 50,
+     "protein": 0.0,
+     "carbs": 4.0,
+     "fat": 3.5,
+     "satfat": 3.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Greens, Arugula, Leaf",
+     "portion": "1/2 cup",
+     "kcal": 3,
+     "protein": 0.3,
+     "carbs": 0.4,
+     "fat": 0.7,
+     "satfat": 0.1,
+     "fiber": 0.2,
+     "sugar": 0.2,
+     "sodium": 2.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Baby Bell Vegan Cheese",
+    "Cucumber, Small",
+    "Greens, Arugula, Leaf"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-08-5",
+   "name": "Buffalo Chicken Wrapper · Fries Side",
+   "portion": "Dinner · 2 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 717,
+   "protein": 8.9,
+   "carbs": 40.6,
+   "fat": 21.9,
+   "satfat": 3.3,
+   "fiber": 3.3,
+   "sugar": 0.7,
+   "sodium": 172.8,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper",
+     "portion": "1/2 serving",
+     "kcal": 450,
+     "protein": 5.6,
+     "carbs": 7.2,
+     "fat": 3.8
+    },
+    {
+     "name": "Fries Side",
+     "portion": "2/3 serving",
+     "kcal": 267,
+     "protein": 3.3,
+     "carbs": 33.4,
+     "fat": 18.1,
+     "satfat": 3.3,
+     "fiber": 3.3,
+     "sugar": 0.7,
+     "sodium": 172.8
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper",
+    "Fries Side"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-08-6",
+   "name": "Cereal, Honey Bunches of Oats, Honey Roasted · Nuts, Pistachios, Kernels · Snack, Crunchy, Cheese-Less, Puffs + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 369,
+   "protein": 13.2,
+   "carbs": 38.8,
+   "fat": 19.0,
+   "satfat": 1.7,
+   "fiber": 6.2,
+   "sugar": 8.2,
+   "sodium": 465.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "3/4 cup",
+     "kcal": 120,
+     "protein": 2.0,
+     "carbs": 25.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.0,
+     "sodium": 135.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "30 pieces",
+     "kcal": 98,
+     "protein": 3.7,
+     "carbs": 4.9,
+     "fat": 8.0,
+     "satfat": 0.9,
+     "fiber": 1.8,
+     "sugar": 1.2,
+     "sodium": 116.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Nuts, Pistachios, Kernels",
+    "Snack, Crunchy, Cheese-Less, Puffs",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

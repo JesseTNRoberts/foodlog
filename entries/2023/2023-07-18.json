@@ -1,0 +1,193 @@
+{
+ "date": "2023-07-18",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-18-1",
+   "name": "Chicken Tenders and Fried Shrimp · Peach Pie · Abe's Wild Blueberry Mini-muffin",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 984,
+   "protein": 37.9,
+   "carbs": 86.0,
+   "fat": 56.3,
+   "satfat": 11.1,
+   "fiber": 4.7,
+   "sugar": 43.7,
+   "sodium": 1271.3,
+   "cholesterol": 122.5,
+   "components": [
+    {
+     "name": "Chicken Tenders and Fried Shrimp",
+     "portion": "1/2 serving",
+     "kcal": 650,
+     "protein": 35.0,
+     "carbs": 38.5,
+     "fat": 40.0,
+     "satfat": 7.5,
+     "fiber": 2.5,
+     "sugar": 13.5,
+     "sodium": 930.0,
+     "cholesterol": 122.5
+    },
+    {
+     "name": "Peach Pie",
+     "portion": "1 serving",
+     "kcal": 234,
+     "protein": 1.9,
+     "carbs": 32.0,
+     "fat": 12.3,
+     "satfat": 3.1,
+     "fiber": 1.2,
+     "sugar": 20.2,
+     "sodium": 261.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Abe's Wild Blueberry Mini-muffin",
+     "portion": "1/2 serving",
+     "kcal": 100,
+     "protein": 1.0,
+     "carbs": 15.5,
+     "fat": 4.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 10.0,
+     "sodium": 80.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken Tenders and Fried Shrimp",
+    "Peach Pie",
+    "Abe's Wild Blueberry Mini-muffin"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-18-2",
+   "name": "Butternut Manchego Mac and Cheese · Tuna Steak",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 672,
+   "protein": 52.0,
+   "carbs": 58.6,
+   "fat": 26.4,
+   "satfat": 10.6,
+   "fiber": 3.9,
+   "sugar": 5.7,
+   "sodium": 361.2,
+   "cholesterol": 86.0,
+   "components": [
+    {
+     "name": "Butternut Manchego Mac and Cheese",
+     "portion": "1 serving",
+     "kcal": 463,
+     "protein": 18.7,
+     "carbs": 58.6,
+     "fat": 19.7,
+     "satfat": 8.7,
+     "fiber": 3.9,
+     "sugar": 5.7,
+     "sodium": 303.9,
+     "cholesterol": 30.0
+    },
+    {
+     "name": "Tuna Steak",
+     "portion": "4 ounces",
+     "kcal": 209,
+     "protein": 33.3,
+     "carbs": 0.0,
+     "fat": 6.7,
+     "satfat": 1.9,
+     "sodium": 57.3,
+     "cholesterol": 56.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Butternut Manchego Mac and Cheese",
+    "Tuna Steak"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-18-3",
+   "name": "Steak, New York Strip, Grilled · Beef, Sirloin, Steak Tips, Grilled · Crablegs",
+   "portion": "Afternoon Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 629,
+   "protein": 82.0,
+   "carbs": 0.0,
+   "fat": 26.1,
+   "satfat": 9.9,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 134.5,
+   "cholesterol": 235.4,
+   "components": [
+    {
+     "name": "Steak, New York Strip, Grilled",
+     "portion": "4 ounces",
+     "kcal": 312,
+     "protein": 29.1,
+     "carbs": 0.0,
+     "fat": 21.8,
+     "satfat": 8.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 61.4,
+     "cholesterol": 92.5
+    },
+    {
+     "name": "Beef, Sirloin, Steak Tips, Grilled",
+     "portion": "6 ounces",
+     "kcal": 265,
+     "protein": 52.9,
+     "carbs": 0.0,
+     "fat": 4.3,
+     "satfat": 1.4,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 73.1,
+     "cholesterol": 142.9
+    },
+    {
+     "name": "Crablegs",
+     "portion": "10 ounces",
+     "kcal": 52,
+     "carbs": 0.0,
+     "fat": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Steak, New York Strip, Grilled",
+    "Beef, Sirloin, Steak Tips, Grilled",
+    "Crablegs"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

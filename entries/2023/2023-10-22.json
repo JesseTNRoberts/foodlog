@@ -1,0 +1,98 @@
+{
+ "date": "2023-10-22",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-10-22-1",
+   "name": "Sour Dough Bread Slice · Duck Eggs · Vegan Mayo + 2 more",
+   "portion": "Breakfast · 5 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 384,
+   "protein": 11.0,
+   "carbs": 37.7,
+   "fat": 19.5,
+   "satfat": 4.4,
+   "fiber": 1.7,
+   "sugar": 3.3,
+   "sodium": 536.8,
+   "cholesterol": 445.8,
+   "components": [
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "1 slice",
+     "kcal": 185,
+     "protein": 4.0,
+     "carbs": 36.0,
+     "fat": 1.2,
+     "satfat": 0.3,
+     "fiber": 1.5,
+     "sugar": 1.6,
+     "sodium": 328.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Duck Eggs",
+     "portion": "1 each",
+     "kcal": 92,
+     "protein": 6.0,
+     "carbs": 0.5,
+     "fat": 7.0,
+     "satfat": 2.0,
+     "sugar": 0.7,
+     "sodium": 73.0,
+     "cholesterol": 442.0
+    },
+    {
+     "name": "Vegan Mayo",
+     "portion": "1 tablespoon",
+     "kcal": 90,
+     "fat": 10.0,
+     "satfat": 1.5,
+     "sodium": 120.0
+    },
+    {
+     "name": "Raw Goat Milk Mild Cheddar Cheese",
+     "portion": "1/8 ounce",
+     "kcal": 14,
+     "protein": 0.9,
+     "carbs": 0.6,
+     "fat": 1.0,
+     "satfat": 0.6,
+     "fiber": 0.0,
+     "sugar": 0.6,
+     "sodium": 15.0,
+     "cholesterol": 3.8
+    },
+    {
+     "name": "Tomatoes, Fresh, Medium",
+     "portion": "1/8 each",
+     "kcal": 3,
+     "protein": 0.1,
+     "carbs": 0.6,
+     "fat": 0.3,
+     "satfat": 0.0,
+     "fiber": 0.2,
+     "sugar": 0.4,
+     "sodium": 0.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sour Dough Bread Slice",
+    "Duck Eggs",
+    "Vegan Mayo",
+    "Raw Goat Milk Mild Cheddar Cheese",
+    "Tomatoes, Fresh, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

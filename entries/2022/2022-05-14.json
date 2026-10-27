@@ -1,0 +1,176 @@
+{
+ "date": "2022-05-14",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-05-14-1",
+   "name": "Boneless Wings Large Whiskey River",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 435,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "sodium": 0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Boneless Wings Large Whiskey River",
+     "portion": "1/3 serving",
+     "kcal": 435
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Boneless Wings Large Whiskey River"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-14-2",
+   "name": "Vegetables · Fried Rice · Miso Soup + 2 more",
+   "portion": "Dinner · 5 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 727,
+   "protein": 16.6,
+   "carbs": 98.6,
+   "fat": 18.3,
+   "satfat": 0.0,
+   "fiber": 2.7,
+   "sugar": 16.0,
+   "sodium": 2406.1,
+   "cholesterol": 44.4,
+   "components": [
+    {
+     "name": "Vegetables",
+     "portion": "2 cups",
+     "kcal": 345,
+     "protein": 9.3,
+     "carbs": 50.7,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 0.0,
+     "sodium": 1262.7,
+     "cholesterol": 13.3
+    },
+    {
+     "name": "Fried Rice",
+     "portion": "1 cup",
+     "kcal": 220,
+     "protein": 4.0,
+     "carbs": 38.0,
+     "fat": 5.0,
+     "sugar": 9.0,
+     "sodium": 800.0
+    },
+    {
+     "name": "Miso Soup",
+     "portion": "2 servings",
+     "kcal": 100,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 0.0,
+     "satfat": 0.0
+    },
+    {
+     "name": "Salad Dressing, Wasabi Soy & Ginger",
+     "portion": "1 3/4 tablespoons",
+     "kcal": 35,
+     "protein": 0.0,
+     "carbs": 7.9,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 7.0,
+     "sodium": 201.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Shrimp",
+     "portion": "3 pieces",
+     "kcal": 27,
+     "protein": 3.3,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 142.2,
+     "cholesterol": 31.1
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Vegetables",
+    "Fried Rice",
+    "Miso Soup",
+    "Salad Dressing, Wasabi Soy & Ginger",
+    "Shrimp"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2022-05-14-3",
+   "name": "Apple Bundt Cake · Dr Pepper",
+   "portion": "Snacks · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 770,
+   "protein": 0.0,
+   "carbs": 56.0,
+   "fat": 0.0,
+   "satfat": 0,
+   "fiber": 0,
+   "sugar": 55.0,
+   "sodium": 80.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Apple Bundt Cake",
+     "portion": "2 servings",
+     "kcal": 560
+    },
+    {
+     "name": "Dr Pepper",
+     "portion": "1 serving",
+     "kcal": 210,
+     "protein": 0.0,
+     "carbs": 56.0,
+     "fat": 0.0,
+     "sugar": 55.0,
+     "sodium": 80.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Bundt Cake",
+    "Dr Pepper"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

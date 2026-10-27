@@ -1,0 +1,48 @@
+{
+ "date": "2022-04-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2022-04-07-1",
+   "name": "Overnight Oats, Strawberry",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 5.0,
+   "carbs": 30.0,
+   "fat": 7.0,
+   "satfat": 5.0,
+   "fiber": 4.0,
+   "sugar": 7.0,
+   "sodium": 105.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Overnight Oats, Strawberry",
+     "portion": "5 ounces",
+     "kcal": 200,
+     "protein": 5.0,
+     "carbs": 30.0,
+     "fat": 7.0,
+     "satfat": 5.0,
+     "fiber": 4.0,
+     "sugar": 7.0,
+     "sodium": 105.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Overnight Oats, Strawberry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

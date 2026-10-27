@@ -1,0 +1,264 @@
+{
+ "date": "2021-03-04",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-03-04-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 10,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-04-2",
+   "name": "Falafel & Tahini · Thai Drunken Veggies · Hummus, spinach and artichoke + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 637,
+   "protein": 15.2,
+   "carbs": 85.8,
+   "fat": 19.8,
+   "satfat": 3.5,
+   "fiber": 11.0,
+   "sugar": 27.9,
+   "sodium": 763.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Falafel & Tahini",
+     "portion": "1/2 package",
+     "kcal": 180,
+     "protein": 5.5,
+     "carbs": 24.5,
+     "fat": 6.5,
+     "satfat": 0.8,
+     "fiber": 5.0,
+     "sugar": 2.5,
+     "sodium": 300.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Thai Drunken Veggies",
+     "portion": "1/2 serving",
+     "kcal": 170,
+     "protein": 4.0,
+     "carbs": 17.5,
+     "fat": 3.0,
+     "satfat": 1.2,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 serving",
+     "kcal": 92,
+     "protein": 0.0,
+     "carbs": 22.5,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 21.7,
+     "sodium": 2.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "19 1/3 grams",
+     "kcal": 90,
+     "protein": 2.7,
+     "carbs": 13.8,
+     "fat": 2.8,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 0.7,
+     "sodium": 138.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Falafel & Tahini",
+    "Thai Drunken Veggies",
+    "Hummus, spinach and artichoke",
+    "Half and Half Tea",
+    "Chips, Pita Thins, Sea Salt"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-03-04-3",
+   "name": "Kung Pao cauliflower · Crunchy Natural Peanut Butter · Half and Half Tea + 4 more",
+   "portion": "Dinner · 7 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1122,
+   "protein": 85.1,
+   "carbs": 158.6,
+   "fat": 182.8,
+   "satfat": 5.6,
+   "fiber": 82.8,
+   "sugar": 85.3,
+   "sodium": 3433.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Kung Pao cauliflower",
+     "portion": "3 servings",
+     "kcal": 390,
+     "protein": 72.0,
+     "carbs": 57.0,
+     "fat": 162.0,
+     "satfat": 1.5,
+     "fiber": 72.0,
+     "sugar": 18.0,
+     "sodium": 1290.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Crunchy Natural Peanut Butter",
+     "portion": "2 tablespoons",
+     "kcal": 190,
+     "protein": 7.0,
+     "carbs": 8.0,
+     "fat": 16.0,
+     "satfat": 3.5,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 65.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "2 servings",
+     "kcal": 184,
+     "protein": 0.0,
+     "carbs": 45.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.7,
+     "sugar": 43.3,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "21 Whole Grains & Seeds Organic Bread",
+     "portion": "1 piece",
+     "kcal": 110,
+     "protein": 5.0,
+     "carbs": 22.0,
+     "fat": 1.5,
+     "satfat": 0.0,
+     "fiber": 5.0,
+     "sugar": 5.0,
+     "sodium": 170.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Honey Mustard Sauce",
+     "portion": "2 servings",
+     "kcal": 90
+    },
+    {
+     "name": "Salsa, Chunky, Mild",
+     "portion": "1 cup",
+     "kcal": 80,
+     "protein": 0.0,
+     "carbs": 16.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 16.0,
+     "sodium": 1840.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips",
+     "portion": "5 pieces",
+     "kcal": 78,
+     "protein": 1.1,
+     "carbs": 10.6,
+     "fat": 3.3,
+     "satfat": 0.6,
+     "fiber": 1.1,
+     "sugar": 0.0,
+     "sodium": 63.9,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Kung Pao cauliflower",
+    "Crunchy Natural Peanut Butter",
+    "Half and Half Tea",
+    "21 Whole Grains & Seeds Organic Bread",
+    "Honey Mustard Sauce",
+    "Salsa, Chunky, Mild",
+    "Tortilla Chips"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

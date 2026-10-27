@@ -1,0 +1,381 @@
+{
+ "date": "2023-09-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-09-06-1",
+   "name": "Pumpkin Muffins",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 212,
+   "protein": 3.5,
+   "carbs": 30.6,
+   "fat": 10.2,
+   "satfat": 3.9,
+   "fiber": 2.6,
+   "sugar": 14.8,
+   "sodium": 121.2,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Pumpkin Muffins",
+     "portion": "1 serving",
+     "kcal": 212,
+     "protein": 3.5,
+     "carbs": 30.6,
+     "fat": 10.2,
+     "satfat": 3.9,
+     "fiber": 2.6,
+     "sugar": 14.8,
+     "sodium": 121.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pumpkin Muffins"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-06-2",
+   "name": "Naan Bites · Hummus (original) · Plant-based Ranch Dressing + 2 more",
+   "portion": "Morning Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 410,
+   "protein": 10.2,
+   "carbs": 49.6,
+   "fat": 19.9,
+   "satfat": 1.6,
+   "fiber": 5.9,
+   "sugar": 9.3,
+   "sodium": 703.5,
+   "cholesterol": 13.4,
+   "components": [
+    {
+     "name": "Naan Bites",
+     "portion": "5 each",
+     "kcal": 175,
+     "protein": 5.0,
+     "carbs": 28.8,
+     "fat": 3.8,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 1.2,
+     "sodium": 275.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hummus (original)",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 195.0,
+     "cholesterol": 13.4
+    },
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 83,
+     "protein": 0.0,
+     "carbs": 2.2,
+     "fat": 8.2,
+     "satfat": 0.8,
+     "sugar": 0.8,
+     "sodium": 225.0
+    },
+    {
+     "name": "Cucumber, Small",
+     "portion": "1 each",
+     "kcal": 32,
+     "protein": 1.4,
+     "carbs": 7.8,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.7,
+     "sugar": 3.6,
+     "sodium": 4.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "5 each",
+     "kcal": 15,
+     "protein": 0.8,
+     "carbs": 3.3,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.2,
+     "sugar": 2.2,
+     "sodium": 4.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Naan Bites",
+    "Hummus (original)",
+    "Plant-based Ranch Dressing",
+    "Cucumber, Small",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-06-3",
+   "name": "Einstein Brothers",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 220,
+   "protein": 3.0,
+   "carbs": 51.0,
+   "fat": 1.0,
+   "satfat": 0.0,
+   "fiber": 1.0,
+   "sugar": 42.0,
+   "sodium": 0.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Einstein Brothers",
+     "portion": "16 ounces",
+     "kcal": 220,
+     "protein": 3.0,
+     "carbs": 51.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 42.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Einstein Brothers"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-06-4",
+   "name": "Nuts, Pistachios, Kernels",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 114,
+   "protein": 4.3,
+   "carbs": 5.7,
+   "fat": 9.3,
+   "satfat": 1.7,
+   "fiber": 2.1,
+   "sugar": 1.4,
+   "sodium": 135.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "35 pieces",
+     "kcal": 114,
+     "protein": 4.3,
+     "carbs": 5.7,
+     "fat": 9.3,
+     "satfat": 1.7,
+     "fiber": 2.1,
+     "sugar": 1.4,
+     "sodium": 135.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Nuts, Pistachios, Kernels"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-06-5",
+   "name": "Milk, Oat Milk · Banana, Medium, 7\" - 7 7/8\" Long · Strawberries, Whole + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 140,
+   "protein": 2.9,
+   "carbs": 25.1,
+   "fat": 4.7,
+   "satfat": 0.9,
+   "fiber": 3.7,
+   "sugar": 13.4,
+   "sodium": 68.8,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Milk, Oat Milk",
+     "portion": "1/2 cup",
+     "kcal": 70,
+     "protein": 1.5,
+     "carbs": 8.0,
+     "fat": 3.5,
+     "satfat": 0.2,
+     "fiber": 1.0,
+     "sugar": 3.5,
+     "sodium": 50.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Banana, Medium, 7\" - 7 7/8\" Long",
+     "portion": "1/2 each",
+     "kcal": 53,
+     "protein": 0.6,
+     "carbs": 13.5,
+     "fat": 0.2,
+     "satfat": 0.6,
+     "fiber": 1.5,
+     "sugar": 7.2,
+     "sodium": 0.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Whole",
+     "portion": "3 each",
+     "kcal": 12,
+     "protein": 0.2,
+     "carbs": 2.8,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.7,
+     "sugar": 1.8,
+     "sodium": 0.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "3/4 cup",
+     "kcal": 5,
+     "protein": 0.6,
+     "carbs": 0.8,
+     "fat": 0.9,
+     "satfat": 0.1,
+     "fiber": 0.5,
+     "sugar": 0.9,
+     "sodium": 17.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Milk, Oat Milk",
+    "Banana, Medium, 7\" - 7 7/8\" Long",
+    "Strawberries, Whole",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-09-06-6",
+   "name": "Chili Mac With Impossible Pork · Fig Bar Blueberry Or Raspberry · Juice, Apple Cider",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 500,
+   "protein": 15.0,
+   "carbs": 81.0,
+   "fat": 13.5,
+   "satfat": 2.5,
+   "fiber": 7.0,
+   "sugar": 29.0,
+   "sodium": 1005.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Chili Mac With Impossible Pork",
+     "portion": "1 serving",
+     "kcal": 350,
+     "protein": 13.0,
+     "carbs": 49.0,
+     "fat": 11.0,
+     "satfat": 2.5,
+     "fiber": 5.0,
+     "sugar": 5.0,
+     "sodium": 940.0
+    },
+    {
+     "name": "Fig Bar Blueberry Or Raspberry",
+     "portion": "1 serving",
+     "kcal": 90,
+     "protein": 2.0,
+     "carbs": 17.0,
+     "fat": 2.5,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 9.0,
+     "sodium": 35.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Juice, Apple Cider",
+     "portion": "4 fluid ounces",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 15.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 15.0,
+     "sodium": 30.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chili Mac With Impossible Pork",
+    "Fig Bar Blueberry Or Raspberry",
+    "Juice, Apple Cider"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

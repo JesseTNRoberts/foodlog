@@ -1,0 +1,433 @@
+{
+ "date": "2023-08-20",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-08-20-1",
+   "name": "Apple Stack Cake",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 173,
+   "protein": 0.5,
+   "carbs": 30.0,
+   "fat": 5.0,
+   "satfat": 1.5,
+   "fiber": 0.5,
+   "sugar": 20.0,
+   "sodium": 113.0,
+   "cholesterol": 21.5,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1/2 serving",
+     "kcal": 173,
+     "protein": 0.5,
+     "carbs": 30.0,
+     "fat": 5.0,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 20.0,
+     "sodium": 113.0,
+     "cholesterol": 21.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-20-2",
+   "name": "Just Egg · Bread · Snack, Crunchy, Cheese-Less, Puffs + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 559,
+   "protein": 25.8,
+   "carbs": 61.9,
+   "fat": 37.1,
+   "satfat": 1.9,
+   "fiber": 6.5,
+   "sugar": 10.7,
+   "sodium": 1082.5,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Just Egg",
+     "portion": "1/2 cup",
+     "kcal": 187,
+     "protein": 13.3,
+     "carbs": 2.7,
+     "fat": 13.3,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 426.7,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 5.2,
+     "carbs": 27.7,
+     "fat": 11.0,
+     "sodium": 269.0
+    },
+    {
+     "name": "Snack, Crunchy, Cheese-Less, Puffs",
+     "portion": "8 pieces",
+     "kcal": 86,
+     "protein": 2.5,
+     "carbs": 7.4,
+     "fat": 5.5,
+     "satfat": 0.6,
+     "fiber": 1.9,
+     "sugar": 0.0,
+     "sodium": 104.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "3 each",
+     "kcal": 84,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.2,
+     "sugar": 6.0,
+     "sodium": 6.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "2 tablespoons",
+     "kcal": 70,
+     "protein": 0.0,
+     "carbs": 2.0,
+     "fat": 7.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 270.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cucumber, Medium",
+     "portion": "1 each",
+     "kcal": 42,
+     "protein": 1.8,
+     "carbs": 10.1,
+     "fat": 0.3,
+     "satfat": 0.8,
+     "fiber": 1.4,
+     "sugar": 4.7,
+     "sodium": 5.6,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg",
+    "Bread",
+    "Snack, Crunchy, Cheese-Less, Puffs",
+    "Tomatoes, Campari",
+    "Oat Milk Ranch Dressing",
+    "Cucumber, Medium"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-20-3",
+   "name": "BONELESS BBQ CHICKEN WINGS · Nuts, Pistachios, Kernels · Fish, Haddock, Filet, Grilled + 2 more",
+   "portion": "Afternoon Snacks · 5 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 564,
+   "protein": 34.8,
+   "carbs": 43.9,
+   "fat": 26.3,
+   "satfat": 5.1,
+   "fiber": 6.2,
+   "sugar": 4.5,
+   "sodium": 1969.0,
+   "cholesterol": 90.2,
+   "components": [
+    {
+     "name": "BONELESS BBQ CHICKEN WINGS",
+     "portion": "4 pieces",
+     "kcal": 360,
+     "protein": 16.8,
+     "carbs": 32.8,
+     "fat": 16.0,
+     "satfat": 3.2,
+     "fiber": 3.2,
+     "sodium": 1504.0,
+     "cholesterol": 52.0
+    },
+    {
+     "name": "Nuts, Pistachios, Kernels",
+     "portion": "25 pieces",
+     "kcal": 82,
+     "protein": 3.6,
+     "carbs": 4.8,
+     "fat": 6.6,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 1.2,
+     "sodium": 96.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Fish, Haddock, Filet, Grilled",
+     "portion": "3 ounces",
+     "kcal": 67,
+     "protein": 12.4,
+     "carbs": 0.0,
+     "fat": 2.4,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 344.2,
+     "cholesterol": 38.2
+    },
+    {
+     "name": "Tomatoes, Campari",
+     "portion": "1 each",
+     "kcal": 28,
+     "protein": 1.0,
+     "carbs": 4.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 2.0,
+     "sodium": 2.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chocolate Chip Crunchy Cookie",
+     "portion": "1 piece",
+     "kcal": 27,
+     "protein": 1.0,
+     "carbs": 2.3,
+     "fat": 1.3,
+     "satfat": 0.6,
+     "fiber": 0.7,
+     "sugar": 1.3,
+     "sodium": 21.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "BONELESS BBQ CHICKEN WINGS",
+    "Nuts, Pistachios, Kernels",
+    "Fish, Haddock, Filet, Grilled",
+    "Tomatoes, Campari",
+    "Chocolate Chip Crunchy Cookie"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-20-4",
+   "name": "BONELESS BBQ CHICKEN WINGS · Sour Dough Bread Slice · Tortilla Chips, Bite Size Rounds + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 488,
+   "protein": 26.5,
+   "carbs": 57.4,
+   "fat": 15.4,
+   "satfat": 3.7,
+   "fiber": 4.5,
+   "sugar": 3.8,
+   "sodium": 1866.2,
+   "cholesterol": 60.2,
+   "components": [
+    {
+     "name": "BONELESS BBQ CHICKEN WINGS",
+     "portion": "2 pieces",
+     "kcal": 180,
+     "protein": 8.4,
+     "carbs": 16.4,
+     "fat": 8.0,
+     "satfat": 1.6,
+     "fiber": 1.6,
+     "sodium": 752.0,
+     "cholesterol": 26.0
+    },
+    {
+     "name": "Sour Dough Bread Slice",
+     "portion": "65 grams",
+     "kcal": 160,
+     "protein": 6.0,
+     "carbs": 30.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 320.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tortilla Chips, Bite Size Rounds",
+     "portion": "10 pieces",
+     "kcal": 58,
+     "protein": 0.8,
+     "carbs": 6.9,
+     "fat": 2.7,
+     "satfat": 0.4,
+     "fiber": 0.4,
+     "sugar": 0.0,
+     "sodium": 44.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Turkey Breast, Santa Fe",
+     "portion": "1 1/2 ounces",
+     "kcal": 45,
+     "protein": 9.0,
+     "carbs": 0.8,
+     "fat": 0.4,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.8,
+     "sodium": 345.0,
+     "cholesterol": 22.5
+    },
+    {
+     "name": "Aged Raw Cheddar",
+     "portion": "1/3 ounce",
+     "kcal": 33,
+     "protein": 2.3,
+     "carbs": 0.3,
+     "fat": 2.3,
+     "satfat": 1.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 59.9,
+     "cholesterol": 11.7
+    },
+    {
+     "name": "Salsa, Chunky",
+     "portion": "3 tablespoons",
+     "kcal": 12,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.5,
+     "sugar": 3.0,
+     "sodium": 345.1,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "BONELESS BBQ CHICKEN WINGS",
+    "Sour Dough Bread Slice",
+    "Tortilla Chips, Bite Size Rounds",
+    "Turkey Breast, Santa Fe",
+    "Aged Raw Cheddar",
+    "Salsa, Chunky"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-08-20-5",
+   "name": "Apple Stack Cake · Cereal, Honey Bunches Of Oats, Pecan & Maple · Protein and Nutmilk, Almond and Cashew",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 260,
+   "protein": 6.6,
+   "carbs": 36.8,
+   "fat": 9.0,
+   "satfat": 1.2,
+   "fiber": 2.1,
+   "sugar": 18.3,
+   "sodium": 265.3,
+   "cholesterol": 14.3,
+   "components": [
+    {
+     "name": "Apple Stack Cake",
+     "portion": "1/3 serving",
+     "kcal": 115,
+     "protein": 0.3,
+     "carbs": 20.0,
+     "fat": 3.3,
+     "satfat": 1.0,
+     "fiber": 0.3,
+     "sugar": 13.3,
+     "sodium": 75.3,
+     "cholesterol": 14.3
+    },
+    {
+     "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+     "portion": "1/2 cup",
+     "kcal": 80,
+     "protein": 1.3,
+     "carbs": 15.3,
+     "fat": 1.7,
+     "satfat": 0.0,
+     "fiber": 1.3,
+     "sugar": 4.0,
+     "sodium": 80.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/2 cup",
+     "kcal": 65,
+     "protein": 5.0,
+     "carbs": 1.5,
+     "fat": 4.0,
+     "satfat": 0.2,
+     "fiber": 0.5,
+     "sugar": 1.0,
+     "sodium": 110.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Stack Cake",
+    "Cereal, Honey Bunches Of Oats, Pecan & Maple",
+    "Protein and Nutmilk, Almond and Cashew"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

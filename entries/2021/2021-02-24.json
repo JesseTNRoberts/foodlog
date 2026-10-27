@@ -1,0 +1,264 @@
+{
+ "date": "2021-02-24",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-02-24-1",
+   "name": "Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 5,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 5.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "1 each",
+     "kcal": 5,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 5.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-24-2",
+   "name": "Side, Chow Mein · Chips, Pita Thins, Sea Salt · Pecan Pin Wheels (Little Debbie's) + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 706,
+   "protein": 17.8,
+   "carbs": 75.4,
+   "fat": 25.6,
+   "satfat": 4.0,
+   "fiber": 7.6,
+   "sugar": 7.9,
+   "sodium": 1367.3,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Side, Chow Mein",
+     "portion": "6 ounces",
+     "kcal": 326,
+     "protein": 8.3,
+     "carbs": 41.5,
+     "fat": 14.4,
+     "satfat": 2.5,
+     "fiber": 2.5,
+     "sugar": 5.7,
+     "sodium": 625.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chips, Pita Thins, Sea Salt",
+     "portion": "25 3/4 grams",
+     "kcal": 120,
+     "protein": 2.8,
+     "carbs": 18.4,
+     "fat": 3.7,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 0.9,
+     "sodium": 183.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pecan Pin Wheels (Little Debbie's)",
+     "portion": "2 each",
+     "kcal": 110
+    },
+    {
+     "name": "Hummus, spinach and artichoke",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 3.0,
+     "carbs": 7.5,
+     "fat": 7.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 172.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoletti",
+     "portion": "4 ounces",
+     "kcal": 40,
+     "protein": 2.7,
+     "carbs": 8.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 2.7,
+     "sugar": 1.3,
+     "sodium": 40.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Liquid Aminos",
+     "portion": "1 teaspoon",
+     "kcal": 5,
+     "protein": 1.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 345.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Side, Chow Mein",
+    "Chips, Pita Thins, Sea Salt",
+    "Pecan Pin Wheels (Little Debbie's)",
+    "Hummus, spinach and artichoke",
+    "Broccoletti",
+    "Liquid Aminos"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-02-24-3",
+   "name": "Sandwich, Spicy Chicken · Fries, Waffle Potato, Medium · Sauce, Honey Roasted BBQ + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 1640,
+   "protein": 39.1,
+   "carbs": 214.4,
+   "fat": 68.9,
+   "satfat": 12.8,
+   "fiber": 14.3,
+   "sugar": 104.1,
+   "sodium": 3212.6,
+   "cholesterol": 85.0,
+   "components": [
+    {
+     "name": "Sandwich, Spicy Chicken",
+     "portion": "1 each",
+     "kcal": 490,
+     "protein": 30.0,
+     "carbs": 45.0,
+     "fat": 21.0,
+     "satfat": 4.5,
+     "fiber": 2.0,
+     "sugar": 5.0,
+     "sodium": 1600.0,
+     "cholesterol": 60.0
+    },
+    {
+     "name": "Fries, Waffle Potato, Medium",
+     "portion": "1 serving",
+     "kcal": 400,
+     "protein": 5.0,
+     "carbs": 48.0,
+     "fat": 21.0,
+     "satfat": 3.0,
+     "fiber": 4.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Sauce, Honey Roasted BBQ",
+     "portion": "5 servings",
+     "kcal": 300,
+     "protein": 0.0,
+     "carbs": 15.0,
+     "fat": 25.0,
+     "satfat": 5.0,
+     "fiber": 0.0,
+     "sugar": 10.0,
+     "sodium": 375.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "Dr Pepper Medium",
+     "portion": "1 serving",
+     "kcal": 180,
+     "protein": 0.0,
+     "carbs": 48.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 48.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Half and Half Tea",
+     "portion": "1 1/2 servings",
+     "kcal": 138,
+     "protein": 0.0,
+     "carbs": 33.8,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.2,
+     "sugar": 32.5,
+     "sodium": 3.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Whole Carrot Vegetable Soup",
+     "portion": "8 ounces",
+     "kcal": 132,
+     "protein": 4.1,
+     "carbs": 24.6,
+     "fat": 1.9,
+     "satfat": 0.3,
+     "fiber": 7.1,
+     "sugar": 8.6,
+     "sodium": 1053.8,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Sandwich, Spicy Chicken",
+    "Fries, Waffle Potato, Medium",
+    "Sauce, Honey Roasted BBQ",
+    "Dr Pepper Medium",
+    "Half and Half Tea",
+    "Whole Carrot Vegetable Soup"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

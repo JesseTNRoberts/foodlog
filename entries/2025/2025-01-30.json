@@ -1,0 +1,269 @@
+{
+ "date": "2025-01-30",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-30-1",
+   "name": "Broccoli, Rice, and Cheese Casserole",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 8.0,
+   "carbs": 14.0,
+   "fat": 12.0,
+   "satfat": 6.0,
+   "fiber": 12.0,
+   "sugar": 1.0,
+   "sodium": 766.0,
+   "cholesterol": 31.0,
+   "components": [
+    {
+     "name": "Broccoli, Rice, and Cheese Casserole",
+     "portion": "1 each",
+     "kcal": 200,
+     "protein": 8.0,
+     "carbs": 14.0,
+     "fat": 12.0,
+     "satfat": 6.0,
+     "fiber": 12.0,
+     "sugar": 1.0,
+     "sodium": 766.0,
+     "cholesterol": 31.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Broccoli, Rice, and Cheese Casserole"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-30-2",
+   "name": "Buffalo Chicken Wrapper Fried · French Fries side",
+   "portion": "Lunch · 2 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 469,
+   "protein": 17.7,
+   "carbs": 44.8,
+   "fat": 30.4,
+   "satfat": 7.2,
+   "fiber": 3.7,
+   "sugar": 4.0,
+   "sodium": 1185.2,
+   "cholesterol": 21.8,
+   "components": [
+    {
+     "name": "Buffalo Chicken Wrapper Fried",
+     "portion": "1/4 serving",
+     "kcal": 410,
+     "protein": 16.2,
+     "carbs": 29.8,
+     "fat": 25.2,
+     "satfat": 6.0,
+     "fiber": 2.2,
+     "sugar": 4.0,
+     "sodium": 1185.2,
+     "cholesterol": 21.8
+    },
+    {
+     "name": "French Fries side",
+     "portion": "1/8 serving",
+     "kcal": 59,
+     "protein": 1.5,
+     "carbs": 15.0,
+     "fat": 5.2,
+     "satfat": 1.2,
+     "fiber": 1.5,
+     "sugar": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Buffalo Chicken Wrapper Fried",
+    "French Fries side"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-30-3",
+   "name": "Soup, Tomato, Cream Of",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 83,
+   "protein": 1.4,
+   "carbs": 7.5,
+   "fat": 5.0,
+   "satfat": 0.4,
+   "fiber": 1.0,
+   "sugar": 6.7,
+   "sodium": 399.6,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Soup, Tomato, Cream Of",
+     "portion": "1/3 can",
+     "kcal": 83,
+     "protein": 1.4,
+     "carbs": 7.5,
+     "fat": 5.0,
+     "satfat": 0.4,
+     "fiber": 1.0,
+     "sugar": 6.7,
+     "sodium": 399.6
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soup, Tomato, Cream Of"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-30-4",
+   "name": "Fish, Mahi Mahi, Fillet, Baked · Shrimp · Oil, Olive, Extra Virgin + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 267,
+   "protein": 40.7,
+   "carbs": 3.2,
+   "fat": 6.9,
+   "satfat": 1.1,
+   "fiber": 0.8,
+   "sugar": 1.8,
+   "sodium": 248.6,
+   "cholesterol": 210.7,
+   "components": [
+    {
+     "name": "Fish, Mahi Mahi, Fillet, Baked",
+     "portion": "5 ounces",
+     "kcal": 155,
+     "protein": 33.6,
+     "carbs": 0.0,
+     "fat": 1.3,
+     "satfat": 0.3,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 160.2,
+     "cholesterol": 133.2
+    },
+    {
+     "name": "Shrimp",
+     "portion": "2 ounces",
+     "kcal": 60,
+     "protein": 6.5,
+     "carbs": 0.5,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 85.0,
+     "cholesterol": 77.5
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1/3 tablespoon",
+     "kcal": 40,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 4.5,
+     "satfat": 0.7,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "4 each",
+     "kcal": 12,
+     "protein": 0.6,
+     "carbs": 2.7,
+     "fat": 0.1,
+     "satfat": 0.1,
+     "fiber": 0.8,
+     "sugar": 1.8,
+     "sodium": 3.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Fish, Mahi Mahi, Fillet, Baked",
+    "Shrimp",
+    "Oil, Olive, Extra Virgin",
+    "Tomatoes, Cherry"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-30-5",
+   "name": "Pie, Sweet Potato, Southern, Oven Fresh",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 187,
+   "protein": 2.7,
+   "carbs": 30.2,
+   "fat": 6.7,
+   "satfat": 2.0,
+   "fiber": 1.3,
+   "sugar": 17.3,
+   "sodium": 280.1,
+   "cholesterol": 23.4,
+   "components": [
+    {
+     "name": "Pie, Sweet Potato, Southern, Oven Fresh",
+     "portion": "2/3 slice",
+     "kcal": 187,
+     "protein": 2.7,
+     "carbs": 30.2,
+     "fat": 6.7,
+     "satfat": 2.0,
+     "fiber": 1.3,
+     "sugar": 17.3,
+     "sodium": 280.1,
+     "cholesterol": 23.4
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Pie, Sweet Potato, Southern, Oven Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

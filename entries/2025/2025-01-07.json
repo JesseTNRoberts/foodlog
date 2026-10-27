@@ -1,0 +1,463 @@
+{
+ "date": "2025-01-07",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-01-07-1",
+   "name": "Almond Butter, Raw · Bread, Thin Sliced, 21 Whole Grains & Seeds · Blueberries + 3 more",
+   "portion": "Breakfast · 6 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 328,
+   "protein": 16.1,
+   "carbs": 34.1,
+   "fat": 16.0,
+   "satfat": 1.0,
+   "fiber": 10.7,
+   "sugar": 16.1,
+   "sodium": 159.8,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Almond Butter, Raw",
+     "portion": "1 1/2 tablespoons",
+     "kcal": 150,
+     "protein": 4.5,
+     "carbs": 4.5,
+     "fat": 12.0,
+     "satfat": 0.8,
+     "fiber": 3.0,
+     "sugar": 1.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+     "portion": "1 slice",
+     "kcal": 60,
+     "protein": 3.0,
+     "carbs": 12.0,
+     "fat": 1.0,
+     "satfat": 0.0,
+     "fiber": 3.0,
+     "sugar": 3.0,
+     "sodium": 100.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Blueberries",
+     "portion": "1/2 cup",
+     "kcal": 42,
+     "protein": 0.6,
+     "carbs": 10.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 1.8,
+     "sugar": 7.5,
+     "sodium": 0.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Milk, Fat Free, Ultra-Filtered",
+     "portion": "1/2 cup",
+     "kcal": 39,
+     "protein": 6.4,
+     "carbs": 3.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 3.0,
+     "sodium": 59.1,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Chia Seeds",
+     "portion": "1/2 tablespoon",
+     "kcal": 30,
+     "protein": 1.5,
+     "carbs": 2.5,
+     "fat": 2.2,
+     "satfat": 0.2,
+     "fiber": 2.5,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Strawberries, Sliced",
+     "portion": "2 tablespoons",
+     "kcal": 7,
+     "protein": 0.1,
+     "carbs": 1.6,
+     "fat": 0.6,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 1.1,
+     "sodium": 0.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Almond Butter, Raw",
+    "Bread, Thin Sliced, 21 Whole Grains & Seeds",
+    "Blueberries",
+    "Milk, Fat Free, Ultra-Filtered",
+    "Chia Seeds",
+    "Strawberries, Sliced"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-07-2",
+   "name": "Spicy Chicken Sandwich",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 150,
+   "protein": 9.7,
+   "carbs": 13.7,
+   "fat": 6.3,
+   "satfat": 1.7,
+   "fiber": 0.7,
+   "sugar": 1.7,
+   "sodium": 532.8,
+   "cholesterol": 20.0,
+   "components": [
+    {
+     "name": "Spicy Chicken Sandwich",
+     "portion": "1/3 piece",
+     "kcal": 150,
+     "protein": 9.7,
+     "carbs": 13.7,
+     "fat": 6.3,
+     "satfat": 1.7,
+     "fiber": 0.7,
+     "sugar": 1.7,
+     "sodium": 532.8,
+     "cholesterol": 20.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Spicy Chicken Sandwich"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-07-3",
+   "name": "Foccacia Bread · Maple And Honey Turkey · Cheese, Sharp White Cheddar + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 422,
+   "protein": 29.1,
+   "carbs": 56.2,
+   "fat": 7.8,
+   "satfat": 2.2,
+   "fiber": 2.7,
+   "sugar": 4.6,
+   "sodium": 1360.2,
+   "cholesterol": 47.5,
+   "components": [
+    {
+     "name": "Foccacia Bread",
+     "portion": "1 each",
+     "kcal": 287,
+     "protein": 10.1,
+     "carbs": 53.2,
+     "fat": 3.5,
+     "fiber": 2.7,
+     "sugar": 1.6,
+     "sodium": 660.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Maple And Honey Turkey",
+     "portion": "3 ounces",
+     "kcal": 90,
+     "protein": 16.5,
+     "carbs": 3.0,
+     "fat": 0.8,
+     "sugar": 3.0,
+     "sodium": 585.0,
+     "cholesterol": 37.5
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1/2 slice",
+     "kcal": 45,
+     "protein": 2.5,
+     "carbs": 0.0,
+     "fat": 3.5,
+     "satfat": 2.2,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 75.0,
+     "cholesterol": 10.0
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Foccacia Bread",
+    "Maple And Honey Turkey",
+    "Cheese, Sharp White Cheddar",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-07-4",
+   "name": "Ground Bison, 90% Lean ~ 10% Fat · Oil, Olive, Extra Virgin · Foccacia Bread + 6 more",
+   "portion": "Dinner · 9 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 676,
+   "protein": 41.2,
+   "carbs": 49.1,
+   "fat": 38.2,
+   "satfat": 9.4,
+   "fiber": 6.4,
+   "sugar": 19.2,
+   "sodium": 1347.6,
+   "cholesterol": 71.6,
+   "components": [
+    {
+     "name": "Ground Bison, 90% Lean ~ 10% Fat",
+     "portion": "1/3 pound",
+     "kcal": 253,
+     "protein": 30.6,
+     "carbs": 0.0,
+     "fat": 14.7,
+     "satfat": 5.3,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 79.9,
+     "cholesterol": 66.6
+    },
+    {
+     "name": "Oil, Olive, Extra Virgin",
+     "portion": "1 tablespoon",
+     "kcal": 119,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 13.5,
+     "satfat": 2.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Foccacia Bread",
+     "portion": "1/3 each",
+     "kcal": 96,
+     "protein": 3.4,
+     "carbs": 17.7,
+     "fat": 1.2,
+     "fiber": 0.9,
+     "sugar": 0.5,
+     "sodium": 219.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Dressing, Ranch, Homestyle",
+     "portion": "1 tablespoon",
+     "kcal": 60,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 6.0,
+     "satfat": 0.5,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 120.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Ketchup",
+     "portion": "4 tablespoons",
+     "kcal": 58,
+     "protein": 1.4,
+     "carbs": 15.9,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 0.2,
+     "sugar": 13.7,
+     "sodium": 668.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Famous Fries Crispy French Fried Seasoned Potatoes",
+     "portion": "3/4 ounce",
+     "kcal": 40,
+     "protein": 0.5,
+     "carbs": 5.2,
+     "fat": 1.8,
+     "satfat": 0.5,
+     "fiber": 0.5,
+     "sodium": 97.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "4 cups",
+     "kcal": 28,
+     "protein": 3.4,
+     "carbs": 4.4,
+     "fat": 0.5,
+     "satfat": 0.7,
+     "fiber": 2.6,
+     "sugar": 0.5,
+     "sodium": 94.8,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Tomatoes, Cherry",
+     "portion": "7 each",
+     "kcal": 21,
+     "protein": 1.5,
+     "carbs": 4.7,
+     "fat": 0.2,
+     "satfat": 0.2,
+     "fiber": 1.4,
+     "sugar": 3.1,
+     "sodium": 6.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pickles, Slices, Dill",
+     "portion": "1 each",
+     "kcal": 1,
+     "protein": 0.4,
+     "carbs": 0.2,
+     "fat": 0.1,
+     "satfat": 0.0,
+     "fiber": 0.8,
+     "sugar": 0.9,
+     "sodium": 61.2,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Ground Bison, 90% Lean ~ 10% Fat",
+    "Oil, Olive, Extra Virgin",
+    "Foccacia Bread",
+    "Dressing, Ranch, Homestyle",
+    "Ketchup",
+    "Famous Fries Crispy French Fried Seasoned Potatoes",
+    "Spinach, Baby, Fresh",
+    "Tomatoes, Cherry",
+    "Pickles, Slices, Dill"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-01-07-5",
+   "name": "Banana, Small, 6\" to 6 7/8\" Long · Hot & Spicy Chips · Cuties",
+   "portion": "Snacks · 3 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 11.1,
+   "carbs": 34.7,
+   "fat": 3.0,
+   "satfat": 0.6,
+   "fiber": 5.1,
+   "sugar": 19.3,
+   "sodium": 141.1,
+   "cholesterol": 2.5,
+   "components": [
+    {
+     "name": "Banana, Small, 6\" to 6 7/8\" Long",
+     "portion": "1 each",
+     "kcal": 90,
+     "protein": 1.1,
+     "carbs": 23.7,
+     "fat": 0.3,
+     "satfat": 0.1,
+     "fiber": 2.6,
+     "sugar": 12.3,
+     "sodium": 1.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Hot & Spicy Chips",
+     "portion": "1/2 package",
+     "kcal": 70,
+     "protein": 9.5,
+     "carbs": 2.5,
+     "fat": 2.5,
+     "satfat": 0.5,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 140.0,
+     "cholesterol": 2.5
+    },
+    {
+     "name": "Cuties",
+     "portion": "1 each",
+     "kcal": 40,
+     "protein": 0.5,
+     "carbs": 8.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 2.0,
+     "sugar": 6.5,
+     "sodium": 0.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Banana, Small, 6\" to 6 7/8\" Long",
+    "Hot & Spicy Chips",
+    "Cuties"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

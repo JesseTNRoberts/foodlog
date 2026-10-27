@@ -1,0 +1,279 @@
+{
+ "date": "2025-03-10",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2025-03-10-1",
+   "name": "Egg, Large · Sauteed Spinach · Cheese, Parmesan, Grated",
+   "portion": "Breakfast · 3 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 245,
+   "protein": 20.5,
+   "carbs": 8.9,
+   "fat": 20.9,
+   "satfat": 6.0,
+   "fiber": 4.0,
+   "sugar": 0.9,
+   "sodium": 562.5,
+   "cholesterol": 376.4,
+   "components": [
+    {
+     "name": "Egg, Large",
+     "portion": "2 each",
+     "kcal": 143,
+     "protein": 12.6,
+     "carbs": 0.7,
+     "fat": 9.5,
+     "satfat": 3.1,
+     "fiber": 0.0,
+     "sugar": 0.4,
+     "sodium": 142.0,
+     "cholesterol": 372.0
+    },
+    {
+     "name": "Sauteed Spinach",
+     "portion": "1/2 cup",
+     "kcal": 80,
+     "protein": 6.0,
+     "carbs": 8.0,
+     "fat": 10.0,
+     "satfat": 2.0,
+     "fiber": 4.0,
+     "sodium": 344.0
+    },
+    {
+     "name": "Cheese, Parmesan, Grated",
+     "portion": "1 tablespoon",
+     "kcal": 22,
+     "protein": 1.9,
+     "carbs": 0.2,
+     "fat": 1.4,
+     "satfat": 0.9,
+     "fiber": 0.0,
+     "sugar": 0.5,
+     "sodium": 76.5,
+     "cholesterol": 4.4
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Egg, Large",
+    "Sauteed Spinach",
+    "Cheese, Parmesan, Grated"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-10-2",
+   "name": "Cheese pizza thin crust 14 inch size",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 400,
+   "protein": 17.8,
+   "carbs": 33.4,
+   "fat": 19.8,
+   "satfat": 8.8,
+   "fiber": 2.6,
+   "sugar": 3.8,
+   "sodium": 732.0,
+   "cholesterol": 44.0,
+   "components": [
+    {
+     "name": "Cheese pizza thin crust 14 inch size",
+     "portion": "2 slices",
+     "kcal": 400,
+     "protein": 17.8,
+     "carbs": 33.4,
+     "fat": 19.8,
+     "satfat": 8.8,
+     "fiber": 2.6,
+     "sugar": 3.8,
+     "sodium": 732.0,
+     "cholesterol": 44.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Cheese pizza thin crust 14 inch size"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-10-3",
+   "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size · Butter, Salted · Lobster Tail + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 593,
+   "protein": 44.8,
+   "carbs": 41.9,
+   "fat": 35.4,
+   "satfat": 16.4,
+   "fiber": 2.0,
+   "sugar": 0.0,
+   "sodium": 1317.2,
+   "cholesterol": 197.9,
+   "components": [
+    {
+     "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+     "portion": "1/2 each",
+     "kcal": 264,
+     "protein": 6.0,
+     "carbs": 38.5,
+     "fat": 9.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 0.5,
+     "cholesterol": 2.0
+    },
+    {
+     "name": "Butter, Salted",
+     "portion": "2 tablespoons",
+     "kcal": 205,
+     "protein": 0.2,
+     "carbs": 0.0,
+     "fat": 24.1,
+     "satfat": 14.8,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 4.2,
+     "cholesterol": 62.4
+    },
+    {
+     "name": "Lobster Tail",
+     "portion": "1 1/2 servings",
+     "kcal": 120,
+     "protein": 38.1,
+     "carbs": 2.4,
+     "fat": 1.5,
+     "satfat": 0.1,
+     "fiber": 0.0,
+     "sodium": 1312.5,
+     "cholesterol": 133.5
+    },
+    {
+     "name": "Roasted garlic cloves",
+     "portion": "1 piece",
+     "kcal": 4,
+     "protein": 0.5,
+     "carbs": 1.0,
+     "fat": 0.3,
+     "fiber": 0.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+    "Butter, Salted",
+    "Lobster Tail",
+    "Roasted garlic cloves"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2025-03-10-4",
+   "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size · Banana Peanut Butter Oat Smoothy · Cheese, Sharp White Cheddar + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 543,
+   "protein": 23.1,
+   "carbs": 63.9,
+   "fat": 21.5,
+   "satfat": 7.4,
+   "fiber": 4.8,
+   "sugar": 5.8,
+   "sodium": 387.0,
+   "cholesterol": 40.9,
+   "components": [
+    {
+     "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+     "portion": "1/2 each",
+     "kcal": 264,
+     "protein": 6.0,
+     "carbs": 38.5,
+     "fat": 9.5,
+     "satfat": 1.5,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 0.5,
+     "cholesterol": 2.0
+    },
+    {
+     "name": "Banana Peanut Butter Oat Smoothy",
+     "portion": "1 cup",
+     "kcal": 159,
+     "protein": 5.4,
+     "carbs": 24.9,
+     "fat": 4.5,
+     "satfat": 1.4,
+     "fiber": 3.3,
+     "sugar": 5.8,
+     "sodium": 26.5,
+     "cholesterol": 6.4
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1 slice",
+     "kcal": 90,
+     "protein": 5.0,
+     "carbs": 0.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Turkey Breast, Honey Smoked",
+     "portion": "1 ounce",
+     "kcal": 30,
+     "protein": 6.7,
+     "carbs": 0.5,
+     "fat": 0.5,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 210.0,
+     "cholesterol": 12.5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
+    "Banana Peanut Butter Oat Smoothy",
+    "Cheese, Sharp White Cheddar",
+    "Turkey Breast, Honey Smoked"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

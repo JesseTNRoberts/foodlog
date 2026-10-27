@@ -1,0 +1,138 @@
+{
+ "date": "2021-12-02",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-12-02-1",
+   "name": "Burger King impossible whopper · Iced Coffee, Unsweetened, Grande",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 325,
+   "protein": 0.0,
+   "carbs": 0.0,
+   "fat": 0.0,
+   "satfat": 0.0,
+   "fiber": 0.0,
+   "sugar": 0.0,
+   "sodium": 10.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Burger King impossible whopper",
+     "portion": "1/2 serving",
+     "kcal": 315
+    },
+    {
+     "name": "Iced Coffee, Unsweetened, Grande",
+     "portion": "2 each",
+     "kcal": 10,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 10.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Burger King impossible whopper",
+    "Iced Coffee, Unsweetened, Grande"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-12-02-2",
+   "name": "Soup, Fire Roasted Southwestern Vegetable, Organic",
+   "portion": "Lunch · 1 food as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 200,
+   "protein": 4.0,
+   "carbs": 29.0,
+   "fat": 8.0,
+   "satfat": 1.0,
+   "fiber": 5.0,
+   "sugar": 7.0,
+   "sodium": 1130.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Soup, Fire Roasted Southwestern Vegetable, Organic",
+     "portion": "1 1/2 cups",
+     "kcal": 200,
+     "protein": 4.0,
+     "carbs": 29.0,
+     "fat": 8.0,
+     "satfat": 1.0,
+     "fiber": 5.0,
+     "sugar": 7.0,
+     "sodium": 1130.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Soup, Fire Roasted Southwestern Vegetable, Organic"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2021-12-02-3",
+   "name": "Bistro Crisps",
+   "portion": "Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 61,
+   "protein": 0.5,
+   "carbs": 11.7,
+   "fat": 1.5,
+   "satfat": 0.2,
+   "fiber": 1.5,
+   "sugar": 0.0,
+   "sodium": 127.0,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Bistro Crisps",
+     "portion": "32 pieces",
+     "kcal": 61,
+     "protein": 0.5,
+     "carbs": 11.7,
+     "fat": 1.5,
+     "satfat": 0.2,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 127.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Bistro Crisps"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

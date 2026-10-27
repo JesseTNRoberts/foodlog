@@ -1,0 +1,53 @@
+{
+ "date": "2021-10-05",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2021-10-05-1",
+   "name": "Apple Crisp Machiato · fried pie, apple",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 460,
+   "protein": 12.0,
+   "carbs": 47.0,
+   "fat": 7.0,
+   "satfat": 4.5,
+   "fiber": 0,
+   "sugar": 45.0,
+   "sodium": 280.0,
+   "cholesterol": 25.0,
+   "components": [
+    {
+     "name": "Apple Crisp Machiato",
+     "portion": "16 ounces",
+     "kcal": 300,
+     "protein": 12.0,
+     "carbs": 47.0,
+     "fat": 7.0,
+     "satfat": 4.5,
+     "sugar": 45.0,
+     "sodium": 280.0,
+     "cholesterol": 25.0
+    },
+    {
+     "name": "fried pie, apple",
+     "portion": "1 serving",
+     "kcal": 160
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Apple Crisp Machiato",
+    "fried pie, apple"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

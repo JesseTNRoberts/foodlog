@@ -1,0 +1,470 @@
+{
+ "date": "2024-05-06",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2024-05-06-1",
+   "name": "Just Egg Quiche",
+   "portion": "Breakfast · 1 food as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 321,
+   "protein": 8.2,
+   "carbs": 24.5,
+   "fat": 22.3,
+   "satfat": 5.8,
+   "fiber": 1.1,
+   "sugar": 1.9,
+   "sodium": 497.2,
+   "cholesterol": 11.1,
+   "components": [
+    {
+     "name": "Just Egg Quiche",
+     "portion": "1 serving",
+     "kcal": 321,
+     "protein": 8.2,
+     "carbs": 24.5,
+     "fat": 22.3,
+     "satfat": 5.8,
+     "fiber": 1.1,
+     "sugar": 1.9,
+     "sodium": 497.2,
+     "cholesterol": 11.1
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Just Egg Quiche"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-05-06-2",
+   "name": "Chai Mix · Coffee",
+   "portion": "Coffee · 2 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 175,
+   "protein": 3.0,
+   "carbs": 36.0,
+   "fat": 1.0,
+   "satfat": 1.0,
+   "fiber": 0.0,
+   "sugar": 33.0,
+   "sodium": 170.0,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Chai Mix",
+     "portion": "3 tablespoons",
+     "kcal": 170,
+     "protein": 3.0,
+     "carbs": 36.0,
+     "fat": 1.0,
+     "satfat": 1.0,
+     "fiber": 0.0,
+     "sugar": 33.0,
+     "sodium": 170.0,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Coffee",
+     "portion": "1 cup",
+     "kcal": 5
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chai Mix",
+    "Coffee"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-05-06-3",
+   "name": "Plant-based Ranch Dressing · Croutons, Homestyle Seasoned Herb · Cheese, Sharp White Cheddar + 2 more",
+   "portion": "Lunch · 5 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 215,
+   "protein": 4.8,
+   "carbs": 18.5,
+   "fat": 15.0,
+   "satfat": 2.6,
+   "fiber": 1.2,
+   "sugar": 2.8,
+   "sodium": 513.2,
+   "cholesterol": 5.0,
+   "components": [
+    {
+     "name": "Plant-based Ranch Dressing",
+     "portion": "1/8 cup",
+     "kcal": 110,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 11.0,
+     "satfat": 1.0,
+     "sugar": 1.0,
+     "sodium": 300.0
+    },
+    {
+     "name": "Croutons, Homestyle Seasoned Herb",
+     "portion": "1/4 cup",
+     "kcal": 60,
+     "protein": 2.0,
+     "carbs": 10.0,
+     "fat": 2.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 150.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cheese, Sharp White Cheddar",
+     "portion": "1/4 slice",
+     "kcal": 23,
+     "protein": 1.2,
+     "carbs": 0.0,
+     "fat": 1.8,
+     "satfat": 1.1,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 37.5,
+     "cholesterol": 5.0
+    },
+    {
+     "name": "Cucumber, Large",
+     "portion": "1/3 each",
+     "kcal": 15,
+     "protein": 0.7,
+     "carbs": 3.6,
+     "fat": 0.1,
+     "satfat": 0.3,
+     "fiber": 0.5,
+     "sugar": 1.7,
+     "sodium": 2.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Spinach, Chopped",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Plant-based Ranch Dressing",
+    "Croutons, Homestyle Seasoned Herb",
+    "Cheese, Sharp White Cheddar",
+    "Cucumber, Large",
+    "Spinach, Chopped"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-05-06-4",
+   "name": "Boars Head Irish Cheddar · Sourdough Round Bread · Turkey Breast, Maple Glazed Honey + 1 more",
+   "portion": "Afternoon Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 215,
+   "protein": 16.4,
+   "carbs": 16.6,
+   "fat": 9.4,
+   "satfat": 5.0,
+   "fiber": 1.5,
+   "sugar": 10.6,
+   "sodium": 515.3,
+   "cholesterol": 35.2,
+   "components": [
+    {
+     "name": "Boars Head Irish Cheddar",
+     "portion": "1 serving",
+     "kcal": 110,
+     "protein": 6.0,
+     "carbs": 1.0,
+     "fat": 9.0,
+     "satfat": 5.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "1 slice",
+     "kcal": 70,
+     "protein": 2.5,
+     "carbs": 14.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 72.5
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1 ounce",
+     "kcal": 35,
+     "protein": 7.9,
+     "carbs": 1.1,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 10.1,
+     "sodium": 222.8,
+     "cholesterol": 15.2
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Boars Head Irish Cheddar",
+    "Sourdough Round Bread",
+    "Turkey Breast, Maple Glazed Honey",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-05-06-5",
+   "name": "Boars Head Irish Cheddar · Sourdough Round Bread · Turkey Breast, Maple Glazed Honey + 1 more",
+   "portion": "Dinner · 4 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 215,
+   "protein": 16.4,
+   "carbs": 16.6,
+   "fat": 9.4,
+   "satfat": 5.0,
+   "fiber": 1.5,
+   "sugar": 10.6,
+   "sodium": 515.3,
+   "cholesterol": 35.2,
+   "components": [
+    {
+     "name": "Boars Head Irish Cheddar",
+     "portion": "1 serving",
+     "kcal": 110,
+     "protein": 6.0,
+     "carbs": 1.0,
+     "fat": 9.0,
+     "satfat": 5.0,
+     "fiber": 1.0,
+     "sugar": 0.0,
+     "sodium": 180.0,
+     "cholesterol": 20.0
+    },
+    {
+     "name": "Sourdough Round Bread",
+     "portion": "1 slice",
+     "kcal": 70,
+     "protein": 2.5,
+     "carbs": 14.5,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.5,
+     "sugar": 0.5,
+     "sodium": 72.5
+    },
+    {
+     "name": "Turkey Breast, Maple Glazed Honey",
+     "portion": "1 ounce",
+     "kcal": 35,
+     "protein": 7.9,
+     "carbs": 1.1,
+     "fat": 0.2,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 10.1,
+     "sodium": 222.8,
+     "cholesterol": 15.2
+    },
+    {
+     "name": "Mustard, Delicatessen Style",
+     "portion": "1 teaspoon",
+     "kcal": 0,
+     "protein": 0.0,
+     "carbs": 0.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 0.0,
+     "sugar": 0.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Boars Head Irish Cheddar",
+    "Sourdough Round Bread",
+    "Turkey Breast, Maple Glazed Honey",
+    "Mustard, Delicatessen Style"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2024-05-06-6",
+   "name": "Babaganoush · BBQ Flavored Corn Chips · Mango, Whole + 3 more",
+   "portion": "Snacks · 6 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 689,
+   "protein": 7.5,
+   "carbs": 84.2,
+   "fat": 35.6,
+   "satfat": 5.9,
+   "fiber": 12.4,
+   "sugar": 39.6,
+   "sodium": 865.6,
+   "cholesterol": 20.1,
+   "components": [
+    {
+     "name": "Babaganoush",
+     "portion": "2/3 cup",
+     "kcal": 240,
+     "protein": 0.0,
+     "carbs": 7.2,
+     "fat": 21.3,
+     "satfat": 3.5,
+     "fiber": 3.7,
+     "sugar": 3.7,
+     "sodium": 337.5,
+     "cholesterol": 20.1
+    },
+    {
+     "name": "BBQ Flavored Corn Chips",
+     "portion": "1 ounce",
+     "kcal": 150,
+     "protein": 2.0,
+     "carbs": 17.0,
+     "fat": 8.0,
+     "satfat": 2.0,
+     "fiber": 3.0,
+     "sugar": 1.0,
+     "sodium": 220.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mango, Whole",
+     "portion": "1 each",
+     "kcal": 135,
+     "protein": 1.6,
+     "carbs": 35.2,
+     "fat": 0.6,
+     "satfat": 0.1,
+     "fiber": 3.7,
+     "sugar": 30.6,
+     "sodium": 4.1,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Pita Chips, Fire Roasted Jalapeno",
+     "portion": "3/4 ounce",
+     "kcal": 99,
+     "protein": 2.3,
+     "carbs": 13.7,
+     "fat": 3.8,
+     "satfat": 0.0,
+     "fiber": 0.4,
+     "sugar": 0.7,
+     "sodium": 212.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Snack, Multigrain, Garden Salsa",
+     "portion": "9 grams",
+     "kcal": 45,
+     "protein": 0.6,
+     "carbs": 6.1,
+     "fat": 1.9,
+     "satfat": 0.3,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 51.4,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Corn Salsa",
+     "portion": "1 serving",
+     "kcal": 20,
+     "protein": 1.0,
+     "carbs": 5.0,
+     "fat": 0.0,
+     "satfat": 0.0,
+     "fiber": 1.0,
+     "sugar": 3.0,
+     "sodium": 40.0,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Babaganoush",
+    "BBQ Flavored Corn Chips",
+    "Mango, Whole",
+    "Pita Chips, Fire Roasted Jalapeno",
+    "Snack, Multigrain, Garden Salsa",
+    "Corn Salsa"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "date": "2023-07-11",
+ "note": "Imported from Lose It",
+ "entries": [
+  {
+   "id": "2023-07-11-1",
+   "name": "Chicken, Thigh, Skinless, Boneless, Grilled · Stuffed Bell peppers",
+   "portion": "Breakfast · 2 foods as logged",
+   "meal": "breakfast",
+   "servings": 1,
+   "kcal": 320,
+   "protein": 27.5,
+   "carbs": 21.6,
+   "fat": 13.5,
+   "satfat": 4.1,
+   "fiber": 5.0,
+   "sugar": 3.7,
+   "sodium": 312.4,
+   "cholesterol": 78.0,
+   "components": [
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "3 ounces",
+     "kcal": 174,
+     "protein": 21.6,
+     "carbs": 0.0,
+     "fat": 9.6,
+     "satfat": 2.5,
+     "sugar": 0.0,
+     "cholesterol": 78.0
+    },
+    {
+     "name": "Stuffed Bell peppers",
+     "portion": "1/4 serving",
+     "kcal": 146,
+     "protein": 5.9,
+     "carbs": 21.6,
+     "fat": 3.9,
+     "satfat": 1.6,
+     "fiber": 5.0,
+     "sugar": 3.7,
+     "sodium": 312.4,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Stuffed Bell peppers"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-11-2",
+   "name": "Zuchini And Squash Sauteed In Olive Oil · Beans, Black, Cooked, No Salt · Quinoa, Cooked + 3 more",
+   "portion": "Lunch · 6 foods as logged",
+   "meal": "lunch",
+   "servings": 1,
+   "kcal": 503,
+   "protein": 20.5,
+   "carbs": 65.8,
+   "fat": 21.6,
+   "satfat": 2.4,
+   "fiber": 17.5,
+   "sugar": 9.4,
+   "sodium": 288.7,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Zuchini And Squash Sauteed In Olive Oil",
+     "portion": "1 cup",
+     "kcal": 126,
+     "protein": 4.4,
+     "carbs": 11.6,
+     "fat": 9.8,
+     "satfat": 0.0,
+     "fiber": 3.6,
+     "sugar": 8.0,
+     "sodium": 13.3,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Beans, Black, Cooked, No Salt",
+     "portion": "1/2 cup",
+     "kcal": 114,
+     "protein": 7.6,
+     "carbs": 20.4,
+     "fat": 0.5,
+     "satfat": 0.1,
+     "fiber": 7.5,
+     "sugar": 0.0,
+     "sodium": 0.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Quinoa, Cooked",
+     "portion": "1/2 cup",
+     "kcal": 111,
+     "protein": 4.7,
+     "carbs": 19.7,
+     "fat": 1.8,
+     "satfat": 0.0,
+     "fiber": 2.6,
+     "sugar": 0.0,
+     "sodium": 6.5,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Mediterranean Chickpea Salad",
+     "portion": "1/3 serving",
+     "kcal": 104,
+     "protein": 2.6,
+     "carbs": 11.2,
+     "fat": 5.8,
+     "satfat": 0.8,
+     "fiber": 2.7,
+     "sugar": 0.8,
+     "sodium": 84.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "3/4 ounce",
+     "kcal": 28,
+     "protein": 1.2,
+     "carbs": 1.9,
+     "fat": 1.9,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 150.9
+    },
+    {
+     "name": "Plant-Based Sour Cream Alternative",
+     "portion": "1 tablespoon",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 1.8,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 32.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Zuchini And Squash Sauteed In Olive Oil",
+    "Beans, Black, Cooked, No Salt",
+    "Quinoa, Cooked",
+    "Mediterranean Chickpea Salad",
+    "Cauliflower Dip, Spicy Queso",
+    "Plant-Based Sour Cream Alternative"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-11-3",
+   "name": "Abe's Wild Blueberry Mini-muffin",
+   "portion": "Afternoon Snacks · 1 food as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 100,
+   "protein": 1.0,
+   "carbs": 15.5,
+   "fat": 4.0,
+   "satfat": 0.5,
+   "fiber": 1.0,
+   "sugar": 10.0,
+   "sodium": 80.0,
+   "cholesterol": 0,
+   "components": [
+    {
+     "name": "Abe's Wild Blueberry Mini-muffin",
+     "portion": "1/2 serving",
+     "kcal": 100,
+     "protein": 1.0,
+     "carbs": 15.5,
+     "fat": 4.0,
+     "satfat": 0.5,
+     "fiber": 1.0,
+     "sugar": 10.0,
+     "sodium": 80.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Abe's Wild Blueberry Mini-muffin"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-11-4",
+   "name": "Yellow Potatoes, Roasted w/ Oil · Chicken, Thigh, Skinless, Boneless, Grilled · Mediterranean Chickpea Salad + 3 more",
+   "portion": "Dinner · 6 foods as logged",
+   "meal": "dinner",
+   "servings": 1,
+   "kcal": 543,
+   "protein": 31.1,
+   "carbs": 53.9,
+   "fat": 24.4,
+   "satfat": 6.3,
+   "fiber": 10.5,
+   "sugar": 4.4,
+   "sodium": 322.2,
+   "cholesterol": 78.0,
+   "components": [
+    {
+     "name": "Yellow Potatoes, Roasted w/ Oil",
+     "portion": "1 cup",
+     "kcal": 176,
+     "protein": 2.9,
+     "carbs": 31.4,
+     "fat": 4.8,
+     "satfat": 0.7,
+     "fiber": 2.8,
+     "sugar": 1.4,
+     "sodium": 6.2,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
+     "portion": "3 ounces",
+     "kcal": 174,
+     "protein": 21.6,
+     "carbs": 0.0,
+     "fat": 9.6,
+     "satfat": 2.5,
+     "sugar": 0.0,
+     "cholesterol": 78.0
+    },
+    {
+     "name": "Mediterranean Chickpea Salad",
+     "portion": "1/3 serving",
+     "kcal": 104,
+     "protein": 2.6,
+     "carbs": 11.2,
+     "fat": 5.8,
+     "satfat": 0.8,
+     "fiber": 2.7,
+     "sugar": 0.8,
+     "sodium": 84.6,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Broccoli, Chopped, Steamed",
+     "portion": "3/4 cup",
+     "kcal": 41,
+     "protein": 2.8,
+     "carbs": 8.4,
+     "fat": 0.5,
+     "satfat": 0.8,
+     "fiber": 3.9,
+     "sugar": 1.6,
+     "sodium": 48.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cauliflower Dip, Spicy Queso",
+     "portion": "3/4 ounce",
+     "kcal": 28,
+     "protein": 1.2,
+     "carbs": 1.9,
+     "fat": 1.9,
+     "fiber": 0.6,
+     "sugar": 0.6,
+     "sodium": 150.9
+    },
+    {
+     "name": "Plant-Based Sour Cream Alternative",
+     "portion": "1 tablespoon",
+     "kcal": 20,
+     "protein": 0.0,
+     "carbs": 1.0,
+     "fat": 1.8,
+     "satfat": 1.5,
+     "fiber": 0.5,
+     "sugar": 0.0,
+     "sodium": 32.5,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Yellow Potatoes, Roasted w/ Oil",
+    "Chicken, Thigh, Skinless, Boneless, Grilled",
+    "Mediterranean Chickpea Salad",
+    "Broccoli, Chopped, Steamed",
+    "Cauliflower Dip, Spicy Queso",
+    "Plant-Based Sour Cream Alternative"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  },
+  {
+   "id": "2023-07-11-5",
+   "name": "Oat Milk Ranch Dressing · Cereal, Honey Bunches of Oats, Honey Roasted · Protein and Nutmilk, Almond and Cashew + 1 more",
+   "portion": "Snacks · 4 foods as logged",
+   "meal": "snacks",
+   "servings": 1,
+   "kcal": 208,
+   "protein": 5.1,
+   "carbs": 17.0,
+   "fat": 14.0,
+   "satfat": 1.2,
+   "fiber": 3.4,
+   "sugar": 3.5,
+   "sodium": 561.9,
+   "cholesterol": 0.0,
+   "components": [
+    {
+     "name": "Oat Milk Ranch Dressing",
+     "portion": "3 tablespoons",
+     "kcal": 105,
+     "protein": 0.0,
+     "carbs": 3.0,
+     "fat": 10.5,
+     "satfat": 0.8,
+     "fiber": 1.5,
+     "sugar": 0.0,
+     "sodium": 405.0,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
+     "portion": "1/3 cup",
+     "kcal": 53,
+     "protein": 0.9,
+     "carbs": 11.1,
+     "fat": 0.7,
+     "satfat": 0.0,
+     "fiber": 0.9,
+     "sugar": 2.7,
+     "sodium": 59.9,
+     "cholesterol": 0.0
+    },
+    {
+     "name": "Protein and Nutmilk, Almond and Cashew",
+     "portion": "1/3 cup",
+     "kcal": 43,
+     "protein": 3.3,
+     "carbs": 1.0,
+     "fat": 2.7,
+     "satfat": 0.2,
+     "fiber": 0.3,
+     "sugar": 0.7,
+     "sodium": 73.3
+    },
+    {
+     "name": "Spinach, Baby, Fresh",
+     "portion": "1 cup",
+     "kcal": 7,
+     "protein": 0.9,
+     "carbs": 1.9,
+     "fat": 0.1,
+     "satfat": 0.2,
+     "fiber": 0.7,
+     "sugar": 0.1,
+     "sodium": 23.7,
+     "cholesterol": 0.0
+    }
+   ],
+   "eaten": {
+    "pct": 100,
+    "of": "as logged"
+   },
+   "ingredients": [
+    "Oat Milk Ranch Dressing",
+    "Cereal, Honey Bunches of Oats, Honey Roasted",
+    "Protein and Nutmilk, Almond and Cashew",
+    "Spinach, Baby, Fresh"
+   ],
+   "ingredientsFrom": "recipe",
+   "confidence": "high",
+   "source": "loseit",
+   "notes": "Imported from Lose It. No vitamin or mineral data."
+  }
+ ]
+}
