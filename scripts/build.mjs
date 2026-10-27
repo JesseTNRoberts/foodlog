@@ -84,6 +84,12 @@ if (errors.length) {
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(out, { recursive: true });
 for (const f of fs.readdirSync(path.join(root, "site"))) fs.copyFileSync(path.join(root, "site", f), path.join(out, f));
+// Cache-bust: browsers (phones especially) keep old app.js/style.css after a deploy.
+{
+  const v = Date.now().toString(36);
+  const idx = path.join(out, "index.html");
+  fs.writeFileSync(idx, fs.readFileSync(idx, "utf8").replace(/(src|href)="(app\.js|style\.css)"/g, `$1="$2?v=${v}"`));
+}
 if (fs.existsSync(path.join(root, "photos"))) fs.cpSync(path.join(root, "photos"), path.join(out, "photos"), { recursive: true });
 fs.writeFileSync(path.join(out, "data.json"), JSON.stringify({ generated: new Date().toISOString(), settings, days, recipes }));
 fs.writeFileSync(path.join(out, ".nojekyll"), "");
