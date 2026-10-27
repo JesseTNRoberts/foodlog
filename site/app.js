@@ -55,7 +55,7 @@ function editUrl(date){ const repo=DATA.settings.repo; return repo?`https://gith
 function kpi(label,value,unit,target,opts={}){
   const pct = target? Math.min(100, value/target*100):0;
   const color = opts.color || (opts.limit ? (value>target?"var(--over)":"var(--accent)") : "var(--accent)");
-  return `<div class="kpi"><div class="l">${label}</div>
+  return `<div class="kpi"${opts.nutr?` data-nutr="${opts.nutr}" title="Tap to see which foods it came from"`:""}><div class="l">${label}</div>
     <div class="v">${fmt(value)}<small> ${unit}${target?` / ${fmt(target)}`:""}</small></div>
     ${target?`<div class="meter"><i style="width:${pct}%;background:${color}"></i></div>`:""}
     <div class="foot"><span>${opts.foot||""}</span>${opts.delta??""}</div></div>`;
@@ -70,8 +70,59 @@ function microRows(micros, scale=1){
   return MICRO.map(([k,l,u,dv])=>{
     const v=num(micros[k])/scale; const p=v/dv*100;
     const col = p>=100?"var(--good)":p>=50?"var(--accent)":p>=25?"var(--warn)":"var(--over)";
-    return `<div class="mrow"><span>${l}</span><div class="bar" title="${fmt(v,1)} ${u} of ${dv} ${u}"><i style="width:${Math.min(100,p/1.5)}%;background:${col}"></i></div><span class="pct num">${fmt(p)}%</span></div>`;
+    return `<div class="mrow" data-nutr="${k}" title="Tap to see which foods it came from"><span>${l}</span><div class="bar" title="${fmt(v,1)} ${u} of ${dv} ${u}"><i style="width:${Math.min(100,p/1.5)}%;background:${col}"></i></div><span class="pct num">${fmt(p)}%</span></div>`;
   }).join("");
+}
+
+/* ---------- nutrient breakdown (click a nutrient) ---------- */
+const COMP_FIELDS = ["kcal","protein","carbs","fat"];
+function nutrientInfo(m){
+  const base={kcal:["Calories","kcal"],protein:["Protein","g"],carbs:["Carbs","g"],fat:["Fat","g"],fiber:["Fiber","g"],sugar:["Sugar","g"],
+    addedSugar:["Added sugar","g"],satfat:["Saturated fat","g"],sodium:["Sodium","mg"],cholesterol:["Cholesterol","mg"]};
+  if(base[m]) return base[m];
+  const mi=MICRO.find(x=>x[0]===m); return mi?[mi[1],mi[2]]:[m,""];
+}
+function contributions(entries,m){
+  const map=new Map(); const add=(n,v)=>{ if(v>0) map.set(n,(map.get(n)||0)+v); };
+  for(const e of entries){ const s=num(e.servings||1); const comps=e.components||[];
+    const ev = m in (e.micros||{}) ? num(e.micros[m])*s : num(e[m])*s;
+    if(COMP_FIELDS.includes(m) && comps.length>1){
+      const csum=comps.reduce((a,c)=>a+num(c[m]),0);
+      if(csum>0){ comps.forEach(c=>add(c.name, num(c[m])/csum*ev)); continue; }
+    }
+    add(e.name, ev);
+  }
+  return [...map].sort((a,b)=>b[1]-a[1]);
+}
+let bdChart=null;
+function showBreakdown(m, entries, scope, perDay=1){
+  const [label,unit]=nutrientInfo(m);
+  let rows=contributions(entries,m).map(([n,v])=>[n,v/perDay]);
+  const total=rows.reduce((a,r)=>a+r[1],0);
+  if(rows.length>8){ const rest=rows.slice(7).reduce((a,r)=>a+r[1],0); rows=[...rows.slice(0,7),["Everything else",rest]]; }
+  const dp = total<20?1:0;
+  let dlg=document.getElementById("bd");
+  if(!dlg){ dlg=document.createElement("dialog"); dlg.id="bd"; document.body.appendChild(dlg);
+    dlg.addEventListener("click",ev=>{ if(ev.target===dlg) dlg.close(); }); dlg.addEventListener("close",()=>{ bdChart?.destroy(); bdChart=null; }); }
+  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${fmt(total,dp)} ${unit}${perDay>1?" per logged day":""}</div></div>
+    <button class="btn sm" data-close aria-label="Close">Close</button></div>
+    ${total>0?`<div class="bd-chart"><canvas id="cBd"></canvas></div>
+    <table class="bd-t">${rows.map(([n,v],i)=>`<tr><td><i style="background:${COMP_COLORS[i%COMP_COLORS.length]}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(v/total*100)}%</td></tr>`).join("")}</table>`
+    :`<div class="muted">No ${esc(label.toLowerCase())} estimated for these foods.</div>`}</div>`;
+  dlg.querySelector("[data-close]").onclick=()=>dlg.close();
+  dlg.showModal();
+  if(total>0 && chartDefaults()){
+    bdChart=new Chart(document.getElementById("cBd"),{type:"doughnut",
+      data:{labels:rows.map(r=>r[0]),datasets:[{data:rows.map(r=>r[1]),backgroundColor:rows.map((_,i)=>COMP_COLORS[i%COMP_COLORS.length]),borderColor:css("--surface"),borderWidth:2}]},
+      options:{cutout:"58%",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${fmt(c.raw,dp)} ${unit} (${fmt(c.raw/total*100)}%)`}}}}});
+  }
+}
+function wireBreakdown(root, getEntries, scope, perDay=1){
+  root.querySelectorAll("[data-nutr]").forEach(el=>{
+    el.classList.add("clickable"); el.setAttribute("role","button"); el.tabIndex=0;
+    const go=()=>showBreakdown(el.dataset.nutr, getEntries(), scope, perDay);
+    el.onclick=go; el.onkeydown=ev=>{ if(ev.key==="Enter"||ev.key===" "){ ev.preventDefault(); go(); } };
+  });
 }
 
 /* ---------- day view ---------- */
@@ -97,10 +148,10 @@ function renderDay(k){
   ${day?.note?`<div class="daynote">${esc(day.note)}</div>`:""}
   ${!ents.length?(()=>{const last=DATA.days.filter(d=>d.entries.length&&d.date!==k).map(d=>d.date).filter(d=>d<k).pop(); return `<div class="daynote">Nothing logged for this day yet.${last?` Last logged day: <a href="#/day/${last}">${esc(prettyDate(last,{weekday:"long",month:"short",day:"numeric"}))}</a>.`:""}</div>`;})():""}
   <div class="kpis">
-    ${kpi("Calories",t.kcal,"kcal",B,{limit:true,foot:left>=0?`${fmt(left)} left`:`<span style="color:var(--over)">${fmt(-left)} over</span>`,delta:deltaPill(t.kcal,avg("kcal"),null)})}
-    ${kpi("Protein",t.protein,"g",PG,{color:"var(--p)",foot:`${Math.round(t.protein*4/cal*100)}% of kcal`,delta:deltaPill(t.protein,avg("protein"),true)})}
-    ${kpi("Fiber",t.fiber,"g",FG,{color:"var(--fib)",foot:`${fmt(t.fiber/Math.max(1,t.kcal)*1000,1)} g / 1000 kcal`,delta:deltaPill(t.fiber,avg("fiber"),true)})}
-    ${kpi("Sodium",t.sodium,"mg",NA,{limit:true,foot:`sat fat ${fmt(t.satfat)} g`,delta:deltaPill(t.sodium,avg("sodium"),false)})}
+    ${kpi("Calories",t.kcal,"kcal",B,{nutr:"kcal",limit:true,foot:left>=0?`${fmt(left)} left`:`<span style="color:var(--over)">${fmt(-left)} over</span>`,delta:deltaPill(t.kcal,avg("kcal"),null)})}
+    ${kpi("Protein",t.protein,"g",PG,{nutr:"protein",color:"var(--p)",foot:`${Math.round(t.protein*4/cal*100)}% of kcal`,delta:deltaPill(t.protein,avg("protein"),true)})}
+    ${kpi("Fiber",t.fiber,"g",FG,{nutr:"fiber",color:"var(--fib)",foot:`${fmt(t.fiber/Math.max(1,t.kcal)*1000,1)} g / 1000 kcal`,delta:deltaPill(t.fiber,avg("fiber"),true)})}
+    ${kpi("Sodium",t.sodium,"mg",NA,{nutr:"sodium",limit:true,foot:`sat fat ${fmt(t.satfat)} g`,delta:deltaPill(t.sodium,avg("sodium"),false)})}
   </div>
   <div class="grid32">
     <section class="card"><div class="card-h"><h2>Where the calories came from</h2><span class="sub">by meal and entry</span></div>
@@ -110,7 +161,7 @@ function renderDay(k){
     </section>
     <section class="card"><div class="card-h"><h2>Macro split</h2><span class="sub">% of calories</span></div>
       <div class="chartbox sm"><canvas id="cMacro"></canvas></div>
-      <div class="legend"><span><i style="background:var(--p)"></i>Protein <b class="num">${fmt(t.protein)} g</b></span><span><i style="background:var(--c)"></i>Carbs <b class="num">${fmt(t.carbs)} g</b></span><span><i style="background:var(--f)"></i>Fat <b class="num">${fmt(t.fat)} g</b></span><span>Sugar <b class="num">${fmt(t.sugar)} g</b></span></div>
+      <div class="legend"><span data-nutr="protein"><i style="background:var(--p)"></i>Protein <b class="num">${fmt(t.protein)} g</b></span><span data-nutr="carbs"><i style="background:var(--c)"></i>Carbs <b class="num">${fmt(t.carbs)} g</b></span><span data-nutr="fat"><i style="background:var(--f)"></i>Fat <b class="num">${fmt(t.fat)} g</b></span><span data-nutr="sugar">Sugar <b class="num">${fmt(t.sugar)} g</b></span><span data-nutr="satfat">Sat fat <b class="num">${fmt(t.satfat)} g</b></span></div><div class="hint">Tap any nutrient to see which foods it came from.</div>
     </section>
   </div>
   <h2 style="font-size:16px;font-weight:600;margin-top:4px">Meals</h2>
@@ -120,6 +171,7 @@ function renderDay(k){
   </section>
   <section class="card"><div class="card-h"><h2>Last 7 days</h2><span class="sub">calories vs ${fmt(B)} budget · tap a day</span></div>${weekStrip(k,B)}</section>`;
 
+  wireBreakdown(app, ()=>ents, prettyDate(k,{weekday:"long",month:"short",day:"numeric"}));
   app.querySelectorAll("[data-copy]").forEach(b=>b.onclick=async()=>{
     const txt=b.dataset.copy;
     try{ await navigator.clipboard.writeText(txt); toast("Copied. Paste it to Claude with your change."); }
@@ -192,10 +244,10 @@ function renderTrends(){
   <div class="toolbar"><div><h1>Trends</h1><div class="sub">${logged.length} logged days · ${esc(prettyDate(start,{month:"short",day:"numeric"}))} – ${esc(prettyDate(end,{month:"short",day:"numeric"}))}</div></div>
     <div class="seg" role="group" aria-label="Range">${[[7,"7D"],[30,"30D"],[90,"90D"],["all","All"]].map(([v,l])=>`<button data-range="${v}" class="${trendState.range==v?"on":""}">${l}</button>`).join("")}</div></div>
   <div class="kpis">
-    ${kpi("Avg calories",avg("kcal"),"kcal",B,{limit:true,foot:`${under}/${logged.length} days within budget`})}
-    ${kpi("Avg protein",avg("protein"),"g",num(S.proteinGoal),{color:"var(--p)"})}
-    ${kpi("Avg fiber",avg("fiber"),"g",num(S.fiberGoal),{color:"var(--fib)"})}
-    ${kpi("Avg sodium",avg("sodium"),"mg",num(S.sodiumLimit),{limit:true})}
+    ${kpi("Avg calories",avg("kcal"),"kcal",B,{nutr:"kcal",limit:true,foot:`${under}/${logged.length} days within budget`})}
+    ${kpi("Avg protein",avg("protein"),"g",num(S.proteinGoal),{nutr:"protein",color:"var(--p)"})}
+    ${kpi("Avg fiber",avg("fiber"),"g",num(S.fiberGoal),{nutr:"fiber",color:"var(--fib)"})}
+    ${kpi("Avg sodium",avg("sodium"),"mg",num(S.sodiumLimit),{nutr:"sodium",limit:true})}
   </div>
   <section class="card"><div class="card-h"><h2>Daily ${esc(ml.toLowerCase())}</h2>
     <select class="sel" id="metric" aria-label="Metric">${METRICS.map(([v,l])=>`<option value="${v}"${v===mk?" selected":""}>${l}</option>`).join("")}</select></div>
@@ -210,6 +262,7 @@ function renderTrends(){
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th>Entries</th></tr></thead>
     <tbody>${[...logged].reverse().map(({t,d})=>`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="8" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
 
+  wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length));
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });
   document.getElementById("metric").onchange=ev=>{ trendState.metric=ev.target.value; renderTrends(); };
   app.querySelectorAll("tr[data-day]").forEach(r=>r.onclick=()=>{ location.hash="#/day/"+r.dataset.day; });
