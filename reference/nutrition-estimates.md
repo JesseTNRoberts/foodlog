@@ -91,3 +91,9 @@ His old Lose It salmon entry counts ~40 kcal/oz, which matches raw weight. Photo
 
 ## Accuracy
 Photo-based estimates are typically within about 20–30% at best; the hand in frame helps a lot. Oil and tahini are the hardest to see. A quick note ("1 tbsp oil," "4 oz salmon") tightens them further.
+
+## Goals (set Oct 26, 2026)
+- Weight 160 lb. Wants to lose weight; asked about 3 lb/week, which is too fast for this size (needs ~1,500 kcal/day deficit). Target ~1 lb/week instead.
+- **Calories: 1,800/day**, assuming a maintenance of roughly 2,300–2,500 kcal for an active 160 lb man. Not yet checked against his Garmin's daily burn; adjust if that's known.
+- **Protein: 90 g/day** (~1.25 g/kg), enough to protect muscle while losing weight. He rarely reaches 100 g.
+- Fiber 30 g: he usually hits it. Sodium 2,300 mg: he's usually under, except when eating out.
