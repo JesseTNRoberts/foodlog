@@ -152,10 +152,10 @@ function renderDay(k){
     ${kpi("Sodium",t.sodium,"mg",NA,{nutr:"sodium",limit:true,foot:`sat fat ${fmt(t.satfat)} g`,delta:deltaPill(t.sodium,avg("sodium"),false)})}
   </div>
   <div class="grid32">
-    <section class="card"><div class="card-h"><h2>Where the calories came from</h2><span class="sub">by meal and entry</span></div>
+    <section class="card"><div class="card-h"><h2>Where the calories came from</h2><span class="sub">by meal and ingredient</span></div>
       <div class="stack lg" aria-label="Calories by meal">${byMeal.filter(x=>x.t.kcal).map(x=>`<span style="width:${x.t.kcal/Math.max(1,t.kcal)*100}%;background:var(${x.c})" title="${x.l}: ${fmt(x.t.kcal)} kcal"></span>`).join("")}</div>
       <div class="legend">${byMeal.map(x=>`<span><i style="background:var(${x.c})"></i>${x.l} <b class="num">${fmt(x.t.kcal)}</b></span>`).join("")}</div>
-      <div class="chartbox sm"><canvas id="cEntries"></canvas></div>
+      <div class="chartbox" style="height:${Math.max(200,ingredientKcal(ents).length*22+30)}px"><canvas id="cEntries"></canvas></div>
     </section>
     <section class="card"><div class="card-h"><h2>Macro split</h2><span class="sub">% of calories</span></div>
       <div class="chartbox sm"><canvas id="cMacro"></canvas></div>
@@ -178,12 +178,16 @@ function renderDay(k){
 
   if(!chartDefaults()) return;
   if(ents.length){
-    const sorted=[...ents].sort((a,b)=>num(b.kcal)*num(b.servings||1)-num(a.kcal)*num(a.servings||1));
+    const ing=ingredientKcal(ents);
     const mealColor=Object.fromEntries(MEALS.map(([m,,c])=>[m,css(c)]));
+    const mealName=Object.fromEntries(MEALS.map(([m,l])=>[m,l]));
     charts.push(new Chart(document.getElementById("cEntries"),{type:"bar",
-      data:{labels:sorted.map(e=>e.name.length>26?e.name.slice(0,25)+"…":e.name),
-        datasets:[{data:sorted.map(e=>num(e.kcal)*num(e.servings||1)),backgroundColor:sorted.map(e=>mealColor[e.meal]),borderRadius:4,barThickness:14}]},
-      options:{indexAxis:"y",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${fmt(c.raw)} kcal`}}},
+      data:{labels:ing.map(x=>x.name.length>28?x.name.slice(0,27)+"…":x.name),
+        datasets:[{data:ing.map(x=>x.kcal),backgroundColor:ing.map(x=>x.meal?mealColor[x.meal]:css("--muted")),borderRadius:4,barThickness:14}]},
+      options:{indexAxis:"y",plugins:{legend:{display:false},tooltip:{callbacks:{
+        title:c=>ing[c[0].dataIndex].name,
+        label:c=>` ${fmt(c.raw)} kcal`,
+        afterLabel:c=>{const x=ing[c.dataIndex]; return x.from?` ${x.from}`:Object.entries(x.byMeal).filter(([,v])=>v>0).map(([m,v])=>` ${mealName[m]}: ${fmt(v)} kcal`);}}}},
         scales:{x:{grid:{color:css("--line")},ticks:{callback:v=>fmt(v)}},y:{grid:{display:false},ticks:{color:css("--ink")}}}}}));
     charts.push(new Chart(document.getElementById("cMacro"),{type:"doughnut",
       data:{labels:["Protein","Carbs","Fat"],datasets:[{data:[t.protein*4,t.carbs*4,t.fat*9].map(v=>Math.round(v/cal*100)),backgroundColor:[css("--p"),css("--c"),css("--f")],borderColor:css("--surface"),borderWidth:2}]},
@@ -192,6 +196,19 @@ function renderDay(k){
   }
 }
 
+// Calories per ingredient for a set of entries: components are merged by name across dishes and meals
+// (an entry without components counts as one ingredient). Top 15, the rest grouped.
+function ingredientKcal(entries){
+  const map=new Map();
+  for(const e of entries){ const s=num(e.servings||1); const comps=(e.components||[]).length?e.components:[{name:e.name,kcal:e.kcal}];
+    for(const c of comps){ const v=num(c.kcal)*s; if(v<=0) continue; const key=String(c.name).trim();
+      const x=map.get(key)||{name:key,kcal:0,byMeal:{}}; x.kcal+=v; x.byMeal[e.meal]=(x.byMeal[e.meal]||0)+v; map.set(key,x); } }
+  let list=[...map.values()].sort((a,b)=>b.kcal-a.kcal);
+  list.forEach(x=>x.meal=Object.entries(x.byMeal).sort((a,b)=>b[1]-a[1])[0][0]);
+  if(list.length>16){ const rest=list.slice(15); list=[...list.slice(0,15),{name:`${rest.length} other ingredients`,kcal:rest.reduce((a,x)=>a+x.kcal,0),byMeal:{},meal:null,
+    from:rest.slice(0,6).map(x=>x.name).join(", ")+(rest.length>6?"…":"")}]; }
+  return list;
+}
 function mealCard(x,k){
   const url=editUrl(k);
   return `<section class="card meal"><div class="meal-h"><h2><i style="background:var(${x.c})"></i>${x.l}</h2>
