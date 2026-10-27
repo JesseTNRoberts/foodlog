@@ -158,6 +158,7 @@ function entryBlock(e,k,url){
   return `<div class="entry">
     <div class="entry-h"><div><div class="name">${esc(e.name)}</div><div class="por">${esc(e.portion||"")}${sv!==1?` · ×${sv} servings`:""}</div></div>
       <div class="kc"><b>${fmt(ek)}</b> kcal<div>${fmt(num(e.lo??e.kcal)*sv)}–${fmt(num(e.hi??e.kcal)*sv)}</div></div></div>
+    ${e.eaten||(e.ingredients||[]).length?`<div class="eaten">${e.eaten?`<div><b>Ate ${fmt(num(e.eaten.pct))}%</b>${e.eaten.of?` of ${esc(e.eaten.of)}`:""}</div>`:""}${(e.ingredients||[]).length?`<div><span class="lbl">${e.ingredientsFrom==="menu"?"Ingredients (from the menu)":e.ingredientsFrom==="recipe"?"Ingredients (from your recipe)":"Likely ingredients (guessed)"}:</span> ${e.ingredients.map(esc).join(", ")}</div>`:""}</div>`:""}
     ${(e.photos||[]).length?`<div class="photos">${e.photos.map(p=>`<a href="${esc(p)}" target="_blank" rel="noopener"><img src="${esc(p)}" alt="Photo of ${esc(e.name)}" loading="lazy"></a>`).join("")}</div>`:""}
     ${comps.length>1?`<div class="stack" aria-label="Components by calories">${comps.map((c,i)=>`<span style="width:${num(c.kcal)/ctot*100}%;background:${COMP_COLORS[i%COMP_COLORS.length]}" title="${esc(c.name)}: ${fmt(num(c.kcal)*sv)} kcal"></span>`).join("")}</div>`:""}
     ${comps.length?`<div class="tblwrap"><table class="comps"><thead><tr><th>Component</th><th>kcal</th><th>share</th><th>P</th><th>C</th><th>F</th></tr></thead><tbody>${rows}</tbody></table></div>`:""}

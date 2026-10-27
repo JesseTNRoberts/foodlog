@@ -39,12 +39,16 @@ Ask at most one short question, and only when the answer would swing the estimat
   ]
 }
 ```
+- `portion`: say the percent eaten in words too ("~33% of the sandwich").
 - `meal`: `breakfast`, `lunch`, `dinner` or `snacks`.
 - All nutrient values are for ONE serving; the site multiplies by `servings`.
 - `kcal` is the best estimate; `lo` / `hi` bound the plausible range.
 - Units: grams for macros, fiber and sugars; mg for sodium, cholesterol, vitC, vitE, b6, calcium, iron, magnesium, potassium and zinc; mcg for vitA (RAE), vitD, vitK, b12 and folate (DFE).
 - `components` list every visible ingredient and should sum to the entry totals. The site shows them as a composition bar and table, so make them specific ("Olive oil on sweet potato, ~1 tbsp", not "oil").
 - `confidence`: `high` (his own recipe, known amounts), `medium` (photo with hand scale), `low` (restaurant/bakery item, size guessed).
+- `eaten` (required): `{"pct": 33, "of": "whole sandwich"}`. Always estimate the percent of the item he ate, never "some" or "finished it". `of` names what 100% is (the whole dish as served), so if he eats more later he can say "the other 50%" and the later entry uses the same base, e.g. `{"pct": 67, "of": "whole sandwich (the rest)"}`.
+- `ingredients` (required): a best-guess list of everything likely in the dish, including hidden items (cooking fat, butter in sauces, breading, dressing parts), even when not visible. Keep it plain strings. Look it up first when possible: for restaurant food, search for the restaurant's menu description; for his own cooking, use the recipe in `recipes/`. Fill hidden items in from there.
+- `ingredientsFrom`: `menu` (restaurant's published description), `recipe` (his recipe or his own words) or `guess`. Say in `notes` when a menu lookup found nothing.
 - `photos` (optional): paths to the meal photos, e.g. `["photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"]`. Save every photo Jesse sends with a meal: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata (EXIF holds GPS location and the site is public). One photo can be listed on several entries.
 - `id`: `YYYY-MM-DD-N`, unique in the file. Keep ids stable when editing.
 

@@ -27,6 +27,12 @@ function checkEntry(e, where) {
     if (!MICROS.includes(k)) errors.push(`${where}: unknown micronutrient "${k}" (use ${MICROS.join(", ")})`);
     else if (typeof e.micros[k] !== "number") errors.push(`${where}: micros.${k} must be a number`);
   }
+  if (e.eaten != null && (typeof e.eaten !== "object" || typeof e.eaten.pct !== "number" || e.eaten.pct <= 0 || e.eaten.pct > 100))
+    errors.push(`${where}: eaten must be {"pct": 1-100, "of": "what the 100% is"}`);
+  if (e.ingredients != null && (!Array.isArray(e.ingredients) || e.ingredients.some(x => typeof x !== "string")))
+    errors.push(`${where}: ingredients must be an array of strings`);
+  if (e.ingredientsFrom != null && !["menu", "recipe", "guess"].includes(e.ingredientsFrom))
+    errors.push(`${where}: ingredientsFrom must be menu, recipe or guess`);
   if (e.photos != null) {
     if (!Array.isArray(e.photos)) errors.push(`${where}: photos must be an array of paths`);
     else for (const p of e.photos) {

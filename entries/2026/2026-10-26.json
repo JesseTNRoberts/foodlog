@@ -5,7 +5,7 @@
     {
       "id": "2026-10-26-1",
       "name": "Buffalo fried chicken sandwich (Mike's Tavern)",
-      "portion": "~1/3 sandwich",
+      "portion": "~33% of the sandwich",
       "meal": "lunch",
       "servings": 1,
       "kcal": 350,
@@ -70,11 +70,30 @@
         }
       ],
       "confidence": "low",
-      "notes": "Portion eaten judged from photo against your palm; bun about 4.5–5 in across.",
+      "notes": "Portion eaten judged from photo against your palm; bun about 4.5–5 in across. Sandwich not on the online menu, so ingredients are guessed from the photo.",
       "photos": [
         "photos/2026/2026-10-26/lunch-sandwich-top.jpg",
         "photos/2026/2026-10-26/lunch-sandwich-side.jpg"
-      ]
+      ],
+      "eaten": {
+        "pct": 33,
+        "of": "whole sandwich (ate ~67% at dinner)"
+      },
+      "ingredients": [
+        "brioche bun (flour, eggs, butter, sugar)",
+        "chicken breast",
+        "flour/breading",
+        "buttermilk",
+        "frying oil",
+        "buffalo sauce (hot sauce, butter)",
+        "blue cheese crumbles",
+        "blue cheese or ranch dressing",
+        "shredded lettuce",
+        "red onion",
+        "salt",
+        "pepper"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-26-2",
@@ -144,12 +163,24 @@
         }
       ],
       "confidence": "low",
-      "notes": "Salad not in the photo; dressing and croutons drive most of the range."
+      "notes": "Salad not in the photo; dressing and croutons drive most of the range. Menu: romaine, Parmesan, cracked black pepper, house-made croutons and Caesar dressing.",
+      "eaten": {
+        "pct": 100,
+        "of": "side salad"
+      },
+      "ingredients": [
+        "romaine",
+        "Parmesan",
+        "cracked black pepper",
+        "house-made croutons",
+        "house-made Caesar dressing (likely oil, egg yolk, parmesan, lemon, garlic, anchovy, Worcestershire)"
+      ],
+      "ingredientsFrom": "menu"
     },
     {
       "id": "2026-10-26-3",
       "name": "Buffalo fried chicken sandwich, rest of it (Mike's Tavern leftovers)",
-      "portion": "~2/3 sandwich",
+      "portion": "~67% of the sandwich (the rest)",
       "meal": "dinner",
       "servings": 1,
       "kcal": 700,
@@ -214,10 +245,29 @@
         }
       ],
       "confidence": "low",
-      "notes": "Remaining two-thirds of the lunch sandwich, scaled from the lunch entry.",
+      "notes": "Remaining two-thirds of the lunch sandwich, scaled from the lunch entry. Sandwich not on the online menu, so ingredients are guessed from the photo.",
       "photos": [
         "photos/2026/2026-10-26/dinner-sandwich-shrimp.jpg"
-      ]
+      ],
+      "eaten": {
+        "pct": 67,
+        "of": "whole sandwich (the remaining ~67% after lunch, so 100% finished)"
+      },
+      "ingredients": [
+        "brioche bun (flour, eggs, butter, sugar)",
+        "chicken breast",
+        "flour/breading",
+        "buttermilk",
+        "frying oil",
+        "buffalo sauce (hot sauce, butter)",
+        "blue cheese crumbles",
+        "blue cheese or ranch dressing",
+        "shredded lettuce",
+        "red onion",
+        "salt",
+        "pepper"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-26-4",
@@ -266,7 +316,15 @@
       "notes": "No oil or seasoning, per Jesse; size judged from the plate.",
       "photos": [
         "photos/2026/2026-10-26/dinner-sandwich-shrimp.jpg"
-      ]
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "6 shrimp"
+      },
+      "ingredients": [
+        "large shrimp"
+      ],
+      "ingredientsFrom": "recipe"
     },
     {
       "id": "2026-10-26-5",
@@ -331,7 +389,32 @@
       "notes": "Bowl sized against his hand; no dressing assumed. Pecan and Gruyère in the scoop are the main uncertainty.",
       "photos": [
         "photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"
-      ]
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "bowl"
+      },
+      "ingredients": [
+        "baby spinach",
+        "blackberries",
+        "quinoa",
+        "portobello mushrooms",
+        "green beans",
+        "cherry tomatoes",
+        "Gruyère",
+        "pecans",
+        "red onion",
+        "garlic",
+        "olive oil",
+        "white wine",
+        "Dijon mustard",
+        "low-sodium broth",
+        "lemon",
+        "black pepper",
+        "salt",
+        "thyme (if used)"
+      ],
+      "ingredientsFrom": "recipe"
     }
   ]
 }

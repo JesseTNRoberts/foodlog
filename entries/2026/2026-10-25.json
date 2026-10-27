@@ -77,7 +77,23 @@
         }
       ],
       "confidence": "high",
-      "notes": "Your usual version from the recipe notes."
+      "notes": "Your usual version from the recipe notes.",
+      "eaten": {
+        "pct": 100,
+        "of": "sandwich"
+      },
+      "ingredients": [
+        "sourdough bread",
+        "eggs",
+        "mayonnaise",
+        "Cholula hot sauce",
+        "baby spinach",
+        "tomato",
+        "cooking spray or a little oil",
+        "salt",
+        "pepper"
+      ],
+      "ingredientsFrom": "recipe"
     },
     {
       "id": "2026-10-25-2",
@@ -155,7 +171,31 @@
         }
       ],
       "confidence": "medium",
-      "notes": "Sized from photo with your hand. Roux butter and hidden sausage are the main unknowns."
+      "notes": "Sized from photo with your hand. Roux butter and hidden sausage are the main unknowns.",
+      "eaten": {
+        "pct": 100,
+        "of": "bowl as photographed"
+      },
+      "ingredients": [
+        "long-grain white rice",
+        "chicken thigh or breast",
+        "andouille sausage",
+        "butter or oil (roux)",
+        "flour (roux)",
+        "onion",
+        "celery",
+        "green bell pepper",
+        "garlic",
+        "chicken stock",
+        "Cajun seasoning",
+        "cayenne",
+        "paprika",
+        "thyme",
+        "bay leaf",
+        "scallions",
+        "salt"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-25-3",
@@ -200,12 +240,28 @@
         }
       ],
       "confidence": "medium",
-      "notes": "Fryer oil is the main unknown; no dipping sauce counted."
+      "notes": "Fryer oil is the main unknown; no dipping sauce counted.",
+      "eaten": {
+        "pct": 100,
+        "of": "5 hush puppies"
+      },
+      "ingredients": [
+        "cornmeal",
+        "flour",
+        "buttermilk",
+        "egg",
+        "onion",
+        "sugar",
+        "baking powder",
+        "salt",
+        "frying oil"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-25-4",
       "name": "Apple dumpling",
-      "portion": "1/3 with syrup",
+      "portion": "~33% of the dumpling, with syrup",
       "meal": "snacks",
       "servings": 1,
       "kcal": 200,
@@ -251,7 +307,21 @@
         }
       ],
       "confidence": "low",
-      "notes": "Bakery-style; syrup amount uncertain."
+      "notes": "Bakery-style; syrup amount uncertain.",
+      "eaten": {
+        "pct": 33,
+        "of": "whole apple dumpling with syrup"
+      },
+      "ingredients": [
+        "apple",
+        "pie pastry (flour, butter/shortening)",
+        "sugar",
+        "cinnamon",
+        "butter",
+        "water or syrup base",
+        "nutmeg"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-25-5",
@@ -291,12 +361,24 @@
         }
       ],
       "confidence": "medium",
-      "notes": "Scoop size assumed."
+      "notes": "Scoop size assumed.",
+      "eaten": {
+        "pct": 100,
+        "of": "scoop served"
+      },
+      "ingredients": [
+        "cream",
+        "milk",
+        "sugar",
+        "vanilla",
+        "egg yolks or stabilizers"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-25-6",
       "name": "Apple fritter",
-      "portion": "1/3 bakery fritter",
+      "portion": "~33% of the fritter",
       "meal": "snacks",
       "servings": 1,
       "kcal": 165,
@@ -334,7 +416,24 @@
         }
       ],
       "confidence": "low",
-      "notes": "Fritter size varies a lot."
+      "notes": "Fritter size varies a lot.",
+      "eaten": {
+        "pct": 33,
+        "of": "whole bakery apple fritter"
+      },
+      "ingredients": [
+        "flour",
+        "apple",
+        "sugar",
+        "yeast or baking powder",
+        "milk",
+        "egg",
+        "butter",
+        "cinnamon",
+        "frying oil",
+        "powdered-sugar glaze"
+      ],
+      "ingredientsFrom": "guess"
     },
     {
       "id": "2026-10-25-7",
@@ -370,7 +469,19 @@
         }
       ],
       "confidence": "medium",
-      "notes": ""
+      "notes": "",
+      "eaten": {
+        "pct": 100,
+        "of": "1/8 cup serving"
+      },
+      "ingredients": [
+        "cream",
+        "milk",
+        "sugar",
+        "apple",
+        "cinnamon"
+      ],
+      "ingredientsFrom": "guess"
     }
   ],
   "note": "First day in the new log. Lunch was out (étouffée); desserts were apple-themed."
