@@ -75,21 +75,19 @@ function microRows(micros, scale=1){
 }
 
 /* ---------- nutrient breakdown (click a nutrient) ---------- */
-const COMP_FIELDS = ["kcal","protein","carbs","fat"];
 function nutrientInfo(m){
   const base={kcal:["Calories","kcal"],protein:["Protein","g"],carbs:["Carbs","g"],fat:["Fat","g"],fiber:["Fiber","g"],sugar:["Sugar","g"],
     addedSugar:["Added sugar","g"],satfat:["Saturated fat","g"],sodium:["Sodium","mg"],cholesterol:["Cholesterol","mg"]};
   if(base[m]) return base[m];
   const mi=MICRO.find(x=>x[0]===m); return mi?[mi[1],mi[2]]:[m,""];
 }
+function compVal(c,m){ return c.micros&&m in c.micros ? c.micros[m] : c[m]; }
 function contributions(entries,m){
   const map=new Map(); const add=(n,v)=>{ if(v>0) map.set(n,(map.get(n)||0)+v); };
   for(const e of entries){ const s=num(e.servings||1); const comps=e.components||[];
     const ev = m in (e.micros||{}) ? num(e.micros[m])*s : num(e[m])*s;
-    if(COMP_FIELDS.includes(m) && comps.length>1){
-      const csum=comps.reduce((a,c)=>a+num(c[m]),0);
-      if(csum>0){ comps.forEach(c=>add(c.name, num(c[m])/csum*ev)); continue; }
-    }
+    // Per-ingredient numbers when the ingredients carry this nutrient; otherwise the whole dish.
+    if(comps.length && comps.every(c=>compVal(c,m)!=null)){ comps.forEach(c=>add(c.name, num(compVal(c,m))*s)); continue; }
     add(e.name, ev);
   }
   return [...map].sort((a,b)=>b[1]-a[1]);

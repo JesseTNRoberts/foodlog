@@ -31,7 +31,11 @@ Ask at most one short question, and only when the answer would swing the estimat
       "micros": {"vitA": 200, "vitC": 8, "vitD": 2.2, "vitE": 1.5, "vitK": 60, "b6": 0.3, "b12": 0.9,
                  "folate": 110, "calcium": 90, "iron": 3, "magnesium": 35, "potassium": 330, "zinc": 1.6},
       "components": [
-        {"name": "Thin sourdough", "portion": "2 slices", "kcal": 140, "protein": 5, "carbs": 27, "fat": 1}
+        {"name": "Sourdough, thin slices", "portion": "2 slices (~52 g)", "grams": 52,
+         "kcal": 141, "protein": 5.7, "carbs": 27, "fat": 0.9, "satfat": 0.2, "fiber": 1.1, "sugar": 1, "addedSugar": 0.5,
+         "sodium": 312, "cholesterol": 0,
+         "micros": {"vitA": 0, "vitC": 0, "vitD": 0, "vitE": 0.1, "vitK": 0.4, "b6": 0.03, "b12": 0, "folate": 83,
+                    "calcium": 26, "iron": 1.8, "magnesium": 14, "potassium": 60, "zinc": 0.5}}
       ],
       "confidence": "high",
       "notes": "Key assumption and biggest uncertainty, one line."
@@ -44,7 +48,7 @@ Ask at most one short question, and only when the answer would swing the estimat
 - All nutrient values are for ONE serving; the site multiplies by `servings`.
 - `kcal` is the best estimate; `lo` / `hi` bound the plausible range.
 - Units: grams for macros, fiber and sugars; mg for sodium, cholesterol, vitC, vitE, b6, calcium, iron, magnesium, potassium and zinc; mcg for vitA (RAE), vitD, vitK, b12 and folate (DFE).
-- `components` list every visible ingredient and should sum to the entry totals. The site shows them as a composition bar and table, so make them specific ("Olive oil on sweet potato, ~1 tbsp", not "oil").
+- `components` are the ingredients, and every nutrient is estimated **per ingredient**: give each one `grams` plus the same fields as the entry (kcal, protein, carbs, fat, satfat, fiber, sugar, addedSugar, sodium, cholesterol and the 13 `micros`). The entry totals are the sums of its components (the build checks kcal, protein, fat and sodium). Break dishes into real ingredients, including hidden ones ("Butter in the roux, ~1 tbsp", "Frying oil absorbed, ~2 tsp"), so the site's "which foods did this come from" pie charts show actual sources (spinach for vitamin K, buffalo sauce for sodium). For a home recipe, scale the batch's ingredients to the portion and label them "(in the Gruyère quinoa)".
 - `confidence`: `high` (his own recipe, known amounts), `medium` (photo with hand scale), `low` (restaurant/bakery item, size guessed).
 - `eaten` (required): `{"pct": 33, "of": "whole sandwich"}`. Always estimate the percent of the item he ate, never "some" or "finished it". `of` names what 100% is (the whole dish as served), so if he eats more later he can say "the other 50%" and the later entry uses the same base, e.g. `{"pct": 67, "of": "whole sandwich (the rest)"}`.
 - `ingredients` (required): a best-guess list of everything likely in the dish, including hidden items (cooking fat, butter in sauces, breading, dressing parts), even when not visible. Keep it plain strings. Look it up first when possible: for restaurant food, search for the restaurant's menu description; for his own cooking, use the recipe in `recipes/`. Fill hidden items in from there.

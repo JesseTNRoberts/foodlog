@@ -31,6 +31,14 @@ function checkEntry(e, where) {
     errors.push(`${where}: eaten must be {"pct": 1-100, "of": "what the 100% is"}`);
   if (e.ingredients != null && (!Array.isArray(e.ingredients) || e.ingredients.some(x => typeof x !== "string")))
     errors.push(`${where}: ingredients must be an array of strings`);
+  const comps = Array.isArray(e.components) ? e.components : [];
+  if (comps.length && comps.every(c => c.micros)) {
+    for (const f of ["kcal", "protein", "fat", "sodium"]) {
+      const sum = comps.reduce((a, c) => a + (+c[f] || 0), 0);
+      if (Math.abs(sum - (+e[f] || 0)) > Math.max(5, 0.05 * Math.abs(+e[f] || 0)))
+        errors.push(`${where}: ${f} is ${e[f]} but its ingredients add up to ${Math.round(sum)}`);
+    }
+  }
   if (e.ingredientsFrom != null && !["menu", "recipe", "guess"].includes(e.ingredientsFrom))
     errors.push(`${where}: ingredientsFrom must be menu, recipe or guess`);
   if (e.photos != null) {
