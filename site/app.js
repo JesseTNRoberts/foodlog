@@ -74,29 +74,6 @@ function microRows(micros, scale=1){
   }).join("");
 }
 
-/* ---------- weekly / monthly averages ---------- */
-function windowAvg(end,n){
-  const start=addDays(end,-(n-1));
-  const L=DATA.days.filter(d=>d.date>=start&&d.date<=end&&d.entries.length).map(d=>totals(d.entries));
-  const avg={n:L.length}; for(const f of ["kcal","protein","carbs","fat","fiber","sodium"]) avg[f]=L.length?L.reduce((s,t)=>s+t[f],0)/L.length:0;
-  return avg;
-}
-function avgCard(k,S){
-  const W=windowAvg(k,7), M=windowAvg(k,30);
-  const rows=[["Calories","kcal","kcal",num(S.budget)||1800,"limit"],["Protein","protein","g",num(S.proteinGoal),"goal"],
-    ["Carbs","carbs","g",0,""],["Fat","fat","g",0,""],["Fiber","fiber","g",num(S.fiberGoal),"goal"],["Sodium","sodium","mg",num(S.sodiumLimit),"limit"]];
-  const cell=(A,f,g,kind)=>{ if(!A.n) return `<td class="num muted">–</td>`;
-    const v=A[f]; const cls=!g?"":kind==="limit"?(v>g?"over":"ok"):(v>=g?"ok":v>=g*.85?"near":"low");
-    const pct=g?Math.min(100,v/g*100):0;
-    return `<td class="num ${cls}"><b>${fmt(v)}</b>${g?`<div class="mini"><i style="width:${pct}%"></i></div>`:""}</td>`; };
-  const split=A=>{const c=A.protein*4+A.carbs*4+A.fat*9; return c?`${Math.round(A.protein*4/c*100)} / ${Math.round(A.carbs*4/c*100)} / ${Math.round(A.fat*9/c*100)}`:"–";};
-  return `<section class="card avgcard"><div class="card-h"><h2>Weekly & monthly averages</h2><span class="sub">per logged day · what matters most</span></div>
-    <div class="tblwrap"><table class="avgt"><thead><tr><th></th><th>Last 7 days<div class="sub">${W.n} of 7 days logged</div></th><th>Last 30 days<div class="sub">${M.n} of 30 days logged</div></th><th>Goal</th></tr></thead>
-    <tbody>${rows.map(([l,f,u,g,kind])=>`<tr><td>${l} <span class="por">${u}</span></td>${cell(W,f,g,kind)}${cell(M,f,g,kind)}<td class="num muted">${g?(kind==="limit"?"≤ ":"≥ ")+fmt(g):"–"}</td></tr>`).join("")}
-    <tr><td>Macro split <span class="por">P / C / F %</span></td><td class="num">${W.n?split(W):"–"}</td><td class="num">${M.n?split(M):"–"}</td><td></td></tr></tbody></table></div>
-    <div class="muted small">Averages count only days with something logged, and those days may be incomplete, so treat calories as a floor. Your weight trend is the real check.</div></section>`;
-}
-
 /* ---------- day view ---------- */
 function renderDay(k){
   destroyCharts();
@@ -119,8 +96,6 @@ function renderDay(k){
   </div>
   ${day?.note?`<div class="daynote">${esc(day.note)}</div>`:""}
   ${!ents.length?(()=>{const last=DATA.days.filter(d=>d.entries.length&&d.date!==k).map(d=>d.date).filter(d=>d<k).pop(); return `<div class="daynote">Nothing logged for this day yet.${last?` Last logged day: <a href="#/day/${last}">${esc(prettyDate(last,{weekday:"long",month:"short",day:"numeric"}))}</a>.`:""}</div>`;})():""}
-  ${avgCard(k,S)}
-  <h2 style="font-size:16px;font-weight:600;margin:4px 0 0">This day</h2>
   <div class="kpis">
     ${kpi("Calories",t.kcal,"kcal",B,{limit:true,foot:left>=0?`${fmt(left)} left`:`<span style="color:var(--over)">${fmt(-left)} over</span>`,delta:deltaPill(t.kcal,avg("kcal"),null)})}
     ${kpi("Protein",t.protein,"g",PG,{color:"var(--p)",foot:`${Math.round(t.protein*4/cal*100)}% of kcal`,delta:deltaPill(t.protein,avg("protein"),true)})}
