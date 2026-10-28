@@ -716,6 +716,83 @@
         "salt"
       ],
       "ingredientsFrom": "guess"
+    },
+    {
+      "id": "2026-10-28-5",
+      "name": "Arkansas Black apple",
+      "portion": "1 medium apple; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 94,
+      "protein": 0.5,
+      "carbs": 24.8,
+      "fat": 0.3,
+      "satfat": 0.1,
+      "fiber": 4.3,
+      "sugar": 18.7,
+      "addedSugar": 0.0,
+      "sodium": 1.8,
+      "cholesterol": 0.0,
+      "lo": 75,
+      "hi": 115,
+      "micros": {
+        "vitA": 5.4,
+        "vitC": 8.28,
+        "vitD": 0.0,
+        "vitE": 0.32,
+        "vitK": 3.96,
+        "b6": 0.07,
+        "b12": 0.0,
+        "folate": 5.4,
+        "calcium": 10.8,
+        "iron": 0.22,
+        "magnesium": 9.0,
+        "potassium": 192.6,
+        "zinc": 0.07
+      },
+      "components": [
+        {
+          "name": "Arkansas Black apple, with skin",
+          "portion": "1 medium (~180 g)",
+          "grams": 180,
+          "kcal": 93.6,
+          "protein": 0.47,
+          "carbs": 24.84,
+          "fat": 0.31,
+          "satfat": 0.05,
+          "fiber": 4.32,
+          "sugar": 18.72,
+          "addedSugar": 0.0,
+          "sodium": 1.8,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 5.4,
+            "vitC": 8.28,
+            "vitD": 0.0,
+            "vitE": 0.32,
+            "vitK": 3.96,
+            "b6": 0.07,
+            "b12": 0.0,
+            "folate": 5.4,
+            "calcium": 10.8,
+            "iron": 0.22,
+            "magnesium": 9.0,
+            "potassium": 192.6,
+            "zinc": 0.07
+          },
+          "whole": 1.0
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Assumed a medium apple (~180 g); size is the only uncertainty.",
+      "eaten": {
+        "pct": 100,
+        "of": "whole apple"
+      },
+      "ingredients": [
+        "Arkansas Black apple"
+      ],
+      "ingredientsFrom": "recipe"
     }
   ]
 }
