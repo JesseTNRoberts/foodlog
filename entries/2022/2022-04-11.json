@@ -29,7 +29,8 @@
      "fiber": 2.4,
      "sugar": 0.0,
      "sodium": 140.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -53,7 +55,8 @@
      "fat": 5.5,
      "satfat": 0.6,
      "fiber": 1.2,
-     "sodium": 110.8
+     "sodium": 110.8,
+     "whole": 0.85
     },
     {
      "name": "Chips, Pita",
@@ -66,7 +69,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 162.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -79,7 +83,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Hummus, Lemon Twist",
@@ -92,7 +97,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -104,7 +110,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -117,7 +124,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 690.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -166,7 +174,8 @@
      "fiber": 5.9,
      "sugar": 3.9,
      "sodium": 904.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Dark Chocolate Peanut Butter",
@@ -179,7 +188,8 @@
      "fiber": 7.0,
      "sugar": 8.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoletti",
@@ -192,7 +202,8 @@
      "fiber": 2.7,
      "sugar": 1.3,
      "sodium": 40.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -236,7 +247,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

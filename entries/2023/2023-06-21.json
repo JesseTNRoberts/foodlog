@@ -29,7 +29,8 @@
      "fiber": 7.0,
      "sugar": 0.0,
      "sodium": 1290.0,
-     "cholesterol": 95.0
+     "cholesterol": 95.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 8.3,
      "sodium": 383.4,
-     "cholesterol": 33.3
+     "cholesterol": 33.3,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Envy",
@@ -98,7 +101,8 @@
      "fiber": 4.4,
      "sugar": 19.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 920.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Potato, Kettle Cooked, Jalapeno",
@@ -154,7 +159,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 85.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Soup, Minestrone",
@@ -167,7 +173,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blueberries",
@@ -55,7 +57,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.4,
      "sugar": 1.1,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 7.7,
      "sugar": 8.3,
      "sodium": 353.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -182,7 +189,8 @@
      "fiber": 2.7,
      "sugar": 1.6,
      "sodium": 660.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Maple And Honey Turkey",
@@ -193,7 +201,8 @@
      "fat": 0.8,
      "sugar": 3.0,
      "sodium": 585.0,
-     "cholesterol": 37.5
+     "cholesterol": 37.5,
+     "whole": 0.3
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -206,7 +215,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 75.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -219,7 +229,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -264,7 +275,8 @@
      "fiber": 1.1,
      "sugar": 1.9,
      "sodium": 497.2,
-     "cholesterol": 11.1
+     "cholesterol": 11.1,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -277,7 +289,8 @@
      "fiber": 0.7,
      "sugar": 1.7,
      "sodium": 532.8,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Ketchup",
@@ -290,7 +303,8 @@
      "fiber": 0.2,
      "sugar": 13.7,
      "sodium": 668.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Famous Fries Crispy French Fried Seasoned Potatoes",
@@ -302,7 +316,8 @@
      "satfat": 0.5,
      "fiber": 0.5,
      "sodium": 97.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -347,7 +362,8 @@
      "fiber": 0.9,
      "sugar": 0.9,
      "sodium": 65.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -360,7 +376,8 @@
      "fiber": 1.2,
      "sugar": 0.8,
      "sodium": 77.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -373,7 +390,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

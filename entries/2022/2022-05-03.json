@@ -24,7 +24,8 @@
      "kcal": 900,
      "protein": 11.2,
      "carbs": 14.5,
-     "fat": 7.5
+     "fat": 7.5,
+     "whole": 0.3
     },
     {
      "name": "French Fries side",
@@ -35,7 +36,8 @@
      "fat": 42.0,
      "satfat": 10.0,
      "fiber": 12.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cheddar's Red Beans and Rice",
@@ -44,7 +46,8 @@
      "carbs": 37.0,
      "fat": 6.0,
      "sugar": 0.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Butter Croissant",
@@ -57,12 +60,14 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 117.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.1
     },
     {
      "name": "Honey Mustard Sauce",
      "portion": "3 servings",
-     "kcal": 135
+     "kcal": 135,
+     "whole": 0.3
     }
    ],
    "eaten": {

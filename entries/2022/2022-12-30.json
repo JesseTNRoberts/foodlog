@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 32.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Orange",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Side, Chow Mein",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 6.7,
      "sodium": 729.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Teriyaki",
@@ -68,7 +71,8 @@
      "fiber": 3.0,
      "sugar": 10.0,
      "sodium": 630.0,
-     "cholesterol": 195.0
+     "cholesterol": 195.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

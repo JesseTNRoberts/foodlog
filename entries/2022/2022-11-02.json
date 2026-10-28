@@ -21,7 +21,8 @@
     {
      "name": "Medium Iced Vanilla Latte With Almond Milk",
      "portion": "1 serving",
-     "kcal": 180
+     "kcal": 180,
+     "whole": 0.1
     },
     {
      "name": "Strawberry freezer jam",
@@ -33,7 +34,8 @@
      "satfat": 0.0,
      "fiber": 1.7,
      "sugar": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cultured Vegan Butter Made With Oat Milk",
@@ -46,7 +48,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -59,7 +62,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {
@@ -102,7 +106,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -115,7 +120,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "vegan cheese",
@@ -128,7 +134,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salad, mixed greens",
@@ -138,7 +145,8 @@
      "carbs": 2.0,
      "fat": 0.0,
      "fiber": 0.7,
-     "sodium": 10.0
+     "sodium": 10.0,
+     "whole": 0.7
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -151,7 +159,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -164,7 +173,8 @@
      "fiber": 0.3,
      "sugar": 0.4,
      "sodium": 5.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -211,7 +221,8 @@
      "fiber": 3.4,
      "sugar": 0.0,
      "sodium": 577.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Plant Based Cauliflower Dip Garden Spinach",
@@ -224,7 +235,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 640.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -267,7 +279,8 @@
      "fiber": 2.0,
      "sugar": 10.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chicken Finger",
@@ -280,12 +293,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     },
     {
      "name": "Dr. Pepper",
      "portion": "3/4 serving",
-     "kcal": 218
+     "kcal": 218,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Cane's",
@@ -298,7 +313,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -311,7 +327,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

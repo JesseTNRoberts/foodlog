@@ -23,7 +23,8 @@
      "portion": "10 fluid ounces",
      "kcal": 288,
      "protein": 20.6,
-     "carbs": 28.1
+     "carbs": 28.1,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -61,7 +62,8 @@
      "protein": 12.4,
      "carbs": 38.8,
      "fat": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -74,7 +76,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

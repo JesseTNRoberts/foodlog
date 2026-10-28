@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -70,7 +71,8 @@
      "satfat": 7.0,
      "fiber": 5.0,
      "sugar": 3.0,
-     "sodium": 850.0
+     "sodium": 850.0,
+     "whole": 0.25
     },
     {
      "name": "Tortilla Chips",
@@ -83,7 +85,8 @@
      "fiber": 3.6,
      "sugar": 0.0,
      "sodium": 204.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Med",
@@ -96,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 7.0,
      "sodium": 805.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tomatoes, Paste",
@@ -109,7 +113,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 105.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -154,7 +159,8 @@
      "fiber": 3.0,
      "sugar": 25.5,
      "sodium": 645.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Burrito, Soft Veggie",
@@ -167,7 +173,8 @@
      "fiber": 12.0,
      "sugar": 3.0,
      "sodium": 2531.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

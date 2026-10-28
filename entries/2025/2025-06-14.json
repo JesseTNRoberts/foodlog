@@ -26,7 +26,8 @@
      "carbs": 8.6,
      "fat": 11.7,
      "fiber": 0.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Biscuit",
@@ -39,7 +40,8 @@
      "fiber": 1.6,
      "sugar": 1.0,
      "sodium": 500.0,
-     "cholesterol": 11.0
+     "cholesterol": 11.0,
+     "whole": 0.3
     },
     {
      "name": "Scrambled Eggs",
@@ -52,7 +54,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 66.0,
-     "cholesterol": 126.8
+     "cholesterol": 126.8,
+     "whole": 1.0
     },
     {
      "name": "Blueberry Jelly",
@@ -65,7 +68,8 @@
      "fiber": 0.0,
      "sugar": 8.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

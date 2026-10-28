@@ -29,7 +29,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 541.0,
-     "cholesterol": 58.5
+     "cholesterol": 58.5,
+     "whole": 0.3
     },
     {
      "name": "Salad Dressing, Caesar",
@@ -39,7 +40,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -52,7 +54,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -65,12 +68,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 400.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Dr Pepper",
      "portion": "1 serving",
-     "kcal": 158
+     "kcal": 158,
+     "whole": 0.0
     },
     {
      "name": "Texas Toast",
@@ -83,7 +88,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 290.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -96,7 +102,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -106,7 +113,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -119,7 +127,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -132,7 +141,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -145,7 +155,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -197,7 +208,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 1082.0,
-     "cholesterol": 117.0
+     "cholesterol": 117.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -210,12 +222,14 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper",
      "portion": "1 serving",
-     "kcal": 158
+     "kcal": 158,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -251,7 +265,8 @@
     {
      "name": "Chicken Sandwich",
      "portion": "3/4 serving",
-     "kcal": 413
+     "kcal": 413,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Cane's",
@@ -264,19 +279,22 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Hashbrowns",
      "portion": "1 serving",
      "kcal": 170,
      "carbs": 35.0,
-     "fat": 8.0
+     "fat": 8.0,
+     "whole": 0.25
     },
     {
      "name": "Roll",
      "portion": "3/4 serving",
-     "kcal": 83
+     "kcal": 83,
+     "whole": 0.5
     }
    ],
    "eaten": {

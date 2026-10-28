@@ -29,7 +29,8 @@
      "fiber": 6.7,
      "sugar": 2.6,
      "sodium": 330.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Goat",
@@ -42,12 +43,14 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 240.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.85
     },
     {
      "name": "Honey Mustard Sauce",
      "portion": "1 serving",
-     "kcal": 45
+     "kcal": 45,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -91,7 +94,8 @@
      "fiber": 1.9,
      "sugar": 0.0,
      "sodium": 230.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salad Dressing, Caesar",
@@ -101,7 +105,8 @@
      "carbs": 1.5,
      "fat": 18.0,
      "satfat": 1.5,
-     "sodium": 127.5
+     "sodium": 127.5,
+     "whole": 0.3
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -114,7 +119,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -127,7 +133,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 199.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -140,7 +147,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -152,7 +160,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "vegan cheese",
@@ -165,7 +174,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -178,7 +188,8 @@
      "fiber": 6.0,
      "sugar": 12.0,
      "sodium": 1380.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -219,7 +230,8 @@
     {
      "name": "Fried Shrimp",
      "portion": "5 pieces",
-     "kcal": 465
+     "kcal": 465,
+     "whole": 0.3
     },
     {
      "name": "French Fries, Adult",
@@ -232,7 +244,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 760.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -245,7 +258,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 260.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Mashed Sweet Potatoes",
@@ -257,7 +271,8 @@
      "satfat": 1.5,
      "fiber": 4.0,
      "sugar": 18.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 1.0
     },
     {
      "name": "Cornmeal Fried Catfish",
@@ -270,7 +285,8 @@
      "fiber": 0.1,
      "sugar": 0.8,
      "sodium": 250.0,
-     "cholesterol": 8.8
+     "cholesterol": 8.8,
+     "whole": 0.3
     }
    ],
    "eaten": {

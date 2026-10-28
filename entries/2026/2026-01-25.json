@@ -28,7 +28,8 @@
      "satfat": 2.0,
      "fiber": 2.0,
      "sodium": 380.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.25
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -41,7 +42,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Cane's",
@@ -54,7 +56,8 @@
      "fiber": 0.0,
      "sugar": 2.7,
      "sodium": 366.9,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 91.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Homemade Salsa",
@@ -111,7 +115,8 @@
      "fiber": 2.9,
      "sugar": 6.2,
      "sodium": 298.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -154,7 +159,8 @@
      "fiber": 4.4,
      "sugar": 19.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Red Leicester",
@@ -167,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 80.3,
-     "cholesterol": 11.8
+     "cholesterol": 11.8,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -210,7 +217,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Oatmeal, Oats, Old Fashioned, Dry",
@@ -223,7 +231,8 @@
      "fiber": 5.3,
      "sugar": 1.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Scratch Pizza",
@@ -236,7 +245,8 @@
      "fiber": 0.3,
      "sugar": 1.2,
      "sodium": 257.8,
-     "cholesterol": 4.9
+     "cholesterol": 4.9,
+     "whole": 0.3
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -249,7 +259,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Syrup, Maple",
@@ -262,7 +273,8 @@
      "fiber": 0.0,
      "sugar": 11.9,
      "sodium": 1.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -308,7 +320,8 @@
      "fiber": 5.8,
      "sugar": 3.6,
      "sodium": 371.6,
-     "cholesterol": 34.2
+     "cholesterol": 34.2,
+     "whole": 0.7
     },
     {
      "name": "Sourdough Round Bread",
@@ -320,7 +333,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Aged Sharp White Cheddar Slice",
@@ -332,7 +346,8 @@
      "satfat": 2.0,
      "fiber": 0.0,
      "sodium": 67.5,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken, Breast, Grilled, w/o Skin",
@@ -345,7 +360,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 17.9,
-     "cholesterol": 20.4
+     "cholesterol": 20.4,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -390,7 +406,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -403,7 +420,8 @@
      "fiber": 0.4,
      "sugar": 0.7,
      "sodium": 220.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Mini Cucumbers",
@@ -416,7 +434,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -429,7 +448,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

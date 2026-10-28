@@ -29,7 +29,8 @@
      "fiber": 5.5,
      "sugar": 17.4,
      "sodium": 1.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.4,
      "sugar": 5.8,
      "sodium": 49.5,
-     "cholesterol": 9.9
+     "cholesterol": 9.9,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -111,7 +113,8 @@
      "satfat": 0.7,
      "fiber": 5.7,
      "sugar": 0.2,
-     "sodium": 150.5
+     "sodium": 150.5,
+     "whole": 1.0
     },
     {
      "name": "Mashed Potatoes, Homemade w/ Whole Milk",
@@ -124,7 +127,8 @@
      "fiber": 1.6,
      "sugar": 1.6,
      "sodium": 317.1,
-     "cholesterol": 2.1
+     "cholesterol": 2.1,
+     "whole": 0.7
     },
     {
      "name": "Skillet Cornbread (Southern Style)",
@@ -137,7 +141,8 @@
      "fiber": 0.3,
      "sugar": 3.0,
      "sodium": 76.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Greens, Collard, Cooked, Chopped",
@@ -150,7 +155,8 @@
      "fiber": 1.3,
      "sugar": 0.2,
      "sodium": 7.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pickled Jalapeños",
@@ -163,7 +169,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -209,7 +216,8 @@
      "fiber": 4.4,
      "sugar": 2.7,
      "sodium": 8.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -222,7 +230,8 @@
      "fiber": 0.6,
      "sugar": 1.1,
      "sodium": 315.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -235,7 +244,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cookeville Pizza and Pub - Music City Miracle Med- Doublecut",
@@ -248,7 +258,8 @@
      "fiber": 1.0,
      "sugar": 1.5,
      "sodium": 250.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Pumpkin Swirl Bread with Whipped Cream Cheese",
@@ -261,7 +272,8 @@
      "fiber": 0.7,
      "sugar": 7.3,
      "sodium": 103.9,
-     "cholesterol": 16.6
+     "cholesterol": 16.6,
+     "whole": 0.1
     },
     {
      "name": "Tomatoes, Cherry",
@@ -274,7 +286,8 @@
      "fiber": 1.6,
      "sugar": 3.6,
      "sodium": 6.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salsa, Chunky",
@@ -287,7 +300,8 @@
      "fiber": 2.6,
      "sugar": 5.3,
      "sodium": 612.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -335,7 +349,8 @@
      "fiber": 3.4,
      "sugar": 0.3,
      "sodium": 3.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tahini",
@@ -348,7 +363,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 3.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Nuts, Walnuts, Chopped",
@@ -361,7 +377,8 @@
      "fiber": 0.5,
      "sugar": 0.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Egg, Hard Boiled, Whole, Large",
@@ -374,7 +391,8 @@
      "fiber": 0.0,
      "sugar": 0.3,
      "sodium": 31.0,
-     "cholesterol": 93.2
+     "cholesterol": 93.2,
+     "whole": 1.0
     },
     {
      "name": "Chickpeas, Cooked, No Salt",
@@ -387,7 +405,8 @@
      "fiber": 1.6,
      "sugar": 1.0,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Organic Maple Syrup",
@@ -400,7 +419,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Sweet Potatoes, Medium, 5\"",
@@ -413,7 +433,8 @@
      "fiber": 0.8,
      "sugar": 1.2,
      "sodium": 15.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -426,7 +447,8 @@
      "fiber": 1.7,
      "sugar": 0.7,
      "sodium": 21.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blackberries",
@@ -439,7 +461,8 @@
      "fiber": 2.0,
      "sugar": 1.8,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -452,7 +475,8 @@
      "fiber": 0.6,
      "sugar": 2.4,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -465,7 +489,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 11.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -478,7 +503,8 @@
      "fiber": 0.2,
      "sugar": 0.9,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -531,7 +557,8 @@
      "fiber": 0.9,
      "sugar": 16.4,
      "sodium": 188.5,
-     "cholesterol": 26.4
+     "cholesterol": 26.4,
+     "whole": 0.15
     },
     {
      "name": "Orange Juice",
@@ -544,7 +571,8 @@
      "fiber": 0.0,
      "sugar": 22.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

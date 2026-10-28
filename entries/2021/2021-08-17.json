@@ -21,7 +21,8 @@
     {
      "name": "Big Bang Coffee",
      "portion": "1 serving",
-     "kcal": 1
+     "kcal": 1,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
      "fiber": 2.5,
      "sugar": 3.5,
      "sodium": 1177.5,
-     "cholesterol": 187.5
+     "cholesterol": 187.5,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -76,7 +78,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 460.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -89,7 +92,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -102,7 +106,8 @@
      "fiber": 0.4,
      "sugar": 0.4,
      "sodium": 85.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -147,7 +152,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Crispy Battered Fish Portions",
@@ -159,7 +165,8 @@
      "satfat": 2.0,
      "sugar": 1.0,
      "sodium": 270.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -172,7 +179,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 287.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -185,7 +193,8 @@
      "fiber": 1.7,
      "sugar": 1.7,
      "sodium": 214.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

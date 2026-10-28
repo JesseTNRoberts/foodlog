@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 1.1,
      "sodium": 39.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,12 +87,14 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Peach Pie",
      "portion": "1 slice",
-     "kcal": 181
+     "kcal": 181,
+     "whole": 0.1
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -101,7 +105,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "O Charley’s Honey Mustard",
@@ -114,7 +119,8 @@
      "fiber": 0.0,
      "sugar": 3.8,
      "sodium": 141.8,
-     "cholesterol": 4.7
+     "cholesterol": 4.7,
+     "whole": 0.3
     },
     {
      "name": "Thin-Sliced 21 Whole Grains and Seeds Bread",
@@ -127,7 +133,8 @@
      "fiber": 4.0,
      "sugar": 6.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -140,7 +147,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cultured Vegan Butter Made With Oat Milk",
@@ -153,7 +161,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Planta-Based Scramble",
@@ -166,7 +175,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Mayo Spread",
@@ -179,7 +189,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 56.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Vegan Hot Pepper Cheese Slices",
@@ -192,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cheddar Style Shreds",
@@ -205,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Greens, Baby Spring Mix",
@@ -218,7 +231,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Ketchup",
@@ -231,12 +245,14 @@
      "fiber": 0.0,
      "sugar": 2.7,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Mustard",
      "portion": "1 serving",
-     "kcal": 5
+     "kcal": 5,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -249,7 +265,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -262,7 +279,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kosher Hamburger Dill Chips",
@@ -275,7 +293,8 @@
      "fiber": 0.8,
      "sugar": 0.7,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -333,7 +352,8 @@
      "fiber": 2.6,
      "sugar": 14.7,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Forager Probiotic Cashew Milk Yogurt",
@@ -346,7 +366,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cherries Rainer",
@@ -359,7 +380,8 @@
      "fiber": 0.3,
      "sugar": 1.7,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -401,7 +423,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Thin-Sliced 21 Whole Grains and Seeds Bread",
@@ -414,7 +437,8 @@
      "fiber": 4.0,
      "sugar": 6.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -427,7 +451,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -440,7 +465,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Greens, Baby Spring Mix",
@@ -453,7 +479,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -466,7 +493,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

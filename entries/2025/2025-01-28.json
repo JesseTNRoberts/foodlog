@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blueberries",
@@ -55,7 +57,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Blackberries",
@@ -81,7 +85,8 @@
      "fiber": 3.0,
      "sugar": 5.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -94,7 +99,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 13.0,
      "sugar": 1.3,
      "sodium": 14.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Dressing, Ranch, Homestyle",
@@ -154,7 +161,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 120.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "broccoli Shreds",
@@ -167,7 +175,8 @@
      "fiber": 1.8,
      "sugar": 1.7,
      "sodium": 5.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -211,7 +220,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 360.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Croutons, Homestyle Seasoned Herb",
@@ -224,7 +234,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 450.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Shrimp",
@@ -237,7 +248,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 85.0,
-     "cholesterol": 77.5
+     "cholesterol": 77.5,
+     "whole": 1.0
     },
     {
      "name": "Little Gem Butter Crunch",
@@ -247,7 +259,8 @@
      "carbs": 8.0,
      "fiber": 3.0,
      "sugar": 3.0,
-     "sodium": 50.0
+     "sodium": 50.0,
+     "whole": 0.3
     },
     {
      "name": "Tomatoes, Cherry",
@@ -260,7 +273,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -306,7 +320,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

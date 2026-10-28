@@ -29,7 +29,8 @@
      "fiber": 3.7,
      "sugar": 14.4,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pistachios, Lightly Salted",
@@ -42,7 +43,8 @@
      "fiber": 1.7,
      "sugar": 0.7,
      "sodium": 23.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Healthy Vegan Bites",
@@ -53,7 +55,8 @@
      "fat": 1.5,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 5.0
+     "sodium": 5.0,
+     "whole": 0.15
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -66,7 +69,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -111,7 +115,8 @@
      "fiber": 22.3,
      "sugar": 7.6,
      "sodium": 408.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -124,7 +129,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Heinz 57 sauce",
@@ -137,7 +143,8 @@
      "fiber": 0.0,
      "sugar": 7.5,
      "sodium": 400.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -181,7 +188,8 @@
      "fiber": 9.3,
      "sugar": 6.3,
      "sodium": 101.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pie, Peach",
@@ -194,7 +202,8 @@
      "fiber": 0.9,
      "sugar": 7.2,
      "sodium": 315.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Soup, Vegetable Garden",
@@ -207,7 +216,8 @@
      "fiber": 5.8,
      "sugar": 6.5,
      "sodium": 599.6,
-     "cholesterol": 3.8
+     "cholesterol": 3.8,
+     "whole": 0.7
     },
     {
      "name": "Side, Biscuit",
@@ -220,7 +230,8 @@
      "fiber": 4.0,
      "sugar": 1.0,
      "sodium": 350.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -233,7 +244,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -279,7 +291,8 @@
      "fiber": 5.4,
      "sugar": 4.6,
      "sodium": 0.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Coffee, Iced",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle Potato, Medium",
@@ -98,7 +101,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -124,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

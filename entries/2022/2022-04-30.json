@@ -26,7 +26,8 @@
      "carbs": 24.0,
      "fat": 22.0,
      "fiber": 4.0,
-     "sugar": 16.0
+     "sugar": 16.0,
+     "whole": 0.7
     },
     {
      "name": "Granola bar cinnamon roll",
@@ -39,7 +40,8 @@
      "fiber": 2.0,
      "sugar": 12.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Fruits and nuts",
@@ -50,7 +52,8 @@
      "fat": 2.3,
      "fiber": 0.9,
      "sugar": 5.2,
-     "sodium": 2.0
+     "sodium": 2.0,
+     "whole": 1.0
     },
     {
      "name": "Fruit Leather, Sweet Strawberry",
@@ -63,7 +66,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.4
     }
    ],
    "eaten": {
@@ -108,7 +112,8 @@
      "fiber": 3.0,
      "sugar": 6.7,
      "sodium": 729.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Grilled Teriyaki",
@@ -121,19 +126,22 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 530.0,
-     "cholesterol": 185.0
+     "cholesterol": 185.0,
+     "whole": 0.5
     },
     {
      "name": "Fire Shrimp",
      "portion": "1 serving",
-     "kcal": 200
+     "kcal": 200,
+     "whole": 1.0
     },
     {
      "name": "Mixed Veggies, Side",
      "portion": "1/4 serving",
      "kcal": 8,
      "protein": 1.2,
-     "carbs": 5.5
+     "carbs": 5.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -174,7 +182,8 @@
      "protein": 26.0,
      "carbs": 138.5,
      "fat": 55.0,
-     "sodium": 1345.0
+     "sodium": 1345.0,
+     "whole": 0.5
     },
     {
      "name": "Pasta, Spaghetti, Cooked",
@@ -187,7 +196,8 @@
      "fiber": 5.4,
      "sugar": 1.6,
      "sodium": 2.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Sauce, Marinara",
@@ -200,7 +210,8 @@
      "fiber": 7.5,
      "sugar": 22.5,
      "sodium": 1000.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Mushrooms, Sautéed w/ Oil",
@@ -213,7 +224,8 @@
      "fiber": 1.5,
      "sugar": 2.9,
      "sodium": 7.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

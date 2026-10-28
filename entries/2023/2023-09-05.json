@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1260.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 75.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 4.3,
      "sugar": 28.5,
      "sodium": 211.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 57.9,
-     "cholesterol": 75.3
+     "cholesterol": 75.3,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -140,7 +144,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 75.0,
-     "cholesterol": 65.0
+     "cholesterol": 65.0,
+     "whole": 1.0
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -151,7 +156,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -164,7 +170,8 @@
      "fiber": 2.1,
      "sugar": 7.2,
      "sodium": 8.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -177,7 +184,8 @@
      "fiber": 0.2,
      "sugar": 0.0,
      "sodium": 26.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Cherry",
@@ -190,7 +198,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salsa, Chunky",
@@ -203,7 +212,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 230.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -251,7 +261,8 @@
      "fiber": 5.3,
      "sugar": 16.0,
      "sodium": 360.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -263,7 +274,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sugar": 4.0,
-     "sodium": 440.0
+     "sodium": 440.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

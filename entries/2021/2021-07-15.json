@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
     {
      "name": "Roasted Red Potatoes With Rosemary",
      "portion": "1 serving",
-     "kcal": 300
+     "kcal": 300,
+     "whole": 1.0
     },
     {
      "name": "Chili Lime Rice",
@@ -75,7 +77,8 @@
      "satfat": 0.1,
      "fiber": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Buffalo Cranberry Bar, Hot",
@@ -88,7 +91,8 @@
      "fiber": 1.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

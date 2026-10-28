@@ -28,7 +28,8 @@
      "satfat": 4.3,
      "fiber": 0.5,
      "sugar": 12.3,
-     "sodium": 219.3
+     "sodium": 219.3,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -70,7 +71,8 @@
      "fiber": 9.1,
      "sugar": 3.0,
      "sodium": 379.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -109,7 +111,8 @@
      "carbs": 21.0,
      "fat": 14.0,
      "fiber": 1.0,
-     "sugar": 17.0
+     "sugar": 17.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -146,7 +149,8 @@
      "kcal": 1200,
      "protein": 152.0,
      "carbs": 12.0,
-     "fat": 80.0
+     "fat": 80.0,
+     "whole": 0.5
     },
     {
      "name": "12oz Can",

@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 10.0,
      "sodium": 1580.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries, Med (no Salt)",
@@ -42,7 +43,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 100.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper - med",
@@ -50,7 +52,8 @@
      "kcal": 230,
      "carbs": 65.0,
      "sugar": 65.0,
-     "sodium": 85.0
+     "sodium": 85.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -94,7 +97,8 @@
      "fiber": 5.2,
      "sugar": 2.2,
      "sodium": 64.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bac-No-Naise Vegan Mayo",
@@ -107,7 +111,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -147,7 +152,8 @@
      "carbs": 1.5,
      "fat": 18.0,
      "satfat": 1.5,
-     "sodium": 127.5
+     "sodium": 127.5,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -160,7 +166,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 337.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -173,7 +180,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -183,7 +191,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -196,7 +205,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -209,7 +219,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -222,7 +233,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -270,7 +282,8 @@
      "fiber": 10.0,
      "sugar": 0.0,
      "sodium": 225.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Finger",
@@ -283,7 +296,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 920.0,
-     "cholesterol": 120.0
+     "cholesterol": 120.0,
+     "whole": 0.25
     },
     {
      "name": "Glazed Donut",
@@ -291,7 +305,8 @@
      "kcal": 440,
      "protein": 3.0,
      "carbs": 25.0,
-     "fat": 9.0
+     "fat": 9.0,
+     "whole": 0.1
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -304,7 +319,8 @@
      "fiber": 0.0,
      "sugar": 11.3,
      "sodium": 396.9,
-     "cholesterol": 28.4
+     "cholesterol": 28.4,
+     "whole": 0.3
     },
     {
      "name": "Donut, Cake, Old Fashion Plain",
@@ -317,7 +333,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 260.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.1
     },
     {
      "name": "Blueberry",
@@ -330,7 +347,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sauce, Cane's",
@@ -343,7 +361,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Texas Toast",
@@ -356,7 +375,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 290.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Naan Dippers",
@@ -369,7 +389,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -382,7 +403,8 @@
      "fiber": 2.2,
      "sugar": 0.0,
      "sodium": 232.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries Fresh",
@@ -68,7 +71,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -91,7 +96,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "2% Protein Milk",
@@ -103,7 +109,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Pineberries",
@@ -111,7 +118,8 @@
      "kcal": 6,
      "protein": 0.1,
      "carbs": 1.2,
-     "sugar": 0.8
+     "sugar": 0.8,
+     "whole": 1.0
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -124,7 +132,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -173,7 +182,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sugar": 1.0,
-     "sodium": 145.0
+     "sodium": 145.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Aged Sharp White Cheddar Slice",
@@ -185,7 +195,8 @@
      "satfat": 4.0,
      "fiber": 0.0,
      "sodium": 135.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken, Breast, Grilled, w/o Skin",
@@ -198,7 +209,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 35.7,
-     "cholesterol": 40.8
+     "cholesterol": 40.8,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -242,7 +254,8 @@
      "fiber": 2.9,
      "sugar": 2.5,
      "sodium": 210.9,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -284,7 +297,8 @@
      "fiber": 1.3,
      "sugar": 2.3,
      "sodium": 205.8,
-     "cholesterol": 86.4
+     "cholesterol": 86.4,
+     "whole": 0.5
     }
    ],
    "eaten": {

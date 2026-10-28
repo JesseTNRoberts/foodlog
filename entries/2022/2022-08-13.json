@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Strawberry freezer jam",
@@ -42,14 +43,16 @@
      "fiber": 1.9,
      "sugar": 17.1,
      "sodium": 9.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Bread",
      "portion": "2/3 slice",
      "kcal": 60,
      "protein": 2.0,
-     "fiber": 2.7
+     "fiber": 2.7,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -93,7 +96,8 @@
      "fiber": 4.0,
      "sugar": 10.0,
      "sodium": 1630.0,
-     "cholesterol": 105.0
+     "cholesterol": 105.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries, Med",
@@ -106,7 +110,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 960.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Honey mustard",
@@ -119,7 +124,8 @@
      "fiber": 0.0,
      "sugar": 3.3,
      "sodium": 95.4,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -132,7 +138,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 6.5,
      "sodium": 52.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 1.9,
      "sugar": 0.6,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Pear, Medium",
@@ -68,7 +71,8 @@
      "fiber": 2.8,
      "sugar": 8.7,
      "sodium": 0.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -81,7 +85,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -94,7 +99,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -107,7 +113,8 @@
      "fiber": 0.9,
      "sugar": 3.8,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greek Yogurt, Plain, 0%",
@@ -120,7 +127,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 10.8,
-     "cholesterol": 1.7
+     "cholesterol": 1.7,
+     "whole": 0.85
     },
     {
      "name": "Raspberry",
@@ -128,7 +136,8 @@
      "kcal": 10,
      "protein": 0.2,
      "carbs": 2.3,
-     "fat": 0.1
+     "fat": 0.1,
+     "whole": 1.0
     },
     {
      "name": "2% Protein Milk",
@@ -140,7 +149,8 @@
      "satfat": 0.1,
      "sugar": 0.2,
      "sodium": 4.0,
-     "cholesterol": 0.7
+     "cholesterol": 0.7,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -191,7 +201,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 134.3,
-     "cholesterol": 23.1
+     "cholesterol": 23.1,
+     "whole": 0.1
     },
     {
      "name": "Sandwich, Chicken",
@@ -204,7 +215,8 @@
      "fiber": 0.5,
      "sugar": 1.2,
      "sodium": 347.5,
-     "cholesterol": 13.8
+     "cholesterol": 13.8,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -247,7 +259,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.0,
-     "cholesterol": 70.0
+     "cholesterol": 70.0,
+     "whole": 1.0
     },
     {
      "name": "Tahini",
@@ -260,7 +273,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Quinoa, Cooked",
@@ -273,7 +287,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -286,7 +301,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Organic Maple Syrup",
@@ -299,7 +315,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -312,7 +329,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -325,7 +343,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -338,7 +357,8 @@
      "fiber": 0.3,
      "sugar": 0.2,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

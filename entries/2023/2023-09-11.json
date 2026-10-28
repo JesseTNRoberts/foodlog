@@ -27,7 +27,8 @@
      "fat": 8.2,
      "satfat": 0.8,
      "sugar": 0.8,
-     "sodium": 225.0
+     "sodium": 225.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -40,7 +41,8 @@
      "fiber": 1.7,
      "sugar": 3.6,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -53,7 +55,8 @@
      "fiber": 1.4,
      "sugar": 3.1,
      "sodium": 6.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 165.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Hummus (original)",
@@ -110,7 +114,8 @@
      "fiber": 2.5,
      "sugar": 1.2,
      "sodium": 162.5,
-     "cholesterol": 11.2
+     "cholesterol": 11.2,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -153,7 +158,8 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Side, Chow Mein",
@@ -166,7 +172,8 @@
      "fiber": 3.0,
      "sugar": 6.7,
      "sodium": 729.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Shrimp, Crispy, Entrée",
@@ -179,7 +186,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 800.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -222,7 +230,8 @@
      "satfat": 0.8,
      "fiber": 1.5,
      "sugar": 3.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -235,7 +244,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Smoothie - Strawberry, Banana, Spinach, Oat",
@@ -248,7 +258,8 @@
      "fiber": 1.9,
      "sugar": 6.3,
      "sodium": 34.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

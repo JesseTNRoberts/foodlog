@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries Fresh",
@@ -68,7 +71,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greek Yogurt, Plain, 0%",
@@ -94,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 1.7,
      "sodium": 21.7,
-     "cholesterol": 3.3
+     "cholesterol": 3.3,
+     "whole": 0.85
     },
     {
      "name": "Raspberry",
@@ -102,7 +108,8 @@
      "kcal": 10,
      "protein": 0.2,
      "carbs": 2.3,
-     "fat": 0.1
+     "fat": 0.1,
+     "whole": 1.0
     },
     {
      "name": "2% Protein Milk",
@@ -114,7 +121,8 @@
      "satfat": 0.2,
      "sugar": 0.4,
      "sodium": 7.9,
-     "cholesterol": 1.3
+     "cholesterol": 1.3,
+     "whole": 0.85
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -127,7 +135,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -177,7 +186,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Hummus",
@@ -190,7 +200,8 @@
      "fiber": 2.4,
      "sugar": 0.2,
      "sodium": 137.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Lavash Bread",
@@ -203,7 +214,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Egg, Large",
@@ -216,7 +228,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 71.0,
-     "cholesterol": 186.0
+     "cholesterol": 186.0,
+     "whole": 1.0
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -229,7 +242,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -242,7 +256,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Campari",
@@ -255,7 +270,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spring Mix, Organic",
@@ -268,7 +284,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 23.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Shredded",
@@ -281,7 +298,8 @@
      "fiber": 0.4,
      "sugar": 0.5,
      "sodium": 13.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -330,7 +348,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sugar": 1.0,
-     "sodium": 145.0
+     "sodium": 145.0,
+     "whole": 0.7
     },
     {
      "name": "Candy, Peanut Butter Cups",
@@ -343,7 +362,8 @@
      "fiber": 3.0,
      "sugar": 2.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Marinara Sauce",
@@ -356,7 +376,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 480.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -400,7 +421,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Red Coconut Curry Dressing",
@@ -413,7 +435,8 @@
      "fiber": 0.7,
      "sugar": 1.4,
      "sodium": 99.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cashews, Whole, Raw",
@@ -426,7 +449,8 @@
      "fiber": 0.6,
      "sugar": 1.1,
      "sodium": 2.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Egg, Hard Boiled, Whole, Medium",
@@ -439,7 +463,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 62.0,
-     "cholesterol": 186.0
+     "cholesterol": 186.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Campari",
@@ -452,7 +477,8 @@
      "fiber": 1.5,
      "sugar": 4.0,
      "sodium": 4.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spring Mix, Organic",
@@ -465,7 +491,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 142.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -478,7 +505,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chickpeas, Canned",
@@ -491,7 +519,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 44.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Carrots, Shredded",
@@ -504,7 +533,8 @@
      "fiber": 1.1,
      "sugar": 1.5,
      "sodium": 39.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -554,7 +584,8 @@
      "fiber": 1.9,
      "sugar": 1.4,
      "sodium": 338.7,
-     "cholesterol": 21.1
+     "cholesterol": 21.1,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 570.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 9.0,
      "sugar": 10.0,
      "sodium": 905.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.7
     },
     {
      "name": "Soup, Lentil & Chickpea, Organic, Sm",
@@ -84,7 +86,8 @@
      "fiber": 13.0,
      "sugar": 5.0,
      "sodium": 540.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cinnamon Roll, Small",
@@ -97,7 +100,8 @@
      "fiber": 1.0,
      "sugar": 11.0,
      "sodium": 310.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Bread, Buckwheat, Side",
@@ -110,7 +114,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -155,7 +160,8 @@
      "fiber": 12.0,
      "sugar": 13.0,
      "sodium": 1025.0,
-     "cholesterol": 114.0
+     "cholesterol": 114.0,
+     "whole": 0.7
     },
     {
      "name": "Juice, Apple Cider",
@@ -168,7 +174,8 @@
      "fiber": 0.0,
      "sugar": 62.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Salmon, baked or broiled",
@@ -181,7 +188,8 @@
      "fiber": 0.6,
      "sugar": 0.1,
      "sodium": 537.5,
-     "cholesterol": 71.2
+     "cholesterol": 71.2,
+     "whole": 1.0
     },
     {
      "name": "Bread, Buckwheat, Side",
@@ -194,7 +202,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

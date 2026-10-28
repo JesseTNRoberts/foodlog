@@ -26,7 +26,8 @@
      "carbs": 45.0,
      "fat": 8.0,
      "sugar": 15.0,
-     "cholesterol": 230.0
+     "cholesterol": 230.0,
+     "whole": 0.1
     },
     {
      "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
@@ -37,7 +38,8 @@
      "fat": 6.4,
      "satfat": 1.7,
      "sugar": 0.0,
-     "cholesterol": 52.0
+     "cholesterol": 52.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -80,7 +82,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Black Bean Burger",
@@ -93,7 +96,8 @@
      "fiber": 3.8,
      "sugar": 1.9,
      "sodium": 232.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -136,7 +140,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 79.4,
-     "cholesterol": 100.6
+     "cholesterol": 100.6,
+     "whole": 1.0
     },
     {
      "name": "Vegan Dressing and Spread",
@@ -149,7 +154,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 303.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
@@ -160,7 +166,8 @@
      "fat": 6.4,
      "satfat": 1.7,
      "sugar": 0.0,
-     "cholesterol": 52.0
+     "cholesterol": 52.0,
+     "whole": 1.0
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -173,7 +180,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 53.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -185,7 +193,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -231,7 +240,8 @@
      "fiber": 2.2,
      "sugar": 12.6,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Golden Tater Tots (3 oz., about 9 pieces)",
@@ -244,7 +254,8 @@
      "fiber": 0.4,
      "sugar": 0.4,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -287,7 +298,8 @@
      "fiber": 1.9,
      "sugar": 1.2,
      "sodium": 894.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Flatbread sandwich",
@@ -300,7 +312,8 @@
      "fiber": 0.8,
      "sugar": 1.2,
      "sodium": 384.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Kettle  Air Fried Salt and Vinegar Chips",
@@ -313,7 +326,8 @@
      "fiber": 0.3,
      "sugar": 0.0,
      "sodium": 66.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -357,7 +371,8 @@
      "fiber": 1.9,
      "sugar": 1.2,
      "sodium": 894.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Banana Pudding With Vanilla Wafers",
@@ -367,7 +382,8 @@
      "carbs": 5.6,
      "fat": 1.0,
      "sugar": 1.9,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.1
     }
    ],
    "eaten": {

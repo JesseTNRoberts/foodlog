@@ -29,7 +29,8 @@
      "fiber": 7.0,
      "sugar": 4.7,
      "sodium": 886.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -68,7 +69,8 @@
      "carbs": 3.0,
      "fat": 27.0,
      "fiber": 0.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Croissant / Crescent, Rolls",
@@ -81,17 +83,20 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Apricot Pie",
      "portion": "1 slice",
-     "kcal": 174
+     "kcal": 174,
+     "whole": 1.0
     },
     {
      "name": "Vegetable Soup",
      "portion": "2 cups",
-     "kcal": 170
+     "kcal": 170,
+     "whole": 0.7
     },
     {
      "name": "12oz Can",
@@ -150,7 +155,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 67.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

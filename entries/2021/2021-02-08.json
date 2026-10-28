@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 16.9,
      "sugar": 10.4,
      "sodium": 1857.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -98,7 +101,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -111,7 +115,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -124,7 +129,8 @@
      "fiber": 1.6,
      "sugar": 1.2,
      "sodium": 10.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sandwich, Spicy Chicken",
@@ -182,7 +189,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips",
@@ -195,7 +203,8 @@
      "fiber": 3.1,
      "sugar": 0.0,
      "sodium": 178.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Dr Pepper Medium",
@@ -208,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -221,7 +231,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Salsa, Chunky, Med",
@@ -234,7 +245,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 1150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -247,7 +259,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 3.8,
      "satfat": 2.1,
      "sodium": 349.5,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Vegan, Mozzarella 1oz(28g)",
@@ -80,7 +82,8 @@
      "fat": 14.2,
      "satfat": 9.1,
      "fiber": 2.2,
-     "sodium": 263.2
+     "sodium": 263.2,
+     "whole": 0.85
     },
     {
      "name": "Pasta Sauce, Tomato & Basil",
@@ -93,7 +96,8 @@
      "fiber": 4.0,
      "sugar": 11.0,
      "sodium": 540.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Egg Plant Cubed",
@@ -104,7 +108,8 @@
      "fat": 0.0,
      "satfat": 0.0,
      "fiber": 2.5,
-     "sodium": 2.0
+     "sodium": 2.0,
+     "whole": 1.0
     },
     {
      "name": "Tofu, Extra Firm",
@@ -117,7 +122,8 @@
      "fiber": 0.7,
      "sugar": 0.2,
      "sodium": 2.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Squash, Zucchini, Slices, Steamed",
@@ -130,7 +136,8 @@
      "fiber": 1.1,
      "sugar": 3.3,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Asparagus, Roasted w/ Oil",
@@ -143,7 +150,8 @@
      "fiber": 0.3,
      "sugar": 0.3,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -156,7 +164,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Shredded",
@@ -169,7 +178,8 @@
      "fiber": 0.1,
      "sugar": 0.2,
      "sodium": 4.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -219,7 +229,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Bread, Texas Toast",
@@ -232,7 +243,8 @@
      "fiber": 2.0,
      "sugar": 10.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Cane's",
@@ -245,7 +257,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Finger",
@@ -258,7 +271,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.25
     },
     {
      "name": "Soda, Dr Pepper",
@@ -271,7 +285,8 @@
      "fiber": 0.0,
      "sugar": 19.5,
      "sodium": 27.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

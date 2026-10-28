@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 1.5,
      "sodium": 1265.5,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 33.3,
      "sodium": 45.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 6.0,
      "sugar": 8.0,
      "sodium": 1160.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 1279.0,
-     "cholesterol": 89.0
+     "cholesterol": 89.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -140,7 +144,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 460.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -153,7 +158,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -166,7 +172,8 @@
      "fiber": 0.7,
      "sugar": 0.7,
      "sodium": 142.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -179,7 +186,8 @@
      "fiber": 3.5,
      "sugar": 0.0,
      "sodium": 115.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

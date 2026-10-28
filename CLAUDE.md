@@ -6,7 +6,7 @@ This repo is Jesse's food log and recipe box. Pushing to `main` rebuilds the pub
 1. Read `reference/nutrition-estimates.md` (how Jesse cooks, hand-size scale, per-unit numbers) and the matching recipe in `recipes/` before estimating.
 2. Open every photo Jesse sent, one at a time, and study each carefully (what it shows, every visible ingredient, portion against his hand, orientation) before estimating. Never assume two photos are the same. Size portions from the photo or description, not from logged norms. Give an honest range.
 3. Append the entry to `entries/YYYY/YYYY-MM-DD.json` (create the file if needed). Use Jesse's local date (US Eastern unless he says otherwise).
-4. Run `node scripts/build.mjs`. It validates every file and fails with a clear message on a bad entry.
+4. Give every component a `whole` score (see "Whole-food score"). Run `node scripts/build.mjs`. It validates every file and fails with a clear message on a bad entry.
 5. Commit with a message like `Log 2026-10-25: chicken étouffée, hush puppies` and push.
 6. Reply with the entry's calories and macros in one or two lines and a link to the day: `https://jessetnroberts.github.io/foodlog/#/day/YYYY-MM-DD`.
 
@@ -49,12 +49,23 @@ Ask at most one short question, and only when the answer would swing the estimat
 - `kcal` is the best estimate; `lo` / `hi` bound the plausible range.
 - Units: grams for macros, fiber and sugars; mg for sodium, cholesterol, vitC, vitE, b6, calcium, iron, magnesium, potassium and zinc; mcg for vitA (RAE), vitD, vitK, b12 and folate (DFE).
 - `components` are the ingredients, and every nutrient is estimated **per ingredient**: give each one `grams` plus the same fields as the entry (kcal, protein, carbs, fat, satfat, fiber, sugar, addedSugar, sodium, cholesterol and the 13 `micros`). The entry totals are the sums of its components (the build checks kcal, protein, fat and sodium). Break dishes into real ingredients, including hidden ones ("Butter in the roux, ~1 tbsp", "Frying oil absorbed, ~2 tsp"), so the site's "which foods did this come from" pie charts show actual sources (spinach for vitamin K, buffalo sauce for sodium). For a home recipe, scale the batch's ingredients to the portion and label them "(in the Gruyère quinoa)".
+- `whole` (on every component): whole-food score from 0 to 1. The site shows each day's calorie-weighted average as "% whole food". See "Whole-food score" below.
 - `confidence`: `high` (his own recipe, known amounts), `medium` (photo with hand scale), `low` (restaurant/bakery item, size guessed).
 - `eaten` (required): `{"pct": 33, "of": "whole sandwich"}`. Always estimate the percent of the item he ate, never "some" or "finished it". `of` names what 100% is (the whole dish as served), so if he eats more later he can say "the other 50%" and the later entry uses the same base, e.g. `{"pct": 67, "of": "whole sandwich (the rest)"}`.
 - `ingredients` (required): a best-guess list of everything likely in the dish, including hidden items (cooking fat, butter in sauces, breading, dressing parts), even when not visible. Keep it plain strings. Look it up first when possible: for restaurant food, search for the restaurant's menu description; for his own cooking, use the recipe in `recipes/`. Fill hidden items in from there.
 - `ingredientsFrom`: `menu` (restaurant's published description), `recipe` (his recipe or his own words) or `guess`. Say in `notes` when a menu lookup found nothing.
 - `photos` (optional): paths to the meal photos, e.g. `["photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"]`. Save every photo Jesse sends with a meal: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata (EXIF holds GPS location and the site is public). One photo can be listed on several entries. After saving, open each saved file and check it is upright; EXIF orientation is often missing, so rotate by hand when needed.
 - `id`: `YYYY-MM-DD-N`, unique in the file. Keep ids stable when editing.
+
+## Whole-food score
+Each ingredient gets `whole`, a number from 0 to 1 for how close it is to its natural state. It's a sliding scale, not yes/no; be reasonable, and judge the ingredient as actually made (a granola of oats, nuts and a little sweetener is mostly whole).
+- **1.0 whole:** fruit, vegetables, beans, whole grains, nuts, seeds, eggs, plain meat and fish, herbs, coffee, tea, water, salt.
+- **0.85–0.9 minimally processed:** plain yogurt, cheese, milk, olive oil, nut and seed butters, tahini, maple syrup, Dijon, vinegar, canned plain vegetables.
+- **0.7–0.8 traditional or home-made:** granola, sourdough, pasta, rice, soups, chili, hummus, salsa, harissa, broth, cooking wine.
+- **0.5–0.6 processed:** packaged bread (21 Whole Grains: 0.6), tortillas, bagels, sauces, juices, plant milks, restaurant mixed dishes.
+- **0.2–0.3 heavily processed:** engineered breads like Joseph's lavash, chips, fries, fried or breaded food, pizza, cereal, deli meat, dressings and mayo, plant-based meat and cheese.
+- **0–0.1 ultra-processed sweets:** soda, sweet tea, candy, cookies, donuts, pastries, pie, cake, ice cream.
+Hidden fat counts by its source: frying oil absorbed is 0.3, olive oil in home cooking is 0.85–0.9. The day's score is the calorie-weighted average of its ingredients (an ingredient with no `whole` is left out). `scripts/whole-score.py` fills in missing scores by keyword (used to backfill old Lose It imports); set scores by hand when logging, since the script never overwrites them.
 
 ## Edits
 The site's "Ask Claude to edit" button copies a line like `Plate Log edit, 2026-10-25, lunch, "Hush puppies" (240 kcal): `, followed by Jesse's change. Find that entry by date and name, change it, rebuild, commit (`Edit 2026-10-25: hush puppies, 3 not 5`) and push. When a portion changes, scale the components and all totals together, micronutrients included.

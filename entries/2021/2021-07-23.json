@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries side",
@@ -40,7 +41,8 @@
      "fat": 14.0,
      "satfat": 3.3,
      "fiber": 4.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries side",
@@ -108,7 +112,8 @@
      "fat": 14.0,
      "satfat": 3.3,
      "fiber": 4.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -151,7 +156,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 559.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Sautéed w/ Oil",
@@ -164,12 +170,14 @@
      "fiber": 3.0,
      "sugar": 1.3,
      "sodium": 36.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Can Of Diced Tomatoes",
      "portion": "2/3 can",
-     "kcal": 58
+     "kcal": 58,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -42,7 +43,8 @@
      "fiber": 1.2,
      "sugar": 32.5,
      "sodium": 3.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -53,7 +55,8 @@
      "fat": 6.2,
      "satfat": 0.7,
      "fiber": 1.4,
-     "sodium": 124.6
+     "sodium": 124.6,
+     "whole": 0.85
     },
     {
      "name": "Fresh String Green Beans",
@@ -64,7 +67,8 @@
      "fat": 0.0,
      "satfat": 0.0,
      "fiber": 1.5,
-     "sugar": 0.5
+     "sugar": 0.5,
+     "whole": 1.0
     }
    ],
    "eaten": {

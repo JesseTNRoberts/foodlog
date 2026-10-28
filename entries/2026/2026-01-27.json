@@ -29,7 +29,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Meat Balls",
@@ -42,7 +43,8 @@
      "fiber": 0.3,
      "sugar": 0.1,
      "sodium": 43.2,
-     "cholesterol": 53.6
+     "cholesterol": 53.6,
+     "whole": 0.5
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -68,7 +71,8 @@
      "fiber": 1.4,
      "sugar": 1.1,
      "sodium": 9.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Egg, Large",
@@ -81,7 +85,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 71.0,
-     "cholesterol": 186.0
+     "cholesterol": 186.0,
+     "whole": 1.0
     },
     {
      "name": "Quinoa, Cooked",
@@ -94,7 +99,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 3.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Flour, All Purpose",
@@ -105,7 +111,8 @@
      "fat": 0.0,
      "satfat": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Broccoli, Roasted w/ Oil",
@@ -118,7 +125,8 @@
      "fiber": 1.5,
      "sugar": 0.7,
      "sodium": 18.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Strained Nonfat Greek Yogurt Plain",
@@ -131,7 +139,8 @@
      "fiber": 0.0,
      "sugar": 1.1,
      "sodium": 16.1,
-     "cholesterol": 1.9
+     "cholesterol": 1.9,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Cherry",
@@ -144,7 +153,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Shredded",
@@ -157,7 +167,8 @@
      "fiber": 0.4,
      "sugar": 0.5,
      "sodium": 13.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -170,7 +181,8 @@
      "fiber": 0.2,
      "sugar": 0.3,
      "sodium": 5.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -223,7 +235,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -236,7 +249,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -249,7 +263,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Pepitas, Raw",
@@ -262,7 +277,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blackberries Fresh",
@@ -275,7 +291,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -288,7 +305,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -298,7 +316,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "2% Protein Milk",
@@ -310,7 +329,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Pineberries",
@@ -318,7 +338,8 @@
      "kcal": 6,
      "protein": 0.1,
      "carbs": 1.2,
-     "sugar": 0.8
+     "sugar": 0.8,
+     "whole": 1.0
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -331,7 +352,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -382,7 +404,8 @@
      "fiber": 5.5,
      "sugar": 8.0,
      "sodium": 526.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus",
@@ -395,7 +418,8 @@
      "fiber": 2.4,
      "sugar": 0.2,
      "sodium": 137.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -408,7 +432,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 126.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Carrots, Baby, Fresh",
@@ -421,7 +446,8 @@
      "fiber": 1.9,
      "sugar": 3.5,
      "sodium": 49.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -434,7 +460,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mini Cucumbers",
@@ -447,7 +474,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -494,7 +522,8 @@
      "fiber": 1.0,
      "sugar": 9.0,
      "sodium": 265.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tenders",
@@ -506,7 +535,8 @@
      "satfat": 1.0,
      "fiber": 1.0,
      "sodium": 190.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.25
     },
     {
      "name": "French Fries, Side",
@@ -519,7 +549,8 @@
      "fiber": 2.0,
      "sugar": 0.2,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

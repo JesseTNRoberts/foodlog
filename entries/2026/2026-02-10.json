@@ -29,7 +29,8 @@
      "fiber": 10.1,
      "sugar": 19.3,
      "sodium": 167.9,
-     "cholesterol": 112.5
+     "cholesterol": 112.5,
+     "whole": 0.1
     }
    ],
    "eaten": {

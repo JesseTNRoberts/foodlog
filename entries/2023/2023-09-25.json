@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Colby Jack, Goat Cheese",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 220.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 0.85
     },
     {
      "name": "Pie Filling, Pumpkin, Canned",
@@ -55,7 +57,8 @@
      "fiber": 7.5,
      "sugar": 0.0,
      "sodium": 187.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Biscuit, Medium",
@@ -68,7 +71,8 @@
      "fiber": 0.3,
      "sugar": 0.9,
      "sodium": 268.3,
-     "cholesterol": 0.3
+     "cholesterol": 0.3,
+     "whole": 0.3
     },
     {
      "name": "Mushrooms",
@@ -79,7 +83,8 @@
      "fat": 0.0,
      "fiber": 2.2,
      "sugar": 0.0,
-     "sodium": 33.8
+     "sodium": 33.8,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -92,7 +97,8 @@
      "fiber": 0.6,
      "sugar": 1.3,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -105,7 +111,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 11.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -152,7 +159,8 @@
      "satfat": 1.0,
      "fiber": 1.0,
      "sugar": 0.5,
-     "sodium": 135.0
+     "sodium": 135.0,
+     "whole": 0.25
     },
     {
      "name": "Crunchy Fiery Curls",
@@ -165,7 +173,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Fig Bar, Blueberry",
@@ -178,7 +187,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 17.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -222,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 88.5,
-     "cholesterol": 156.5
+     "cholesterol": 156.5,
+     "whole": 1.0
     },
     {
      "name": "King’s Hawaiian Pretzel Slider Bun",
@@ -235,7 +246,8 @@
      "fiber": 4.0,
      "sugar": 20.0,
      "sodium": 1440.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.25
     },
     {
      "name": "Grilled Chicken",
@@ -248,7 +260,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 93.8,
-     "cholesterol": 81.2
+     "cholesterol": 81.2,
+     "whole": 1.0
     }
    ],
    "eaten": {

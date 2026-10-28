@@ -29,7 +29,8 @@
      "fiber": 0.3,
      "sugar": 0.7,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -82,7 +84,8 @@
      "fiber": 1.7,
      "sugar": 3.6,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -95,7 +98,8 @@
      "fiber": 1.8,
      "sugar": 4.2,
      "sodium": 7.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -139,7 +143,8 @@
      "fiber": 2.0,
      "sugar": 9.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -181,7 +186,8 @@
      "fiber": 2.5,
      "sugar": 0.8,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Greek Pita Bread, Flatbread, White",
@@ -194,7 +200,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Meatballs, w/ Beef & Pork, 1 Oz",
@@ -207,7 +214,8 @@
      "fiber": 0.1,
      "sugar": 0.9,
      "sodium": 125.4,
-     "cholesterol": 81.3
+     "cholesterol": 81.3,
+     "whole": 0.5
     },
     {
      "name": "Hummus (original)",
@@ -220,7 +228,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 195.0,
-     "cholesterol": 13.4
+     "cholesterol": 13.4,
+     "whole": 0.7
     },
     {
      "name": "Spinach Ravioli Non Dairy",
@@ -229,7 +238,8 @@
      "protein": 1.6,
      "carbs": 7.0,
      "fat": 1.1,
-     "fiber": 0.5
+     "fiber": 0.5,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -242,7 +252,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -255,7 +266,8 @@
      "fiber": 0.5,
      "sugar": 0.9,
      "sodium": 17.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -302,7 +314,8 @@
      "satfat": 0.8,
      "fiber": 1.5,
      "sugar": 3.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -315,7 +328,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {

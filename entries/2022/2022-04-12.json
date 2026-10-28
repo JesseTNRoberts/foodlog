@@ -26,7 +26,8 @@
      "carbs": 110.0,
      "fat": 58.0,
      "sugar": 4.0,
-     "sodium": 2142.0
+     "sodium": 2142.0,
+     "whole": 0.3
     },
     {
      "name": "Fries Side",
@@ -38,12 +39,14 @@
      "satfat": 5.0,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 259.0
+     "sodium": 259.0,
+     "whole": 0.3
     },
     {
      "name": "Cheddars Dr. Pepper",
      "portion": "1 1/4 servings",
-     "kcal": 200
+     "kcal": 200,
+     "whole": 0.0
     }
    ],
    "eaten": {

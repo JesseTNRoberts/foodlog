@@ -24,12 +24,14 @@
      "kcal": 160,
      "protein": 7.0,
      "carbs": 4.0,
-     "fat": 6.0
+     "fat": 6.0,
+     "whole": 0.3
     },
     {
      "name": "Fish Fried Catfish Breaded",
      "portion": "4 ounces",
-     "kcal": 130
+     "kcal": 130,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Fries, Side",
@@ -42,7 +44,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 472.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Hushpuppies",
@@ -55,7 +58,8 @@
      "fiber": 0.6,
      "sugar": 0.5,
      "sodium": 160.0,
-     "cholesterol": 147.0
+     "cholesterol": 147.0,
+     "whole": 0.3
     },
     {
      "name": "Shrimp, Breaded Fried",
@@ -68,7 +72,8 @@
      "fiber": 0.1,
      "sugar": 0.0,
      "sodium": 103.2,
-     "cholesterol": 53.1
+     "cholesterol": 53.1,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -114,7 +119,8 @@
      "fiber": 14.0,
      "sugar": 10.0,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -156,7 +162,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -169,7 +176,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -182,7 +190,8 @@
      "fiber": 1.7,
      "sugar": 1.7,
      "sodium": 342.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -195,7 +204,8 @@
      "fiber": 1.0,
      "sugar": 8.5,
      "sodium": 215.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

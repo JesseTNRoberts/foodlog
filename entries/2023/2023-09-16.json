@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 825.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Finger",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1400.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -126,7 +129,8 @@
      "satfat": 6.0,
      "fiber": 1.0,
      "sugar": 24.0,
-     "sodium": 217.0
+     "sodium": 217.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -168,7 +172,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1400.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -210,7 +215,8 @@
      "fiber": 0.0,
      "sugar": 53.3,
      "sodium": 73.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 19.5,
      "satfat": 3.0,
      "fiber": 8.0,
-     "sodium": 1020.0
+     "sodium": 1020.0,
+     "whole": 0.3
     },
     {
      "name": "Side, Salad, Greek",
@@ -40,7 +41,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 610.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 7.0,
      "sugar": 7.0,
      "sodium": 2500.0,
-     "cholesterol": 85.0
+     "cholesterol": 85.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -96,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 7.5,
      "sodium": 345.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -131,7 +135,8 @@
     {
      "name": "Apricot Pie",
      "portion": "1 slice",
-     "kcal": 174
+     "kcal": 174,
+     "whole": 1.0
     }
    ],
    "eaten": {

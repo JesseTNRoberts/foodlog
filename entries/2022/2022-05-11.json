@@ -29,7 +29,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 270.0,
-     "cholesterol": 1.0
+     "cholesterol": 1.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Fingers",
@@ -42,7 +43,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 680.0,
-     "cholesterol": 62.5
+     "cholesterol": 62.5,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 5.0,
      "sodium": 230.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 6.0,
      "sugar": 8.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Spring Vegetable Soup",
@@ -112,7 +116,8 @@
      "fiber": 6.0,
      "sugar": 18.0,
      "sodium": 1320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pretzels, Jalapeno, Pieces",
@@ -125,7 +130,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 187.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -168,7 +174,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 265.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -181,7 +188,8 @@
      "fiber": 2.3,
      "sugar": 0.0,
      "sodium": 276.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pastry, Baklava",
@@ -194,7 +202,8 @@
      "fiber": 1.1,
      "sugar": 17.2,
      "sodium": 75.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Avocado",
@@ -207,7 +216,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Healthy oatmeal Vegan Bites",
@@ -219,7 +229,8 @@
      "satfat": 3.0,
      "fiber": 1.0,
      "sugar": 8.0,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.15
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -232,7 +243,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -245,7 +257,8 @@
      "fiber": 2.4,
      "sugar": 0.8,
      "sodium": 98.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -258,7 +271,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -270,7 +284,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -283,7 +298,8 @@
      "fiber": 0.0,
      "sugar": 9.0,
      "sodium": 1035.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

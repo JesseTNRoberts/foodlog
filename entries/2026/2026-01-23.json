@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Pepitas, Raw",
@@ -68,7 +71,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blackberries Fresh",
@@ -81,7 +85,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -94,7 +99,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -104,7 +110,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "2% Protein Milk",
@@ -116,7 +123,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Pineberries",
@@ -124,7 +132,8 @@
      "kcal": 6,
      "protein": 0.1,
      "carbs": 1.2,
-     "sugar": 0.8
+     "sugar": 0.8,
+     "whole": 1.0
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -137,7 +146,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -188,7 +198,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sourdough Round Bread",
@@ -200,7 +211,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -210,7 +222,8 @@
      "carbs": 0.0,
      "fat": 7.0,
      "satfat": 1.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -223,7 +236,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -268,7 +282,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 60.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Homemade Salsa",
@@ -281,7 +296,8 @@
      "fiber": 1.6,
      "sugar": 4.7,
      "sodium": 223.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -324,7 +340,8 @@
      "fiber": 5.8,
      "sugar": 3.6,
      "sodium": 371.6,
-     "cholesterol": 34.2
+     "cholesterol": 34.2,
+     "whole": 0.7
     },
     {
      "name": "Sourdough Round Bread",
@@ -336,7 +353,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Aged Sharp White Cheddar Slice",
@@ -348,7 +366,8 @@
      "satfat": 2.0,
      "fiber": 0.0,
      "sodium": 67.5,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken, Breast, Grilled, w/o Skin",
@@ -361,7 +380,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 17.9,
-     "cholesterol": 20.4
+     "cholesterol": 20.4,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -406,7 +426,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -419,7 +440,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Carrots, Baby, Medium",
@@ -432,7 +454,8 @@
      "fiber": 2.3,
      "sugar": 3.3,
      "sodium": 54.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -445,7 +468,8 @@
      "fiber": 1.0,
      "sugar": 3.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -458,7 +482,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mini Cucumbers",
@@ -471,7 +496,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

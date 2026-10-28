@@ -29,7 +29,8 @@
      "fiber": 0.7,
      "sugar": 12.3,
      "sodium": 141.4,
-     "cholesterol": 19.8
+     "cholesterol": 19.8,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.4,
      "sugar": 9.8,
      "sodium": 1096.7,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.7
     },
     {
      "name": "Lasagna, Homemade With Meat",
@@ -84,7 +86,8 @@
      "fiber": 1.5,
      "sugar": 2.8,
      "sodium": 330.1,
-     "cholesterol": 14.9
+     "cholesterol": 14.9,
+     "whole": 0.7
     },
     {
      "name": "Sandwich, Chicken",
@@ -97,7 +100,8 @@
      "fiber": 0.5,
      "sugar": 1.2,
      "sodium": 347.5,
-     "cholesterol": 13.8
+     "cholesterol": 13.8,
+     "whole": 0.3
     },
     {
      "name": "Quinoa, Cooked",
@@ -110,7 +114,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 3.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sweet Potatoes, Medium, 5\"",
@@ -123,7 +128,8 @@
      "fiber": 1.7,
      "sugar": 2.4,
      "sodium": 31.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Squash, Acorn, Mashed, Cooked",
@@ -136,7 +142,8 @@
      "fiber": 3.2,
      "sugar": 0.0,
      "sodium": 3.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -149,7 +156,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

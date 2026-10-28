@@ -21,7 +21,8 @@
     {
      "name": "Stuffed Green Bell Pepper With Rice And Veggies",
      "portion": "1 serving",
-     "kcal": 257
+     "kcal": 257,
+     "whole": 0.7
     },
     {
      "name": "Zuchini And Squash Sauteed In Olive Oil",
@@ -34,7 +35,8 @@
      "fiber": 4.7,
      "sugar": 10.7,
      "sodium": 17.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Stubborn Draft Cola",
@@ -43,7 +45,8 @@
      "carbs": 26.2,
      "fat": 0.0,
      "sugar": 25.5,
-     "sodium": 41.2
+     "sodium": 41.2,
+     "whole": 0.0
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -56,7 +59,8 @@
      "fiber": 1.4,
      "sugar": 1.1,
      "sodium": 9.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -100,7 +104,8 @@
      "satfat": 0.3,
      "fiber": 3.0,
      "sugar": 21.0,
-     "sodium": 50.0
+     "sodium": 50.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

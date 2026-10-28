@@ -29,7 +29,8 @@
      "fiber": 0.9,
      "sugar": 16.4,
      "sodium": 188.5,
-     "cholesterol": 26.4
+     "cholesterol": 26.4,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.4,
      "sugar": 9.8,
      "sodium": 1096.7,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.7
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -84,7 +86,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tahini",
@@ -97,7 +100,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 3.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Quinoa, Cooked",
@@ -110,7 +114,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 3.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sweet Potatoes, Medium, 5\"",
@@ -123,7 +128,8 @@
      "fiber": 1.7,
      "sugar": 2.4,
      "sodium": 31.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Squash, Acorn, Mashed, Cooked",
@@ -136,7 +142,8 @@
      "fiber": 3.2,
      "sugar": 0.0,
      "sodium": 3.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -149,7 +156,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -162,7 +170,8 @@
      "fiber": 1.3,
      "sugar": 0.5,
      "sodium": 16.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Organic Maple Syrup",
@@ -175,7 +184,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -188,7 +198,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -201,7 +212,8 @@
      "fiber": 0.2,
      "sugar": 0.9,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -253,7 +265,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 52.5,
-     "cholesterol": 52.5
+     "cholesterol": 52.5,
+     "whole": 1.0
     },
     {
      "name": "Mussel Soup",
@@ -266,7 +279,8 @@
      "fiber": 1.1,
      "sugar": 3.3,
      "sodium": 365.6,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.7
     },
     {
      "name": "Tahini",
@@ -279,7 +293,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 3.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -292,7 +307,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Quinoa, Cooked",
@@ -305,7 +321,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 3.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sweet Potatoes, Medium, 5\"",
@@ -318,7 +335,8 @@
      "fiber": 1.7,
      "sugar": 2.4,
      "sodium": 31.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Squash, Acorn, Mashed, Cooked",
@@ -331,7 +349,8 @@
      "fiber": 3.2,
      "sugar": 0.0,
      "sodium": 3.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -344,7 +363,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -357,7 +377,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blackberries",
@@ -370,7 +391,8 @@
      "fiber": 2.0,
      "sugar": 1.8,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Organic Maple Syrup",
@@ -383,7 +405,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -396,7 +419,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -409,7 +433,8 @@
      "fiber": 0.2,
      "sugar": 0.9,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -463,7 +488,8 @@
      "fiber": 0.9,
      "sugar": 16.4,
      "sodium": 188.5,
-     "cholesterol": 26.4
+     "cholesterol": 26.4,
+     "whole": 0.15
     }
    ],
    "eaten": {

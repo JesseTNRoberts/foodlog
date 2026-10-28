@@ -27,7 +27,8 @@
      "fat": 27.2,
      "satfat": 7.6,
      "sugar": 0.0,
-     "cholesterol": 234.0
+     "cholesterol": 234.0,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 112.5,
-     "cholesterol": 97.5
+     "cholesterol": 97.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -75,7 +77,8 @@
     {
      "name": "Fish Fried Catfish Breaded",
      "portion": "5 ounces",
-     "kcal": 163
+     "kcal": 163,
+     "whole": 0.3
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -88,7 +91,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Burger Buns Done Right",
@@ -101,7 +105,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Fries Regular",
@@ -110,7 +115,8 @@
      "protein": 1.0,
      "carbs": 10.0,
      "fat": 7.5,
-     "satfat": 1.0
+     "satfat": 1.0,
+     "whole": 0.3
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -122,7 +128,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     },
     {
      "name": "Honey Mustard",
@@ -135,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 4.5,
      "sodium": 112.5,
-     "cholesterol": 11.3
+     "cholesterol": 11.3,
+     "whole": 0.3
     },
     {
      "name": "Ketchup",
@@ -148,7 +156,8 @@
      "fiber": 0.0,
      "sugar": 6.7,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tomatoes, Campari",
@@ -161,7 +170,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -210,7 +220,8 @@
      "fiber": 0.0,
      "sugar": 13.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -252,7 +263,8 @@
      "fiber": 1.5,
      "sugar": 6.5,
      "sodium": 1435.0,
-     "cholesterol": 92.5
+     "cholesterol": 92.5,
+     "whole": 0.3
     },
     {
      "name": "Steak Fries",
@@ -263,7 +275,8 @@
      "fat": 6.0,
      "fiber": 2.0,
      "sugar": 1.0,
-     "sodium": 340.0
+     "sodium": 340.0,
+     "whole": 0.3
     },
     {
      "name": "Mushrooms, Portabella, Grilled, Slices",
@@ -276,7 +289,8 @@
      "fiber": 1.9,
      "sugar": 1.9,
      "sodium": 9.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

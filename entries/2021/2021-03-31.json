@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 530.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 13.0,
      "sugar": 2.0,
      "sodium": 860.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -98,7 +101,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 235.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -111,7 +115,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -124,7 +129,8 @@
      "fiber": 2.5,
      "sugar": 0.8,
      "sodium": 105.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -137,7 +143,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Sauce, Harissa",
@@ -150,7 +157,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 220.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fat": 1.5,
      "satfat": 0.5,
      "fiber": 5.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -82,7 +84,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Guacamole",
@@ -95,7 +98,8 @@
      "fiber": 6.9,
      "sugar": 0.0,
      "sodium": 515.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tomato & Basil, Pasta Sauce",
@@ -108,7 +112,8 @@
      "fiber": 4.6,
      "sugar": 11.3,
      "sodium": 929.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -121,7 +126,8 @@
      "fiber": 1.6,
      "sugar": 0.5,
      "sodium": 65.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -134,7 +140,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 43.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -181,7 +188,8 @@
      "fiber": 1.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

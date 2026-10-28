@@ -26,7 +26,8 @@
      "carbs": 10.5,
      "fat": 7.0,
      "fiber": 0.5,
-     "sugar": 8.5
+     "sugar": 8.5,
+     "whole": 0.1
     },
     {
      "name": "Reese’s Plant Based",
@@ -38,7 +39,8 @@
      "fiber": 1.0,
      "sugar": 7.5,
      "sodium": 37.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Lärabar, Blueberry Muffin",
@@ -51,7 +53,8 @@
      "fiber": 1.5,
      "sugar": 8.5,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -95,7 +98,8 @@
      "fiber": 1.0,
      "sugar": 3.5,
      "sodium": 395.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries, Small",
@@ -108,12 +112,14 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chilli dog no cheese",
      "portion": "1 serving",
-     "kcal": 198
+     "kcal": 198,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -157,7 +163,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Soup, Minestrone",
@@ -170,7 +177,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -208,7 +216,8 @@
      "kcal": 873,
      "carbs": 39.4,
      "satfat": 12.1,
-     "sodium": 1624.2
+     "sodium": 1624.2,
+     "whole": 0.15
     },
     {
      "name": "Fries, Steak, Side",
@@ -219,7 +228,8 @@
      "fat": 17.0,
      "fiber": 4.0,
      "sugar": 0.0,
-     "sodium": 444.0
+     "sodium": 444.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard Poppyseed Dressing",
@@ -227,7 +237,8 @@
      "kcal": 305,
      "protein": 1.1,
      "carbs": 14.6,
-     "fat": 27.0
+     "fat": 27.0,
+     "whole": 0.3
     },
     {
      "name": "Side salad",
@@ -240,7 +251,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 15.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 5.9,
      "sodium": 118.3,
-     "cholesterol": 4.9
+     "cholesterol": 4.9,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chia Seeds",
@@ -68,7 +71,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -81,7 +85,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 4.4,
      "sugar": 3.1,
      "sodium": 1304.6,
-     "cholesterol": 22.5
+     "cholesterol": 22.5,
+     "whole": 0.5
     },
     {
      "name": "Fish Cod Baked",
@@ -154,7 +161,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 66.0,
-     "cholesterol": 47.0
+     "cholesterol": 47.0,
+     "whole": 1.0
     },
     {
      "name": "Roasted Carrots",
@@ -167,7 +175,8 @@
      "fiber": 5.4,
      "sugar": 9.0,
      "sodium": 726.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Roasted Cauliflower",
@@ -177,7 +186,8 @@
      "carbs": 2.5,
      "fat": 3.8,
      "fiber": 1.4,
-     "sodium": 150.0
+     "sodium": 150.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -222,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -264,7 +275,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -277,7 +289,8 @@
      "fiber": 2.8,
      "sugar": 2.2,
      "sodium": 18.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cheddar Jalapeno Sourdough Bread 1/2 Inch Slice",
@@ -285,7 +298,8 @@
      "kcal": 100,
      "protein": 6.0,
      "carbs": 26.0,
-     "fat": 2.0
+     "fat": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Mayonnaise, Chipotle",
@@ -298,7 +312,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 95.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Mushroom, Super Chunky Spaghetti Sauce",
@@ -311,7 +326,8 @@
      "fiber": 3.0,
      "sugar": 9.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Goat Cheese - classic chevre",
@@ -320,7 +336,8 @@
      "protein": 2.0,
      "carbs": 0.5,
      "fat": 3.0,
-     "sugar": 0.5
+     "sugar": 0.5,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -366,7 +383,8 @@
      "fiber": 5.0,
      "sugar": 4.9,
      "sodium": 251.0,
-     "cholesterol": 43.3
+     "cholesterol": 43.3,
+     "whole": 0.1
     },
     {
      "name": "Sunchips, Multigrain, Garden Salsa",
@@ -379,7 +397,8 @@
      "fiber": 3.3,
      "sugar": 3.3,
      "sodium": 233.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Hummus, Original (2T = 30g)",
@@ -392,7 +411,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 113.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -405,7 +425,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

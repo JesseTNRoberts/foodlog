@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries",
@@ -55,7 +57,8 @@
      "fiber": 4.0,
      "sugar": 7.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 1.3,
      "sugar": 1.9,
      "sodium": 366.0,
-     "cholesterol": 22.0
+     "cholesterol": 22.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -182,7 +189,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 640.0,
-     "cholesterol": 24.0
+     "cholesterol": 24.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -239,7 +248,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 360.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Croutons, Homestyle Seasoned Herb",
@@ -252,7 +262,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spring Mix, Organic",
@@ -264,7 +275,8 @@
      "fiber": 2.6,
      "sugar": 2.6,
      "sodium": 274.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -277,7 +289,8 @@
      "fiber": 1.4,
      "sugar": 3.1,
      "sodium": 6.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

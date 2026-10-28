@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 142.5,
-     "cholesterol": 13.8
+     "cholesterol": 13.8,
+     "whole": 0.25
     },
     {
      "name": "Bistro Buns",
@@ -40,7 +41,8 @@
      "fat": 1.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 240.0
+     "sodium": 240.0,
+     "whole": 0.5
     },
     {
      "name": "Bacon Lovers Turkey",
@@ -51,7 +53,8 @@
      "fat": 2.2,
      "satfat": 0.5,
      "sodium": 374.6,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.25
     },
     {
      "name": "Bacon, Thick Cut",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 220.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.25
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -77,7 +81,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 60.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.85
     },
     {
      "name": "Flaky Biscuits",
@@ -90,7 +95,8 @@
      "fiber": 0.1,
      "sugar": 0.6,
      "sodium": 78.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -103,7 +109,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 15.0,
-     "cholesterol": 3.8
+     "cholesterol": 3.8,
+     "whole": 0.85
     },
     {
      "name": "Apple, Medium",
@@ -116,7 +123,8 @@
      "fiber": 0.6,
      "sugar": 2.4,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +173,8 @@
      "fiber": 10.0,
      "sugar": 7.5,
      "sodium": 624.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -176,7 +185,8 @@
      "fat": 27.5,
      "satfat": 2.5,
      "sugar": 2.5,
-     "sodium": 750.0
+     "sodium": 750.0,
+     "whole": 0.25
     },
     {
      "name": "Cultured Goat Milk Kefir, Plain",
@@ -189,7 +199,8 @@
      "fiber": 0.0,
      "sugar": 2.5,
      "sodium": 60.0,
-     "cholesterol": 17.5
+     "cholesterol": 17.5,
+     "whole": 0.7
     },
     {
      "name": "Pork Tenderloin, Chop, Baked",
@@ -202,7 +213,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 16.0,
-     "cholesterol": 23.5
+     "cholesterol": 23.5,
+     "whole": 1.0
     },
     {
      "name": "Baby spinach and kale",
@@ -213,7 +225,8 @@
      "fat": 0.0,
      "satfat": 0.0,
      "fiber": 4.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -259,7 +272,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 135.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Bacon Wrapped Apple Pie",
@@ -272,7 +286,8 @@
      "fiber": 0.7,
      "sugar": 3.6,
      "sodium": 314.0,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.1
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -284,7 +299,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     },
     {
      "name": "Goats Milk",
@@ -292,7 +308,8 @@
      "kcal": 42,
      "protein": 2.0,
      "carbs": 2.8,
-     "fat": 1.8
+     "fat": 1.8,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -337,7 +354,8 @@
      "fiber": 16.0,
      "sugar": 8.0,
      "sodium": 819.2,
-     "cholesterol": 67.2
+     "cholesterol": 67.2,
+     "whole": 0.7
     },
     {
      "name": "Bacon Wrapped Apple Pie",
@@ -350,7 +368,8 @@
      "fiber": 0.7,
      "sugar": 3.6,
      "sodium": 314.0,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.1
     }
    ],
    "eaten": {

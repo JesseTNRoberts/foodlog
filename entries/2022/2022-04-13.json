@@ -29,7 +29,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -55,7 +57,8 @@
      "fiber": 0.3,
      "sugar": 0.0,
      "sodium": 36.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Salsa, Chunky",
@@ -81,7 +85,8 @@
      "fiber": 0.2,
      "sugar": 0.3,
      "sodium": 38.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1260.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Hash Browns",
@@ -140,7 +146,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 400.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -183,7 +190,8 @@
      "fiber": 4.0,
      "sugar": 2.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spring Vegetable Soup",
@@ -196,7 +204,8 @@
      "fiber": 7.5,
      "sugar": 22.5,
      "sodium": 1650.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -239,7 +248,8 @@
      "fiber": 7.0,
      "sugar": 8.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Breakfast Bite-lettes, Vanilla",
@@ -251,7 +261,8 @@
      "satfat": 1.5,
      "fiber": 1.0,
      "sugar": 8.0,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

@@ -28,7 +28,8 @@
      "satfat": 3.0,
      "fiber": 1.0,
      "sugar": 8.0,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -70,7 +71,8 @@
      "fiber": 8.1,
      "sugar": 0.0,
      "sodium": 931.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Goat Cheddar Macaroni And Cheese Dinner, In Box",
@@ -83,7 +85,8 @@
      "fiber": 3.3,
      "sugar": 8.3,
      "sodium": 933.5,
-     "cholesterol": 33.3
+     "cholesterol": 33.3,
+     "whole": 0.25
     },
     {
      "name": "Naan Dippers",
@@ -96,7 +99,8 @@
      "fiber": 4.8,
      "sugar": 4.8,
      "sodium": 912.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Stacy’s Pita Thins, Sea Salt",
@@ -109,7 +113,8 @@
      "fiber": 0.9,
      "sugar": 0.8,
      "sodium": 171.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -122,7 +127,8 @@
      "fiber": 5.2,
      "sugar": 2.2,
      "sodium": 64.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -168,7 +174,8 @@
      "fiber": 1.6,
      "sugar": 1.6,
      "sodium": 304.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spring Vegetable Soup",
@@ -181,7 +188,8 @@
      "fiber": 4.0,
      "sugar": 12.0,
      "sodium": 879.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -194,7 +202,8 @@
      "fiber": 0.9,
      "sugar": 0.9,
      "sodium": 108.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -207,7 +216,8 @@
      "fiber": 5.1,
      "sugar": 3.4,
      "sodium": 41.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Vegetable Broth",
@@ -220,7 +230,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 980.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -265,7 +276,8 @@
      "satfat": 3.0,
      "fiber": 1.0,
      "sugar": 8.0,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

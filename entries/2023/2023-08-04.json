@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -42,7 +43,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 88.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hot And Honey Chicken Breast",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 4.6,
      "sodium": 683.4,
-     "cholesterol": 60.8
+     "cholesterol": 60.8,
+     "whole": 0.85
     },
     {
      "name": "Vegetarian Chili (8oz/1cup)",
@@ -63,7 +66,8 @@
      "kcal": 80,
      "protein": 3.3,
      "carbs": 14.1,
-     "fat": 1.3
+     "fat": 1.3,
+     "whole": 0.7
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -76,7 +80,8 @@
      "fiber": 0.0,
      "sugar": 0.3,
      "sodium": 63.5,
-     "cholesterol": 15.9
+     "cholesterol": 15.9,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky",
@@ -89,7 +94,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 575.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -136,7 +142,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 660.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chocolate Chip Crunchy Cookie",
@@ -149,7 +156,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -192,7 +200,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 240.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.85
     },
     {
      "name": "Hot And Honey Chicken Breast",
@@ -205,7 +214,8 @@
      "fiber": 0.0,
      "sugar": 8.3,
      "sodium": 1253.0,
-     "cholesterol": 111.4
+     "cholesterol": 111.4,
+     "whole": 0.85
     },
     {
      "name": "Sour Dough Bread Slice",
@@ -218,7 +228,8 @@
      "fiber": 0.9,
      "sugar": 0.0,
      "sodium": 279.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -262,7 +273,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 229.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 14.8,
      "sugar": 9.1,
      "sodium": 1625.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -82,7 +84,8 @@
      "fat": 20.8,
      "satfat": 2.3,
      "fiber": 4.6,
-     "sodium": 415.4
+     "sodium": 415.4,
+     "whole": 0.85
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -95,7 +98,8 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Half and Half Tea",
@@ -108,7 +112,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cheese Daiya Mozzarella, Dairy Free",
@@ -121,7 +126,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -164,7 +170,8 @@
      "carbs": 56.0,
      "fat": 0.0,
      "sugar": 55.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.0
     },
     {
      "name": "Rotini",
@@ -177,7 +184,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Sweet Potato, Roasted w/ Oil",
@@ -190,12 +198,14 @@
      "fiber": 4.0,
      "sugar": 5.6,
      "sodium": 73.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Pecan Pin Wheels (Little Debbie's)",
      "portion": "2 each",
-     "kcal": 110
+     "kcal": 110,
+     "whole": 0.1
     },
     {
      "name": "Tomato & Basil, Pasta Sauce",
@@ -208,7 +218,8 @@
      "fiber": 3.2,
      "sugar": 7.9,
      "sodium": 650.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Quinoa, Cooked",
@@ -221,7 +232,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 3.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -268,7 +280,8 @@
      "fiber": 1.5,
      "sugar": 5.0,
      "sodium": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

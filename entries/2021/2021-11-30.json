@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fat": 30.0,
      "fiber": 7.0,
      "sugar": 6.0,
-     "cholesterol": 55.0
+     "cholesterol": 55.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -120,12 +123,14 @@
      "kcal": 960,
      "protein": 48.0,
      "carbs": 109.3,
-     "fat": 69.3
+     "fat": 69.3,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper",
      "portion": "12 fluid ounces",
-     "kcal": 147
+     "kcal": 147,
+     "whole": 0.0
     },
     {
      "name": "Kind Frozen Bar",
@@ -138,7 +143,8 @@
      "fiber": 1.9,
      "sugar": 2.1,
      "sodium": 17.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -182,7 +188,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 127.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

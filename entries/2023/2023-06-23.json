@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 770.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 420.2,
-     "cholesterol": 210.1
+     "cholesterol": 210.1,
+     "whole": 1.0
     },
     {
      "name": "Asparagus, Roasted w/ Oil",
@@ -84,7 +86,8 @@
      "fiber": 3.2,
      "sugar": 2.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 2.0,
      "sugar": 1.3,
      "sodium": 124.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Powerade Grape",
@@ -137,7 +141,8 @@
      "carbs": 21.0,
      "fat": 0.0,
      "sugar": 21.0,
-     "sodium": 240.0
+     "sodium": 240.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -180,7 +185,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 452.0,
-     "cholesterol": 208.0
+     "cholesterol": 208.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Corn, Scoops",
@@ -193,7 +199,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 137.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Grilled Chicken",
@@ -206,18 +213,21 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 112.5,
-     "cholesterol": 97.5
+     "cholesterol": 97.5,
+     "whole": 1.0
     },
     {
      "name": "Bowtie Pasta, Cooked",
      "portion": "1/2 cup",
      "kcal": 180,
-     "carbs": 16.4
+     "carbs": 16.4,
+     "whole": 0.7
     },
     {
      "name": "Vegan Alfredo Sauce",
      "portion": "1 serving",
-     "kcal": 65
+     "kcal": 65,
+     "whole": 0.5
     },
     {
      "name": "Jumbo Shrimp Cocktail",
@@ -225,7 +235,8 @@
      "kcal": 42,
      "protein": 57.0,
      "carbs": 27.0,
-     "fat": 1.5
+     "fat": 1.5,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -238,7 +249,8 @@
      "fiber": 1.9,
      "sugar": 0.8,
      "sodium": 23.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salsa, Chunky",
@@ -251,7 +263,8 @@
      "fiber": 1.5,
      "sugar": 3.0,
      "sodium": 345.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -300,7 +313,8 @@
      "fiber": 1.0,
      "sugar": 16.0,
      "sodium": 130.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

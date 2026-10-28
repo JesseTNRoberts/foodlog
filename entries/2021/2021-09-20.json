@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 4.5,
      "sodium": 97.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Venti Iced Coffee, Oat milk",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 35.0,
      "sodium": 65.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.5
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {

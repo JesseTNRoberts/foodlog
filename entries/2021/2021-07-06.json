@@ -29,7 +29,8 @@
      "fiber": 4.3,
      "sugar": 26.4,
      "sodium": 1809.2,
-     "cholesterol": 7.4
+     "cholesterol": 7.4,
+     "whole": 0.3
     },
     {
      "name": "Medium Dr. Pepper",
@@ -41,7 +42,8 @@
      "satfat": 0.0,
      "sugar": 51.4,
      "sodium": 46.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -76,7 +78,8 @@
     {
      "name": "Burger King impossible whopper",
      "portion": "1/2 serving",
-     "kcal": 315
+     "kcal": 315,
+     "whole": 0.25
     },
     {
      "name": "Veggie Pizza (No Cheese)",
@@ -89,7 +92,8 @@
      "fiber": 0.3,
      "sugar": 0.7,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

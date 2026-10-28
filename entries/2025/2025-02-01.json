@@ -27,7 +27,8 @@
      "fat": 14.1,
      "satfat": 4.0,
      "fiber": 2.7,
-     "sodium": 266.1
+     "sodium": 266.1,
+     "whole": 0.1
     },
     {
      "name": "Ham And Cheese Croissant",
@@ -40,7 +41,8 @@
      "fiber": 0.5,
      "sugar": 2.5,
      "sodium": 245.0,
-     "cholesterol": 32.5
+     "cholesterol": 32.5,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 0.3,
-     "cholesterol": 1.3
+     "cholesterol": 1.3,
+     "whole": 0.7
     },
     {
      "name": "Cheese pizza thin crust 14 inch size",
@@ -96,7 +99,8 @@
      "fiber": 0.7,
      "sugar": 0.9,
      "sodium": 183.0,
-     "cholesterol": 11.0
+     "cholesterol": 11.0,
+     "whole": 0.3
     },
     {
      "name": "Shrimp",
@@ -109,7 +113,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 85.0,
-     "cholesterol": 77.5
+     "cholesterol": 77.5,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -122,7 +127,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Honey Smoked",
@@ -135,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -181,7 +188,8 @@
      "fiber": 2.2,
      "sugar": 0.8,
      "sodium": 625.5,
-     "cholesterol": 2.2
+     "cholesterol": 2.2,
+     "whole": 0.3
     },
     {
      "name": "Fish, whitefish, grilled",
@@ -191,7 +199,8 @@
      "carbs": 1.0,
      "fat": 1.0,
      "sodium": 120.0,
-     "cholesterol": 100.0
+     "cholesterol": 100.0,
+     "whole": 0.85
     },
     {
      "name": "Side, Beans, Pinto",
@@ -204,7 +213,8 @@
      "fiber": 7.0,
      "sugar": 0.0,
      "sodium": 260.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 1.0
     },
     {
      "name": "Crab Cake, Small",
@@ -217,7 +227,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 198.0,
-     "cholesterol": 90.0
+     "cholesterol": 90.0,
+     "whole": 0.1
     },
     {
      "name": "Cheesecake",
@@ -230,7 +241,8 @@
      "fiber": 0.8,
      "sugar": 4.1,
      "sodium": 39.1,
-     "cholesterol": 10.4
+     "cholesterol": 10.4,
+     "whole": 0.1
     }
    ],
    "eaten": {

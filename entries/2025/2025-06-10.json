@@ -28,7 +28,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sugar": 8.0,
-     "sodium": 65.0
+     "sodium": 65.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter, Raw",
@@ -41,7 +42,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -54,7 +56,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Silk Protein Almond Milk",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 2.5,
      "sodium": 73.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chia Seeds",
@@ -80,7 +84,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -93,7 +98,8 @@
      "fiber": 1.2,
      "sugar": 5.1,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chokecherry Syrup",
@@ -103,7 +109,8 @@
      "carbs": 3.8,
      "fat": 0.0,
      "sugar": 2.8,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Blackberries",
@@ -116,7 +123,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +173,8 @@
      "fiber": 4.5,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -178,7 +187,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Littleneck Clam",
@@ -191,7 +201,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 340.7,
-     "cholesterol": 19.0
+     "cholesterol": 19.0,
+     "whole": 0.7
     },
     {
      "name": "Shallot, Raw",
@@ -204,7 +215,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Clams, Chopped, Canned",
@@ -217,7 +229,8 @@
      "fiber": 0.0,
      "sugar": 0.1,
      "sodium": 30.0,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.7
     },
     {
      "name": "Garlic, Clove",
@@ -230,7 +243,8 @@
      "fiber": 0.3,
      "sugar": 0.2,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -277,7 +291,8 @@
      "fiber": 5.7,
      "sugar": 2.5,
      "sodium": 467.9,
-     "cholesterol": 26.9
+     "cholesterol": 26.9,
+     "whole": 0.7
     },
     {
      "name": "Banana Milkshake",
@@ -288,7 +303,8 @@
      "fiber": 4.5,
      "sugar": 24.6,
      "sodium": 117.0,
-     "cholesterol": 4.5
+     "cholesterol": 4.5,
+     "whole": 0.1
     },
     {
      "name": "Chocolate Bomb",
@@ -301,7 +317,8 @@
      "fiber": 1.0,
      "sugar": 21.0,
      "sodium": 15.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.15
     },
     {
      "name": "Protein Almond Milk",
@@ -311,7 +328,8 @@
      "carbs": 6.4,
      "fat": 2.7,
      "sugar": 5.3,
-     "sodium": 159.5
+     "sodium": 159.5,
+     "whole": 0.5
     }
    ],
    "eaten": {

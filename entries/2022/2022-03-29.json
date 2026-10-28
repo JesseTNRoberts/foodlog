@@ -27,7 +27,8 @@
      "fat": 20.0,
      "satfat": 4.0,
      "sodium": 340.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.5
     },
     {
      "name": "Bistro Crisps",
@@ -40,7 +41,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 138.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Mexican Wedding Cookies",
@@ -53,7 +55,8 @@
      "fiber": 0.2,
      "sugar": 1.6,
      "sodium": 21.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -89,7 +92,8 @@
     {
      "name": "Pasta, Spaghetti and Meatballs w/ Tomato Sauce",
      "portion": "2 1/2 cups",
-     "kcal": 1000
+     "kcal": 1000,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -131,7 +135,8 @@
      "fiber": 10.0,
      "sugar": 10.0,
      "sodium": 340.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Cinnamon Rolls",
@@ -144,7 +149,8 @@
      "fiber": 1.0,
      "sugar": 12.0,
      "sodium": 385.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -157,7 +163,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -170,7 +177,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Breakfast Bite-lettes, Vanilla",
@@ -182,7 +190,8 @@
      "satfat": 0.8,
      "fiber": 0.5,
      "sugar": 4.0,
-     "sodium": 35.0
+     "sodium": 35.0,
+     "whole": 0.15
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -194,7 +203,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Siete Mexican Chocolate Cookie ✅",
@@ -207,7 +217,8 @@
      "fiber": 0.2,
      "sugar": 1.2,
      "sodium": 26.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salsa, Chunky",
@@ -220,7 +231,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 230.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

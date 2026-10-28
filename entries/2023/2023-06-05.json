@@ -29,7 +29,8 @@
      "fiber": 4.4,
      "sugar": 19.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Cheese, Non-Dairy, Cheddar Style Shreds",
@@ -80,7 +82,8 @@
      "carbs": 7.9,
      "fat": 6.7,
      "satfat": 6.7,
-     "sodium": 283.5
+     "sodium": 283.5,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -93,7 +96,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Mini Dark Chocolate Peanut Butter Cups",
@@ -106,7 +110,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Terrapin Ridge Farms Dill Pickle Mustard",
@@ -117,7 +122,8 @@
      "fat": 1.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 250.0
+     "sodium": 250.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -163,7 +169,8 @@
      "fiber": 7.7,
      "sugar": 10.2,
      "sodium": 1126.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -176,7 +183,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -189,7 +197,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -202,7 +211,8 @@
      "fiber": 0.0,
      "sugar": 36.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -215,7 +225,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -261,7 +272,8 @@
      "fiber": 7.0,
      "sugar": 8.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

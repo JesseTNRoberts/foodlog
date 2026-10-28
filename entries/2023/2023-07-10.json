@@ -27,7 +27,8 @@
      "fat": 9.6,
      "satfat": 2.5,
      "sugar": 0.0,
-     "cholesterol": 78.0
+     "cholesterol": 78.0,
+     "whole": 1.0
     },
     {
      "name": "Zucchini, Grilled w/ Oil",
@@ -40,7 +41,8 @@
      "fiber": 1.1,
      "sugar": 3.2,
      "sodium": 3.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 3.4,
      "sugar": 1.0,
      "sodium": 126.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -125,7 +128,8 @@
      "fiber": 19.9,
      "sugar": 14.9,
      "sodium": 1249.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -167,7 +171,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj",
@@ -180,7 +185,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 20.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -223,7 +229,8 @@
      "fiber": 2.6,
      "sugar": 3.8,
      "sodium": 202.7,
-     "cholesterol": 20.1
+     "cholesterol": 20.1,
+     "whole": 0.25
     },
     {
      "name": "Mediterranean Chickpea Salad",
@@ -236,7 +243,8 @@
      "fiber": 5.3,
      "sugar": 1.6,
      "sodium": 169.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

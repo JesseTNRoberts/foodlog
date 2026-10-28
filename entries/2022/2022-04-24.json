@@ -28,7 +28,8 @@
      "satfat": 0.0,
      "fiber": 12.1,
      "sugar": 24.2,
-     "sodium": 1741.7
+     "sodium": 1741.7,
+     "whole": 0.25
     },
     {
      "name": "Honey Mustard",
@@ -41,7 +42,8 @@
      "fiber": 0.0,
      "sugar": 5.9,
      "sodium": 236.6,
-     "cholesterol": 7.4
+     "cholesterol": 7.4,
+     "whole": 0.3
     },
     {
      "name": "Crispy Chicken Filets (without sauce)",
@@ -54,7 +56,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 350.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Caesar Salad Kit",
@@ -67,7 +70,8 @@
      "fiber": 2.4,
      "sugar": 1.2,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bac-No-Naise Vegan Mayo",
@@ -80,7 +84,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Ketchup, Tomato, Fancy",
@@ -93,7 +98,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 570.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tomatoes, Red, Slices, 1/4\"",
@@ -106,7 +112,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pickles, Hamburger Dill, Chips",
@@ -119,7 +126,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -168,7 +176,8 @@
      "fiber": 1.8,
      "sugar": 16.5,
      "sodium": 212.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Guacamole",
@@ -181,7 +190,8 @@
      "fiber": 8.6,
      "sugar": 0.0,
      "sodium": 644.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -194,7 +204,8 @@
      "fiber": 3.5,
      "sugar": 1.2,
      "sodium": 144.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Almond Butter Puff Cereal",
@@ -206,7 +217,8 @@
      "satfat": 0.7,
      "fiber": 1.4,
      "sugar": 4.2,
-     "sodium": 56.7
+     "sodium": 56.7,
+     "whole": 0.2
     }
    ],
    "eaten": {

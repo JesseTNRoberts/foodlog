@@ -29,7 +29,8 @@
      "fiber": 7.0,
      "sugar": 4.7,
      "sodium": 886.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salmon Patty",
@@ -39,7 +40,8 @@
      "carbs": 2.0,
      "fat": 18.0,
      "fiber": 0.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chocolate Haystack",
@@ -52,7 +54,8 @@
      "fiber": 0.6,
      "sugar": 5.5,
      "sodium": 70.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -65,7 +68,8 @@
      "fiber": 1.7,
      "sugar": 0.6,
      "sodium": 72.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Guacamole",
@@ -78,12 +82,14 @@
      "fiber": 3.4,
      "sugar": 0.0,
      "sodium": 257.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Vegetable Soup",
      "portion": "1/2 cup",
-     "kcal": 43
+     "kcal": 43,
+     "whole": 0.7
     },
     {
      "name": "Vegetable Broth",
@@ -96,7 +102,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 1470.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -144,7 +151,8 @@
      "fiber": 7.0,
      "sugar": 4.7,
      "sodium": 886.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -186,7 +194,8 @@
      "fiber": 1.0,
      "sugar": 12.0,
      "sodium": 330.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cherry Crumble",
@@ -194,12 +203,14 @@
      "kcal": 215,
      "protein": 1.0,
      "carbs": 32.0,
-     "fat": 11.0
+     "fat": 11.0,
+     "whole": 0.1
     },
     {
      "name": "Apricot Pie",
      "portion": "1 slice",
-     "kcal": 174
+     "kcal": 174,
+     "whole": 1.0
     }
    ],
    "eaten": {

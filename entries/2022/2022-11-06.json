@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -66,12 +67,14 @@
      "kcal": 780,
      "protein": 28.0,
      "carbs": 62.0,
-     "fat": 43.0
+     "fat": 43.0,
+     "whole": 0.3
     },
     {
      "name": "Veggie Chili",
      "portion": "1 cup",
-     "kcal": 200
+     "kcal": 200,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -114,7 +117,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 192.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Pot Pie, Vegetable",
@@ -127,7 +131,8 @@
      "fiber": 0.8,
      "sugar": 1.2,
      "sodium": 152.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -139,7 +144,8 @@
      "satfat": 0.3,
      "fiber": 0.7,
      "sugar": 1.3,
-     "sodium": 146.7
+     "sodium": 146.7,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Cinnamon Toast Crunch",
@@ -152,7 +158,8 @@
      "fiber": 1.3,
      "sugar": 6.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Cauliflower Dip",
@@ -165,7 +172,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal Coconut Chocolate",
@@ -177,7 +185,8 @@
      "satfat": 1.6,
      "fiber": 1.5,
      "sugar": 1.5,
-     "sodium": 25.0
+     "sodium": 25.0,
+     "whole": 0.2
     },
     {
      "name": "Carrots, Chips  3oz",
@@ -190,7 +199,8 @@
      "fiber": 2.0,
      "sugar": 3.2,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -237,7 +247,8 @@
      "satfat": 1.2,
      "fiber": 1.2,
      "sugar": 1.2,
-     "sodium": 137.5
+     "sodium": 137.5,
+     "whole": 0.25
     },
     {
      "name": "Broccoli Florets,raw",
@@ -250,7 +261,8 @@
      "fiber": 6.7,
      "sugar": 3.3,
      "sodium": 83.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -261,12 +273,14 @@
      "fat": 5.5,
      "satfat": 0.5,
      "sugar": 0.5,
-     "sodium": 150.0
+     "sodium": 150.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa",
      "portion": "4 tablespoons",
-     "kcal": 20
+     "kcal": 20,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 770.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Pretzels, Jalapeno, Pieces",
@@ -42,7 +43,8 @@
      "fiber": 1.1,
      "sugar": 1.1,
      "sodium": 374.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Breakfast Bite-lettes, Vanilla",
@@ -54,7 +56,8 @@
      "satfat": 1.5,
      "fiber": 1.0,
      "sugar": 8.0,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 1650.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tender",
@@ -106,7 +110,8 @@
      "kcal": 508,
      "protein": 28.0,
      "carbs": 36.0,
-     "fat": 28.0
+     "fat": 28.0,
+     "whole": 0.25
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -119,12 +124,14 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr. Pepper",
      "portion": "1 serving",
-     "kcal": 290
+     "kcal": 290,
+     "whole": 0.0
     }
    ],
    "eaten": {

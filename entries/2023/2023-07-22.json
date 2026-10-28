@@ -29,7 +29,8 @@
      "fiber": 5.9,
      "sugar": 2.5,
      "sodium": 310.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Avocado, Small",
@@ -42,7 +43,8 @@
      "fiber": 4.6,
      "sugar": 0.2,
      "sodium": 5.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 163.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Taco Soup",
@@ -98,7 +101,8 @@
      "fiber": 5.4,
      "sugar": 7.1,
      "sodium": 788.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 1.8,
      "sugar": 1.2,
      "sodium": 116.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Snack, Crunchy, Cheese-Less, Puffs",
@@ -154,7 +159,8 @@
      "fiber": 2.8,
      "sugar": 0.0,
      "sodium": 117.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -197,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 825.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -210,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 66.7,
      "sodium": 91.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Chicken Finger",
@@ -223,7 +231,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     },
     {
      "name": "Texas Toast",
@@ -236,7 +245,8 @@
      "fiber": 1.2,
      "sugar": 6.2,
      "sodium": 362.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -249,7 +259,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

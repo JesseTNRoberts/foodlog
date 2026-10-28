@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sandwich, Spicy Chicken",
@@ -84,7 +86,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Pork, Pulled, w/ BBQ Sauce",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 14.0,
      "sodium": 310.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -110,7 +114,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -123,7 +128,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -136,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Beans, Baked, Bbq",
@@ -149,7 +156,8 @@
      "fiber": 6.0,
      "sugar": 13.0,
      "sodium": 510.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -162,7 +170,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 75.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -209,7 +218,8 @@
      "fat": 33.0,
      "satfat": 3.0,
      "sugar": 3.0,
-     "sodium": 900.0
+     "sodium": 900.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -222,7 +232,8 @@
      "fiber": 3.3,
      "sugar": 0.0,
      "sodium": 108.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Shredded",
@@ -235,7 +246,8 @@
      "fiber": 1.1,
      "sugar": 1.5,
      "sodium": 39.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

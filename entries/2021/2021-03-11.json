@@ -26,7 +26,8 @@
      "carbs": 25.0,
      "fat": 3.0,
      "fiber": 4.0,
-     "sodium": 280.0
+     "sodium": 280.0,
+     "whole": 0.3
     },
     {
      "name": "Calories",
@@ -44,7 +45,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

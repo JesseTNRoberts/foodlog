@@ -29,7 +29,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sandwich, Spicy Chicken",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 14.8,
      "sugar": 9.1,
      "sodium": 1625.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -112,7 +116,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -125,7 +130,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -138,7 +144,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -183,7 +190,8 @@
      "fiber": 8.0,
      "sugar": 24.0,
      "sodium": 1520.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips",
@@ -196,7 +204,8 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 153.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -209,7 +218,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -222,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 1150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Squash, Zucchini, w/ Skin, Large",
@@ -235,7 +246,8 @@
      "fiber": 1.6,
      "sugar": 4.4,
      "sodium": 12.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Baby Bella Mushrooms",
@@ -244,7 +256,8 @@
      "protein": 4.0,
      "carbs": 4.0,
      "fat": 0.0,
-     "fiber": 1.3
+     "fiber": 1.3,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -257,7 +270,8 @@
      "fiber": 1.3,
      "sugar": 0.2,
      "sodium": 47.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -270,7 +284,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

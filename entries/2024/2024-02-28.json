@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 1160.0,
-     "cholesterol": 70.0
+     "cholesterol": 70.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Milk, Oat Milk",
@@ -84,7 +86,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 7.0,
      "sugar": 7.0,
      "sodium": 632.5,
-     "cholesterol": 37.5
+     "cholesterol": 37.5,
+     "whole": 0.5
     },
     {
      "name": "Naan Dippers",
@@ -140,7 +144,8 @@
      "fiber": 1.6,
      "sugar": 1.6,
      "sodium": 304.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -153,7 +158,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Carrots, Baby, Fresh",
@@ -166,7 +172,8 @@
      "fiber": 2.8,
      "sugar": 4.6,
      "sodium": 74.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sweet red peppers small seedless",
@@ -175,7 +182,8 @@
      "protein": 0.8,
      "carbs": 5.1,
      "fat": 0.3,
-     "fiber": 1.8
+     "fiber": 1.8,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -221,7 +229,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -234,7 +243,8 @@
      "fiber": 1.8,
      "sugar": 5.3,
      "sodium": 120.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Cereal, Cheerios, Honey Nut",
@@ -247,7 +257,8 @@
      "fiber": 0.9,
      "sugar": 4.0,
      "sodium": 71.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {

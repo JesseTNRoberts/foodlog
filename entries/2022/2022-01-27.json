@@ -29,7 +29,8 @@
      "fiber": 1.1,
      "sugar": 1.1,
      "sodium": 374.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chips, Pita",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 270.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, Lemon Twist",
@@ -55,7 +57,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 195.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.8,
      "sugar": 1.5,
      "sodium": 848.8,
-     "cholesterol": 23.1
+     "cholesterol": 23.1,
+     "whole": 0.5
     },
     {
      "name": "Pear, Medium",
@@ -42,7 +43,8 @@
      "fiber": 3.7,
      "sugar": 11.6,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -55,7 +57,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cottage Cheese, 2% Fat",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 1.4,
      "sodium": 93.2,
-     "cholesterol": 2.8
+     "cholesterol": 2.8,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -113,7 +117,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 1010.0,
-     "cholesterol": 55.0
+     "cholesterol": 55.0,
+     "whole": 0.25
     },
     {
      "name": "Irish Beer Cheese Soup",
@@ -126,7 +131,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 500.5,
-     "cholesterol": 42.0
+     "cholesterol": 42.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chickpeas, Cooked, No Salt",
@@ -182,7 +189,8 @@
      "fiber": 6.2,
      "sugar": 3.9,
      "sodium": 5.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salmon, Sockeye, Wild Caught",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 52.5,
-     "cholesterol": 52.5
+     "cholesterol": 52.5,
+     "whole": 1.0
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -208,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cookeville Pizza and Pub - Music City Miracle Med- Doublecut",
@@ -221,7 +231,8 @@
      "fiber": 1.0,
      "sugar": 1.5,
      "sodium": 250.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus",
@@ -234,7 +245,8 @@
      "fiber": 1.9,
      "sugar": 0.7,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Apple, Medium",
@@ -247,7 +259,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -260,7 +273,8 @@
      "fiber": 3.4,
      "sugar": 1.4,
      "sodium": 42.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pear, Medium",
@@ -273,7 +287,8 @@
      "fiber": 1.8,
      "sugar": 5.8,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -286,7 +301,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Vinegar, Red Wine",
@@ -299,7 +315,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -351,7 +368,8 @@
      "fiber": 0.2,
      "sugar": 4.9,
      "sodium": 47.1,
-     "cholesterol": 6.6
+     "cholesterol": 6.6,
+     "whole": 0.15
     },
     {
      "name": "Hummus",
@@ -364,7 +382,8 @@
      "fiber": 0.5,
      "sugar": 0.3,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -377,7 +396,8 @@
      "fiber": 0.6,
      "sugar": 0.1,
      "sodium": 31.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

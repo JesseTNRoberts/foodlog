@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -67,7 +68,8 @@
      "protein": 12.4,
      "carbs": 38.8,
      "fat": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -80,7 +82,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -123,7 +126,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 880.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hamburger, Double Stack",
@@ -136,7 +140,8 @@
      "fiber": 0.8,
      "sugar": 3.8,
      "sodium": 802.5,
-     "cholesterol": 67.5
+     "cholesterol": 67.5,
+     "whole": 0.3
     },
     {
      "name": "Fries, Natural Cut, Large",
@@ -149,7 +154,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -162,7 +168,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 246.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -175,12 +182,14 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Value Dr. Pepper",
      "portion": "1 serving",
-     "kcal": 100
+     "kcal": 100,
+     "whole": 0.0
     },
     {
      "name": "Half and Half Tea",
@@ -193,7 +202,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chicken Nuggets, 4 Piece",
@@ -206,7 +216,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 195.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.25
     },
     {
      "name": "Honey Mustard Dipping Sauce",
@@ -219,7 +230,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 220.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Blue Cheese Buffalo Wing Sauce",
@@ -232,7 +244,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 330.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Blue Cheese Buffalo Wing Sauce",
@@ -245,7 +258,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 330.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -297,7 +311,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -310,7 +325,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 92.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

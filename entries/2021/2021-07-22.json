@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 580.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,12 +87,14 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Cheddars Dr. Pepper",
      "portion": "2 servings",
-     "kcal": 320
+     "kcal": 320,
+     "whole": 0.0
     },
     {
      "name": "French Fries side",
@@ -101,7 +105,8 @@
      "fat": 14.0,
      "satfat": 3.3,
      "fiber": 4.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -145,12 +150,14 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Veggie Sushi Brown Rice",
      "portion": "7/8 serving",
-     "kcal": 254
+     "kcal": 254,
+     "whole": 0.5
     },
     {
      "name": "French Fries side",
@@ -161,7 +168,8 @@
      "fat": 14.0,
      "satfat": 3.3,
      "fiber": 4.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

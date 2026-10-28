@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 13.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 13.5,
      "sugar": 1.3,
      "sodium": 14.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +115,8 @@
      "fiber": 3.1,
      "sugar": 3.6,
      "sodium": 407.9,
-     "cholesterol": 37.7
+     "cholesterol": 37.7,
+     "whole": 0.1
     },
     {
      "name": "Salmon Patty Red Pepper Mozzerella",
@@ -126,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 165.1,
-     "cholesterol": 27.5
+     "cholesterol": 27.5,
+     "whole": 0.7
     },
     {
      "name": "Egg, Hard Boiled, Whole, Large",
@@ -139,7 +143,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 62.0,
-     "cholesterol": 186.5
+     "cholesterol": 186.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -183,7 +188,8 @@
      "fiber": 1.5,
      "sugar": 4.4,
      "sodium": 232.4,
-     "cholesterol": 60.3
+     "cholesterol": 60.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -225,7 +231,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 0.5,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -238,7 +245,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Honey Smoked",
@@ -251,7 +259,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 525.0,
-     "cholesterol": 31.2
+     "cholesterol": 31.2,
+     "whole": 0.3
     }
    ],
    "eaten": {

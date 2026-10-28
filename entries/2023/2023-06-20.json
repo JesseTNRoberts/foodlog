@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 3.5,
      "sodium": 395.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 920.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Potato, Kettle Cooked, Jalapeno",
@@ -84,7 +86,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 7.0,
      "sugar": 15.0,
      "sodium": 2080.0,
-     "cholesterol": 130.0
+     "cholesterol": 130.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Steak, Side",
@@ -138,7 +142,8 @@
      "fat": 17.0,
      "fiber": 4.0,
      "sugar": 0.0,
-     "sodium": 444.0
+     "sodium": 444.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

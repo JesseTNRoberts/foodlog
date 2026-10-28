@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -68,7 +69,8 @@
      "carbs": 18.0,
      "fat": 12.0,
      "fiber": 2.0,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.15
     },
     {
      "name": "Tortilla Chips",
@@ -81,7 +83,8 @@
      "fiber": 2.4,
      "sugar": 0.0,
      "sodium": 140.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Four Potato Hash Browns",
@@ -94,7 +97,8 @@
      "fiber": 5.0,
      "sugar": 3.0,
      "sodium": 350.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -107,7 +111,8 @@
      "fiber": 0.0,
      "sugar": 16.0,
      "sodium": 1840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -120,7 +125,8 @@
      "fiber": 1.3,
      "sugar": 0.4,
      "sodium": 52.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Blue Cheese Buffalo Wing Sauce",
@@ -133,7 +139,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 660.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Ketchup",
@@ -146,7 +153,8 @@
      "fiber": 0.5,
      "sugar": 3.4,
      "sodium": 167.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -194,7 +202,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 1740.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -207,7 +216,8 @@
      "fiber": 1.7,
      "sugar": 43.3,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

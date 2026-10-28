@@ -29,7 +29,8 @@
      "fiber": 6.7,
      "sugar": 11.7,
      "sodium": 433.5,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.5
     },
     {
      "name": "jalapeno popper",
@@ -42,7 +43,8 @@
      "fiber": 2.4,
      "sugar": 2.9,
      "sodium": 316.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 6.7,
      "sugar": 11.7,
      "sodium": 433.5,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 2.8,
      "sugar": 1.8,
      "sodium": 174.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -169,7 +173,8 @@
      "fiber": 6.0,
      "sugar": 24.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Well Yes! New England Clam Chowder",
@@ -182,7 +187,8 @@
      "fiber": 4.0,
      "sugar": 2.0,
      "sodium": 1310.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.5
     },
     {
      "name": "Fish, Sardines, In Mustard & Dill Sauce",
@@ -195,7 +201,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 580.0,
-     "cholesterol": 100.0
+     "cholesterol": 100.0,
+     "whole": 0.85
     },
     {
      "name": "Pretzels, Pieces, Jalapeño",
@@ -208,7 +215,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 370.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

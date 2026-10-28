@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 5.0,
      "sugar": 2.5,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Thai Drunken Veggies",
@@ -84,7 +86,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -97,7 +100,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -110,7 +114,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -123,7 +128,8 @@
      "fiber": 0.7,
      "sugar": 0.7,
      "sodium": 138.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 72.0,
      "sugar": 18.0,
      "sodium": 1290.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Crunchy Natural Peanut Butter",
@@ -182,7 +189,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Half and Half Tea",
@@ -195,7 +203,8 @@
      "fiber": 1.7,
      "sugar": 43.3,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -208,12 +217,14 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Honey Mustard Sauce",
      "portion": "2 servings",
-     "kcal": 90
+     "kcal": 90,
+     "whole": 0.3
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -226,7 +237,8 @@
      "fiber": 0.0,
      "sugar": 16.0,
      "sodium": 1840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tortilla Chips",
@@ -239,7 +251,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 63.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

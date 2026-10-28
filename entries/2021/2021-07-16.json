@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Cinnamon Rolls",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 770.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 570.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Burger Buns Done Right",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Fruit Roll, no sugar added",
@@ -55,7 +57,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.4
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 1.9,
      "sugar": 0.0,
      "sodium": 104.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 3.8,
      "sugar": 0.0,
      "sodium": 427.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sour Dough Bread Slice",
@@ -154,7 +159,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Aged Raw Cheddar",
@@ -167,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 35.0
+     "cholesterol": 35.0,
+     "whole": 0.85
     },
     {
      "name": "Coke",
@@ -180,7 +187,8 @@
      "fiber": 0.0,
      "sugar": 26.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Burger Buns Done Right",
@@ -193,7 +201,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Turkey Breast, Santa Fe",
@@ -206,7 +215,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 460.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Vegetarian Chili (8oz/1cup)",
@@ -214,7 +224,8 @@
      "kcal": 30,
      "protein": 1.2,
      "carbs": 5.2,
-     "fat": 0.5
+     "fat": 0.5,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -262,7 +273,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 229.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -275,7 +287,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -287,7 +300,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -331,7 +345,8 @@
      "fiber": 1.5,
      "sugar": 2.5,
      "sodium": 490.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Drumsticks, W/skin, Grilled",
@@ -342,7 +357,8 @@
      "fat": 5.0,
      "satfat": 1.2,
      "sodium": 47.5,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -355,7 +371,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 56.2,
-     "cholesterol": 48.8
+     "cholesterol": 48.8,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -399,7 +416,8 @@
      "fiber": 0.3,
      "sugar": 1.0,
      "sodium": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -411,7 +429,8 @@
      "satfat": 0.6,
      "fiber": 0.1,
      "sugar": 0.2,
-     "sodium": 27.5
+     "sodium": 27.5,
+     "whole": 0.5
     }
    ],
    "eaten": {

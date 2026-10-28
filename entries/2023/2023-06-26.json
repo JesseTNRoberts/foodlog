@@ -29,7 +29,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -41,7 +42,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -82,7 +84,8 @@
      "fat": 6.4,
      "satfat": 1.7,
      "sugar": 0.0,
-     "cholesterol": 52.0
+     "cholesterol": 52.0,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -95,7 +98,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 37.5,
-     "cholesterol": 32.5
+     "cholesterol": 32.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -138,7 +142,8 @@
      "fiber": 0.5,
      "sugar": 0.1,
      "sodium": 430.0,
-     "cholesterol": 57.0
+     "cholesterol": 57.0,
+     "whole": 1.0
     },
     {
      "name": "Vegan Dressing and Spread",
@@ -151,7 +156,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 202.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Asparagus, Grilled w/ Oil",
@@ -164,7 +170,8 @@
      "fiber": 1.4,
      "sugar": 1.2,
      "sodium": 1.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -208,7 +215,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -221,7 +229,8 @@
      "fiber": 1.2,
      "sugar": 3.0,
      "sodium": 960.0,
-     "cholesterol": 36.0
+     "cholesterol": 36.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -234,7 +243,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -276,7 +286,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -289,7 +300,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Grilled Chicken",
@@ -302,7 +314,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 18.8,
-     "cholesterol": 16.2
+     "cholesterol": 16.2,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Campari",
@@ -315,7 +328,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -328,7 +342,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

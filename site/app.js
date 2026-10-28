@@ -35,6 +35,14 @@ function totals(entries){
   return t;
 }
 function NUM_FIELDS_INIT(t){ for(const f of NUMS) t[f]=0; }
+// Whole-food share: calorie-weighted average of each ingredient's "whole" score (0-1). Ingredients without a score are left out.
+function wholePct(entries){
+  let w=0,k=0;
+  for(const e of entries){ const s=num(e.servings||1);
+    for(const c of (e.components||[])){ if(c.whole==null) continue; const v=num(c.kcal)*s; if(v<=0) continue; w+=v*num(c.whole); k+=v; } }
+  return k?w/k*100:null;
+}
+const wholeTitle="Whole-food share: each ingredient is scored from 0 (ultra-processed) to 1 (whole food), weighted by calories";
 const dayEntries = k => byDate.get(k)?.entries || [];
 const metricVal = (t,m) => m.startsWith("m:") ? num(t.micros[m.slice(2)]) : num(t[m]);
 function loggedBefore(k,n){ return DATA.days.filter(d=>d.date<k && d.entries.length).slice(-n); }
@@ -136,7 +144,7 @@ function renderDay(k){
 
   app.innerHTML=`
   <div class="toolbar">
-    <div><h1>${isToday?"Today":esc(prettyDate(k))}</h1><div class="sub">${isToday?esc(prettyDate(k)):""}${ents.length?`${isToday?" · ":""}${ents.length} entries · likely ${fmt(t.lo)}–${fmt(t.hi)} kcal`:""}</div></div>
+    <div><h1>${isToday?"Today":esc(prettyDate(k))}</h1><div class="sub">${isToday?esc(prettyDate(k)):""}${ents.length?`${isToday?" · ":""}${ents.length} entries · likely ${fmt(t.lo)}–${fmt(t.hi)} kcal`:""}${ents.length?(w=>` · <span class="whole" title="${wholeTitle}">${w==null?"whole food not scored (no foods named)":fmt(w)+"% whole food"}</span>`)(wholePct(ents)):""}</div></div>
     <div class="btns">
       <a class="btn" href="#/day/${addDays(k,-1)}" ${firstDay&&k<=firstDay?'aria-disabled="true"':""} aria-label="Previous day">‹ Prev</a>
       ${isToday?"":`<a class="btn" href="#/">Today</a>`}
@@ -229,14 +237,14 @@ function entryBlock(e,k,url){
     ${(e.photos||[]).length?`<div class="photos">${e.photos.map(p=>`<a href="${esc(p)}" target="_blank" rel="noopener"><img src="${esc(p)}" alt="Photo of ${esc(e.name)}" loading="lazy"></a>`).join("")}</div>`:""}
     ${comps.length>1?`<div class="stack" aria-label="Components by calories">${comps.map((c,i)=>`<span style="width:${num(c.kcal)/ctot*100}%;background:${COMP_COLORS[i%COMP_COLORS.length]}" title="${esc(c.name)}: ${fmt(num(c.kcal)*sv)} kcal"></span>`).join("")}</div>`:""}
     ${comps.length?`<div class="tblwrap"><table class="comps"><thead><tr><th>Component</th><th>kcal</th><th>share</th><th>P</th><th>C</th><th>F</th></tr></thead><tbody>${rows}</tbody></table></div>`:""}
-    <div class="entry-f"><span><span class="pill ${conf==="low"?"warn":conf==="high"?"good":""}">${esc(conf)} confidence</span> fiber ${fmt(num(e.fiber)*sv)} g · sodium ${fmt(num(e.sodium)*sv)} mg${e.notes?` · ${esc(e.notes)}`:""}</span>
+    <div class="entry-f"><span><span class="pill ${conf==="low"?"warn":conf==="high"?"good":""}">${esc(conf)} confidence</span> fiber ${fmt(num(e.fiber)*sv)} g · sodium ${fmt(num(e.sodium)*sv)} mg${(w=>w==null?"":` · <span title="${wholeTitle}">${fmt(w)}% whole food</span>`)(wholePct([e]))}${e.notes?` · ${esc(e.notes)}`:""}</span>
       <span class="btns"><button class="btn sm" data-copy="${esc(copy)}">Ask Claude to edit</button>${url?`<a class="btn sm" href="${url}" target="_blank" rel="noopener">Edit file</a>`:""}</span></div>
   </div>`;
 }
 function weekStrip(k,B){
   const end = k>addDays(todayKey(),-3)?todayKey():addDays(k,3);
   const keys=[...Array(7)].map((_,i)=>addDays(end,i-6)); const vals=keys.map(d=>totals(dayEntries(d)).kcal); const max=Math.max(B*1.15,...vals);
-  return `<div class="week">${keys.map((d,i)=>{const v=vals[i];return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal"><span class="kv">${v?fmt(v):""}</span><span class="col ${v?(v>B?"over":"has"):""}" style="height:${v?Math.max(6,v/max*62):4}px"></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span></a>`;}).join("")}</div>`;
+  return `<div class="week">${keys.map((d,i)=>{const v=vals[i];return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal"><span class="kv">${v?fmt(v):""}</span><span class="col ${v?(v>B?"over":"has"):""}" style="height:${v?Math.max(6,v/max*62):4}px"></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span>${(w=>w==null?"":`<span class="wh" title="${wholeTitle}">${fmt(w)}% whole</span>`)(wholePct(dayEntries(d)))}</a>`;}).join("")}</div>`;
 }
 
 /* ---------- trends ---------- */
@@ -276,8 +284,8 @@ function renderTrends(){
   <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of daily value · ${withMicros.length} day${withMicros.length===1?"":"s"} with vitamin estimates</span></div>
     ${withMicros.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">No vitamin estimates in this range (Lose It imports don't include them).</div>`}</section>
   <section class="card"><div class="card-h"><h2>Daily totals</h2><span class="sub">tap a row to open the day</span></div>
-    <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th>Entries</th></tr></thead>
-    <tbody>${[...logged].reverse().map(({t,d})=>`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="8" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
+    <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th title="${wholeTitle}">Whole</th><th>Entries</th></tr></thead>
+    <tbody>${[...logged].reverse().map(({t,d})=>`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${(w=>w==null?"–":fmt(w)+"%")(wholePct(dayEntries(d)))}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="9" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
 
   wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length));
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });

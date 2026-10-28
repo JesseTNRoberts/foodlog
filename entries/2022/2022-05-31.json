@@ -29,12 +29,14 @@
      "fiber": 3.0,
      "sugar": 2.0,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Oat milk latte",
      "portion": "2 servings",
-     "kcal": 280
+     "kcal": 280,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -77,7 +79,8 @@
      "fiber": 0.0,
      "sugar": 17.1,
      "sodium": 595.3,
-     "cholesterol": 42.5
+     "cholesterol": 42.5,
+     "whole": 0.3
     },
     {
      "name": "Beyond Burger",
@@ -90,7 +93,8 @@
      "fiber": 3.0,
      "sugar": 20.0,
      "sodium": 450.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cheddar Cheese Shredded",
@@ -101,7 +105,8 @@
      "fat": 18.6,
      "satfat": 5.3,
      "fiber": 2.7,
-     "sodium": 666.0
+     "sodium": 666.0,
+     "whole": 0.85
     },
     {
      "name": "Buns, Burger",
@@ -114,7 +119,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chickpeas, Canned",
@@ -127,7 +133,8 @@
      "fiber": 2.6,
      "sugar": 0.0,
      "sodium": 179.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "French Fries, Shoestring, French Fried Potatoes",
@@ -140,7 +147,8 @@
      "fiber": 0.7,
      "sugar": 0.3,
      "sodium": 108.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -153,7 +161,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Onion, Red, Chopped",
@@ -166,7 +175,8 @@
      "fiber": 0.7,
      "sugar": 1.7,
      "sodium": 1.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -179,7 +189,8 @@
      "fiber": 0.9,
      "sugar": 2.0,
      "sodium": 3.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mushrooms, Medium",
@@ -192,7 +203,8 @@
      "fiber": 0.5,
      "sugar": 1.7,
      "sodium": 2.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -237,7 +249,8 @@
      "portion": "5 each",
      "kcal": 625,
      "protein": 7.5,
-     "fiber": 10.0
+     "fiber": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -250,7 +263,8 @@
      "fiber": 0.0,
      "sugar": 100.0,
      "sodium": 137.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Fancy Fixin's, Trout, Grilled, w/o Sides",
@@ -263,7 +277,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 610.0,
-     "cholesterol": 140.0
+     "cholesterol": 140.0,
+     "whole": 1.0
     },
     {
      "name": "Side, Fries, Steak",
@@ -276,7 +291,8 @@
      "fiber": 2.5,
      "sugar": 0.5,
      "sodium": 35.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Soda, Coke",
@@ -289,7 +305,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Side, Broccoli, Steamed, Fresh",
@@ -302,7 +319,8 @@
      "fiber": 4.0,
      "sugar": 1.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -349,12 +367,14 @@
      "fiber": 2.0,
      "sugar": 1.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Coffee",
      "portion": "16 ounces",
-     "kcal": 120
+     "kcal": 120,
+     "whole": 1.0
     }
    ],
    "eaten": {

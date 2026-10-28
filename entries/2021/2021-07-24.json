@@ -29,7 +29,8 @@
      "fiber": 3.9,
      "sugar": 0.0,
      "sodium": 125.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Nectarines, Med, Fresh",
@@ -42,7 +43,8 @@
      "fiber": 7.2,
      "sugar": 33.6,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -91,7 +94,8 @@
     {
      "name": "Fish Fried Catfish Breaded",
      "portion": "18 ounces",
-     "kcal": 585
+     "kcal": 585,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Fries, Side",
@@ -104,7 +108,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 1420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Hushpuppies",
@@ -117,7 +122,8 @@
      "fiber": 2.4,
      "sugar": 1.8,
      "sodium": 640.0,
-     "cholesterol": 588.0
+     "cholesterol": 588.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

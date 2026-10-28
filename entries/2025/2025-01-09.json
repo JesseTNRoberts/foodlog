@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blueberries",
@@ -55,7 +57,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.4,
      "sugar": 1.1,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 4.0,
      "sugar": 12.0,
      "sodium": 270.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Foccacia Bread",
@@ -153,7 +160,8 @@
      "fiber": 1.4,
      "sugar": 0.8,
      "sodium": 330.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Oat Milk",
@@ -165,7 +173,8 @@
      "satfat": 0.5,
      "fiber": 2.0,
      "sugar": 7.0,
-     "sodium": 140.0
+     "sodium": 140.0,
+     "whole": 0.5
     },
     {
      "name": "Maple And Honey Turkey",
@@ -176,7 +185,8 @@
      "fat": 0.4,
      "sugar": 1.5,
      "sodium": 292.5,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.3
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -189,7 +199,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -202,7 +213,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -248,7 +260,8 @@
      "satfat": 1.5,
      "fiber": 0.5,
      "sodium": 242.4,
-     "cholesterol": 75.6
+     "cholesterol": 75.6,
+     "whole": 0.1
     },
     {
      "name": "Potatoes, skillet fried",
@@ -260,7 +273,8 @@
      "satfat": 0.8,
      "fiber": 1.6,
      "sugar": 1.5,
-     "sodium": 100.0
+     "sodium": 100.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli And Cheddar Cheese Soup",
@@ -273,7 +287,8 @@
      "fiber": 1.0,
      "sugar": 9.0,
      "sodium": 806.0,
-     "cholesterol": 59.0
+     "cholesterol": 59.0,
+     "whole": 0.7
     },
     {
      "name": "Scrambled Eggs (2 eggs), just eggs",
@@ -286,7 +301,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 105.5,
-     "cholesterol": 318.8
+     "cholesterol": 318.8,
+     "whole": 0.3
     },
     {
      "name": "Pumpkin Butternut Squash Bisque",
@@ -299,7 +315,8 @@
      "fiber": 3.0,
      "sugar": 8.0,
      "sodium": 760.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -345,7 +362,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Med",
@@ -358,7 +376,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 345.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -401,7 +420,8 @@
      "fiber": 2.6,
      "sugar": 12.3,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -414,7 +434,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -457,7 +478,8 @@
      "fiber": 3.8,
      "sugar": 4.1,
      "sodium": 176.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Roasted Chimichurri Rainbow Carrots",
@@ -470,7 +492,8 @@
      "fiber": 4.0,
      "sugar": 7.0,
      "sodium": 390.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

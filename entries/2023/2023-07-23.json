@@ -29,7 +29,8 @@
      "fiber": 9.0,
      "sugar": 0.9,
      "sodium": 9.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Black Bean Burger",
@@ -42,7 +43,8 @@
      "fiber": 6.4,
      "sugar": 3.2,
      "sodium": 387.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Breakfast Caserole",
@@ -55,7 +57,8 @@
      "fiber": 0.5,
      "sugar": 0.3,
      "sodium": 205.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 1.0,
      "sugar": 4.3,
      "sodium": 38.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -111,7 +115,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -154,7 +159,8 @@
      "fiber": 3.8,
      "sugar": 1.2,
      "sodium": 1042.5,
-     "cholesterol": 3.8
+     "cholesterol": 3.8,
+     "whole": 0.3
     },
     {
      "name": "Pork Dinner",
@@ -167,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 14.0,
      "sodium": 485.0,
-     "cholesterol": 83.0
+     "cholesterol": 83.0,
+     "whole": 0.7
     },
     {
      "name": "Dr Pepper Medium",
@@ -180,7 +187,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Baked Beans - Side",
@@ -193,7 +201,8 @@
      "fiber": 3.0,
      "sugar": 19.0,
      "sodium": 550.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Fries Regular",
@@ -202,7 +211,8 @@
      "protein": 0.5,
      "carbs": 5.0,
      "fat": 3.8,
-     "satfat": 0.5
+     "satfat": 0.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -245,7 +255,8 @@
      "carbs": 22.5,
      "fat": 4.0,
      "sugar": 7.5,
-     "cholesterol": 115.0
+     "cholesterol": 115.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -287,7 +298,8 @@
      "fiber": 3.0,
      "sugar": 13.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -299,7 +311,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

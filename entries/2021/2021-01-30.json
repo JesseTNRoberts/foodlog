@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 3.0,
      "sodium": 1840.0,
-     "cholesterol": 65.0
+     "cholesterol": 65.0,
+     "whole": 0.25
     },
     {
      "name": "French Fries, Adult",
@@ -42,7 +43,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Roll, Yeast",
@@ -55,7 +57,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 105.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 26.7,
      "sodium": 36.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Half and Half Tea",
@@ -81,7 +85,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 11.3,
      "sugar": 33.8,
      "sodium": 34.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -140,7 +146,8 @@
      "fiber": 0.0,
      "sugar": 41.2,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -183,7 +190,8 @@
      "fiber": 3.0,
      "sugar": 2.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -196,7 +204,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -209,7 +218,8 @@
      "fiber": 0.4,
      "sugar": 0.4,
      "sodium": 71.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Healthy Vegan Bites",
@@ -220,7 +230,8 @@
      "fat": 0.5,
      "fiber": 1.7,
      "sugar": 0.3,
-     "sodium": 1.7
+     "sodium": 1.7,
+     "whole": 0.15
     },
     {
      "name": "Juice, Lemon",
@@ -233,7 +244,8 @@
      "fiber": 0.2,
      "sugar": 1.2,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

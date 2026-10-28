@@ -29,7 +29,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -41,7 +42,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -84,7 +86,8 @@
      "fiber": 1.9,
      "sugar": 2.8,
      "sodium": 151.9,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -126,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 4.3,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -161,7 +165,8 @@
      "name": "Bowtie Pasta, Cooked",
      "portion": "1 cup",
      "kcal": 360,
-     "carbs": 32.8
+     "carbs": 32.8,
+     "whole": 0.7
     },
     {
      "name": "Burger Buns Done Right",
@@ -174,7 +179,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Zucchini, Grilled w/ Oil",
@@ -187,7 +193,8 @@
      "fiber": 1.5,
      "sugar": 4.5,
      "sodium": 4.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -199,7 +206,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     },
     {
      "name": "Baba Ghannouj",
@@ -212,7 +220,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 62.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Plant Butter, Olive Oil",
@@ -225,7 +234,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 36.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Plant Based Vegan Sour Cream",
@@ -237,7 +247,8 @@
      "fiber": 0.9,
      "sugar": 0.0,
      "sodium": 65.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -250,7 +261,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -263,7 +275,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -313,7 +326,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 165.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj",
@@ -326,7 +340,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -338,7 +353,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     },
     {
      "name": "Zucchini, Grilled w/ Oil",
@@ -351,7 +367,8 @@
      "fiber": 1.5,
      "sugar": 4.5,
      "sodium": 4.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -363,7 +380,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -376,7 +394,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

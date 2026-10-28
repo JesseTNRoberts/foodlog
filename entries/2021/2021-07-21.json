@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 4.5,
      "sodium": 97.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -42,7 +43,8 @@
      "fiber": 10.0,
      "sugar": 10.0,
      "sodium": 340.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 6.0,
      "sugar": 8.0,
      "sodium": 1160.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Side, Chow Mein",
@@ -154,7 +159,8 @@
      "fiber": 2.0,
      "sugar": 4.5,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -167,7 +173,8 @@
      "fiber": 10.3,
      "sugar": 4.3,
      "sodium": 127.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

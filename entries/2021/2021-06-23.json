@@ -29,7 +29,8 @@
      "fiber": 9.8,
      "sugar": 22.4,
      "sodium": 31.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -80,7 +82,8 @@
      "kcal": 720,
      "protein": 36.0,
      "carbs": 82.0,
-     "fat": 52.0
+     "fat": 52.0,
+     "whole": 0.3
     },
     {
      "name": "Pizza, Mega-Veggie, Lrg",
@@ -92,7 +95,8 @@
      "satfat": 7.0,
      "sugar": 8.0,
      "sodium": 1014.0,
-     "cholesterol": 31.0
+     "cholesterol": 31.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -135,7 +139,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -148,7 +153,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -161,7 +167,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 300.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -174,7 +181,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

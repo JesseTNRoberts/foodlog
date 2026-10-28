@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 853.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Deli Dressing w/ Extra Virgin Olive Oil",
@@ -40,7 +41,8 @@
      "fat": 28.4,
      "satfat": 2.6,
      "sodium": 128.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Sun-Dried Tomato Basil Wrap",
@@ -53,7 +55,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 560.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -66,7 +69,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Oat Coffee Creamer - Vanilla",
@@ -79,7 +83,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Breakfast Bite-lettes, Vanilla",
@@ -91,12 +96,14 @@
      "satfat": 0.8,
      "fiber": 0.5,
      "sugar": 4.0,
-     "sodium": 35.0
+     "sodium": 35.0,
+     "whole": 0.15
     },
     {
      "name": "Cookies, Mexican Wedding",
      "portion": "1 each",
-     "kcal": 25
+     "kcal": 25,
+     "whole": 0.1
     },
     {
      "name": "Cheese, Plant-Based, Mexican Style Shreds",
@@ -109,7 +116,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 26.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky",
@@ -122,7 +130,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 230.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -172,7 +181,8 @@
      "fiber": 6.0,
      "sugar": 5.0,
      "sodium": 830.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cinnamon Rolls",
@@ -185,7 +195,8 @@
      "fiber": 1.0,
      "sugar": 12.0,
      "sodium": 385.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -198,7 +209,8 @@
      "fiber": 7.6,
      "sugar": 4.4,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Plant-Based, Mexican Style Shreds",
@@ -211,7 +223,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 26.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Soya Sauce, Lite Tamari",
@@ -224,7 +237,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

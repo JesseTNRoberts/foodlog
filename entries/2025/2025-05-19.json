@@ -28,7 +28,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sugar": 8.0,
-     "sodium": 65.0
+     "sodium": 65.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter, Raw",
@@ -41,7 +42,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -54,7 +56,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Silk Protein Almond Milk",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 2.5,
      "sodium": 73.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chia Seeds",
@@ -80,7 +84,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -93,7 +98,8 @@
      "fiber": 1.2,
      "sugar": 5.1,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chokecherry Syrup",
@@ -103,7 +109,8 @@
      "carbs": 3.8,
      "fat": 0.0,
      "sugar": 2.8,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Blackberries",
@@ -116,7 +123,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +173,8 @@
      "fiber": 3.1,
      "sugar": 14.0,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cookeville Pizza and Pub - Music City Miracle - Doublecut",
@@ -178,7 +187,8 @@
      "fiber": 0.6,
      "sugar": 0.9,
      "sodium": 150.0,
-     "cholesterol": 9.0
+     "cholesterol": 9.0,
+     "whole": 0.3
     },
     {
      "name": "Cuties",
@@ -191,7 +201,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

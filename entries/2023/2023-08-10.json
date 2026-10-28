@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 1100.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Finger",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 690.0,
-     "cholesterol": 90.0
+     "cholesterol": 90.0,
+     "whole": 0.25
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -55,7 +57,8 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 3.7,
      "sugar": 1.9,
      "sodium": 8.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -110,7 +114,8 @@
      "fat": 1.7,
      "fiber": 0.6,
      "sugar": 0.6,
-     "sodium": 133.5
+     "sodium": 133.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -153,7 +158,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -195,7 +201,8 @@
      "fiber": 3.1,
      "sugar": 5.2,
      "sodium": 200.3,
-     "cholesterol": 9.6
+     "cholesterol": 9.6,
+     "whole": 0.5
     },
     {
      "name": "Pork Tenderloin, Chop, Baked",
@@ -208,7 +215,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 42.7,
-     "cholesterol": 62.7
+     "cholesterol": 62.7,
+     "whole": 1.0
     },
     {
      "name": "Yellow Potatoes, Roasted w/ Oil",
@@ -221,7 +229,8 @@
      "fiber": 1.9,
      "sugar": 0.9,
      "sodium": 4.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -232,7 +241,8 @@
      "fat": 1.2,
      "fiber": 0.4,
      "sugar": 0.4,
-     "sodium": 100.6
+     "sodium": 100.6,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -277,7 +287,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 540.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Brooklyn Flatbread with Goat Cheese",
@@ -290,7 +301,8 @@
      "fiber": 1.1,
      "sugar": 1.7,
      "sodium": 273.0,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.5
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -303,7 +315,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spring Mix, Organic",
@@ -316,7 +329,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 95.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kale, All Varieties, Raw, Chopped",
@@ -329,7 +343,8 @@
      "fiber": 1.1,
      "sugar": 0.6,
      "sodium": 10.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

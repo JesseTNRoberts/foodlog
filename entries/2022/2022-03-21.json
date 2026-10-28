@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Oat Milk",
@@ -39,7 +40,8 @@
      "carbs": 2.8,
      "fat": 0.4,
      "satfat": 0.6,
-     "sugar": 1.7
+     "sugar": 1.7,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -82,7 +84,8 @@
      "fiber": 6.0,
      "sugar": 4.0,
      "sodium": 760.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -95,7 +98,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -106,7 +110,8 @@
      "fat": 6.9,
      "satfat": 0.8,
      "fiber": 1.5,
-     "sodium": 138.5
+     "sodium": 138.5,
+     "whole": 0.85
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -118,7 +123,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -131,7 +137,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     }
    ],
    "eaten": {

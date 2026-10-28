@@ -29,7 +29,8 @@
      "fiber": 0.9,
      "sugar": 16.4,
      "sodium": 188.5,
-     "cholesterol": 26.4
+     "cholesterol": 26.4,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 6.2,
      "sugar": 3.9,
      "sodium": 5.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cashews, Whole, Raw",
@@ -84,7 +86,8 @@
      "fiber": 0.6,
      "sugar": 1.1,
      "sodium": 2.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Drizzle Olive Oil",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Hummus",
@@ -110,7 +114,8 @@
      "fiber": 1.9,
      "sugar": 0.7,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -123,7 +128,8 @@
      "fiber": 3.9,
      "sugar": 1.6,
      "sodium": 48.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -136,7 +142,8 @@
      "fiber": 1.5,
      "sugar": 6.3,
      "sodium": 0.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -149,7 +156,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Peppers, Bell, Red, Sweet, Chopped",
@@ -162,7 +170,8 @@
      "fiber": 1.6,
      "sugar": 3.1,
      "sodium": 3.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Vinegar, Red Wine",
@@ -175,7 +184,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -225,7 +235,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 26.7,
-     "cholesterol": 35.0
+     "cholesterol": 35.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Corn, Scoops",
@@ -238,7 +249,8 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 66.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Homemade Salsa",
@@ -251,7 +263,8 @@
      "fiber": 0.4,
      "sugar": 1.2,
      "sodium": 55.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -295,7 +308,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 52.5
+     "cholesterol": 52.5,
+     "whole": 1.0
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -308,7 +322,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 64.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Beans, Pinto, Cooked",
@@ -319,7 +334,8 @@
      "satfat": 0.2,
      "fiber": 1.4,
      "sugar": 0.6,
-     "sodium": 37.6
+     "sodium": 37.6,
+     "whole": 1.0
     },
     {
      "name": "Tillamook Medium Cheddar Shredded Cheese",
@@ -332,7 +348,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 47.5,
-     "cholesterol": 8.8
+     "cholesterol": 8.8,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Cherry",
@@ -345,7 +362,8 @@
      "fiber": 0.6,
      "sugar": 1.3,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Homemade Salsa",
@@ -358,7 +376,8 @@
      "fiber": 0.4,
      "sugar": 1.2,
      "sodium": 55.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -405,7 +424,8 @@
      "fiber": 4.4,
      "sugar": 19.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pumpkin Bread",
@@ -418,7 +438,8 @@
      "fiber": 0.2,
      "sugar": 4.9,
      "sodium": 47.1,
-     "cholesterol": 6.6
+     "cholesterol": 6.6,
+     "whole": 0.15
     }
    ],
    "eaten": {

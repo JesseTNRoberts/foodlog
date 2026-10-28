@@ -63,7 +63,8 @@
             "magnesium": 13.5,
             "potassium": 60,
             "zinc": 0.47
-          }
+          },
+          "whole": 0.7
         },
         {
           "name": "Eggs, over medium",
@@ -93,7 +94,8 @@
             "magnesium": 12.0,
             "potassium": 138,
             "zinc": 1.3
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Mayo",
@@ -123,7 +125,8 @@
             "magnesium": 0.03,
             "potassium": 0.6,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.3
         },
         {
           "name": "Cholula",
@@ -153,7 +156,8 @@
             "magnesium": 0.3,
             "potassium": 4.5,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.7
         },
         {
           "name": "Olive oil for the pan",
@@ -183,7 +187,8 @@
             "magnesium": 0.0,
             "potassium": 0.03,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.85
         },
         {
           "name": "Baby spinach",
@@ -213,7 +218,8 @@
             "magnesium": 11.8,
             "potassium": 84,
             "zinc": 0.07
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Tomato",
@@ -243,7 +249,8 @@
             "magnesium": 3.3,
             "potassium": 71,
             "zinc": 0.05
-          }
+          },
+          "whole": 1.0
         }
       ],
       "confidence": "high",
@@ -327,7 +334,8 @@
             "magnesium": 21,
             "potassium": 61,
             "zinc": 0.88
-          }
+          },
+          "whole": 0.7
         },
         {
           "name": "Chicken",
@@ -357,7 +365,8 @@
             "magnesium": 16.1,
             "potassium": 168,
             "zinc": 1.7
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Andouille sausage",
@@ -387,7 +396,8 @@
             "magnesium": 8.6,
             "potassium": 142,
             "zinc": 1.1
-          }
+          },
+          "whole": 0.25
         },
         {
           "name": "Onion, celery, bell pepper, scallion",
@@ -417,7 +427,8 @@
             "magnesium": 7.0,
             "potassium": 126,
             "zinc": 0.1
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Butter in the roux",
@@ -447,7 +458,8 @@
             "magnesium": 0.28,
             "potassium": 3.4,
             "zinc": 0.01
-          }
+          },
+          "whole": 0.85
         },
         {
           "name": "Flour in the roux",
@@ -477,7 +489,8 @@
             "magnesium": 1.8,
             "potassium": 8.6,
             "zinc": 0.06
-          }
+          },
+          "whole": 0.5
         },
         {
           "name": "Chicken stock",
@@ -507,7 +520,8 @@
             "magnesium": 2.4,
             "potassium": 36,
             "zinc": 0.06
-          }
+          },
+          "whole": 0.85
         },
         {
           "name": "Cajun seasoning and salt",
@@ -537,7 +551,8 @@
             "magnesium": 3.0,
             "potassium": 45,
             "zinc": 0.04
-          }
+          },
+          "whole": 1.0
         }
       ],
       "confidence": "medium",
@@ -629,7 +644,8 @@
             "magnesium": 10.8,
             "potassium": 78,
             "zinc": 0.3
-          }
+          },
+          "whole": 0.3
         },
         {
           "name": "Frying oil absorbed",
@@ -659,7 +675,8 @@
             "magnesium": 0.0,
             "potassium": 0.0,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.3
         }
       ],
       "confidence": "medium",
@@ -743,7 +760,8 @@
             "magnesium": 2.9,
             "potassium": 16.8,
             "zinc": 0.1
-          }
+          },
+          "whole": 0.1
         },
         {
           "name": "Baked apple",
@@ -773,7 +791,8 @@
             "magnesium": 2.5,
             "potassium": 54,
             "zinc": 0.02
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Butter-sugar syrup",
@@ -803,7 +822,8 @@
             "magnesium": 0.0,
             "potassium": 0.3,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.1
         }
       ],
       "confidence": "low",
@@ -885,7 +905,8 @@
             "magnesium": 6.2,
             "potassium": 88,
             "zinc": 0.31
-          }
+          },
+          "whole": 0.1
         }
       ],
       "confidence": "medium",
@@ -965,7 +986,8 @@
             "magnesium": 3.4,
             "potassium": 31,
             "zinc": 0.14
-          }
+          },
+          "whole": 0.1
         },
         {
           "name": "Frying oil absorbed",
@@ -995,7 +1017,8 @@
             "magnesium": 0.0,
             "potassium": 0.0,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.3
         },
         {
           "name": "Sugar glaze",
@@ -1025,7 +1048,8 @@
             "magnesium": 0.0,
             "potassium": 0.55,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.1
         }
       ],
       "confidence": "low",
@@ -1110,7 +1134,8 @@
             "magnesium": 2.0,
             "potassium": 31,
             "zinc": 0.09
-          }
+          },
+          "whole": 0.1
         }
       ],
       "confidence": "medium",

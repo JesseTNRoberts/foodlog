@@ -27,7 +27,8 @@
      "fat": 9.6,
      "satfat": 2.5,
      "sugar": 0.0,
-     "cholesterol": 78.0
+     "cholesterol": 78.0,
+     "whole": 1.0
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -40,7 +41,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Grilled Chicken",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 89.6,
-     "cholesterol": 77.2
+     "cholesterol": 77.2,
+     "whole": 1.0
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -65,7 +68,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     },
     {
      "name": "Dessert, Apple Crisp, Homemade",
@@ -78,7 +82,8 @@
      "fiber": 0.8,
      "sugar": 11.2,
      "sodium": 199.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -124,7 +129,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 570.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Coke",
@@ -137,7 +143,8 @@
      "fiber": 0.0,
      "sugar": 26.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -150,7 +157,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Broccoli, Grilled w/ Oil",
@@ -163,7 +171,8 @@
      "fiber": 2.4,
      "sugar": 1.5,
      "sodium": 29.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -205,7 +214,8 @@
      "carbs": 28.3,
      "fiber": 2.7,
      "sodium": 299.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Hibachi vegetables",
@@ -218,7 +228,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 567.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Spring Roll, Vegetable",
@@ -231,7 +242,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Anything sauce Creole",
@@ -244,7 +256,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -289,7 +302,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Sweet Potato Tortilla Chips",
@@ -302,7 +316,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 142.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -314,7 +329,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     },
     {
      "name": "Kettle  Air Fried Salt and Vinegar Chips",
@@ -327,7 +343,8 @@
      "fiber": 0.3,
      "sugar": 0.0,
      "sodium": 66.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -40,7 +41,8 @@
      "fiber": 7.7,
      "sugar": 3.2,
      "sodium": 95.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 15.7,
      "sugar": 12.6,
      "sodium": 1445.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -125,7 +128,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 575.0,
-     "cholesterol": 75.0
+     "cholesterol": 75.0,
+     "whole": 0.25
     },
     {
      "name": "Texas Toast",
@@ -138,7 +142,8 @@
      "fiber": 2.0,
      "sugar": 10.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Cane's",
@@ -151,7 +156,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 825.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -164,12 +170,14 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 60.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr. Pepper",
      "portion": "3/4 serving",
-     "kcal": 218
+     "kcal": 218,
+     "whole": 0.0
     },
     {
      "name": "Mini Dark Chocolate Peanut Butter Cups",
@@ -182,7 +190,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hibachi Vegetables",
@@ -195,7 +204,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "FrIed Rice",
@@ -208,7 +218,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

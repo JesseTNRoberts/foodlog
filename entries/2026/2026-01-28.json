@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 9.0,
      "sodium": 265.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tenders",
@@ -41,7 +42,8 @@
      "satfat": 1.0,
      "fiber": 1.0,
      "sodium": 190.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.25
     },
     {
      "name": "French Fries, Side",
@@ -54,7 +56,8 @@
      "fiber": 2.0,
      "sugar": 0.2,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -111,7 +115,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -124,7 +129,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Pepitas, Raw",
@@ -137,7 +143,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blackberries Fresh",
@@ -150,7 +157,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -163,7 +171,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -173,7 +182,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "2% Protein Milk",
@@ -185,7 +195,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Pineberries",
@@ -193,7 +204,8 @@
      "kcal": 6,
      "protein": 0.1,
      "carbs": 1.2,
-     "sugar": 0.8
+     "sugar": 0.8,
+     "whole": 1.0
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -206,7 +218,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -257,7 +270,8 @@
      "fiber": 13.5,
      "sugar": 1.3,
      "sodium": 14.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Meat Balls",
@@ -270,7 +284,8 @@
      "fiber": 0.1,
      "sugar": 0.4,
      "sodium": 17.3,
-     "cholesterol": 21.4
+     "cholesterol": 21.4,
+     "whole": 0.5
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -283,7 +298,8 @@
      "fiber": 0.7,
      "sugar": 0.6,
      "sodium": 4.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Quinoa, Cooked",
@@ -296,7 +312,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 1.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -309,7 +326,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strained Nonfat Greek Yogurt Plain",
@@ -322,7 +340,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 8.5,
-     "cholesterol": 0.9
+     "cholesterol": 0.9,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -369,7 +388,8 @@
      "fiber": 1.0,
      "sugar": 9.0,
      "sodium": 265.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tenders",
@@ -381,7 +401,8 @@
      "satfat": 1.0,
      "fiber": 1.0,
      "sodium": 190.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.25
     },
     {
      "name": "French Fries, Side",
@@ -394,7 +415,8 @@
      "fiber": 2.0,
      "sugar": 0.2,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -438,7 +460,8 @@
      "fiber": 3.1,
      "sugar": 14.0,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -451,7 +474,8 @@
      "fiber": 4.0,
      "sugar": 13.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

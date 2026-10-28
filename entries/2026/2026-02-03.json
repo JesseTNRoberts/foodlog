@@ -28,7 +28,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Sharp White Cheddar Cheese Slices",
@@ -41,7 +42,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 67.4,
-     "cholesterol": 9.0
+     "cholesterol": 9.0,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -54,7 +56,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 6.7,
      "sugar": 12.8,
      "sodium": 111.9,
-     "cholesterol": 75.0
+     "cholesterol": 75.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -140,7 +144,8 @@
      "fiber": 1.2,
      "sugar": 1.6,
      "sodium": 144.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Banana",
@@ -153,7 +158,8 @@
      "fiber": 2.7,
      "sugar": 9.3,
      "sodium": 0.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -166,7 +172,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -210,7 +217,8 @@
      "fiber": 4.0,
      "sugar": 6.7,
      "sodium": 213.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -223,7 +231,8 @@
      "fiber": 2.8,
      "sugar": 1.8,
      "sodium": 174.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -266,7 +275,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 774.7,
-     "cholesterol": 140.0
+     "cholesterol": 140.0,
+     "whole": 1.0
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -279,7 +289,8 @@
      "fiber": 2.8,
      "sugar": 2.2,
      "sodium": 18.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -322,7 +333,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

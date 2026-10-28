@@ -27,7 +27,8 @@
      "fat": 10.5,
      "satfat": 4.5,
      "fiber": 0.0,
-     "sodium": 870.0
+     "sodium": 870.0,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Bbq, Hot",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Beans, Baked, Canned",
@@ -53,7 +55,8 @@
      "fiber": 3.5,
      "sugar": 6.7,
      "sodium": 289.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cole Slaw, Homemade",
@@ -66,7 +69,8 @@
      "fiber": 1.4,
      "sugar": 0.0,
      "sodium": 22.0,
-     "cholesterol": 7.6
+     "cholesterol": 7.6,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 306.8,
-     "cholesterol": 20.1
+     "cholesterol": 20.1,
+     "whole": 0.2
     },
     {
      "name": "Bun, Hot Dog, Plain",
@@ -124,7 +129,8 @@
      "fiber": 0.5,
      "sugar": 1.3,
      "sodium": 103.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Nacho cheese sauce",
@@ -134,7 +140,8 @@
      "carbs": 2.0,
      "fat": 3.5,
      "satfat": 1.5,
-     "sodium": 200.0
+     "sodium": 200.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -178,7 +185,8 @@
      "fiber": 0.0,
      "sugar": 3.8,
      "sodium": 710.4,
-     "cholesterol": 88.3
+     "cholesterol": 88.3,
+     "whole": 0.5
     },
     {
      "name": "Angel Rolls",
@@ -191,7 +199,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 106.0,
-     "cholesterol": 22.0
+     "cholesterol": 22.0,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips, Nacho Cheese",
@@ -204,7 +213,8 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 114.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Steamed Carrots",
@@ -212,7 +222,8 @@
      "kcal": 30,
      "protein": 0.2,
      "carbs": 2.0,
-     "fat": 0.0
+     "fat": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -257,7 +268,8 @@
      "fiber": 7.0,
      "sugar": 13.0,
      "sodium": 1540.6,
-     "cholesterol": 69.7
+     "cholesterol": 69.7,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -299,7 +311,8 @@
      "fiber": 0.9,
      "sugar": 16.4,
      "sodium": 188.5,
-     "cholesterol": 26.4
+     "cholesterol": 26.4,
+     "whole": 0.15
     }
    ],
    "eaten": {

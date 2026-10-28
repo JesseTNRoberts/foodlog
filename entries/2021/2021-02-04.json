@@ -29,7 +29,8 @@
      "fiber": 3.7,
      "sugar": 14.4,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pistachios, Lightly Salted",
@@ -42,7 +43,8 @@
      "fiber": 1.7,
      "sugar": 0.7,
      "sodium": 23.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 9.3,
      "sugar": 6.3,
      "sodium": 101.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -112,7 +116,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -125,7 +130,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -138,7 +144,8 @@
      "fiber": 0.6,
      "sugar": 16.2,
      "sodium": 1.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -183,12 +190,14 @@
      "fiber": 1.5,
      "sugar": 2.5,
      "sodium": 1395.0,
-     "cholesterol": 47.5
+     "cholesterol": 47.5,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper",
      "portion": "20 fluid ounces",
-     "kcal": 245
+     "kcal": 245,
+     "whole": 0.0
     },
     {
      "name": "Fries Regular",
@@ -201,7 +210,8 @@
      "fiber": 4.0,
      "sugar": 0.5,
      "sodium": 405.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -214,7 +224,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -227,7 +238,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Ketchup, Tomato, Fancy",
@@ -240,7 +252,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -287,7 +300,8 @@
      "fiber": 0.8,
      "sugar": 0.5,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

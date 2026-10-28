@@ -29,7 +29,8 @@
      "fiber": 0.6,
      "sugar": 0.9,
      "sodium": 248.6,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.3
     },
     {
      "name": "Boars Head Irish Cheddar",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -54,7 +56,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -80,7 +84,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -126,12 +131,14 @@
      "fiber": 0.0,
      "sugar": 33.0,
      "sodium": 170.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.1
     },
     {
      "name": "Coffee",
      "portion": "2 cups",
-     "kcal": 10
+     "kcal": 10,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -174,7 +181,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 94.9,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.5
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -187,7 +195,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Asparagus, Spears, Cooked",
@@ -200,7 +209,8 @@
      "fiber": 4.2,
      "sugar": 2.7,
      "sodium": 29.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -244,7 +254,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 540.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -256,7 +267,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sugar": 1.0,
-     "sodium": 145.0
+     "sodium": 145.0,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -269,7 +281,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -282,7 +295,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -327,7 +341,8 @@
      "fiber": 1.1,
      "sugar": 1.9,
      "sodium": 497.2,
-     "cholesterol": 11.1
+     "cholesterol": 11.1,
+     "whole": 0.3
     },
     {
      "name": "Soup, Baked Potato Soup, Bowl",
@@ -340,7 +355,8 @@
      "fiber": 2.0,
      "sugar": 2.5,
      "sodium": 710.0,
-     "cholesterol": 22.5
+     "cholesterol": 22.5,
+     "whole": 0.7
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -353,7 +369,8 @@
      "fiber": 0.0,
      "sugar": 40.0,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Pie Crust",
@@ -366,7 +383,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 130.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.1
     },
     {
      "name": "Gelatin, Peach",
@@ -379,7 +397,8 @@
      "fiber": 0.0,
      "sugar": 12.2,
      "sodium": 51.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Peach, Small",
@@ -392,7 +411,8 @@
      "fiber": 0.7,
      "sugar": 3.6,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 2.5,
      "sodium": 1395.0,
-     "cholesterol": 47.5
+     "cholesterol": 47.5,
+     "whole": 0.3
     },
     {
      "name": "Fries Regular",
@@ -42,7 +43,8 @@
      "fiber": 4.0,
      "sugar": 0.5,
      "sodium": 405.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Ketchup, Tomato, Fancy",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +117,8 @@
      "fiber": 22.3,
      "sugar": 7.6,
      "sodium": 408.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Milk, Coconut, Lite",
@@ -126,7 +131,8 @@
      "fiber": 0.0,
      "sugar": 4.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spice, Red Curry Paste",
@@ -139,7 +145,8 @@
      "fiber": 3.8,
      "sugar": 3.8,
      "sodium": 2154.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Half and Half Tea",
@@ -152,7 +159,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -197,7 +205,8 @@
      "fiber": 2.1,
      "sugar": 4.8,
      "sodium": 521.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pie, Peach",
@@ -210,7 +219,8 @@
      "fiber": 0.9,
      "sugar": 7.2,
      "sodium": 315.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Half and Half Tea",
@@ -223,7 +233,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Broccoli Bowties",
@@ -236,7 +247,8 @@
      "fiber": 1.2,
      "sugar": 0.8,
      "sodium": 12.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Broccoletti",
@@ -249,7 +261,8 @@
      "fiber": 5.3,
      "sugar": 2.7,
      "sodium": 80.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -262,7 +275,8 @@
      "fiber": 6.5,
      "sugar": 3.7,
      "sodium": 42.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -275,7 +289,8 @@
      "fiber": 0.2,
      "sugar": 0.0,
      "sodium": 28.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -288,7 +303,8 @@
      "fiber": 0.1,
      "sugar": 0.1,
      "sodium": 21.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Liquid Aminos",
@@ -301,7 +317,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 690.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

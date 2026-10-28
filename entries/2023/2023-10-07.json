@@ -28,7 +28,8 @@
      "satfat": 8.0,
      "fiber": 3.0,
      "sodium": 808.0,
-     "cholesterol": 173.0
+     "cholesterol": 173.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

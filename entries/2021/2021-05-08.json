@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 8.0,
      "sodium": 2170.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries side",
@@ -40,12 +41,14 @@
      "fat": 10.5,
      "satfat": 2.5,
      "fiber": 3.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard Sauce",
      "portion": "1/2 serving",
-     "kcal": 23
+     "kcal": 23,
+     "whole": 0.3
     }
    ],
    "eaten": {

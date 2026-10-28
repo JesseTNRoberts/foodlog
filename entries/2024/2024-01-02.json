@@ -29,7 +29,8 @@
      "fiber": 3.5,
      "sugar": 10.7,
      "sodium": 239.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Oat Milk",
@@ -41,7 +42,8 @@
      "satfat": 0.5,
      "fiber": 2.0,
      "sugar": 7.0,
-     "sodium": 140.0
+     "sodium": 140.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -84,7 +86,8 @@
      "fiber": 10.1,
      "sugar": 8.0,
      "sodium": 791.7,
-     "cholesterol": 3.3
+     "cholesterol": 3.3,
+     "whole": 0.7
     },
     {
      "name": "Quiche, Spinach & Mushroom",
@@ -97,7 +100,8 @@
      "fiber": 0.8,
      "sugar": 1.5,
      "sodium": 182.5,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -138,7 +142,8 @@
      "fat": 3.8,
      "satfat": 2.1,
      "sodium": 349.5,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -180,7 +185,8 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Grilled Teriyaki",
@@ -193,7 +199,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 530.0,
-     "cholesterol": 185.0
+     "cholesterol": 185.0,
+     "whole": 0.5
     },
     {
      "name": "Chili Crisp Shrimp",
@@ -206,7 +213,8 @@
      "fiber": 2.0,
      "sugar": 1.0,
      "sodium": 340.0,
-     "cholesterol": 100.0
+     "cholesterol": 100.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

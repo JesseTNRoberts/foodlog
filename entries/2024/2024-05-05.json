@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 204.0,
-     "cholesterol": 1238.0
+     "cholesterol": 1238.0,
+     "whole": 1.0
     },
     {
      "name": "Avocado, California",
@@ -42,7 +43,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Chopped",
@@ -68,7 +71,8 @@
      "fiber": 1.0,
      "sugar": 0.2,
      "sodium": 35.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -81,7 +85,8 @@
      "fiber": 0.6,
      "sugar": 1.2,
      "sodium": 2.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 3.7,
      "sugar": 30.6,
      "sodium": 4.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 1.0,
      "sugar": 8.0,
      "sodium": 980.0,
-     "cholesterol": 105.0
+     "cholesterol": 105.0,
+     "whole": 0.5
     },
     {
      "name": "Sourdough Round Bread",
@@ -181,7 +188,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sugar": 1.0,
-     "sodium": 145.0
+     "sodium": 145.0,
+     "whole": 0.7
     },
     {
      "name": "Boars Head Irish Cheddar",
@@ -194,7 +202,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -207,7 +216,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -220,7 +230,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -266,7 +277,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Oat Milk",
@@ -278,7 +290,8 @@
      "satfat": 0.2,
      "fiber": 1.0,
      "sugar": 3.5,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

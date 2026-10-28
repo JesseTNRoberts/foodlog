@@ -29,14 +29,16 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 390.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Maple Syrup, Real",
      "portion": "3 tablespoons",
      "kcal": 165,
      "protein": 0.0,
-     "carbs": 324.0
+     "carbs": 324.0,
+     "whole": 0.85
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -49,7 +51,8 @@
      "fiber": 2.5,
      "sugar": 1.4,
      "sodium": 16.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -62,7 +65,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

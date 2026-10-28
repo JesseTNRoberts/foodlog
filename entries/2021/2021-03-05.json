@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 530.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.0,
      "sugar": 19.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Gemelli Ready Pasta",
@@ -98,7 +101,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 220.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Corn, Scoops",
@@ -111,7 +115,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -124,7 +129,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Kickin’ Queso cashew Dip",
@@ -137,7 +143,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 151.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pasta Sauce, Mushroom",
@@ -148,7 +155,8 @@
      "fat": 2.0,
      "fiber": 2.0,
      "sugar": 5.0,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.5
     },
     {
      "name": "Plant Based Vegan Sour Cream",
@@ -160,7 +168,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 112.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Med",
@@ -173,7 +182,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 690.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -222,7 +232,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle Potato, Medium",
@@ -235,7 +246,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -248,7 +260,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr Pepper",
@@ -261,7 +274,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -306,7 +320,8 @@
      "fiber": 3.3,
      "sugar": 0.0,
      "sodium": 191.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -319,7 +334,8 @@
      "fiber": 0.0,
      "sugar": 32.0,
      "sodium": 3680.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -332,7 +348,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

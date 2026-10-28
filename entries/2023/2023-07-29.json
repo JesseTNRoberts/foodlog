@@ -26,7 +26,8 @@
      "carbs": 90.0,
      "fat": 16.0,
      "sugar": 30.0,
-     "cholesterol": 460.0
+     "cholesterol": 460.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -68,7 +69,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 100.0,
-     "cholesterol": 125.0
+     "cholesterol": 125.0,
+     "whole": 1.0
     },
     {
      "name": "Oregon Trail Raisin Bread",
@@ -80,14 +82,16 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 7.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.15
     },
     {
      "name": "Chicken Drumstick w/Skin Grilled",
      "portion": "1 piece",
      "kcal": 90,
      "protein": 12.0,
-     "fat": 4.0
+     "fat": 4.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -131,7 +135,8 @@
      "fiber": 5.2,
      "sugar": 8.8,
      "sodium": 1715.0,
-     "cholesterol": 43.8
+     "cholesterol": 43.8,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -171,7 +176,8 @@
      "fat": 10.0,
      "fiber": 6.0,
      "sugar": 8.0,
-     "sodium": 400.0
+     "sodium": 400.0,
+     "whole": 0.3
     },
     {
      "name": "Potatoes, fried cubed",
@@ -183,7 +189,8 @@
      "satfat": 2.2,
      "fiber": 3.0,
      "sugar": 3.0,
-     "sodium": 240.0
+     "sodium": 240.0,
+     "whole": 0.3
     },
     {
      "name": "Cheesey Hashbrowns",
@@ -195,7 +202,8 @@
      "satfat": 11.9,
      "sugar": 0.8,
      "sodium": 471.0,
-     "cholesterol": 52.0
+     "cholesterol": 52.0,
+     "whole": 0.25
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -208,7 +216,8 @@
      "fiber": 0.0,
      "sugar": 55.8,
      "sodium": 76.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Bread, Cornbread, From Mix",
@@ -221,7 +230,8 @@
      "fiber": 1.4,
      "sugar": 0.0,
      "sodium": 441.1,
-     "cholesterol": 34.6
+     "cholesterol": 34.6,
+     "whole": 0.5
     },
     {
      "name": "Pinto Beans Boiled",
@@ -234,7 +244,8 @@
      "fiber": 7.8,
      "sugar": 0.3,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

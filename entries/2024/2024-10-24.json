@@ -29,7 +29,8 @@
      "fiber": 1.4,
      "sugar": 29.7,
      "sodium": 311.4,
-     "cholesterol": 21.5
+     "cholesterol": 21.5,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 5.0,
      "sugar": 9.0,
      "sodium": 640.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -110,7 +112,8 @@
      "carbs": 3.3,
      "fat": 15.0,
      "sugar": 0.0,
-     "sodium": 173.3
+     "sodium": 173.3,
+     "whole": 0.3
     },
     {
      "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
@@ -123,7 +126,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 0.5,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Beef, Seasoned Roast Beef (30g/1slice)",
@@ -136,7 +140,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 283.5,
-     "cholesterol": 42.5
+     "cholesterol": 42.5,
+     "whole": 0.4
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -149,7 +154,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -162,7 +168,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -208,7 +215,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Dressing, Litehouse HomeStyle Ranch, 2T",
@@ -221,7 +229,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 217.3,
-     "cholesterol": 9.4
+     "cholesterol": 9.4,
+     "whole": 0.3
     },
     {
      "name": "Broccoli Slaw",
@@ -234,7 +243,8 @@
      "fiber": 4.5,
      "sugar": 3.0,
      "sodium": 37.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Croutons, Seasoned, Garlic",
@@ -247,7 +257,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 79.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Cherry",
@@ -260,7 +271,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

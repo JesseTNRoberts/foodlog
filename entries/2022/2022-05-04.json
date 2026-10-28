@@ -26,7 +26,8 @@
      "carbs": 1.5,
      "fat": 18.0,
      "satfat": 1.5,
-     "sodium": 127.5
+     "sodium": 127.5,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -39,7 +40,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 199.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "vegan cheese",
@@ -52,7 +54,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -96,7 +99,8 @@
      "fiber": 3.1,
      "sugar": 4.5,
      "sodium": 843.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -109,7 +113,8 @@
      "fiber": 2.2,
      "sugar": 0.0,
      "sodium": 232.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Stacy’s Pita Thins, Sea Salt",
@@ -122,7 +127,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 128.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -166,7 +172,8 @@
      "fiber": 10.9,
      "sugar": 0.0,
      "sodium": 820.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "*Grain Free Chips, Nacho - 19 Ea",
@@ -179,7 +186,8 @@
      "fiber": 4.5,
      "sugar": 1.5,
      "sodium": 187.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -192,7 +200,8 @@
      "fiber": 1.9,
      "sugar": 1.9,
      "sodium": 217.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Granola bar cinnamon roll",
@@ -205,7 +214,8 @@
      "fiber": 1.0,
      "sugar": 6.0,
      "sodium": 15.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Popped Root Veggie Crisps",
@@ -218,7 +228,8 @@
      "fiber": 1.0,
      "sugar": 2.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Naan Dippers",
@@ -231,7 +242,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 228.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -243,7 +255,8 @@
      "satfat": 0.3,
      "fiber": 0.7,
      "sugar": 1.3,
-     "sodium": 146.7
+     "sodium": 146.7,
+     "whole": 0.5
     },
     {
      "name": "Almond Butter Puff Cereal",
@@ -255,7 +268,8 @@
      "satfat": 0.3,
      "fiber": 0.7,
      "sugar": 2.1,
-     "sodium": 28.4
+     "sodium": 28.4,
+     "whole": 0.2
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -268,7 +282,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 111.4,
-     "cholesterol": 7.6
+     "cholesterol": 7.6,
+     "whole": 0.3
     }
    ],
    "eaten": {

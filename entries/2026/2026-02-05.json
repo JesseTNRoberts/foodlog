@@ -29,7 +29,8 @@
      "fiber": 6.7,
      "sugar": 12.8,
      "sodium": 111.9,
-     "cholesterol": 75.0
+     "cholesterol": 75.0,
+     "whole": 0.1
     },
     {
      "name": "Maple Syrup",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 13.2,
      "sodium": 0.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 0.7,
      "sugar": 0.6,
      "sodium": 4.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Ketchup",
@@ -98,7 +101,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

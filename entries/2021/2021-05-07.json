@@ -29,7 +29,8 @@
      "fiber": 9.8,
      "sugar": 22.4,
      "sodium": 31.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 9.0,
      "sugar": 16.0,
      "sodium": 4340.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "French Fries side",
@@ -82,12 +84,14 @@
      "fat": 21.0,
      "satfat": 5.0,
      "fiber": 6.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard Sauce",
      "portion": "1 1/2 servings",
-     "kcal": 68
+     "kcal": 68,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -131,7 +135,8 @@
      "fiber": 5.1,
      "sugar": 10.2,
      "sodium": 1365.5,
-     "cholesterol": 25.6
+     "cholesterol": 25.6,
+     "whole": 0.25
     },
     {
      "name": "Avocado, Small",
@@ -144,7 +149,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Honey Mustard Salad Dressing",
@@ -157,7 +163,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 140.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -170,7 +177,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -183,7 +191,8 @@
      "fiber": 0.7,
      "sugar": 1.6,
      "sodium": 3.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Lettuce, Romaine, Shredded",
@@ -196,7 +205,8 @@
      "fiber": 0.8,
      "sugar": 0.4,
      "sodium": 2.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cabbage, Red, Chopped",
@@ -209,7 +219,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 3.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

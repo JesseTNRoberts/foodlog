@@ -29,7 +29,8 @@
      "fiber": 0.5,
      "sugar": 1.5,
      "sodium": 350.0,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

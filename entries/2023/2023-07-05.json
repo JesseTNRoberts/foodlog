@@ -27,7 +27,8 @@
      "fat": 6.4,
      "satfat": 1.7,
      "sugar": 0.0,
-     "cholesterol": 52.0
+     "cholesterol": 52.0,
+     "whole": 1.0
     },
     {
      "name": "Spring Roll, Vegetable",
@@ -40,7 +41,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Naan Bites",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj Eggplant Dip",
@@ -65,7 +68,8 @@
      "satfat": 0.5,
      "fiber": 0.9,
      "sugar": 0.9,
-     "sodium": 111.6
+     "sodium": 111.6,
+     "whole": 0.5
     },
     {
      "name": "Grilled Chicken",
@@ -78,7 +82,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 18.8,
-     "cholesterol": 16.2
+     "cholesterol": 16.2,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -124,12 +129,14 @@
      "fiber": 2.8,
      "sugar": 1.4,
      "sodium": 6.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Vegetable Soup",
      "portion": "1 cup",
-     "kcal": 85
+     "kcal": 85,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -172,7 +179,8 @@
      "fiber": 5.2,
      "sugar": 0.0,
      "sodium": 12.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Beans, Black, Cooked, No Salt",
@@ -185,7 +193,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kroger vegan cheese",
@@ -198,7 +207,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pasta Sauce, Tomato & Basil",
@@ -211,7 +221,8 @@
      "fiber": 2.7,
      "sugar": 7.3,
      "sodium": 359.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Bell Pepper Orange, Large",
@@ -224,7 +235,8 @@
      "fiber": 3.0,
      "sugar": 7.0,
      "sodium": 7.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Just Egg",
@@ -237,7 +249,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 106.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Plant-Based Sour Cream Alternative",
@@ -250,7 +263,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -261,7 +275,8 @@
      "fat": 1.9,
      "fiber": 0.6,
      "sugar": 0.6,
-     "sodium": 150.9
+     "sodium": 150.9,
+     "whole": 0.3
     },
     {
      "name": "Vegetable Broth",
@@ -274,7 +289,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -324,7 +340,8 @@
      "fiber": 0.7,
      "sugar": 2.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -336,7 +353,8 @@
      "satfat": 0.1,
      "fiber": 0.2,
      "sugar": 0.5,
-     "sodium": 55.0
+     "sodium": 55.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -379,7 +397,8 @@
      "fiber": 5.2,
      "sugar": 0.0,
      "sodium": 12.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Beans, Black, Cooked, No Salt",
@@ -392,7 +411,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kroger vegan cheese",
@@ -405,7 +425,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pasta Sauce, Tomato & Basil",
@@ -418,7 +439,8 @@
      "fiber": 2.7,
      "sugar": 7.3,
      "sodium": 359.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Bell Pepper Orange, Large",
@@ -431,7 +453,8 @@
      "fiber": 3.0,
      "sugar": 7.0,
      "sodium": 7.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Just Egg",
@@ -444,7 +467,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 106.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Plant-Based Sour Cream Alternative",
@@ -457,7 +481,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -468,7 +493,8 @@
      "fat": 1.9,
      "fiber": 0.6,
      "sugar": 0.6,
-     "sodium": 150.9
+     "sodium": 150.9,
+     "whole": 0.3
     },
     {
      "name": "Bread, Marble Rye",
@@ -481,7 +507,8 @@
      "fiber": 0.3,
      "sugar": 0.3,
      "sodium": 76.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Vegetable Broth",
@@ -494,7 +521,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -541,7 +569,8 @@
      "carbs": 6.5,
      "fat": 0.0,
      "sugar": 6.5,
-     "sodium": 2.5
+     "sodium": 2.5,
+     "whole": 0.5
     }
    ],
    "eaten": {

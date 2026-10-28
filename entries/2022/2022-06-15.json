@@ -21,7 +21,8 @@
     {
      "name": "Coffee",
      "portion": "16 ounces",
-     "kcal": 120
+     "kcal": 120,
+     "whole": 1.0
     }
    ],
    "eaten": {

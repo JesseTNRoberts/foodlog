@@ -28,7 +28,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sugar": 8.0,
-     "sodium": 65.0
+     "sodium": 65.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter, Raw",
@@ -41,7 +42,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -54,7 +56,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Silk Protein Almond Milk",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 2.5,
      "sodium": 73.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chia Seeds",
@@ -80,7 +84,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -93,7 +98,8 @@
      "fiber": 1.2,
      "sugar": 5.1,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chokecherry Syrup",
@@ -103,7 +109,8 @@
      "carbs": 3.8,
      "fat": 0.0,
      "sugar": 2.8,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Blackberries",
@@ -116,7 +123,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 165.0,
-     "cholesterol": 22.5
+     "cholesterol": 22.5,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -177,7 +186,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Banana, Medium, 7\" - 7 7/8\" Long",
@@ -190,7 +200,8 @@
      "fiber": 1.5,
      "sugar": 7.2,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -203,7 +214,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -248,7 +260,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 84.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {
@@ -290,7 +303,8 @@
      "fiber": 3.0,
      "sugar": 4.6,
      "sodium": 305.2,
-     "cholesterol": 36.7
+     "cholesterol": 36.7,
+     "whole": 0.5
     },
     {
      "name": "Slimcado Avocado",
@@ -303,7 +317,8 @@
      "fiber": 6.4,
      "sugar": 2.8,
      "sodium": 2.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Nuts, Peanuts, Dry Roasted",
@@ -316,7 +331,8 @@
      "fiber": 1.6,
      "sugar": 1.6,
      "sodium": 149.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Champagne mango",
@@ -325,7 +341,8 @@
      "protein": 0.0,
      "carbs": 27.0,
      "fat": 0.0,
-     "fiber": 5.0
+     "fiber": 5.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -370,7 +387,8 @@
      "fiber": 6.4,
      "sugar": 2.8,
      "sodium": 2.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Banana, Medium, 7\" - 7 7/8\" Long",
@@ -383,7 +401,8 @@
      "fiber": 1.5,
      "sugar": 7.2,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Grapefruit, Med, Fresh",
@@ -396,7 +415,8 @@
      "fiber": 1.3,
      "sugar": 8.6,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 75.0,
-     "cholesterol": 65.0
+     "cholesterol": 65.0,
+     "whole": 1.0
     },
     {
      "name": "Asparagus, Grilled w/ Oil",
@@ -42,7 +43,8 @@
      "fiber": 1.8,
      "sugar": 1.6,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
@@ -53,7 +55,8 @@
      "fat": 1.5,
      "satfat": 0.4,
      "sugar": 0.0,
-     "cholesterol": 13.0
+     "cholesterol": 13.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 1.8,
      "sugar": 1.2,
      "sodium": 116.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Naan Bites",
@@ -110,7 +114,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj Eggplant Dip",
@@ -122,7 +127,8 @@
      "satfat": 0.5,
      "fiber": 0.9,
      "sugar": 0.9,
-     "sodium": 111.6
+     "sodium": 111.6,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -164,7 +170,8 @@
      "fat": 9.6,
      "satfat": 2.5,
      "sugar": 0.0,
-     "cholesterol": 78.0
+     "cholesterol": 78.0,
+     "whole": 1.0
     },
     {
      "name": "Asparagus, Grilled w/ Oil",
@@ -177,7 +184,8 @@
      "fiber": 1.2,
      "sugar": 1.6,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -220,7 +228,8 @@
      "fiber": 2.8,
      "sugar": 1.4,
      "sodium": 6.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -233,7 +242,8 @@
      "fiber": 3.9,
      "sugar": 1.6,
      "sodium": 48.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -244,7 +254,8 @@
      "fat": 1.9,
      "fiber": 0.6,
      "sugar": 0.6,
-     "sodium": 150.9
+     "sodium": 150.9,
+     "whole": 0.3
     },
     {
      "name": "Plant-Based Sour Cream Alternative",
@@ -257,7 +268,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 32.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -302,7 +314,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -314,7 +327,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -357,7 +371,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

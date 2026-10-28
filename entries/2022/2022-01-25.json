@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.0,
      "sugar": 0.5,
      "sodium": 370.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -84,7 +86,8 @@
      "fiber": 0.0,
      "sugar": 9.9,
      "sodium": 347.3,
-     "cholesterol": 24.8
+     "cholesterol": 24.8,
+     "whole": 0.3
     },
     {
      "name": "Vegan Cheddar Slices -",
@@ -94,7 +97,8 @@
      "carbs": 5.0,
      "fat": 5.0,
      "satfat": 4.5,
-     "sodium": 230.0
+     "sodium": 230.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach",
@@ -107,7 +111,8 @@
      "fiber": 3.3,
      "sugar": 0.0,
      "sodium": 108.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -120,7 +125,8 @@
      "fiber": 0.9,
      "sugar": 2.0,
      "sodium": 3.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cucumber, Sliced",
@@ -133,7 +139,8 @@
      "fiber": 0.4,
      "sugar": 0.8,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -180,7 +187,8 @@
      "fiber": 2.0,
      "sugar": 3.0,
      "sodium": 560.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "*Grain Free Chips, Nacho - 19 Ea",
@@ -193,7 +201,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Guacamole",
@@ -206,7 +215,8 @@
      "fiber": 5.2,
      "sugar": 0.0,
      "sodium": 386.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -250,7 +260,8 @@
      "fiber": 3.4,
      "sugar": 1.1,
      "sodium": 126.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

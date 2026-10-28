@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 0.5,
      "sodium": 370.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Stubborn Draft Cola",
@@ -38,12 +39,14 @@
      "carbs": 52.5,
      "fat": 0.0,
      "sugar": 51.0,
-     "sodium": 82.5
+     "sodium": 82.5,
+     "whole": 0.0
     },
     {
      "name": "French Fries",
      "portion": "1/2 serving",
-     "kcal": 150
+     "kcal": 150,
+     "whole": 0.3
     },
     {
      "name": "Pretzel Roll",
@@ -52,7 +55,8 @@
      "protein": 8.0,
      "carbs": 55.0,
      "fat": 4.0,
-     "sugar": 8.0
+     "sugar": 8.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, Roasted Red Pepper",
@@ -65,7 +69,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 187.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mexican Rice",
@@ -78,7 +83,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 134.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Beans, Refried",
@@ -91,7 +97,8 @@
      "fiber": 2.5,
      "sugar": 1.5,
      "sodium": 347.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Ketchup",
@@ -104,7 +111,8 @@
      "fiber": 0.9,
      "sugar": 6.8,
      "sodium": 334.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

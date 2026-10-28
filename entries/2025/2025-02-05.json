@@ -29,7 +29,8 @@
      "fiber": 13.0,
      "sugar": 1.3,
      "sodium": 14.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Focaccia, Sourdough, Parmesan Crusted, Sandwich Size",
@@ -42,7 +43,8 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 0.2,
-     "cholesterol": 0.8
+     "cholesterol": 0.8,
+     "whole": 0.7
     },
     {
      "name": "Dressing, Ranch, Homestyle",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 120.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     },
     {
      "name": "broccoli Shreds",
@@ -68,7 +71,8 @@
      "fiber": 1.8,
      "sugar": 1.7,
      "sodium": 5.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -81,7 +85,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 37.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Honey Smoked",
@@ -94,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 105.0,
-     "cholesterol": 6.2
+     "cholesterol": 6.2,
+     "whole": 0.3
     }
    ],
    "eaten": {

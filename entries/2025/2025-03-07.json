@@ -28,7 +28,8 @@
      "satfat": 3.5,
      "fiber": 13.0,
      "sugar": 5.0,
-     "sodium": 150.0
+     "sodium": 150.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

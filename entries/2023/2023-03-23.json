@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 906.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Campari",
@@ -55,7 +57,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Whole Baby Bellas",
@@ -65,7 +68,8 @@
      "carbs": 1.7,
      "fat": 0.0,
      "fiber": 0.7,
-     "sodium": 10.0
+     "sodium": 10.0,
+     "whole": 1.0
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -78,7 +82,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1210.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -42,7 +43,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -81,7 +85,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 9.0,
      "sugar": 16.0,
      "sodium": 4741.0,
-     "cholesterol": 87.0
+     "cholesterol": 87.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -167,7 +173,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -180,7 +187,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "vegan cheese",
@@ -193,7 +201,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salad, mixed greens",
@@ -203,7 +212,8 @@
      "carbs": 2.0,
      "fat": 0.0,
      "fiber": 0.7,
-     "sodium": 10.0
+     "sodium": 10.0,
+     "whole": 0.7
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -216,7 +226,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -229,7 +240,8 @@
      "fiber": 0.3,
      "sugar": 0.4,
      "sodium": 5.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 5.9,
      "sodium": 118.3,
-     "cholesterol": 4.9
+     "cholesterol": 4.9,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chia Seeds",
@@ -68,7 +71,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -81,7 +85,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 260.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -182,7 +189,8 @@
      "satfat": 2.0,
      "fiber": 6.0,
      "sugar": 4.0,
-     "sodium": 60.0
+     "sodium": 60.0,
+     "whole": 0.85
     },
     {
      "name": "Pork Chop, Cooked",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 47.6,
-     "cholesterol": 77.4
+     "cholesterol": 77.4,
+     "whole": 1.0
     },
     {
      "name": "Yellow Potatoes, Sautéed w/ Oil",
@@ -208,7 +217,8 @@
      "fiber": 2.8,
      "sugar": 1.4,
      "sodium": 6.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach And Cherry Tomatoes - Sautéed",
@@ -220,7 +230,8 @@
      "satfat": 0.5,
      "sugar": 0.5,
      "sodium": 6.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Squash, Zucchini, Slices, Steamed",
@@ -233,7 +244,8 @@
      "fiber": 2.2,
      "sugar": 6.6,
      "sodium": 6.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -279,7 +291,8 @@
      "fiber": 2.2,
      "sugar": 2.2,
      "sodium": 162.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Pepperoni Pizza, Medium",
@@ -292,7 +305,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 260.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, Original (2T = 30g)",
@@ -305,7 +319,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 113.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -318,7 +333,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -361,7 +377,8 @@
      "fat": 11.0,
      "satfat": 1.5,
      "fiber": 1.0,
-     "sodium": 210.0
+     "sodium": 210.0,
+     "whole": 0.25
     },
     {
      "name": "Hibachi Vegetables",
@@ -374,7 +391,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Back Strap",
@@ -387,7 +405,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 405.0,
-     "cholesterol": 66.0
+     "cholesterol": 66.0,
+     "whole": 1.0
     },
     {
      "name": "FrIed Rice",
@@ -400,7 +419,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.5,
      "sugar": 13.5,
      "sodium": 930.0,
-     "cholesterol": 122.5
+     "cholesterol": 122.5,
+     "whole": 0.25
     },
     {
      "name": "Peach Pie",
@@ -42,7 +43,8 @@
      "fiber": 1.2,
      "sugar": 20.2,
      "sodium": 261.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Abe's Wild Blueberry Mini-muffin",
@@ -54,7 +56,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 10.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 3.9,
      "sugar": 5.7,
      "sodium": 303.9,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.25
     },
     {
      "name": "Tuna Steak",
@@ -109,7 +113,8 @@
      "fat": 6.7,
      "satfat": 1.9,
      "sodium": 57.3,
-     "cholesterol": 56.0
+     "cholesterol": 56.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -152,7 +157,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 61.4,
-     "cholesterol": 92.5
+     "cholesterol": 92.5,
+     "whole": 0.85
     },
     {
      "name": "Beef, Sirloin, Steak Tips, Grilled",
@@ -165,14 +171,16 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 73.1,
-     "cholesterol": 142.9
+     "cholesterol": 142.9,
+     "whole": 1.0
     },
     {
      "name": "Crablegs",
      "portion": "10 ounces",
      "kcal": 52,
      "carbs": 0.0,
-     "fat": 0.0
+     "fat": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

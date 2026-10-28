@@ -28,7 +28,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sugar": 8.0,
-     "sodium": 65.0
+     "sodium": 65.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter, Raw",
@@ -41,7 +42,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -54,7 +56,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Silk Protein Almond Milk",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 2.5,
      "sodium": 73.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chia Seeds",
@@ -80,7 +84,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -93,7 +98,8 @@
      "fiber": 1.2,
      "sugar": 5.1,
      "sodium": 0.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chokecherry Syrup",
@@ -103,7 +109,8 @@
      "carbs": 3.8,
      "fat": 0.0,
      "sugar": 2.8,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Blackberries",
@@ -116,7 +123,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +173,8 @@
      "fiber": 0.5,
      "sugar": 1.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -207,7 +216,8 @@
      "fiber": 1.8,
      "sugar": 2.7,
      "sodium": 450.0,
-     "cholesterol": 27.0
+     "cholesterol": 27.0,
+     "whole": 0.3
     },
     {
      "name": "Sourdough Round Bread",
@@ -219,7 +229,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Eggs Large Grade A",
@@ -232,7 +243,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 46.7,
-     "cholesterol": 123.4
+     "cholesterol": 123.4,
+     "whole": 1.0
     },
     {
      "name": "Sharp White Cheddar Cheese Slices",
@@ -245,7 +257,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 67.4,
-     "cholesterol": 9.0
+     "cholesterol": 9.0,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -258,7 +271,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -304,7 +318,8 @@
      "fiber": 3.0,
      "sugar": 4.6,
      "sodium": 305.2,
-     "cholesterol": 36.7
+     "cholesterol": 36.7,
+     "whole": 0.5
     },
     {
      "name": "Avocado, Hass, Medium",
@@ -317,7 +332,8 @@
      "fiber": 6.5,
      "sugar": 0.7,
      "sodium": 7.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Nuts, Peanuts, Dry Roasted",
@@ -330,7 +346,8 @@
      "fiber": 1.6,
      "sugar": 1.6,
      "sodium": 149.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Champagne mango",
@@ -339,7 +356,8 @@
      "protein": 0.0,
      "carbs": 27.0,
      "fat": 0.0,
-     "fiber": 5.0
+     "fiber": 5.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -380,7 +398,8 @@
      "protein": 3.6,
      "carbs": 67.8,
      "fat": 26.7,
-     "fiber": 5.0
+     "fiber": 5.0,
+     "whole": 0.1
     },
     {
      "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
@@ -390,7 +409,8 @@
      "carbs": 10.5,
      "fat": 7.0,
      "fiber": 0.5,
-     "sugar": 8.5
+     "sugar": 8.5,
+     "whole": 0.1
     },
     {
      "name": "Sunchips, Multigrain, Garden Salsa",
@@ -403,7 +423,8 @@
      "fiber": 0.7,
      "sugar": 0.7,
      "sodium": 46.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {

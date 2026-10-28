@@ -29,7 +29,8 @@
      "fiber": 6.9,
      "sugar": 12.0,
      "sodium": 91.4,
-     "cholesterol": 5.7
+     "cholesterol": 5.7,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.4,
      "sugar": 0.2,
      "sodium": 137.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Everything Low Mein",
@@ -84,7 +86,8 @@
      "fiber": 2.9,
      "sugar": 4.5,
      "sodium": 252.2,
-     "cholesterol": 9.9
+     "cholesterol": 9.9,
+     "whole": 0.5
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -97,7 +100,8 @@
      "fiber": 0.5,
      "sugar": 0.8,
      "sodium": 252.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 0.0,
      "sugar": 8.3,
      "sodium": 745.8,
-     "cholesterol": 22.6
+     "cholesterol": 22.6,
+     "whole": 0.85
     },
     {
      "name": "Red Cabbage Vegetable Soup",
@@ -154,7 +159,8 @@
      "fiber": 10.8,
      "sugar": 10.8,
      "sodium": 1113.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -197,7 +203,8 @@
      "fiber": 1.2,
      "sugar": 1.6,
      "sodium": 144.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Banana",
@@ -210,7 +217,8 @@
      "fiber": 1.6,
      "sugar": 7.0,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -223,7 +231,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

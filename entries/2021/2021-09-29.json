@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 70.9,
      "sodium": 1559.2,
-     "cholesterol": 106.3
+     "cholesterol": 106.3,
+     "whole": 0.3
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 0.0,
      "sugar": 70.9,
      "sodium": 1559.2,
-     "cholesterol": 106.3
+     "cholesterol": 106.3,
+     "whole": 0.3
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -98,7 +101,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 11.8,
      "sugar": 20.0,
      "sodium": 3802.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Salad, Greek, Half",
@@ -154,7 +159,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 510.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

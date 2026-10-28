@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 6.0,
      "sodium": 750.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -42,7 +43,8 @@
      "fiber": 30.9,
      "sugar": 13.1,
      "sodium": 383.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 3.6,
      "sugar": 0.0,
      "sodium": 204.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Potato Chips, Kettle Cooked, Dill Pickle, Krinkle Cut",
@@ -98,7 +101,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 126.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 16.0,
      "sodium": 1840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -25,7 +25,8 @@
      "protein": 40.4,
      "carbs": 0.0,
      "fat": 41.8,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Texas Toast",
@@ -38,7 +39,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 175.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Fries, Natural Cut, Small",
@@ -51,7 +53,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Carolina Gold BBQ Sauce",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 26.0,
      "sodium": 820.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Beans, Baked, Canned",
@@ -77,7 +81,8 @@
      "fiber": 5.2,
      "sugar": 10.7,
      "sodium": 433.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Shrimp, Breaded Fried",
@@ -90,7 +95,8 @@
      "fiber": 0.1,
      "sugar": 0.0,
      "sodium": 103.2,
-     "cholesterol": 53.1
+     "cholesterol": 53.1,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -103,7 +109,8 @@
      "fiber": 0.0,
      "sugar": 1.9,
      "sodium": 66.8,
-     "cholesterol": 4.7
+     "cholesterol": 4.7,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -151,7 +158,8 @@
      "fiber": 1.7,
      "sugar": 3.3,
      "sodium": 733.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sandwich, Spicy Chicken",
@@ -164,7 +172,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -177,7 +186,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Shrimp, Breaded Fried",
@@ -190,7 +200,8 @@
      "fiber": 0.2,
      "sugar": 0.0,
      "sodium": 206.4,
-     "cholesterol": 106.2
+     "cholesterol": 106.2,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -203,7 +214,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 112.5,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -249,12 +261,14 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 175.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Zaxby's Small Dr. Pepper",
      "portion": "1 serving",
-     "kcal": 260
+     "kcal": 260,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -267,7 +281,8 @@
      "fiber": 0.0,
      "sugar": 5.0,
      "sodium": 230.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle, Regular",
@@ -280,7 +295,8 @@
      "fiber": 1.7,
      "sugar": 0.3,
      "sodium": 169.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Fingers",
@@ -293,7 +309,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 453.3,
-     "cholesterol": 41.7
+     "cholesterol": 41.7,
+     "whole": 0.25
     },
     {
      "name": "Green Beans, Steamed",
@@ -306,7 +323,8 @@
      "fiber": 3.4,
      "sugar": 2.0,
      "sodium": 6.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

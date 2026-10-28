@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 3.2,
      "sodium": 656.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Tortilla, Yellow Corn",
@@ -42,7 +43,8 @@
      "fiber": 1.8,
      "sugar": 0.0,
      "sodium": 176.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -55,7 +57,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -129,7 +132,8 @@
      "protein": 2.3,
      "carbs": 42.0,
      "fat": 5.3,
-     "fiber": 0.0
+     "fiber": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -170,7 +174,8 @@
      "satfat": 8.0,
      "fiber": 3.0,
      "sodium": 808.0,
-     "cholesterol": 173.0
+     "cholesterol": 173.0,
+     "whole": 1.0
     },
     {
      "name": "French Fries, Small",
@@ -183,7 +188,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -226,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 9.5,
      "sodium": 7.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

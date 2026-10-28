@@ -29,7 +29,8 @@
      "fiber": 4.2,
      "sugar": 3.3,
      "sodium": 28.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -42,7 +43,8 @@
      "fiber": 5.2,
      "sugar": 2.2,
      "sodium": 64.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 0.0,
      "sugar": 22.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Bread, Sourdough",
@@ -140,7 +144,8 @@
      "fiber": 0.8,
      "sugar": 0.8,
      "sodium": 208.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Oat Milk",
@@ -152,7 +157,8 @@
      "satfat": 0.2,
      "fiber": 1.0,
      "sugar": 3.5,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.5
     },
     {
      "name": "Hot & Spicy Chips",
@@ -165,7 +171,8 @@
      "fiber": 0.3,
      "sugar": 0.3,
      "sodium": 93.2,
-     "cholesterol": 1.7
+     "cholesterol": 1.7,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -210,7 +217,8 @@
      "fiber": 2.9,
      "sugar": 6.7,
      "sodium": 558.7,
-     "cholesterol": 62.6
+     "cholesterol": 62.6,
+     "whole": 0.5
     },
     {
      "name": "Jumbo Black Tiger Shrimp",
@@ -223,7 +231,8 @@
      "fiber": 2.0,
      "sugar": 8.0,
      "sodium": 84.0,
-     "cholesterol": 240.0
+     "cholesterol": 240.0,
+     "whole": 1.0
     },
     {
      "name": "Pasta Sauce, Mushroom",
@@ -234,7 +243,8 @@
      "fat": 2.0,
      "fiber": 2.0,
      "sugar": 5.0,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -29,12 +29,14 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 1270.0,
-     "cholesterol": 47.5
+     "cholesterol": 47.5,
+     "whole": 0.3
     },
     {
      "name": "Totilla Chips",
      "portion": "15 pieces",
-     "kcal": 140
+     "kcal": 140,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -47,7 +49,8 @@
      "fiber": 0.0,
      "sugar": 8.9,
      "sodium": 1020.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -91,7 +94,8 @@
      "fiber": 7.7,
      "sugar": 10.2,
      "sodium": 1126.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "*Grain Free Chips, Nacho - 19 Ea",
@@ -104,7 +108,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chunky Guacamole",
@@ -117,7 +122,8 @@
      "fiber": 5.2,
      "sugar": 0.0,
      "sodium": 386.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mexican 4 Cheeze Shreds",
@@ -130,7 +136,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 145.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Plant Based Vegan Sour Cream",
@@ -143,7 +150,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 56.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -185,7 +193,8 @@
      "protein": 5.4,
      "carbs": 101.7,
      "fat": 40.5,
-     "fiber": 7.5
+     "fiber": 7.5,
+     "whole": 0.1
     },
     {
      "name": "Oat Creamer, Vanilla",
@@ -198,7 +207,8 @@
      "fiber": 0.0,
      "sugar": 10.7,
      "sodium": 106.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Buffalo/Cranberry Jerky Bar, Tanka",
@@ -211,7 +221,8 @@
      "fiber": 1.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.15
     },
     {
      "name": "Honey Pistachio Energy Squares",
@@ -224,7 +235,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Pretzels, Jalapeno, Pieces",
@@ -237,7 +249,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 93.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Blonde Roast",
@@ -250,7 +263,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

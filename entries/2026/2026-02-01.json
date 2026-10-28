@@ -27,7 +27,8 @@
      "fat": 21.0,
      "satfat": 6.0,
      "fiber": 4.0,
-     "sodium": 399.0
+     "sodium": 399.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 3.3,
      "sodium": 346.8,
-     "cholesterol": 43.4
+     "cholesterol": 43.4,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -111,7 +113,8 @@
      "fiber": 8.2,
      "sugar": 10.8,
      "sodium": 267.8,
-     "cholesterol": 22.3
+     "cholesterol": 22.3,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -153,7 +156,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 43.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sourdough Round Bread",
@@ -165,7 +169,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Sharp White Cheddar Cheese Slices",
@@ -178,7 +183,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 67.4,
-     "cholesterol": 9.0
+     "cholesterol": 9.0,
+     "whole": 0.85
     },
     {
      "name": "Homemade Salsa",
@@ -191,7 +197,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 111.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -204,7 +211,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -250,7 +258,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Spaghetti",
@@ -263,7 +272,8 @@
      "fiber": 7.7,
      "sugar": 10.1,
      "sodium": 250.0,
-     "cholesterol": 20.8
+     "cholesterol": 20.8,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -276,7 +286,8 @@
      "fiber": 0.7,
      "sugar": 1.2,
      "sodium": 378.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Cherry",
@@ -289,7 +300,8 @@
      "fiber": 2.9,
      "sugar": 6.3,
      "sodium": 11.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli apple soup",
@@ -302,7 +314,8 @@
      "fiber": 1.4,
      "sugar": 2.0,
      "sodium": 131.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 68.0,
      "fiber": 4.0,
      "sugar": 16.0,
-     "sodium": 1662.0
+     "sodium": 1662.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Steak, Side",
@@ -38,7 +39,8 @@
      "fat": 17.0,
      "fiber": 4.0,
      "sugar": 0.0,
-     "sodium": 444.0
+     "sodium": 444.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli, Steamed",
@@ -49,7 +51,8 @@
      "fat": 0.0,
      "fiber": 3.0,
      "sugar": 0.0,
-     "sodium": 30.0
+     "sodium": 30.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

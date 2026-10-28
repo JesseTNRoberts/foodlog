@@ -29,7 +29,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -41,7 +42,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 0.9,
      "sugar": 0.2,
      "sodium": 87.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

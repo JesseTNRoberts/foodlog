@@ -29,7 +29,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 2540.0,
-     "cholesterol": 95.0
+     "cholesterol": 95.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard",
@@ -39,7 +40,8 @@
      "carbs": 6.0,
      "fat": 13.0,
      "fiber": 0.0,
-     "sugar": 5.0
+     "sugar": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Coffee, Iced",
@@ -52,7 +54,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -88,7 +91,8 @@
     {
      "name": "Blackened salmon Salad",
      "portion": "1 serving",
-     "kcal": 346
+     "kcal": 346,
+     "whole": 0.7
     },
     {
      "name": "Honey Mustard Dressing",
@@ -101,7 +105,8 @@
      "fiber": 0.0,
      "sugar": 14.0,
      "sodium": 482.0,
-     "cholesterol": 28.0
+     "cholesterol": 28.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Butter Croissant",
@@ -114,7 +119,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 117.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -158,7 +164,8 @@
      "fiber": 3.0,
      "sugar": 0.5,
      "sodium": 370.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -171,7 +178,8 @@
      "fiber": 0.0,
      "sugar": 8.5,
      "sodium": 297.7,
-     "cholesterol": 21.3
+     "cholesterol": 21.3,
+     "whole": 0.3
     },
     {
      "name": "Vegan Cheddar Slices -",
@@ -181,7 +189,8 @@
      "carbs": 5.0,
      "fat": 5.0,
      "satfat": 4.5,
-     "sodium": 230.0
+     "sodium": 230.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach",
@@ -194,7 +203,8 @@
      "fiber": 3.3,
      "sugar": 0.0,
      "sodium": 108.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -207,7 +217,8 @@
      "fiber": 0.9,
      "sugar": 2.0,
      "sodium": 3.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cucumber, Sliced",
@@ -220,7 +231,8 @@
      "fiber": 0.4,
      "sugar": 0.8,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -259,7 +271,8 @@
     {
      "name": "Totilla Chips",
      "portion": "25 pieces",
-     "kcal": 233
+     "kcal": 233,
+     "whole": 0.25
     },
     {
      "name": "Bread, Naan Dippers",
@@ -272,7 +285,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 360.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -285,7 +299,8 @@
      "fiber": 2.2,
      "sugar": 0.0,
      "sodium": 232.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Oat Coffee Creamer - Vanilla",
@@ -298,7 +313,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -311,7 +327,8 @@
      "fiber": 0.0,
      "sugar": 8.9,
      "sodium": 1020.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

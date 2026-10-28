@@ -29,7 +29,8 @@
      "fiber": 0.8,
      "sugar": 0.5,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sandwich, Spicy Chicken",
@@ -84,7 +86,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -97,7 +100,8 @@
      "fiber": 1.7,
      "sugar": 43.3,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -110,7 +114,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -123,7 +128,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -136,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -149,7 +156,8 @@
      "fiber": 0.7,
      "sugar": 5.7,
      "sodium": 143.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -192,7 +200,8 @@
      "kcal": 400,
      "protein": 6.0,
      "carbs": 100.0,
-     "fat": 20.0
+     "fat": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Soup, Vegetable Garden",
@@ -205,7 +214,8 @@
      "fiber": 11.7,
      "sugar": 13.1,
      "sodium": 1199.2,
-     "cholesterol": 6.2
+     "cholesterol": 6.2,
+     "whole": 0.7
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -218,7 +228,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -231,7 +242,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -244,7 +256,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -290,7 +303,8 @@
      "fiber": 0.5,
      "sugar": 0.2,
      "sodium": 19.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

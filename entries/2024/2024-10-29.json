@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 5.9,
      "sodium": 118.3,
-     "cholesterol": 4.9
+     "cholesterol": 4.9,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chia Seeds",
@@ -68,7 +71,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Blueberries",
@@ -81,7 +85,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -139,7 +145,8 @@
      "fat": 11.0,
      "satfat": 1.5,
      "fiber": 1.0,
-     "sodium": 210.0
+     "sodium": 210.0,
+     "whole": 0.25
     },
     {
      "name": "Hibachi Vegetables",
@@ -152,7 +159,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Back Strap",
@@ -165,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 405.0,
-     "cholesterol": 66.0
+     "cholesterol": 66.0,
+     "whole": 1.0
     },
     {
      "name": "FrIed Rice",
@@ -178,7 +187,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -222,7 +232,8 @@
      "fiber": 5.4,
      "sugar": 3.1,
      "sodium": 1320.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Sunchips, Multigrain, Garden Salsa",
@@ -235,7 +246,8 @@
      "fiber": 2.7,
      "sugar": 2.7,
      "sodium": 186.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Maple And Honey Turkey",
@@ -246,7 +258,8 @@
      "fat": 0.8,
      "sugar": 3.0,
      "sodium": 585.0,
-     "cholesterol": 37.5
+     "cholesterol": 37.5,
+     "whole": 0.3
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -259,7 +272,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -272,7 +286,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -317,7 +332,8 @@
      "satfat": 11.8,
      "fiber": 1.5,
      "sugar": 33.8,
-     "sodium": 603.1
+     "sodium": 603.1,
+     "whole": 0.1
     }
    ],
    "eaten": {

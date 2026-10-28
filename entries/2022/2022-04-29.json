@@ -23,7 +23,8 @@
      "portion": "2 each",
      "kcal": 250,
      "protein": 3.0,
-     "fiber": 4.0
+     "fiber": 4.0,
+     "whole": 0.3
     },
     {
      "name": "Hash Browns",
@@ -31,7 +32,8 @@
      "kcal": 155,
      "protein": 5.0,
      "carbs": 17.0,
-     "fat": 9.0
+     "fat": 9.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -74,7 +76,8 @@
      "fiber": 6.0,
      "sugar": 5.0,
      "sodium": 830.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Mediterranean Bowl, No Feta or Greek Yogurt",
@@ -87,7 +90,8 @@
      "fiber": 3.3,
      "sugar": 1.7,
      "sodium": 356.3,
-     "cholesterol": 1.7
+     "cholesterol": 1.7,
+     "whole": 0.7
     },
     {
      "name": "Bread, French Baguette",
@@ -100,7 +104,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 440.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -142,12 +147,14 @@
      "fat": 25.0,
      "satfat": 9.0,
      "fiber": 2.0,
-     "sodium": 2150.0
+     "sodium": 2150.0,
+     "whole": 0.25
     },
     {
      "name": "TGI Fridays french fries",
      "portion": "1 serving",
-     "kcal": 200
+     "kcal": 200,
+     "whole": 0.3
     },
     {
      "name": "Boneless Chicken Bites",
@@ -160,7 +167,8 @@
      "fiber": 0.5,
      "sugar": 6.0,
      "sodium": 700.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -204,7 +212,8 @@
      "fiber": 4.4,
      "sugar": 1.5,
      "sodium": 184.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

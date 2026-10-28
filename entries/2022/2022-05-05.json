@@ -26,7 +26,8 @@
      "carbs": 1.5,
      "fat": 18.0,
      "satfat": 1.5,
-     "sodium": 127.5
+     "sodium": 127.5,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -39,7 +40,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 199.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "vegan cheese",
@@ -52,7 +54,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -96,7 +99,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -109,7 +113,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -122,7 +127,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -135,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -180,7 +187,8 @@
      "fiber": 6.6,
      "sugar": 6.6,
      "sodium": 760.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Stacy’s Pita Thins, Sea Salt",
@@ -193,7 +201,8 @@
      "fiber": 3.4,
      "sugar": 2.7,
      "sodium": 607.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -206,7 +215,8 @@
      "fiber": 2.2,
      "sugar": 0.7,
      "sodium": 92.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "BlackBerry",
@@ -219,7 +229,8 @@
      "fiber": 8.0,
      "sugar": 7.0,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -232,7 +243,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 111.4,
-     "cholesterol": 7.6
+     "cholesterol": 7.6,
+     "whole": 0.3
     }
    ],
    "eaten": {

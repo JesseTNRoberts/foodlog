@@ -29,7 +29,8 @@
      "fiber": 1.9,
      "sugar": 1.3,
      "sodium": 41.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Healthy Vegan Bites",
@@ -40,7 +41,8 @@
      "fat": 1.5,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 5.0
+     "sodium": 5.0,
+     "whole": 0.15
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "5 Traditional Wings Tongue Torched",
@@ -110,7 +114,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 568.0,
-     "cholesterol": 104.0
+     "cholesterol": 104.0,
+     "whole": 0.25
     },
     {
      "name": "French fries",
@@ -118,7 +123,8 @@
      "kcal": 200,
      "protein": 5.0,
      "carbs": 5.0,
-     "fat": 1.0
+     "fat": 1.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -131,7 +137,8 @@
      "fiber": 1.7,
      "sugar": 43.3,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -144,7 +151,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 65.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -190,7 +198,8 @@
      "fiber": 2.1,
      "sugar": 4.8,
      "sodium": 521.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -203,7 +212,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -216,7 +226,8 @@
      "fiber": 0.5,
      "sugar": 4.2,
      "sodium": 107.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -229,7 +240,8 @@
      "fiber": 7.5,
      "sugar": 4.4,
      "sodium": 49.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Red Cabbage Soup",
@@ -242,7 +254,8 @@
      "fiber": 7.0,
      "sugar": 15.0,
      "sodium": 90.0,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -255,7 +268,8 @@
      "fiber": 0.2,
      "sugar": 2.1,
      "sodium": 53.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Liquid Aminos",
@@ -268,7 +282,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 345.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -316,7 +331,8 @@
      "fiber": 3.1,
      "sugar": 0.0,
      "sodium": 178.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Ousley Ouch Ghost Salsa",
@@ -329,7 +345,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

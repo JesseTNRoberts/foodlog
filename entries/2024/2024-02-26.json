@@ -27,7 +27,8 @@
      "fat": 22.0,
      "satfat": 3.0,
      "fiber": 2.0,
-     "sodium": 420.0
+     "sodium": 420.0,
+     "whole": 0.25
     },
     {
      "name": "Hibachi Vegetables",
@@ -40,7 +41,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "FrIed Rice",
@@ -53,7 +55,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Milk, Oat Milk",
@@ -110,7 +114,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

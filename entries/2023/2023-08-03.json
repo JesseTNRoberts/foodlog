@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 1620.0,
-     "cholesterol": 75.0
+     "cholesterol": 75.0,
+     "whole": 1.0
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 5.3,
      "sodium": 173.4,
-     "cholesterol": 13.3
+     "cholesterol": 13.3,
+     "whole": 0.3
     },
     {
      "name": "Sour Dough Bread Slice",
@@ -55,7 +57,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Vegetarian Chili (8oz/1cup)",
@@ -63,7 +66,8 @@
      "kcal": 120,
      "protein": 5.0,
      "carbs": 21.0,
-     "fat": 2.0
+     "fat": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Coke mini bottle",
@@ -76,7 +80,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -89,7 +94,8 @@
      "fiber": 0.0,
      "sugar": 0.3,
      "sodium": 63.5,
-     "cholesterol": 15.9
+     "cholesterol": 15.9,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -136,7 +142,8 @@
      "fiber": 15.5,
      "sugar": 0.6,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Cornbread, From Mix",
@@ -149,7 +156,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 330.8,
-     "cholesterol": 25.9
+     "cholesterol": 25.9,
+     "whole": 0.5
     },
     {
      "name": "Vegetarian Chili (8oz/1cup)",
@@ -157,7 +165,8 @@
      "kcal": 60,
      "protein": 2.5,
      "carbs": 10.5,
-     "fat": 1.0
+     "fat": 1.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -201,7 +210,8 @@
      "fiber": 3.4,
      "sugar": 2.2,
      "sodium": 65.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -243,7 +253,8 @@
      "fiber": 5.0,
      "sugar": 1.0,
      "sodium": 510.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pulled Pork, in BBQ Sauce",
@@ -256,7 +267,8 @@
      "fiber": 3.0,
      "sugar": 12.5,
      "sodium": 1660.0,
-     "cholesterol": 87.0
+     "cholesterol": 87.0,
+     "whole": 0.3
     },
     {
      "name": "Coke",
@@ -269,7 +281,8 @@
      "fiber": 0.0,
      "sugar": 78.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Beans, Baked, Homemade",
@@ -282,7 +295,8 @@
      "fiber": 7.0,
      "sugar": 0.0,
      "sodium": 533.8,
-     "cholesterol": 6.3
+     "cholesterol": 6.3,
+     "whole": 0.7
     },
     {
      "name": "Honey Mustard",
@@ -295,7 +309,8 @@
      "fiber": 0.0,
      "sugar": 4.5,
      "sodium": 112.5,
-     "cholesterol": 11.3
+     "cholesterol": 11.3,
+     "whole": 0.3
     },
     {
      "name": "Bun, Hamburger, Plain",
@@ -308,7 +323,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 206.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

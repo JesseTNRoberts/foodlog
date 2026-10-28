@@ -29,7 +29,8 @@
      "fiber": 3.7,
      "sugar": 3.3,
      "sodium": 832.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tortilla Chips (Rounds) 10 Chips",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Maple And Honey Turkey",
@@ -53,7 +55,8 @@
      "fat": 0.8,
      "sugar": 3.0,
      "sodium": 585.0,
-     "cholesterol": 37.5
+     "cholesterol": 37.5,
+     "whole": 0.3
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -66,7 +69,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 75.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky, Med",
@@ -79,7 +83,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 345.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -92,7 +97,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -139,7 +145,8 @@
      "fiber": 1.5,
      "sugar": 0.8,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Blueberries",
@@ -152,7 +159,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -165,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -178,7 +187,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chia Seeds",
@@ -191,7 +201,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -204,7 +215,8 @@
      "fiber": 0.4,
      "sugar": 1.1,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -251,7 +263,8 @@
      "fiber": 1.1,
      "sugar": 4.7,
      "sodium": 606.8,
-     "cholesterol": 130.3
+     "cholesterol": 130.3,
+     "whole": 0.5
     },
     {
      "name": "Carrot Cake With Cream Cheese Icing",
@@ -264,7 +277,8 @@
      "fiber": 3.8,
      "sugar": 46.2,
      "sodium": 387.5,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.1
     },
     {
      "name": "Homemade Chicken Noodle Soup",
@@ -272,7 +286,8 @@
      "kcal": 240,
      "protein": 20.1,
      "carbs": 27.3,
-     "fat": 82.5
+     "fat": 82.5,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -316,7 +331,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 295.5,
-     "cholesterol": 21.6
+     "cholesterol": 21.6,
+     "whole": 0.25
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -329,7 +345,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 92.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Velveeta Cheese Slice",
@@ -342,7 +359,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     },
     {
      "name": "Hot & Spicy Chips",
@@ -355,7 +373,8 @@
      "fiber": 0.3,
      "sugar": 0.3,
      "sodium": 93.2,
-     "cholesterol": 1.7
+     "cholesterol": 1.7,
+     "whole": 0.25
     }
    ],
    "eaten": {

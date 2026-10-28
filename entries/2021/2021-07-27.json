@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -63,18 +64,21 @@
     {
      "name": "Burger King impossible whopper",
      "portion": "1 serving",
-     "kcal": 630
+     "kcal": 630,
+     "whole": 0.25
     },
     {
      "name": "Medium French Fry",
      "portion": "1/2 each",
-     "kcal": 190
+     "kcal": 190,
+     "whole": 0.3
     },
     {
      "name": "Coke, Small",
      "portion": "1/2 serving",
      "kcal": 140,
-     "carbs": 51.0
+     "carbs": 51.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -118,7 +122,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 1279.0,
-     "cholesterol": 89.0
+     "cholesterol": 89.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -131,7 +136,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 460.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -144,7 +150,8 @@
      "fiber": 1.0,
      "sugar": 8.5,
      "sodium": 215.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -156,7 +163,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -169,7 +177,8 @@
      "fiber": 3.5,
      "sugar": 0.0,
      "sodium": 115.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

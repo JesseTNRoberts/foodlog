@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 7.0,
      "sodium": 1150.0,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 0.3
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 8.5,
      "sodium": 215.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Famous Unsweet Tea",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spring Mix Salad",
@@ -154,7 +159,8 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 126.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -166,7 +172,8 @@
      "satfat": 1.5,
      "fiber": 0.0,
      "sodium": 76.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Croutons, Seasoned",
@@ -179,12 +186,14 @@
      "fiber": 0.1,
      "sugar": 0.1,
      "sodium": 27.9,
-     "cholesterol": 0.2
+     "cholesterol": 0.2,
+     "whole": 0.25
     },
     {
      "name": "Big Bang Coffee",
      "portion": "1 serving",
-     "kcal": 1
+     "kcal": 1,
+     "whole": 1.0
     }
    ],
    "eaten": {

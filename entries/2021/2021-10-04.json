@@ -29,12 +29,14 @@
      "fiber": 0.0,
      "sugar": 35.0,
      "sodium": 65.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.5
     },
     {
      "name": "fried pie, apple",
      "portion": "1 serving",
-     "kcal": 160
+     "kcal": 160,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -77,7 +79,8 @@
      "fiber": 0.0,
      "sugar": 91.1,
      "sodium": 2004.7,
-     "cholesterol": 136.7
+     "cholesterol": 136.7,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips",
@@ -90,7 +93,8 @@
      "fiber": 3.6,
      "sugar": 0.0,
      "sodium": 204.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -103,7 +107,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -115,7 +120,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -128,7 +134,8 @@
      "fiber": 0.0,
      "sugar": 7.0,
      "sodium": 805.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

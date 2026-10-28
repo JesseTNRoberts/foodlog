@@ -29,7 +29,8 @@
      "fiber": 1.1,
      "sugar": 1.9,
      "sodium": 497.2,
-     "cholesterol": 11.1
+     "cholesterol": 11.1,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -71,12 +72,14 @@
      "fiber": 0.0,
      "sugar": 33.0,
      "sodium": 170.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.1
     },
     {
      "name": "Coffee",
      "portion": "1 cup",
-     "kcal": 5
+     "kcal": 5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -117,7 +120,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Croutons, Homestyle Seasoned Herb",
@@ -130,7 +134,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -143,7 +148,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 37.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.85
     },
     {
      "name": "Cucumber, Large",
@@ -156,7 +162,8 @@
      "fiber": 0.5,
      "sugar": 1.7,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Chopped",
@@ -169,7 +176,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -215,7 +223,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -227,7 +236,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -240,7 +250,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -253,7 +264,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -298,7 +310,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -310,7 +323,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -323,7 +337,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -336,7 +351,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -381,7 +397,8 @@
      "fiber": 3.7,
      "sugar": 3.7,
      "sodium": 337.5,
-     "cholesterol": 20.1
+     "cholesterol": 20.1,
+     "whole": 0.5
     },
     {
      "name": "BBQ Flavored Corn Chips",
@@ -394,7 +411,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 220.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Mango, Whole",
@@ -407,7 +425,8 @@
      "fiber": 3.7,
      "sugar": 30.6,
      "sodium": 4.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -420,7 +439,8 @@
      "fiber": 0.4,
      "sugar": 0.7,
      "sodium": 212.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Snack, Multigrain, Garden Salsa",
@@ -433,7 +453,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 51.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Corn Salsa",
@@ -446,7 +467,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

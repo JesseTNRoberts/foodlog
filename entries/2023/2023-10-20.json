@@ -29,7 +29,8 @@
      "fiber": 5.6,
      "sugar": 2.8,
      "sodium": 12.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Just Egg",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 3.0,
      "sugar": 3.2,
      "sodium": 656.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -98,7 +101,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 92.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Santa Fe",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 690.0,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 0.3
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -124,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 0.1,
      "sodium": 30.0,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky",
@@ -137,7 +143,8 @@
      "fiber": 1.5,
      "sugar": 3.0,
      "sodium": 345.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -183,7 +190,8 @@
      "fiber": 0.0,
      "sugar": 99.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

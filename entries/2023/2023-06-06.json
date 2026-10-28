@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 569.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Oat Milk Latte",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Coke mini bottle",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -68,7 +71,8 @@
      "fiber": 0.6,
      "sugar": 1.3,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach",
@@ -81,7 +85,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 21.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 5.4,
      "sugar": 7.1,
      "sodium": 788.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -140,7 +146,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -153,7 +160,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -165,7 +173,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Terrapin Ridge Farms Dill Pickle Mustard",
@@ -176,7 +185,8 @@
      "fat": 1.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 250.0
+     "sodium": 250.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -222,7 +232,8 @@
      "fiber": 4.6,
      "sugar": 4.9,
      "sodium": 523.3,
-     "cholesterol": 18.4
+     "cholesterol": 18.4,
+     "whole": 0.3
     },
     {
      "name": "12oz Can",
@@ -248,7 +259,8 @@
      "fiber": 0.0,
      "sugar": 5.7,
      "sodium": 198.4,
-     "cholesterol": 14.2
+     "cholesterol": 14.2,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -261,7 +273,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 93.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -274,7 +287,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 57.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -287,7 +301,8 @@
      "fiber": 1.5,
      "sugar": 3.0,
      "sodium": 345.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -334,7 +349,8 @@
      "fiber": 1.5,
      "sugar": 1.2,
      "sodium": 96.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

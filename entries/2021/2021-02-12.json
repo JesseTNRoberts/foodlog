@@ -28,7 +28,8 @@
      "fiber": 1.6,
      "sugar": 4.0,
      "sodium": 776.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.25
     },
     {
      "name": "Fries Regular",
@@ -41,7 +42,8 @@
      "fiber": 4.0,
      "sugar": 0.5,
      "sodium": 405.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Fingers",
@@ -54,7 +56,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 453.3,
-     "cholesterol": 41.7
+     "cholesterol": 41.7,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 3.3,
      "sodium": 153.4,
-     "cholesterol": 13.3
+     "cholesterol": 13.3,
+     "whole": 0.3
     },
     {
      "name": "zaxbys toast",
@@ -75,7 +79,8 @@
      "kcal": 75,
      "protein": 0.5,
      "carbs": 3.5,
-     "fat": 3.0
+     "fat": 3.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -88,7 +93,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -135,7 +141,8 @@
      "fiber": 14.8,
      "sugar": 9.1,
      "sodium": 1625.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -148,7 +155,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -161,7 +169,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 143.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -174,7 +183,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 123.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pasta sauce, fire roasted tomato and garlic",
@@ -187,7 +197,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -200,7 +211,8 @@
      "fiber": 0.8,
      "sugar": 0.2,
      "sodium": 3.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -247,7 +259,8 @@
      "fiber": 2.1,
      "sugar": 4.8,
      "sodium": 521.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -260,7 +273,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Broccoletti",
@@ -273,7 +287,8 @@
      "fiber": 5.3,
      "sugar": 2.7,
      "sodium": 80.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Liquid Aminos",
@@ -286,7 +301,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 345.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -331,7 +347,8 @@
      "fiber": 2.4,
      "sugar": 0.0,
      "sodium": 140.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -344,7 +361,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 1150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

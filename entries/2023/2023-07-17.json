@@ -29,7 +29,8 @@
      "fiber": 3.9,
      "sugar": 5.7,
      "sodium": 303.9,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.25
     },
     {
      "name": "Tilapia, Grilled",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 88.5,
-     "cholesterol": 85.5
+     "cholesterol": 85.5,
+     "whole": 1.0
     },
     {
      "name": "Abe's Wild Blueberry Mini-muffin",
@@ -54,7 +56,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 10.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "fiber": 2.5,
      "sugar": 13.5,
      "sodium": 930.0,
-     "cholesterol": 122.5
+     "cholesterol": 122.5,
+     "whole": 0.25
     },
     {
      "name": "Honey Butter Croissant",
@@ -111,7 +115,8 @@
      "fiber": 1.0,
      "sugar": 5.0,
      "sodium": 117.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.1
     },
     {
      "name": "Red Beans",
@@ -124,7 +129,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 882.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +171,8 @@
      "carbs": 0.0,
      "fat": 30.0,
      "sodium": 375.0,
-     "cholesterol": 172.5
+     "cholesterol": 172.5,
+     "whole": 1.0
     }
    ],
    "eaten": {

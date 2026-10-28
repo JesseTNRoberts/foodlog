@@ -29,7 +29,8 @@
      "fiber": 7.5,
      "sugar": 0.0,
      "sodium": 187.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Biscuit, Medium",
@@ -42,7 +43,8 @@
      "fiber": 0.3,
      "sugar": 0.9,
      "sodium": 268.3,
-     "cholesterol": 0.3
+     "cholesterol": 0.3,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -80,7 +82,8 @@
      "kcal": 381,
      "protein": 21.0,
      "carbs": 27.0,
-     "fat": 21.0
+     "fat": 21.0,
+     "whole": 0.25
     },
     {
      "name": "Sauce, Cane's",
@@ -93,7 +96,8 @@
      "fiber": 0.0,
      "sugar": 7.0,
      "sodium": 962.5,
-     "cholesterol": 17.5
+     "cholesterol": 17.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -136,7 +140,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -149,7 +154,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

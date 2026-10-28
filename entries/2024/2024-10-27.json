@@ -29,7 +29,8 @@
      "fiber": 13.5,
      "sugar": 1.3,
      "sodium": 14.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Foccacia Bread",
@@ -41,7 +42,8 @@
      "fiber": 2.7,
      "sugar": 1.6,
      "sodium": 660.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Dressing, Litehouse HomeStyle Ranch, 2T",
@@ -54,7 +56,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 217.3,
-     "cholesterol": 9.4
+     "cholesterol": 9.4,
+     "whole": 0.3
     },
     {
      "name": "Mayonnaise Sriracha",
@@ -67,7 +70,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Bacon, Cooked",
@@ -80,7 +84,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 184.8,
-     "cholesterol": 8.8
+     "cholesterol": 8.8,
+     "whole": 0.25
     },
     {
      "name": "Croutons, Seasoned, Garlic",
@@ -93,7 +98,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 79.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salad Greens",
@@ -106,7 +112,8 @@
      "fiber": 0.8,
      "sugar": 1.3,
      "sodium": 20.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "broccoli Shreds",
@@ -119,7 +126,8 @@
      "fiber": 0.5,
      "sugar": 0.3,
      "sodium": 1.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -168,7 +176,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 1300.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.25
     },
     {
      "name": "Juice, Apple Cider",
@@ -181,7 +190,8 @@
      "fiber": 0.0,
      "sugar": 62.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

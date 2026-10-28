@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1260.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Oatly Barista",
@@ -53,7 +55,8 @@
      "fat": 3.5,
      "satfat": 0.3,
      "fiber": 0.9,
-     "sugar": 4.7
+     "sugar": 4.7,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -89,29 +92,34 @@
     {
      "name": "Roll",
      "portion": "3 servings",
-     "kcal": 330
+     "kcal": 330,
+     "whole": 0.5
     },
     {
      "name": "Side Salad with Honey Mustard",
      "portion": "2 servings",
-     "kcal": 300
+     "kcal": 300,
+     "whole": 0.3
     },
     {
      "name": "Hashbrowns",
      "portion": "1 serving",
      "kcal": 170,
      "carbs": 35.0,
-     "fat": 8.0
+     "fat": 8.0,
+     "whole": 0.25
     },
     {
      "name": "Side Salad with Honey Mustard",
      "portion": "1 serving",
-     "kcal": 150
+     "kcal": 150,
+     "whole": 0.3
     },
     {
      "name": "Chicken Sandwich",
      "portion": "1/4 serving",
-     "kcal": 138
+     "kcal": 138,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -157,7 +165,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Lärabar, Peanut Butter Chocolate Chip",
@@ -170,7 +179,8 @@
      "fiber": 3.0,
      "sugar": 19.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Oatly Barista",
@@ -181,7 +191,8 @@
      "fat": 3.5,
      "satfat": 0.3,
      "fiber": 0.9,
-     "sugar": 4.7
+     "sugar": 4.7,
+     "whole": 0.5
     },
     {
      "name": "Korean Style Kimchi",
@@ -194,7 +205,8 @@
      "fiber": 0.9,
      "sugar": 0.5,
      "sodium": 264.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

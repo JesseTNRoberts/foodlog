@@ -27,7 +27,8 @@
      "fat": 30.0,
      "fiber": 7.0,
      "sugar": 6.0,
-     "cholesterol": 55.0
+     "cholesterol": 55.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fiber": 1.1,
      "sugar": 1.1,
      "sodium": 374.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Fuego Grain Free Tortilla Chips 19 Chips 28g",
@@ -82,7 +84,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread",
@@ -91,7 +94,8 @@
      "protein": 5.2,
      "carbs": 27.7,
      "fat": 11.0,
-     "sodium": 269.0
+     "sodium": 269.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -135,7 +139,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

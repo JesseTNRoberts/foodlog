@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.4,
      "sodium": 142.0,
-     "cholesterol": 372.0
+     "cholesterol": 372.0,
+     "whole": 1.0
     },
     {
      "name": "Sauteed Spinach",
@@ -40,7 +41,8 @@
      "fat": 10.0,
      "satfat": 2.0,
      "fiber": 4.0,
-     "sodium": 344.0
+     "sodium": 344.0,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Parmesan, Grated",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 76.5,
-     "cholesterol": 4.4
+     "cholesterol": 4.4,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 2.6,
      "sugar": 3.8,
      "sodium": 732.0,
-     "cholesterol": 44.0
+     "cholesterol": 44.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -139,7 +143,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 0.5,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Butter, Salted",
@@ -152,7 +157,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 4.2,
-     "cholesterol": 62.4
+     "cholesterol": 62.4,
+     "whole": 0.85
     },
     {
      "name": "Lobster Tail",
@@ -164,7 +170,8 @@
      "satfat": 0.1,
      "fiber": 0.0,
      "sodium": 1312.5,
-     "cholesterol": 133.5
+     "cholesterol": 133.5,
+     "whole": 1.0
     },
     {
      "name": "Roasted garlic cloves",
@@ -173,7 +180,8 @@
      "protein": 0.5,
      "carbs": 1.0,
      "fat": 0.3,
-     "fiber": 0.5
+     "fiber": 0.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -218,7 +226,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 0.5,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Banana Peanut Butter Oat Smoothy",
@@ -231,7 +240,8 @@
      "fiber": 3.3,
      "sugar": 5.8,
      "sodium": 26.5,
-     "cholesterol": 6.4
+     "cholesterol": 6.4,
+     "whole": 0.85
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -244,7 +254,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Honey Smoked",
@@ -257,7 +268,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     }
    ],
    "eaten": {

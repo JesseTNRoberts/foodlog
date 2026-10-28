@@ -29,7 +29,8 @@
      "fiber": 3.7,
      "sugar": 14.4,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pistachios, Lightly Salted",
@@ -42,7 +43,8 @@
      "fiber": 1.7,
      "sugar": 0.7,
      "sodium": 23.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Healthy Vegan Bites",
@@ -53,7 +55,8 @@
      "fat": 1.5,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 5.0
+     "sodium": 5.0,
+     "whole": 0.15
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -66,7 +69,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -111,7 +115,8 @@
      "fiber": 22.3,
      "sugar": 7.6,
      "sodium": 408.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -124,7 +129,8 @@
      "fiber": 1.3,
      "sugar": 11.3,
      "sodium": 286.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Half and Half Tea",
@@ -137,7 +143,8 @@
      "fiber": 0.7,
      "sugar": 19.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -181,7 +188,8 @@
      "fiber": 7.3,
      "sugar": 4.8,
      "sodium": 24.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -194,7 +202,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -207,7 +216,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "PB Cauliflower dip",
@@ -220,7 +230,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 720.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Side, Biscuit",
@@ -233,7 +244,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 175.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -246,7 +258,8 @@
      "fiber": 0.6,
      "sugar": 16.2,
      "sodium": 1.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -259,7 +272,8 @@
      "fiber": 5.2,
      "sugar": 2.2,
      "sodium": 64.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Almond & Cashew Silk",
@@ -272,7 +286,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 28.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Plant Butter",
@@ -285,7 +300,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -335,7 +351,8 @@
      "fiber": 4.5,
      "sugar": 4.2,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -348,7 +365,8 @@
      "fiber": 0.8,
      "sugar": 0.5,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

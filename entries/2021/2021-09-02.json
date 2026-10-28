@@ -29,7 +29,8 @@
      "fiber": 2.5,
      "sugar": 3.8,
      "sodium": 81.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -42,7 +43,8 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fat": 30.0,
      "fiber": 7.0,
      "sugar": 6.0,
-     "cholesterol": 55.0
+     "cholesterol": 55.0,
+     "whole": 0.7
     },
     {
      "name": "Bread, French Baguette",
@@ -110,12 +114,14 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 440.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Panera 10 vegetable soup",
      "portion": "1 serving",
-     "kcal": 70
+     "kcal": 70,
+     "whole": 0.7
     }
    ],
    "eaten": {

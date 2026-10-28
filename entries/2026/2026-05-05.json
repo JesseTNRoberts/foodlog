@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries Fresh",
@@ -68,7 +71,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greek Yogurt, Plain, 0%",
@@ -94,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 1.7,
      "sodium": 21.7,
-     "cholesterol": 3.3
+     "cholesterol": 3.3,
+     "whole": 0.85
     },
     {
      "name": "Raspberry",
@@ -102,7 +108,8 @@
      "kcal": 10,
      "protein": 0.2,
      "carbs": 2.3,
-     "fat": 0.1
+     "fat": 0.1,
+     "whole": 1.0
     },
     {
      "name": "2% Protein Milk",
@@ -114,7 +121,8 @@
      "satfat": 0.2,
      "sugar": 0.4,
      "sodium": 7.9,
-     "cholesterol": 1.3
+     "cholesterol": 1.3,
+     "whole": 0.85
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -127,7 +135,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -177,7 +186,8 @@
      "fiber": 4.0,
      "sugar": 11.0,
      "sodium": 15.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -219,7 +229,8 @@
      "fiber": 3.0,
      "sugar": 2.0,
      "sodium": 310.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cuties",
@@ -232,7 +243,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -275,7 +287,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 48.5,
-     "cholesterol": 62.9
+     "cholesterol": 62.9,
+     "whole": 1.0
     },
     {
      "name": "Quinoa, Cooked",
@@ -288,7 +301,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -301,7 +315,8 @@
      "fiber": 5.2,
      "sugar": 3.4,
      "sodium": 42.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Japanese Barbecue Sauce",
@@ -309,7 +324,8 @@
      "kcal": 70,
      "carbs": 16.0,
      "sugar": 16.0,
-     "sodium": 1040.0
+     "sodium": 1040.0,
+     "whole": 0.5
     },
     {
      "name": "Rainbow Baby Carrots, Organic",
@@ -319,7 +335,8 @@
      "carbs": 11.7,
      "fiber": 5.0,
      "sugar": 6.7,
-     "sodium": 108.3
+     "sodium": 108.3,
+     "whole": 1.0
     },
     {
      "name": "Onion, Red, Chopped, Cooked",
@@ -332,7 +349,8 @@
      "fiber": 1.5,
      "sugar": 5.0,
      "sodium": 3.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -379,7 +397,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Apple",
@@ -387,7 +406,8 @@
      "kcal": 70,
      "protein": 0.0,
      "carbs": 22.0,
-     "fat": 0.0
+     "fat": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Hummus",
@@ -400,7 +420,8 @@
      "fiber": 0.9,
      "sugar": 0.7,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

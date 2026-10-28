@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -42,7 +43,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 13.8,
      "sugar": 0.0,
      "sodium": 1030.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -112,7 +116,8 @@
      "fiber": 2.2,
      "sugar": 0.7,
      "sodium": 92.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Peppers, Bell, Red, Medium, 2 3/4\" x 2 1/2\"",
@@ -125,7 +130,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 4.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Chips  3oz",
@@ -138,7 +144,8 @@
      "fiber": 2.0,
      "sugar": 3.2,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

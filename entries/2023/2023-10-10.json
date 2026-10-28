@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 3.2,
      "sodium": 656.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fat": 6.0,
      "sugar": 8.0,
      "sodium": 320.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.4
     },
     {
      "name": "Bao, Spicy Mongolian Beef",
@@ -80,7 +82,8 @@
      "fat": 4.5,
      "sugar": 7.0,
      "sodium": 320.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.4
     },
     {
      "name": "Coke",
@@ -93,7 +96,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

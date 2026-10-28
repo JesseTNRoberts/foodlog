@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 32.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -42,7 +43,8 @@
      "fiber": 6.3,
      "sugar": 2.1,
      "sodium": 263.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -77,7 +79,8 @@
     {
      "name": "Pulled Chicken",
      "portion": "1 serving",
-     "kcal": 384
+     "kcal": 384,
+     "whole": 0.5
     },
     {
      "name": "Fries Regular",
@@ -86,7 +89,8 @@
      "protein": 2.0,
      "carbs": 20.0,
      "fat": 15.0,
-     "satfat": 2.0
+     "satfat": 2.0,
+     "whole": 0.3
     },
     {
      "name": "Dr. Pepper 16.9oz",
@@ -96,12 +100,14 @@
      "carbs": 55.7,
      "fat": 0.0,
      "sugar": 54.7,
-     "sodium": 79.5
+     "sodium": 79.5,
+     "whole": 0.0
     },
     {
      "name": "Baked Beans",
      "portion": "1 serving",
-     "kcal": 150
+     "kcal": 150,
+     "whole": 0.5
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -114,7 +120,8 @@
      "fiber": 0.0,
      "sugar": 2.8,
      "sodium": 99.2,
-     "cholesterol": 7.9
+     "cholesterol": 7.9,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -159,7 +166,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 265.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 770.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.1,
      "sugar": 1.4,
      "sodium": 135.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +115,8 @@
      "fiber": 6.7,
      "sugar": 11.7,
      "sodium": 424.3,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.5
     },
     {
      "name": "Un Chick Chickpea Salad",
@@ -126,7 +129,8 @@
      "fiber": 4.2,
      "sugar": 5.4,
      "sodium": 491.2,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.7
     },
     {
      "name": "Croissant, Butter, Medium",
@@ -139,7 +143,8 @@
      "fiber": 1.5,
      "sugar": 6.4,
      "sodium": 424.8,
-     "cholesterol": 38.2
+     "cholesterol": 38.2,
+     "whole": 0.1
     }
    ],
    "eaten": {

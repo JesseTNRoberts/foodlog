@@ -29,7 +29,8 @@
      "fiber": 0.3,
      "sugar": 4.8,
      "sodium": 472.5,
-     "cholesterol": 24.0
+     "cholesterol": 24.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.1,
      "sugar": 0.0,
      "sodium": 699.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cheese, Mozzarella, Shredded",
@@ -84,7 +86,8 @@
      "fiber": 0.0,
      "sugar": 0.4,
      "sodium": 233.8,
-     "cholesterol": 29.5
+     "cholesterol": 29.5,
+     "whole": 0.85
     },
     {
      "name": "Cream Cheese",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 0.9,
      "sodium": 93.9,
-     "cholesterol": 31.9
+     "cholesterol": 31.9,
+     "whole": 0.85
     },
     {
      "name": "Sauce, Marinara",
@@ -110,7 +114,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 440.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Pepperoni, Slice",
@@ -123,7 +128,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 132.2,
-     "cholesterol": 8.4
+     "cholesterol": 8.4,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -161,7 +167,8 @@
     {
      "name": "Coffee",
      "portion": "2 cups",
-     "kcal": 10
+     "kcal": 10,
+     "whole": 1.0
     }
    ],
    "eaten": {

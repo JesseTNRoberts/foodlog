@@ -21,7 +21,8 @@
     {
      "name": "Medium Iced Vanilla Latte With Almond Milk",
      "portion": "1 serving",
-     "kcal": 180
+     "kcal": 180,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -61,7 +62,8 @@
      "fat": 27.5,
      "satfat": 2.5,
      "sugar": 2.5,
-     "sodium": 750.0
+     "sodium": 750.0,
+     "whole": 0.25
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -74,7 +76,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 600.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salad, mixed greens",
@@ -84,7 +87,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -97,7 +101,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -110,7 +115,8 @@
      "fiber": 4.0,
      "sugar": 0.8,
      "sodium": 142.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -123,7 +129,8 @@
      "fiber": 0.6,
      "sugar": 0.8,
      "sodium": 10.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -170,7 +177,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -212,7 +220,8 @@
      "fiber": 15.5,
      "sugar": 0.6,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Cornbread, From Mix",
@@ -225,7 +234,8 @@
      "fiber": 1.4,
      "sugar": 0.0,
      "sodium": 466.8,
-     "cholesterol": 36.6
+     "cholesterol": 36.6,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -268,7 +278,8 @@
      "fiber": 3.4,
      "sugar": 0.0,
      "sodium": 577.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Cauliflower Dip",
@@ -281,7 +292,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

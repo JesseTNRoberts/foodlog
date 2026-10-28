@@ -29,7 +29,8 @@
      "fiber": 4.5,
      "sugar": 4.5,
      "sodium": 97.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -42,7 +43,8 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {
@@ -77,12 +79,14 @@
     {
      "name": "Pulled pork lunch with fries",
      "portion": "1 serving",
-     "kcal": 1000
+     "kcal": 1000,
+     "whole": 0.3
     },
     {
      "name": "Cheddars Dr. Pepper",
      "portion": "1 serving",
-     "kcal": 160
+     "kcal": 160,
+     "whole": 0.0
     },
     {
      "name": "Baked beans",
@@ -91,7 +95,8 @@
      "protein": 6.0,
      "carbs": 32.0,
      "fiber": 4.0,
-     "sugar": 16.0
+     "sugar": 16.0,
+     "whole": 0.5
     },
     {
      "name": "Texas Toast",
@@ -104,7 +109,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -149,7 +155,8 @@
      "fiber": 2.5,
      "sugar": 3.5,
      "sodium": 1177.5,
-     "cholesterol": 187.5
+     "cholesterol": 187.5,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -162,7 +169,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 460.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Naan Dippers",
@@ -175,7 +183,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -188,7 +197,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -200,7 +210,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -213,7 +224,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

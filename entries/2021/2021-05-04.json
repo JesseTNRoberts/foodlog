@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 345.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Kickin’ Queso cashew Dip",
@@ -84,7 +86,8 @@
      "fiber": 2.2,
      "sugar": 0.0,
      "sodium": 303.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Small Red Potatos",
@@ -97,7 +100,8 @@
      "fiber": 18.9,
      "sugar": 11.1,
      "sodium": 66.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -110,7 +114,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 192.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoletti",
@@ -123,7 +128,8 @@
      "fiber": 3.3,
      "sugar": 1.7,
      "sodium": 50.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 880.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Fries, Waffle Potato, Large",
@@ -182,7 +189,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -195,7 +203,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -208,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -221,7 +231,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

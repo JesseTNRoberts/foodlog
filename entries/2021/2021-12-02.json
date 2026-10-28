@@ -21,7 +21,8 @@
     {
      "name": "Burger King impossible whopper",
      "portion": "1/2 serving",
-     "kcal": 315
+     "kcal": 315,
+     "whole": 0.25
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -34,7 +35,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -77,7 +79,8 @@
      "fiber": 5.0,
      "sugar": 7.0,
      "sodium": 1130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -119,7 +122,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 127.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.1,
      "sugar": 2.1,
      "sodium": 442.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 130.0,
-     "cholesterol": 430.0
+     "cholesterol": 430.0,
+     "whole": 1.0
     },
     {
      "name": "Mushrooms, Sautéed w/ Oil",
@@ -84,7 +86,8 @@
      "fiber": 0.5,
      "sugar": 0.9,
      "sodium": 2.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -97,7 +100,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 3.6,
      "sugar": 3.6,
      "sodium": 796.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Babaganoush",
@@ -154,7 +159,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 94.9,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.5
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -167,7 +173,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

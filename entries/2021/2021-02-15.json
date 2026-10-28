@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 1.0,
      "sodium": 1360.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 0.25
     },
     {
      "name": "Daiya New York Style Cheezecake",
@@ -42,7 +43,8 @@
      "fiber": 1.3,
      "sugar": 11.3,
      "sodium": 286.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "French fries",
@@ -50,7 +52,8 @@
      "kcal": 200,
      "protein": 5.0,
      "carbs": 5.0,
-     "fat": 1.0
+     "fat": 1.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -63,7 +66,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -76,7 +80,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 143.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -89,7 +94,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 122.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -132,7 +138,8 @@
      "protein": 12.4,
      "carbs": 38.8,
      "fat": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips",
@@ -145,7 +152,8 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 153.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "zaxbys toast",
@@ -153,7 +161,8 @@
      "kcal": 150,
      "protein": 1.0,
      "carbs": 7.0,
-     "fat": 6.0
+     "fat": 6.0,
+     "whole": 0.3
     },
     {
      "name": "Half and Half Tea",
@@ -166,7 +175,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -179,7 +189,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 1150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

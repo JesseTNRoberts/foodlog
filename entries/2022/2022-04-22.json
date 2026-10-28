@@ -29,7 +29,8 @@
      "fiber": 4.0,
      "sugar": 2.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salmon Patty",
@@ -39,7 +40,8 @@
      "carbs": 2.0,
      "fat": 18.0,
      "fiber": 0.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chocolate Haystack",
@@ -52,7 +54,8 @@
      "fiber": 0.6,
      "sugar": 5.5,
      "sodium": 70.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -96,7 +99,8 @@
      "fiber": 3.4,
      "sugar": 7.7,
      "sodium": 834.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Plant-based ranch chopped salad kit",
@@ -109,7 +113,8 @@
      "fiber": 7.0,
      "sugar": 4.7,
      "sodium": 886.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chicken, Orange",
@@ -122,12 +127,14 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Fire Shrimp",
      "portion": "1 serving",
-     "kcal": 200
+     "kcal": 200,
+     "whole": 1.0
     },
     {
      "name": "Chocolate Haystack",
@@ -140,7 +147,8 @@
      "fiber": 0.6,
      "sugar": 5.5,
      "sodium": 70.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -181,7 +189,8 @@
      "kcal": 271,
      "protein": 12.2,
      "carbs": 48.1,
-     "fat": 3.6
+     "fat": 3.6,
+     "whole": 0.5
     }
    ],
    "eaten": {

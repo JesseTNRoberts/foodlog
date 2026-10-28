@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 1.6,
      "sodium": 328.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Duck Eggs",
@@ -41,7 +42,8 @@
      "satfat": 2.0,
      "sugar": 0.7,
      "sodium": 73.0,
-     "cholesterol": 442.0
+     "cholesterol": 442.0,
+     "whole": 1.0
     },
     {
      "name": "Vegan Mayo",
@@ -49,7 +51,8 @@
      "kcal": 90,
      "fat": 10.0,
      "satfat": 1.5,
-     "sodium": 120.0
+     "sodium": 120.0,
+     "whole": 0.25
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -62,7 +65,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 15.0,
-     "cholesterol": 3.8
+     "cholesterol": 3.8,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -75,7 +79,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

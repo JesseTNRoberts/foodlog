@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tender",
@@ -37,7 +38,8 @@
      "kcal": 127,
      "protein": 7.0,
      "carbs": 9.0,
-     "fat": 7.0
+     "fat": 7.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -78,7 +80,8 @@
      "fat": 8.0,
      "fiber": 3.0,
      "sugar": 0.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.3
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -91,7 +94,8 @@
      "fiber": 2.8,
      "sugar": 2.2,
      "sodium": 18.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -129,7 +133,8 @@
      "kcal": 450,
      "protein": 5.6,
      "carbs": 7.2,
-     "fat": 3.8
+     "fat": 3.8,
+     "whole": 0.3
     },
     {
      "name": "Fries Side",
@@ -141,7 +146,8 @@
      "satfat": 3.3,
      "fiber": 3.3,
      "sugar": 0.7,
-     "sodium": 172.8
+     "sodium": 172.8,
+     "whole": 0.3
     },
     {
      "name": "Creamy Honey Mustard Salad Dressing",
@@ -153,7 +159,8 @@
      "fiber": 0.0,
      "sugar": 1.2,
      "sodium": 499.2,
-     "cholesterol": 1.0
+     "cholesterol": 1.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -63,7 +63,8 @@
             "magnesium": 20.1,
             "potassium": 24.42,
             "zinc": 0.28
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Greek yogurt, plain 0% (in the pudding)",
@@ -93,7 +94,8 @@
             "magnesium": 6.27,
             "potassium": 80.37,
             "zinc": 0.3
-          }
+          },
+          "whole": 0.9
         },
         {
           "name": "2% protein milk (in the pudding)",
@@ -123,7 +125,8 @@
             "magnesium": 1.8,
             "potassium": 25.5,
             "zinc": 0.07
-          }
+          },
+          "whole": 0.75
         },
         {
           "name": "Kosher salt (in the pudding)",
@@ -153,7 +156,8 @@
             "magnesium": 0.0,
             "potassium": 0.0,
             "zinc": 0.0
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Cashew granola",
@@ -183,7 +187,8 @@
             "magnesium": 47.3,
             "potassium": 141.9,
             "zinc": 0.95
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "Blackberries",
@@ -213,7 +218,8 @@
             "magnesium": 14.4,
             "potassium": 116.64,
             "zinc": 0.36
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Blueberries",
@@ -243,7 +249,8 @@
             "magnesium": 1.08,
             "potassium": 13.86,
             "zinc": 0.04
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Pepitas, raw",
@@ -273,7 +280,8 @@
             "magnesium": 100.64,
             "potassium": 137.53,
             "zinc": 1.33
-          }
+          },
+          "whole": 1.0
         }
       ],
       "eaten": {
@@ -359,7 +367,8 @@
             "magnesium": 19.6,
             "potassium": 60.2,
             "zinc": 0.5
-          }
+          },
+          "whole": 0.6
         },
         {
           "name": "Almond butter",
@@ -389,7 +398,8 @@
             "magnesium": 66.96,
             "potassium": 179.52,
             "zinc": 0.79
-          }
+          },
+          "whole": 1.0
         }
       ],
       "eaten": {
@@ -469,7 +479,8 @@
             "magnesium": 25,
             "potassium": 54,
             "zinc": 0.6
-          }
+          },
+          "whole": 0.3
         },
         {
           "name": "Quinoa (in the Gruyère quinoa)",
@@ -499,7 +510,8 @@
             "magnesium": 110.0,
             "potassium": 316.8,
             "zinc": 1.74
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Gruyère (in the Gruyère quinoa)",
@@ -529,7 +541,8 @@
             "magnesium": 10.78,
             "potassium": 23.98,
             "zinc": 1.17
-          }
+          },
+          "whole": 0.85
         },
         {
           "name": "Pecans (in the Gruyère quinoa)",
@@ -559,7 +572,8 @@
             "magnesium": 21.78,
             "potassium": 74.8,
             "zinc": 0.81
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Olive oil (in the Gruyère quinoa)",
@@ -589,7 +603,8 @@
             "magnesium": 0.0,
             "potassium": 0.07,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.9
         },
         {
           "name": "Green beans (in the Gruyère quinoa)",
@@ -619,7 +634,8 @@
             "magnesium": 17.82,
             "potassium": 145.2,
             "zinc": 0.24
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Portobello mushrooms (in the Gruyère quinoa)",
@@ -649,7 +665,8 @@
             "magnesium": 5.5,
             "potassium": 182.6,
             "zinc": 0.24
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Cherry tomatoes (in the Gruyère quinoa)",
@@ -679,7 +696,8 @@
             "magnesium": 7.26,
             "potassium": 156.2,
             "zinc": 0.11
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Red onion (in the Gruyère quinoa)",
@@ -709,7 +727,8 @@
             "magnesium": 2.42,
             "potassium": 35.42,
             "zinc": 0.04
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Garlic (in the Gruyère quinoa)",
@@ -739,7 +758,8 @@
             "magnesium": 0.51,
             "potassium": 7.92,
             "zinc": 0.02
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Dijon (in the Gruyère quinoa)",
@@ -769,7 +789,8 @@
             "magnesium": 3.08,
             "potassium": 9.24,
             "zinc": 0.04
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "White wine, cooked down (in the Gruyère quinoa)",
@@ -799,7 +820,8 @@
             "magnesium": 1.76,
             "potassium": 12.54,
             "zinc": 0.02
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "Broth (in the Gruyère quinoa)",
@@ -829,7 +851,8 @@
             "magnesium": 1.32,
             "potassium": 39.6,
             "zinc": 0.0
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "Salt (in the Gruyère quinoa)",
@@ -859,7 +882,8 @@
             "magnesium": 0.0,
             "potassium": 0.09,
             "zinc": 0.0
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Lemon juice (in the Gruyère quinoa)",
@@ -889,7 +913,8 @@
             "magnesium": 0.66,
             "potassium": 11.44,
             "zinc": 0.0
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Shredded carrot",
@@ -919,7 +944,8 @@
             "magnesium": 3.4,
             "potassium": 89,
             "zinc": 0.07
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Harissa paste",
@@ -949,7 +975,8 @@
             "magnesium": 5,
             "potassium": 60,
             "zinc": 0.05
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "Tahini (in 1 tbsp lemon maple tahini dressing)",
@@ -979,7 +1006,8 @@
             "magnesium": 7.1,
             "potassium": 31,
             "zinc": 0.35
-          }
+          },
+          "whole": 1.0
         },
         {
           "name": "Maple syrup (in the dressing)",
@@ -1009,7 +1037,8 @@
             "magnesium": 1.4,
             "potassium": 14.2,
             "zinc": 0.1
-          }
+          },
+          "whole": 0.8
         },
         {
           "name": "Lemon juice (in the dressing)",
@@ -1039,7 +1068,8 @@
             "magnesium": 0.15,
             "potassium": 2.6,
             "zinc": 0.0
-          }
+          },
+          "whole": 1.0
         }
       ],
       "confidence": "medium",
@@ -1138,7 +1168,8 @@
             "magnesium": 17.57,
             "potassium": 76.29,
             "zinc": 0.73
-          }
+          },
+          "whole": 1.0
         }
       ],
       "confidence": "medium",

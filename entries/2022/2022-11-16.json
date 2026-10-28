@@ -29,14 +29,16 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 390.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Maple Syrup, Real",
      "portion": "3 tablespoons",
      "kcal": 165,
      "protein": 0.0,
-     "carbs": 324.0
+     "carbs": 324.0,
+     "whole": 0.85
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -49,7 +51,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +88,8 @@
     {
      "name": "Veggie Sushi Brown Rice",
      "portion": "7/8 serving",
-     "kcal": 254
+     "kcal": 254,
+     "whole": 0.5
     },
     {
      "name": "Whole Wheat Scoops",
@@ -97,14 +101,16 @@
      "satfat": 1.2,
      "fiber": 1.2,
      "sugar": 1.2,
-     "sodium": 137.5
+     "sodium": 137.5,
+     "whole": 0.25
     },
     {
      "name": "Maple Syrup, Real",
      "portion": "2 tablespoons",
      "kcal": 110,
      "protein": 0.0,
-     "carbs": 216.0
+     "carbs": 216.0,
+     "whole": 0.85
     },
     {
      "name": "Oat Milk Barista Edition",
@@ -115,7 +121,8 @@
      "fat": 3.5,
      "satfat": 0.3,
      "sugar": 4.7,
-     "sodium": 0.1
+     "sodium": 0.1,
+     "whole": 0.5
     },
     {
      "name": "Babybel Vegan Cheese - (1Piece/20g)",
@@ -128,7 +135,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Reeses Peanut Butter Cups Minis",
@@ -141,7 +149,8 @@
      "fiber": 1.0,
      "sugar": 19.0,
      "sodium": 90.0,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.1
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -154,12 +163,14 @@
      "fiber": 2.5,
      "sugar": 1.4,
      "sodium": 16.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salsa",
      "portion": "2 tablespoons",
-     "kcal": 10
+     "kcal": 10,
+     "whole": 0.7
     },
     {
      "name": "Pike Place Roast",
@@ -172,7 +183,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -221,7 +233,8 @@
      "satfat": 2.8,
      "fiber": 2.8,
      "sugar": 2.8,
-     "sodium": 229.2
+     "sodium": 229.2,
+     "whole": 0.25
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -232,7 +245,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Arnold Organic 22 Grains & Seeds",
@@ -245,7 +259,8 @@
      "fiber": 4.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -258,7 +273,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "American Style Slices",
@@ -271,12 +287,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Salsa",
      "portion": "4 tablespoons",
-     "kcal": 20
+     "kcal": 20,
+     "whole": 0.7
     },
     {
      "name": "Greens, Baby Spring Mix",
@@ -289,7 +307,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 4.0,
      "sugar": 6.0,
      "sodium": 1205.0,
-     "cholesterol": 208.0
+     "cholesterol": 208.0,
+     "whole": 0.3
     },
     {
      "name": "Fries Side",
@@ -41,7 +42,8 @@
      "satfat": 5.0,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 259.0
+     "sodium": 259.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard Sauce",
@@ -54,7 +56,8 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 444.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cheddar's Red Beans and Rice",
@@ -63,7 +66,8 @@
      "carbs": 37.0,
      "fat": 6.0,
      "sugar": 0.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -108,7 +112,8 @@
      "fiber": 1.6,
      "sugar": 22.3,
      "sodium": 398.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

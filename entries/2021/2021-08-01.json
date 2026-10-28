@@ -29,7 +29,8 @@
      "fiber": 10.7,
      "sugar": 24.2,
      "sodium": 238.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 3.0,
      "sugar": 6.0,
      "sodium": 1200.0,
-     "cholesterol": 85.0
+     "cholesterol": 85.0,
+     "whole": 0.7
     },
     {
      "name": "Bread",
@@ -80,7 +82,8 @@
      "protein": 15.6,
      "carbs": 83.1,
      "fat": 33.0,
-     "sodium": 807.0
+     "sodium": 807.0,
+     "whole": 0.5
     },
     {
      "name": "Fish, Channel Catfish, Breaded & Fried",
@@ -93,7 +96,8 @@
      "fiber": 0.0,
      "sugar": 0.3,
      "sodium": 121.8,
-     "cholesterol": 35.2
+     "cholesterol": 35.2,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -137,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 304.5,
-     "cholesterol": 88.9
+     "cholesterol": 88.9,
+     "whole": 0.3
     },
     {
      "name": "French Fries",
@@ -145,7 +150,8 @@
      "kcal": 200,
      "protein": 2.0,
      "carbs": 16.0,
-     "fat": 7.0
+     "fat": 7.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

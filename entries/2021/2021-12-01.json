@@ -21,7 +21,8 @@
     {
      "name": "Chestnut Prelaine Latte Grande",
      "portion": "1 each",
-     "kcal": 330
+     "kcal": 330,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Diced Tomatoes Canned",
@@ -76,7 +78,8 @@
      "fiber": 6.8,
      "sugar": 10.2,
      "sodium": 679.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoletti",
@@ -89,7 +92,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 90.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sparkling Water, lime + watermelon",
@@ -102,7 +106,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -139,7 +144,8 @@
     {
      "name": "Burger King impossible whopper",
      "portion": "1/2 serving",
-     "kcal": 315
+     "kcal": 315,
+     "whole": 0.25
     },
     {
      "name": "Pizza Veggie Lovers",
@@ -152,7 +158,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Naan Dippers",
@@ -165,7 +172,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -178,7 +186,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -215,7 +224,8 @@
     {
      "name": "Medium Iced Vanilla Latte With Almond Milk",
      "portion": "1 serving",
-     "kcal": 180
+     "kcal": 180,
+     "whole": 0.1
     },
     {
      "name": "Bistro Crisps",
@@ -228,7 +238,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 127.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

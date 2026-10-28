@@ -29,7 +29,8 @@
      "fiber": 17.0,
      "sugar": 0.0,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chicken Tenders",
@@ -39,7 +40,8 @@
      "carbs": 4.2,
      "fat": 3.5,
      "sugar": 0.2,
-     "sodium": 192.5
+     "sodium": 192.5,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -52,7 +54,8 @@
      "fiber": 0.0,
      "sugar": 6.2,
      "sodium": 221.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -94,7 +97,8 @@
      "fat": 10.5,
      "satfat": 4.5,
      "fiber": 0.0,
-     "sodium": 870.0
+     "sodium": 870.0,
+     "whole": 0.5
     },
     {
      "name": "Dr Pepper",
@@ -104,7 +108,8 @@
      "carbs": 56.0,
      "fat": 0.0,
      "sugar": 55.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.0
     },
     {
      "name": "French Fries, side",
@@ -116,7 +121,8 @@
      "satfat": 1.0,
      "fiber": 3.0,
      "sugar": 0.0,
-     "sodium": 35.0
+     "sodium": 35.0,
+     "whole": 0.3
     },
     {
      "name": "Baked Beans",
@@ -126,7 +132,8 @@
      "carbs": 32.0,
      "fiber": 4.0,
      "sugar": 16.0,
-     "sodium": 400.0
+     "sodium": 400.0,
+     "whole": 0.5
     },
     {
      "name": "Texas Toast",
@@ -139,7 +146,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -185,7 +193,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Mission Carb Balance Original Pita",
@@ -198,7 +207,8 @@
      "fiber": 17.0,
      "sugar": 0.0,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chicken Tenders",
@@ -208,7 +218,8 @@
      "carbs": 4.2,
      "fat": 3.5,
      "sugar": 0.2,
-     "sodium": 192.5
+     "sodium": 192.5,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -221,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 6.2,
      "sodium": 221.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pork Tenderloin, Chop, Baked",
@@ -234,7 +246,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 16.0,
-     "cholesterol": 23.5
+     "cholesterol": 23.5,
+     "whole": 1.0
     },
     {
      "name": "Goat Cheese Chevre With Honey",
@@ -247,7 +260,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 36.7,
-     "cholesterol": 13.3
+     "cholesterol": 13.3,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -294,7 +308,8 @@
      "fiber": 3.0,
      "sugar": 22.0,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -307,7 +322,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 61.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Baby Bell Vegan Cheese",
@@ -320,7 +336,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 199.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -333,7 +350,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -378,7 +396,8 @@
      "fiber": 2.7,
      "sugar": 2.2,
      "sodium": 341.6,
-     "cholesterol": 19.9
+     "cholesterol": 19.9,
+     "whole": 0.3
     }
    ],
    "eaten": {

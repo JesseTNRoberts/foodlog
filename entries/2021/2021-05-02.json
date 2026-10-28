@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 530.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Magnum Non-Dairy Almond Bars",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 19.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Famous Unsweet Tea",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

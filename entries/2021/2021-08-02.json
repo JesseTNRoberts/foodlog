@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 1.2,
      "sodium": 487.2,
-     "cholesterol": 140.9
+     "cholesterol": 140.9,
+     "whole": 0.3
     },
     {
      "name": "Bread",
@@ -38,7 +39,8 @@
      "protein": 15.6,
      "carbs": 83.1,
      "fat": 33.0,
-     "sodium": 807.0
+     "sodium": 807.0,
+     "whole": 0.5
     },
     {
      "name": "French Fries",
@@ -46,7 +48,8 @@
      "kcal": 200,
      "protein": 2.0,
      "carbs": 16.0,
-     "fat": 7.0
+     "fat": 7.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -90,7 +93,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Amys Vegan rice Mac n Cheese",
@@ -103,7 +107,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Sautéed w/ Oil",
@@ -116,7 +121,8 @@
      "fiber": 4.5,
      "sugar": 1.9,
      "sodium": 55.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Sauce, Tomato, Canned",
@@ -129,7 +135,8 @@
      "fiber": 5.5,
      "sugar": 15.6,
      "sodium": 1925.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

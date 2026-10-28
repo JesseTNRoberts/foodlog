@@ -29,12 +29,14 @@
      "fiber": 3.8,
      "sugar": 9.9,
      "sodium": 911.1,
-     "cholesterol": 0.9
+     "cholesterol": 0.9,
+     "whole": 0.3
     },
     {
      "name": "French Fries",
      "portion": "1/2 serving",
-     "kcal": 150
+     "kcal": 150,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -47,7 +49,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -90,7 +93,8 @@
      "satfat": 1.2,
      "fiber": 1.2,
      "sugar": 1.2,
-     "sodium": 137.5
+     "sodium": 137.5,
+     "whole": 0.25
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -101,7 +105,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Salad, mixed greens",
@@ -111,7 +116,8 @@
      "carbs": 8.0,
      "fat": 0.0,
      "fiber": 2.7,
-     "sodium": 40.0
+     "sodium": 40.0,
+     "whole": 0.7
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -124,7 +130,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -137,7 +144,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -150,7 +158,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "American Style Slices",
@@ -163,12 +172,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Salsa",
      "portion": "4 tablespoons",
-     "kcal": 20
+     "kcal": 20,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -216,7 +227,8 @@
      "satfat": 1.2,
      "fiber": 1.2,
      "sugar": 1.2,
-     "sodium": 137.5
+     "sodium": 137.5,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -229,7 +241,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -242,7 +255,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "American Style Slices",
@@ -255,12 +269,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Salsa",
      "portion": "4 tablespoons",
-     "kcal": 20
+     "kcal": 20,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -306,7 +322,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -319,7 +336,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "American Style Slices",
@@ -332,7 +350,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

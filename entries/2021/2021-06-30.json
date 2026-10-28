@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 13.0,
      "sodium": 430.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.1,
      "sugar": 13.2,
      "sodium": 904.6,
-     "cholesterol": 3.7
+     "cholesterol": 3.7,
+     "whole": 0.3
     },
     {
      "name": "Strawberry Sparkling Water",
@@ -98,7 +101,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 840.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Broccoli, Sautéed w/ Oil",
@@ -154,7 +159,8 @@
      "fiber": 12.0,
      "sugar": 5.2,
      "sodium": 147.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Diced Tomatoes Canned",
@@ -167,7 +173,8 @@
      "fiber": 6.8,
      "sugar": 10.2,
      "sodium": 679.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

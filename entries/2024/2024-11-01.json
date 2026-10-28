@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 5.9,
      "sodium": 118.3,
-     "cholesterol": 4.9
+     "cholesterol": 4.9,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -55,7 +57,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -68,7 +71,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blueberries",
@@ -81,7 +85,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

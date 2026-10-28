@@ -29,7 +29,8 @@
      "fiber": 1.7,
      "sugar": 0.7,
      "sodium": 23.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Healthy Vegan Bites",
@@ -40,7 +41,8 @@
      "fat": 1.5,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 5.0
+     "sodium": 5.0,
+     "whole": 0.15
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 6.0,
      "sugar": 7.0,
      "sodium": 650.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Half and Half Tea",
@@ -110,7 +114,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -153,7 +158,8 @@
      "fiber": 21.3,
      "sugar": 23.6,
      "sodium": 2158.7,
-     "cholesterol": 11.7
+     "cholesterol": 11.7,
+     "whole": 0.7
     },
     {
      "name": "Side, Biscuit",
@@ -166,7 +172,8 @@
      "fiber": 12.0,
      "sugar": 3.0,
      "sodium": 1050.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Baked Chicken Tenders",
@@ -178,7 +185,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 135.0,
-     "cholesterol": 210.0
+     "cholesterol": 210.0,
+     "whole": 0.25
     },
     {
      "name": "Soda, Sprite, Lemon-lime",
@@ -191,7 +199,8 @@
      "fiber": 0.0,
      "sugar": 76.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Pie, Peach",
@@ -204,7 +213,8 @@
      "fiber": 0.9,
      "sugar": 7.2,
      "sodium": 315.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Ketchup",
@@ -217,7 +227,8 @@
      "fiber": 0.5,
      "sugar": 3.4,
      "sodium": 167.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 7.0,
      "sodium": 390.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.1
     },
     {
      "name": "Chicken Tenders",
@@ -41,7 +42,8 @@
      "satfat": 4.0,
      "fiber": 4.0,
      "sodium": 1875.0,
-     "cholesterol": 113.0
+     "cholesterol": 113.0,
+     "whole": 0.25
     },
     {
      "name": "Syrup, Maple",
@@ -54,12 +56,14 @@
      "fiber": 0.0,
      "sugar": 59.5,
      "sodium": 9.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Latte",
      "portion": "1 serving",
-     "kcal": 150
+     "kcal": 150,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -101,12 +105,14 @@
      "carbs": 9.0,
      "fat": 31.0,
      "satfat": 5.0,
-     "sodium": 530.0
+     "sodium": 530.0,
+     "whole": 0.5
     },
     {
      "name": "Iced Coffee with Oat Milk",
      "portion": "8 ounces",
-     "kcal": 25
+     "kcal": 25,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -149,7 +155,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1400.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fried Okra",
@@ -158,7 +165,8 @@
      "protein": 0.0,
      "carbs": 0.3,
      "fat": 0.2,
-     "fiber": 0.0
+     "fiber": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

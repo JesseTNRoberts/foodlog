@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 5.1,
      "sugar": 10.2,
      "sodium": 1365.5,
-     "cholesterol": 25.6
+     "cholesterol": 25.6,
+     "whole": 0.25
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -84,7 +86,8 @@
      "fiber": 10.0,
      "sugar": 10.0,
      "sodium": 340.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Milos Sweet Tea",
@@ -97,7 +100,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -109,7 +113,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -122,7 +127,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 49.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Gold Peak Tea",
@@ -131,7 +137,8 @@
      "protein": 0.0,
      "carbs": 0.0,
      "fat": 0.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -178,7 +185,8 @@
      "fiber": 4.7,
      "sugar": 10.5,
      "sodium": 1146.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli&carrots",
@@ -189,7 +197,8 @@
      "fat": 0.0,
      "fiber": 6.7,
      "sugar": 10.1,
-     "sodium": 133.4
+     "sodium": 133.4,
+     "whole": 1.0
     },
     {
      "name": "Half and Half Tea",
@@ -202,7 +211,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -215,7 +225,8 @@
      "fiber": 0.4,
      "sugar": 0.4,
      "sodium": 71.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -228,7 +239,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 57.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Liquid Aminos",
@@ -241,7 +253,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 690.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -288,7 +301,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Lemon Dill Salmon",
@@ -301,7 +315,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 310.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -314,7 +329,8 @@
      "fiber": 0.8,
      "sugar": 0.5,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

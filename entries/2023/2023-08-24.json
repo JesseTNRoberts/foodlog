@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 40.0,
      "sodium": 226.0,
-     "cholesterol": 43.0
+     "cholesterol": 43.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Jumbo Black Tiger Shrimp",
@@ -84,7 +86,8 @@
      "fiber": 2.2,
      "sugar": 9.0,
      "sodium": 94.5,
-     "cholesterol": 270.0
+     "cholesterol": 270.0,
+     "whole": 1.0
     },
     {
      "name": "Vegan mayonnaise",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "BONELESS BBQ CHICKEN WINGS",
@@ -109,7 +113,8 @@
      "satfat": 0.8,
      "fiber": 0.8,
      "sodium": 376.0,
-     "cholesterol": 13.0
+     "cholesterol": 13.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus",
@@ -122,7 +127,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 53.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -135,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Tomatoes, Red, Thin Slice",
@@ -148,7 +155,8 @@
      "fiber": 0.4,
      "sugar": 0.8,
      "sodium": 1.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -161,7 +169,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 11.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -210,7 +219,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 220.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Snack, Crunchy, Cheese-Less, Puffs",
@@ -223,7 +233,8 @@
      "fiber": 2.3,
      "sugar": 0.0,
      "sodium": 130.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Baba Ghannouj",
@@ -236,7 +247,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Jumbo Black Tiger Shrimp",
@@ -249,7 +261,8 @@
      "fiber": 0.8,
      "sugar": 3.0,
      "sodium": 31.5,
-     "cholesterol": 90.0
+     "cholesterol": 90.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -294,7 +307,8 @@
      "fiber": 0.9,
      "sugar": 0.0,
      "sodium": 279.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hot And Honey Chicken Breast",
@@ -307,7 +321,8 @@
      "fiber": 0.0,
      "sugar": 4.6,
      "sodium": 683.4,
-     "cholesterol": 60.8
+     "cholesterol": 60.8,
+     "whole": 0.85
     },
     {
      "name": "Oat Milk Ranch Dressing",
@@ -320,7 +335,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 270.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cucumber, Small",
@@ -333,7 +349,8 @@
      "fiber": 2.1,
      "sugar": 7.2,
      "sodium": 8.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Raw Goat Milk Mild Cheddar Cheese",
@@ -346,7 +363,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 60.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Cherry",
@@ -359,7 +377,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -406,7 +425,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Roll",
@@ -419,7 +439,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 269.0,
-     "cholesterol": 38.0
+     "cholesterol": 38.0,
+     "whole": 0.5
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -431,7 +452,8 @@
      "satfat": 0.4,
      "fiber": 0.8,
      "sugar": 1.5,
-     "sodium": 165.0
+     "sodium": 165.0,
+     "whole": 0.5
     },
     {
      "name": "Oat Milk Ranch Dressing",
@@ -444,7 +466,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 270.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cucumber, Small",
@@ -457,7 +480,8 @@
      "fiber": 2.1,
      "sugar": 7.2,
      "sodium": 8.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -470,7 +494,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

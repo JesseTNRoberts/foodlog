@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -42,7 +43,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -55,7 +57,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries Fresh",
@@ -68,7 +71,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -91,7 +96,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "2% Protein Milk",
@@ -103,7 +109,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Pineberries",
@@ -111,7 +118,8 @@
      "kcal": 6,
      "protein": 0.1,
      "carbs": 1.2,
-     "sugar": 0.8
+     "sugar": 0.8,
+     "whole": 1.0
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -124,7 +132,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -174,7 +183,8 @@
      "fiber": 3.1,
      "sugar": 0.2,
      "sodium": 182.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -187,7 +197,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Carrots, Baby, Medium",
@@ -200,7 +211,8 @@
      "fiber": 2.3,
      "sugar": 3.8,
      "sodium": 62.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -213,7 +225,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Peppers, Bell, Green, Sweet, Chopped",
@@ -226,7 +239,8 @@
      "fiber": 1.3,
      "sugar": 1.8,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -272,7 +286,8 @@
      "fiber": 1.0,
      "sugar": 18.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -314,7 +329,8 @@
      "fiber": 1.6,
      "sugar": 2.9,
      "sodium": 257.3,
-     "cholesterol": 107.5
+     "cholesterol": 107.5,
+     "whole": 0.5
     },
     {
      "name": "Deer Stroganoff",
@@ -327,7 +343,8 @@
      "fiber": 0.9,
      "sugar": 1.5,
      "sodium": 421.9,
-     "cholesterol": 26.3
+     "cholesterol": 26.3,
+     "whole": 0.5
     },
     {
      "name": "Linguine with Clams",
@@ -340,7 +357,8 @@
      "fiber": 1.9,
      "sugar": 1.6,
      "sodium": 140.7,
-     "cholesterol": 3.7
+     "cholesterol": 3.7,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -384,7 +402,8 @@
      "fiber": 2.6,
      "sugar": 0.0,
      "sodium": 6.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chicken, Breast, Grilled, w/o Skin",
@@ -397,7 +416,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 35.7,
-     "cholesterol": 40.8
+     "cholesterol": 40.8,
+     "whole": 1.0
     },
     {
      "name": "Chickpeas, Canned",
@@ -410,7 +430,8 @@
      "fiber": 2.6,
      "sugar": 0.0,
      "sodium": 179.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Olives, Kalamata, w/o Pits",
@@ -423,7 +444,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 291.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Hummus",
@@ -436,7 +458,8 @@
      "fiber": 0.6,
      "sugar": 0.5,
      "sodium": 34.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Sauce, Japanese Barbecue",
@@ -446,7 +469,8 @@
      "carbs": 2.7,
      "fat": 0.0,
      "sugar": 2.3,
-     "sodium": 173.3
+     "sodium": 173.3,
+     "whole": 0.5
     },
     {
      "name": "Soy Sauce, Low Sodium",
@@ -459,7 +483,8 @@
      "fiber": 0.5,
      "sugar": 0.1,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

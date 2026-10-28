@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Cinnamon Rolls",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 12.0,
      "sodium": 385.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 6.7,
      "sugar": 11.7,
      "sodium": 433.5,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.5
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -98,7 +101,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Cheese, Spicy Pepper Jack",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken Breast, Blazing Buffalo Style",
@@ -124,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 394.9,
-     "cholesterol": 35.4
+     "cholesterol": 35.4,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 2.1,
      "sugar": 1.4,
      "sodium": 135.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -211,7 +218,8 @@
      "fiber": 6.7,
      "sugar": 11.7,
      "sodium": 433.5,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.5
     },
     {
      "name": "Un Chick Chickpea Salad",
@@ -224,7 +232,8 @@
      "fiber": 4.2,
      "sugar": 5.4,
      "sodium": 491.2,
-     "cholesterol": 18.8
+     "cholesterol": 18.8,
+     "whole": 0.7
     }
    ],
    "eaten": {

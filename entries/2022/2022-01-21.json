@@ -29,7 +29,8 @@
      "fiber": 3.4,
      "sugar": 1.4,
      "sodium": 42.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 4.0,
      "sugar": 2.0,
      "sodium": 1310.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.5
     },
     {
      "name": "Bistro Crisps",
@@ -98,7 +101,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -141,7 +145,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Refried Black Beans",
@@ -154,7 +159,8 @@
      "fiber": 4.4,
      "sugar": 0.6,
      "sodium": 245.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Queso Style Dip",
@@ -167,7 +173,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -180,7 +187,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 920.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -225,7 +233,8 @@
      "fiber": 1.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.15
     },
     {
      "name": "Honey Pistachio Energy Squares",
@@ -238,7 +247,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

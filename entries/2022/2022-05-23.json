@@ -26,7 +26,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -39,7 +40,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 412.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -52,7 +54,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -62,7 +65,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -75,7 +79,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -88,7 +93,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mini Seedless Cucumber",
@@ -101,7 +107,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -114,7 +121,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -163,7 +171,8 @@
      "fiber": 7.0,
      "sugar": 15.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -205,7 +214,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -218,7 +228,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 140.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -231,7 +242,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -244,7 +256,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 112.5,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -289,7 +302,8 @@
      "fiber": 1.1,
      "sugar": 1.1,
      "sodium": 253.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Hummus - Spinach and Artichoke",
@@ -302,7 +316,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 116.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -315,7 +330,8 @@
      "fiber": 1.0,
      "sugar": 0.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Just Like Feta (vegan)",
@@ -328,7 +344,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 96.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Sauce, Harissa, Mild",
@@ -341,7 +358,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Spinach",
@@ -354,7 +372,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 21.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, Blend, Chopped Romaine",
@@ -367,7 +386,8 @@
      "fiber": 0.7,
      "sugar": 0.3,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

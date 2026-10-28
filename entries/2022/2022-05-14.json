@@ -21,7 +21,8 @@
     {
      "name": "Boneless Wings Large Whiskey River",
      "portion": "1/3 serving",
-     "kcal": 435
+     "kcal": 435,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 1262.7,
-     "cholesterol": 13.3
+     "cholesterol": 13.3,
+     "whole": 1.0
     },
     {
      "name": "Fried Rice",
@@ -73,7 +75,8 @@
      "carbs": 38.0,
      "fat": 5.0,
      "sugar": 9.0,
-     "sodium": 800.0
+     "sodium": 800.0,
+     "whole": 0.3
     },
     {
      "name": "Miso Soup",
@@ -82,7 +85,8 @@
      "protein": 0.0,
      "carbs": 2.0,
      "fat": 0.0,
-     "satfat": 0.0
+     "satfat": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Salad Dressing, Wasabi Soy & Ginger",
@@ -95,7 +99,8 @@
      "fiber": 0.0,
      "sugar": 7.0,
      "sodium": 201.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Shrimp",
@@ -108,7 +113,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 142.2,
-     "cholesterol": 31.1
+     "cholesterol": 31.1,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -146,7 +152,8 @@
     {
      "name": "Apple Bundt Cake",
      "portion": "2 servings",
-     "kcal": 560
+     "kcal": 560,
+     "whole": 0.1
     },
     {
      "name": "Dr Pepper",
@@ -156,7 +163,8 @@
      "carbs": 56.0,
      "fat": 0.0,
      "sugar": 55.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 33.0,
      "sodium": 360.0,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 0.1
     },
     {
      "name": "Chocolate Chip Crunchy Cookie",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 65.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Pork Tenderloin, Chop, Baked",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 21.3,
-     "cholesterol": 31.3
+     "cholesterol": 31.3,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -68,7 +71,8 @@
      "fiber": 1.3,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +117,8 @@
      "fiber": 1.5,
      "sugar": 5.5,
      "sodium": 490.0,
-     "cholesterol": 32.5
+     "cholesterol": 32.5,
+     "whole": 0.3
     },
     {
      "name": "Breakfast Side, Catfish, Grilled",
@@ -126,7 +131,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 100.0,
-     "cholesterol": 100.0
+     "cholesterol": 100.0,
+     "whole": 1.0
     },
     {
      "name": "Burger Buns Done Right",
@@ -139,7 +145,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -152,7 +159,8 @@
      "fiber": 1.8,
      "sugar": 1.2,
      "sodium": 116.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Dr Pepper",
@@ -162,7 +170,8 @@
      "carbs": 18.6,
      "fat": 0.0,
      "sugar": 18.3,
-     "sodium": 26.6
+     "sodium": 26.6,
+     "whole": 0.0
     },
     {
      "name": "Apricot, Dried",
@@ -175,7 +184,8 @@
      "fiber": 1.2,
      "sugar": 7.5,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

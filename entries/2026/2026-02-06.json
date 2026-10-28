@@ -29,7 +29,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sourdough Round Bread",
@@ -41,7 +42,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -51,7 +53,8 @@
      "carbs": 0.0,
      "fat": 7.0,
      "satfat": 1.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -109,7 +113,8 @@
      "fiber": 1.2,
      "sugar": 1.6,
      "sodium": 144.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Banana",
@@ -122,7 +127,8 @@
      "fiber": 3.1,
      "sugar": 14.0,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -135,7 +141,8 @@
      "fiber": 4.4,
      "sugar": 19.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Honey Cashew Protein Granola",
@@ -147,7 +154,8 @@
      "satfat": 0.2,
      "fiber": 1.0,
      "sugar": 3.0,
-     "sodium": 25.0
+     "sodium": 25.0,
+     "whole": 0.8
     }
    ],
    "eaten": {
@@ -192,7 +200,8 @@
      "fiber": 4.0,
      "sugar": 6.7,
      "sodium": 213.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -205,7 +214,8 @@
      "fiber": 2.8,
      "sugar": 1.8,
      "sodium": 174.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -247,7 +257,8 @@
      "satfat": 0.2,
      "fiber": 1.0,
      "sugar": 3.0,
-     "sodium": 25.0
+     "sodium": 25.0,
+     "whole": 0.8
     }
    ],
    "eaten": {
@@ -289,7 +300,8 @@
      "fiber": 4.2,
      "sugar": 9.2,
      "sodium": 439.9,
-     "cholesterol": 309.6
+     "cholesterol": 309.6,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -331,7 +343,8 @@
      "fiber": 10.1,
      "sugar": 19.3,
      "sodium": 167.9,
-     "cholesterol": 112.5
+     "cholesterol": 112.5,
+     "whole": 0.1
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 307.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Gemelli Ready Pasta",
@@ -84,7 +86,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 220.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -97,7 +100,8 @@
      "fiber": 1.7,
      "sugar": 43.3,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -110,7 +114,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 287.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tomato & Basil, Pasta Sauce",
@@ -123,7 +128,8 @@
      "fiber": 3.2,
      "sugar": 7.9,
      "sodium": 650.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Dairy Free Parmesan",
@@ -136,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -149,7 +156,8 @@
      "fiber": 1.3,
      "sugar": 0.2,
      "sodium": 47.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -197,7 +205,8 @@
      "fiber": 3.0,
      "sugar": 5.0,
      "sodium": 2790.0,
-     "cholesterol": 95.0
+     "cholesterol": 95.0,
+     "whole": 0.3
     },
     {
      "name": "Side, Chow Mein",
@@ -210,7 +219,8 @@
      "fiber": 2.0,
      "sugar": 4.5,
      "sodium": 489.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -223,7 +233,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -236,7 +247,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -249,7 +261,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Broccoletti",
@@ -262,7 +275,8 @@
      "fiber": 2.7,
      "sugar": 1.3,
      "sodium": 40.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Liquid Aminos",
@@ -275,7 +289,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 345.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

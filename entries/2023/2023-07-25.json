@@ -29,7 +29,8 @@
      "fiber": 1.9,
      "sugar": 1.2,
      "sodium": 894.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 5.4,
      "sugar": 7.1,
      "sodium": 788.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -84,7 +86,8 @@
      "fiber": 0.3,
      "sugar": 0.0,
      "sodium": 39.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Black Bean Salsa",
@@ -97,7 +100,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -139,7 +143,8 @@
      "fat": 12.8,
      "satfat": 3.4,
      "sugar": 0.0,
-     "cholesterol": 104.0
+     "cholesterol": 104.0,
+     "whole": 1.0
     },
     {
      "name": "Golden Tater Tots (3 oz., about 9 pieces)",
@@ -152,7 +157,8 @@
      "fiber": 0.6,
      "sugar": 0.6,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Snack, Crunchy, Cheese-Less, Puffs",
@@ -165,7 +171,8 @@
      "fiber": 0.9,
      "sugar": 0.0,
      "sodium": 52.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Banana Pudding With Vanilla Wafers",
@@ -175,7 +182,8 @@
      "carbs": 5.6,
      "fat": 1.0,
      "sugar": 1.9,
-     "cholesterol": 28.8
+     "cholesterol": 28.8,
+     "whole": 0.1
     },
     {
      "name": "Cherries Rainer",
@@ -188,7 +196,8 @@
      "fiber": 0.7,
      "sugar": 4.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -234,7 +243,8 @@
      "fiber": 1.9,
      "sugar": 1.2,
      "sodium": 894.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Burger Buns Done Right",
@@ -247,7 +257,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pork tenderloin lean grilled",
@@ -260,7 +271,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 1.0
     },
     {
      "name": "Carolina Gold BBQ Sauce",
@@ -273,7 +285,8 @@
      "fiber": 0.0,
      "sugar": 13.0,
      "sodium": 410.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -286,7 +299,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -332,7 +346,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -344,7 +359,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

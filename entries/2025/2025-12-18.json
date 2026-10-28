@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blueberries",
@@ -55,7 +57,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Sliced",
@@ -94,7 +99,8 @@
      "fiber": 0.4,
      "sugar": 1.1,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 11.1,
      "sugar": 3.8,
      "sodium": 204.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Broccoli apple soup",
@@ -154,7 +161,8 @@
      "fiber": 5.5,
      "sugar": 8.0,
      "sodium": 526.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita",
@@ -167,7 +175,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 324.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus",
@@ -180,7 +189,8 @@
      "fiber": 1.9,
      "sugar": 0.1,
      "sodium": 109.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -225,7 +235,8 @@
      "fiber": 1.2,
      "sugar": 1.2,
      "sodium": 324.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Fish, Tilapia, Baked",
@@ -234,7 +245,8 @@
      "protein": 30.7,
      "carbs": 0.0,
      "fat": 2.0,
-     "sugar": 0.0
+     "sugar": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chips, Tortilla, Strips, Restaurant Style",
@@ -247,7 +259,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 86.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -260,7 +273,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Hummus",
@@ -273,7 +287,8 @@
      "fiber": 1.9,
      "sugar": 0.1,
      "sodium": 109.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Salsa, Chunky",
@@ -286,7 +301,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 920.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Low Mein",
@@ -299,7 +315,8 @@
      "fiber": 0.5,
      "sugar": 1.1,
      "sodium": 122.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -312,7 +329,8 @@
      "fiber": 2.5,
      "sugar": 1.4,
      "sodium": 16.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -325,7 +343,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Green Beans, Cooked",
@@ -338,7 +357,8 @@
      "fiber": 2.0,
      "sugar": 2.3,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sugar, Brown",
@@ -351,7 +371,8 @@
      "fiber": 0.0,
      "sugar": 1.7,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {
@@ -403,7 +424,8 @@
      "fiber": 0.3,
      "sugar": 4.7,
      "sodium": 20.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 800.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Taco Soup",
@@ -42,7 +43,8 @@
      "fiber": 5.4,
      "sugar": 7.1,
      "sodium": 788.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "12oz Can",
@@ -99,7 +101,8 @@
      "fiber": 2.6,
      "sugar": 1.7,
      "sodium": 162.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +144,8 @@
      "fiber": 4.4,
      "sugar": 7.8,
      "sodium": 283.3,
-     "cholesterol": 19.2
+     "cholesterol": 19.2,
+     "whole": 0.5
     },
     {
      "name": "Naan Dippers",
@@ -154,7 +158,8 @@
      "fiber": 2.8,
      "sugar": 2.8,
      "sodium": 532.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -167,7 +172,8 @@
      "fiber": 0.9,
      "sugar": 0.0,
      "sodium": 101.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Baba Ghannouj",
@@ -180,7 +186,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -193,7 +200,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -239,7 +247,8 @@
      "fiber": 1.6,
      "sugar": 8.0,
      "sodium": 168.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Original Protein Almond & Cashew Milk",
@@ -252,7 +261,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

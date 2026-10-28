@@ -29,7 +29,8 @@
      "fiber": 2.1,
      "sugar": 4.6,
      "sodium": 219.9,
-     "cholesterol": 154.8
+     "cholesterol": 154.8,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.0,
      "sugar": 8.7,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.8
     },
     {
      "name": "Almond Butter",
@@ -84,7 +86,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -97,7 +100,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries Fresh",
@@ -110,7 +114,8 @@
      "fiber": 4.0,
      "sugar": 4.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chia Seeds",
@@ -123,7 +128,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Choke Cherry syrup",
@@ -133,7 +139,8 @@
      "carbs": 7.2,
      "fat": 0.0,
      "sugar": 7.0,
-     "sodium": 0.8
+     "sodium": 0.8,
+     "whole": 0.1
     },
     {
      "name": "Blueberries",
@@ -146,7 +153,8 @@
      "fiber": 0.9,
      "sugar": 3.8,
      "sodium": 0.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "2% Protein Milk",
@@ -158,7 +166,8 @@
      "satfat": 0.4,
      "sugar": 0.8,
      "sodium": 15.9,
-     "cholesterol": 2.6
+     "cholesterol": 2.6,
+     "whole": 0.85
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -171,7 +180,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -221,7 +231,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus",
@@ -234,7 +245,8 @@
      "fiber": 1.2,
      "sugar": 0.9,
      "sodium": 68.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -277,7 +289,8 @@
      "fiber": 1.6,
      "sugar": 1.1,
      "sodium": 104.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -319,7 +332,8 @@
      "fiber": 1.8,
      "sugar": 2.4,
      "sodium": 216.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Apple Stack Cake",
@@ -332,7 +346,8 @@
      "fiber": 0.2,
      "sugar": 10.0,
      "sodium": 56.5,
-     "cholesterol": 10.8
+     "cholesterol": 10.8,
+     "whole": 0.1
     },
     {
      "name": "Banana",
@@ -345,7 +360,8 @@
      "fiber": 1.6,
      "sugar": 7.0,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apple, Medium",
@@ -358,7 +374,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -403,7 +420,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -416,7 +434,8 @@
      "fiber": 0.7,
      "sugar": 1.7,
      "sodium": 532.8,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -429,7 +448,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

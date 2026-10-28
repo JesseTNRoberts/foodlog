@@ -29,7 +29,8 @@
      "fiber": 1.8,
      "sugar": 16.5,
      "sodium": 212.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 440.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chicken Vegetable Soup",
@@ -84,7 +86,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 700.0,
-     "cholesterol": 33.0
+     "cholesterol": 33.0,
+     "whole": 0.7
     },
     {
      "name": "21 Whole Grains & Seeds Organic Bread",
@@ -97,7 +100,8 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -110,7 +114,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 92.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -123,7 +128,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 575.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -136,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 5.6,
      "sodium": 111.4,
-     "cholesterol": 7.6
+     "cholesterol": 7.6,
+     "whole": 0.3
     },
     {
      "name": "Broth, Vegetable",
@@ -149,7 +156,8 @@
      "fiber": 0.0,
      "sugar": 2.4,
      "sodium": 1134.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -197,7 +205,8 @@
      "fiber": 2.2,
      "sugar": 5.6,
      "sodium": 1800.0,
-     "cholesterol": 67.5
+     "cholesterol": 67.5,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -210,7 +219,8 @@
      "fiber": 5.6,
      "sugar": 0.0,
      "sodium": 315.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -223,7 +233,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 375.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -236,7 +247,8 @@
      "fiber": 0.0,
      "sugar": 64.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -281,7 +293,8 @@
      "fiber": 4.0,
      "sugar": 16.0,
      "sodium": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Kind Bar, Frozen (Dark Chocolate Almond Seasalt)",
@@ -294,7 +307,8 @@
      "fiber": 7.0,
      "sugar": 8.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -307,7 +321,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -320,7 +335,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -333,7 +349,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Pretzels, Jalapeno, Pieces",
@@ -346,7 +363,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 93.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Siete Mexican Chocolate Cookie ✅",
@@ -359,7 +377,8 @@
      "fiber": 0.2,
      "sugar": 1.2,
      "sodium": 26.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Salsa, Chunky",
@@ -372,7 +391,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 575.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

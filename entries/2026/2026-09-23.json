@@ -29,7 +29,8 @@
      "fiber": 0.8,
      "sugar": 19.3,
      "sodium": 119.4,
-     "cholesterol": 20.6
+     "cholesterol": 20.6,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 64.6,
-     "cholesterol": 82.8
+     "cholesterol": 82.8,
+     "whole": 1.0
     },
     {
      "name": "Tahini",
@@ -84,7 +86,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Blueberries",
@@ -97,7 +100,8 @@
      "fiber": 1.8,
      "sugar": 7.5,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Honey, Amber",
@@ -110,7 +114,8 @@
      "fiber": 0.2,
      "sugar": 8.6,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Organic Maple Syrup",
@@ -123,7 +128,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -136,7 +142,8 @@
      "fiber": 2.6,
      "sugar": 1.8,
      "sodium": 32.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Stone Ground Mustard",
@@ -145,7 +152,8 @@
      "protein": 0.0,
      "carbs": 1.5,
      "fat": 0.0,
-     "sodium": 112.5
+     "sodium": 112.5,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -158,7 +166,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Juice, Lemon",
@@ -171,7 +180,8 @@
      "fiber": 0.3,
      "sugar": 0.2,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -221,7 +231,8 @@
      "fiber": 4.0,
      "sugar": 13.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -263,7 +274,8 @@
      "fiber": 1.4,
      "sugar": 51.6,
      "sodium": 847.3,
-     "cholesterol": 201.9
+     "cholesterol": 201.9,
+     "whole": 0.1
     },
     {
      "name": "Spicy Vegetable Soup",
@@ -276,7 +288,8 @@
      "fiber": 8.4,
      "sugar": 8.4,
      "sodium": 666.7,
-     "cholesterol": 5.7
+     "cholesterol": 5.7,
+     "whole": 0.7
     },
     {
      "name": "Southern Buttermilk Cornbread",
@@ -288,7 +301,8 @@
      "satfat": 0.7,
      "fiber": 0.7,
      "sodium": 246.8,
-     "cholesterol": 23.3
+     "cholesterol": 23.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Fish, Channel Catfish, Breaded & Fried",
@@ -84,7 +86,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 243.6,
-     "cholesterol": 70.5
+     "cholesterol": 70.5,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 210.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Bun, Hamburger, Plain",
@@ -110,7 +114,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 206.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Ketchup",
@@ -123,7 +128,8 @@
      "fiber": 0.2,
      "sugar": 13.7,
      "sodium": 668.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -169,12 +175,14 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 56.2,
-     "cholesterol": 48.8
+     "cholesterol": 48.8,
+     "whole": 1.0
     },
     {
      "name": "Apple, Envy, small",
      "portion": "1 serving",
-     "kcal": 90
+     "kcal": 90,
+     "whole": 1.0
     },
     {
      "name": "Sweet Potato Tortilla Chips",
@@ -187,7 +195,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 142.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -231,7 +240,8 @@
      "fiber": 1.5,
      "sugar": 6.5,
      "sodium": 1435.0,
-     "cholesterol": 92.5
+     "cholesterol": 92.5,
+     "whole": 0.3
     },
     {
      "name": "Chili, Texas Red, Bowl",
@@ -244,7 +254,8 @@
      "fiber": 3.0,
      "sugar": 6.0,
      "sodium": 1200.0,
-     "cholesterol": 85.0
+     "cholesterol": 85.0,
+     "whole": 0.7
     },
     {
      "name": "Bread",
@@ -253,7 +264,8 @@
      "protein": 15.6,
      "carbs": 83.1,
      "fat": 33.0,
-     "sodium": 807.0
+     "sodium": 807.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

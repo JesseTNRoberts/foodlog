@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fat": 1.5,
      "satfat": 0.5,
      "fiber": 5.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.7
     },
     {
      "name": "Tomato & Basil, Pasta Sauce",
@@ -82,7 +84,8 @@
      "fiber": 4.6,
      "sugar": 11.3,
      "sodium": 929.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -95,7 +98,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Spinach",
@@ -108,7 +112,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 43.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -153,7 +158,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 1279.0,
-     "cholesterol": 89.0
+     "cholesterol": 89.0,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -166,7 +172,8 @@
      "fiber": 0.0,
      "sugar": 5.0,
      "sodium": 230.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Strawberry Lemonade No Sugar Added",
@@ -179,7 +186,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -191,7 +199,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach",
@@ -204,7 +213,8 @@
      "fiber": 3.5,
      "sugar": 0.0,
      "sodium": 115.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Croutons, Seasoned",
@@ -217,7 +227,8 @@
      "fiber": 0.1,
      "sugar": 0.1,
      "sodium": 30.9,
-     "cholesterol": 0.2
+     "cholesterol": 0.2,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -263,7 +274,8 @@
      "satfat": 0.0,
      "fiber": 2.2,
      "sugar": 26.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -276,7 +288,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {

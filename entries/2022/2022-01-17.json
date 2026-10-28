@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 20.0,
      "sugar": 20.0,
      "sodium": 680.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -82,7 +84,8 @@
      "fat": 13.8,
      "satfat": 1.5,
      "fiber": 3.8,
-     "sodium": 276.9
+     "sodium": 276.9,
+     "whole": 0.85
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -94,7 +97,8 @@
      "satfat": 13.5,
      "fiber": 0.0,
      "sodium": 690.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Ham, Maple Glazed Honey Coat",
@@ -107,7 +111,8 @@
      "fiber": 0.0,
      "sugar": 6.7,
      "sodium": 1154.2,
-     "cholesterol": 40.5
+     "cholesterol": 40.5,
+     "whole": 0.3
     },
     {
      "name": "Grape Tomatos",
@@ -117,7 +122,8 @@
      "carbs": 2.4,
      "fiber": 0.8,
      "sugar": 1.6,
-     "sodium": 3.1
+     "sodium": 3.1,
+     "whole": 1.0
     },
     {
      "name": "Spinach",
@@ -130,7 +136,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 65.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

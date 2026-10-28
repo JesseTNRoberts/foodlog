@@ -21,12 +21,14 @@
     {
      "name": "Biscuits",
      "portion": "3 pieces",
-     "kcal": 450
+     "kcal": 450,
+     "whole": 0.3
     },
     {
      "name": "Honey Sesame Chicken",
      "portion": "2/3 serving",
-     "kcal": 93
+     "kcal": 93,
+     "whole": 0.85
     },
     {
      "name": "Almond Milk, Original",
@@ -39,7 +41,8 @@
      "fiber": 0.3,
      "sugar": 2.3,
      "sodium": 43.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cocoa Powder, Unsweetened",
@@ -52,7 +55,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -95,7 +99,8 @@
      "fat": 72.0,
      "satfat": 24.0,
      "sodium": 2136.0,
-     "cholesterol": 252.0
+     "cholesterol": 252.0,
+     "whole": 0.25
     },
     {
      "name": "Bread",
@@ -104,7 +109,8 @@
      "protein": 15.6,
      "carbs": 83.1,
      "fat": 33.0,
-     "sodium": 807.0
+     "sodium": 807.0,
+     "whole": 0.5
     },
     {
      "name": "Shoestrings french fries",
@@ -112,7 +118,8 @@
      "kcal": 140,
      "protein": 2.0,
      "carbs": 22.0,
-     "fat": 5.0
+     "fat": 5.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Marinara",
@@ -125,7 +132,8 @@
      "fiber": 3.0,
      "sugar": 9.0,
      "sodium": 400.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -170,7 +178,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1400.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

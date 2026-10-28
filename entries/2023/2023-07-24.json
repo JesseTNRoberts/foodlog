@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     },
     {
      "name": "Sauce, Cane's",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Crinkle Cut",
@@ -55,7 +57,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 1.9,
      "sugar": 1.2,
      "sodium": 894.5,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -112,7 +116,8 @@
      "fiber": 0.3,
      "sugar": 0.0,
      "sodium": 39.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Black Bean Salsa",
@@ -125,7 +130,8 @@
      "fiber": 1.5,
      "sugar": 1.5,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Corn, Scoops",
@@ -138,7 +144,8 @@
      "fiber": 0.1,
      "sugar": 0.0,
      "sodium": 11.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -183,7 +190,8 @@
      "fiber": 0.5,
      "sugar": 1.5,
      "sodium": 105.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -196,7 +204,8 @@
      "fiber": 0.7,
      "sugar": 2.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -208,7 +217,8 @@
      "satfat": 0.1,
      "fiber": 0.2,
      "sugar": 0.5,
-     "sodium": 55.0
+     "sodium": 55.0,
+     "whole": 0.5
     },
     {
      "name": "Philadelphia Vegan Cream Cheese",
@@ -221,7 +231,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 85.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chokecherry Syrup",
@@ -231,7 +242,8 @@
      "carbs": 6.2,
      "fat": 0.0,
      "sugar": 5.7,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -277,7 +289,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 120.6,
-     "cholesterol": 125.1
+     "cholesterol": 125.1,
+     "whole": 1.0
     },
     {
      "name": "Anything sauce Creole",
@@ -290,7 +303,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 540.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Hibachi Vegetables",
@@ -303,7 +317,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 159.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "FrIed Rice",
@@ -316,7 +331,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -329,7 +345,8 @@
      "fiber": 2.5,
      "sugar": 1.4,
      "sodium": 16.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pork tenderloin lean grilled",
@@ -342,7 +359,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Medium",
@@ -355,7 +373,8 @@
      "fiber": 0.8,
      "sugar": 1.4,
      "sodium": 21.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Pepper, Poblano",
@@ -367,7 +386,8 @@
      "satfat": 0.1,
      "sugar": 0.2,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -413,7 +433,8 @@
      "carbs": 22.5,
      "fat": 4.0,
      "sugar": 7.5,
-     "cholesterol": 115.0
+     "cholesterol": 115.0,
+     "whole": 0.1
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -426,7 +447,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 53.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -438,7 +460,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

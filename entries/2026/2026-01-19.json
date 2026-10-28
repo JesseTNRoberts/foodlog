@@ -29,7 +29,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sourdough Round Bread",
@@ -41,7 +42,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -51,7 +53,8 @@
      "carbs": 0.0,
      "fat": 7.0,
      "satfat": 1.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -109,7 +113,8 @@
      "fiber": 0.7,
      "sugar": 2.0,
      "sodium": 402.9,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Hash Browns",
@@ -122,7 +127,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 133.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Strained Nonfat Greek Yogurt Plain",
@@ -135,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 8.5,
-     "cholesterol": 0.9
+     "cholesterol": 0.9,
+     "whole": 0.85
     },
     {
      "name": "Yogurt, Kefir, Probiotic, Strawberry",
@@ -148,7 +155,8 @@
      "fiber": 0.0,
      "sugar": 1.1,
      "sodium": 7.7,
-     "cholesterol": 0.6
+     "cholesterol": 0.6,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -193,7 +201,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 35.7,
-     "cholesterol": 40.8
+     "cholesterol": 40.8,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -235,7 +244,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -248,7 +258,8 @@
      "fiber": 0.3,
      "sugar": 0.6,
      "sodium": 189.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -261,7 +272,8 @@
      "fiber": 0.2,
      "sugar": 0.3,
      "sodium": 94.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Carrots, Baby, Medium",
@@ -274,7 +286,8 @@
      "fiber": 3.5,
      "sugar": 5.7,
      "sodium": 93.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cuties",
@@ -287,7 +300,8 @@
      "fiber": 2.0,
      "sugar": 6.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "V - Cranberry White Cheddar Cheese",
@@ -300,7 +314,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 57.1,
-     "cholesterol": 8.9
+     "cholesterol": 8.9,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Cherry",
@@ -313,7 +328,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Low Fat Hot Cocoa",
@@ -326,7 +342,8 @@
      "fiber": 0.2,
      "sugar": 1.4,
      "sodium": 18.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -375,7 +392,8 @@
      "fiber": 1.3,
      "sugar": 2.3,
      "sodium": 205.8,
-     "cholesterol": 86.4
+     "cholesterol": 86.4,
+     "whole": 0.5
     },
     {
      "name": "Linguine with Clams",
@@ -388,7 +406,8 @@
      "fiber": 2.9,
      "sugar": 2.5,
      "sodium": 210.9,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -431,7 +450,8 @@
      "fiber": 2.9,
      "sugar": 2.5,
      "sodium": 210.9,
-     "cholesterol": 5.6
+     "cholesterol": 5.6,
+     "whole": 0.7
     }
    ],
    "eaten": {

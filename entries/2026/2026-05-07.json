@@ -29,7 +29,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sourdough Round Bread",
@@ -41,7 +42,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -51,7 +53,8 @@
      "carbs": 0.0,
      "fat": 7.0,
      "satfat": 1.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -109,7 +113,8 @@
      "fiber": 2.4,
      "sugar": 2.4,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cheesecake",
@@ -122,7 +127,8 @@
      "fiber": 0.2,
      "sugar": 12.4,
      "sodium": 117.4,
-     "cholesterol": 31.2
+     "cholesterol": 31.2,
+     "whole": 0.1
     },
     {
      "name": "Almond Butter",
@@ -135,7 +141,8 @@
      "fiber": 2.9,
      "sugar": 0.9,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chicken, Breast, Grilled, w/o Skin",
@@ -148,7 +155,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 53.6,
-     "cholesterol": 61.2
+     "cholesterol": 61.2,
+     "whole": 1.0
     },
     {
      "name": "Sauce, Alfredo, Creamy",
@@ -161,7 +169,8 @@
      "fiber": 0.0,
      "sugar": 1.0,
      "sodium": 430.0,
-     "cholesterol": 25.0
+     "cholesterol": 25.0,
+     "whole": 0.5
     },
     {
      "name": "Roasted Broccoli And Carrots",
@@ -174,7 +183,8 @@
      "fiber": 5.0,
      "sugar": 5.0,
      "sodium": 91.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sauce, Spaghetti, Old World Style, Traditional",
@@ -187,7 +197,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 480.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Tea, Iced, Sweet, w/o Lemon",
@@ -200,7 +211,8 @@
      "fiber": 0.0,
      "sugar": 18.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Bread, Garlic Knots",
@@ -213,7 +225,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -226,7 +239,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Salt, Kosher, Coarse",
@@ -239,7 +253,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

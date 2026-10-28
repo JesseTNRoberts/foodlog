@@ -27,7 +27,8 @@
      "fat": 2.5,
      "satfat": 1.4,
      "sodium": 233.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.1
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -75,7 +77,8 @@
     {
      "name": "Cheese burger grilled",
      "portion": "1 serving",
-     "kcal": 440
+     "kcal": 440,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr Pepper",
@@ -88,7 +91,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Soda, Root Beer",
@@ -101,7 +105,8 @@
      "fiber": 0.0,
      "sugar": 38.8,
      "sodium": 37.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "French Fries, Shoestring, French Fried Potatoes",
@@ -114,7 +119,8 @@
      "fiber": 1.4,
      "sugar": 0.7,
      "sodium": 216.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -159,12 +165,14 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 400.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa",
      "portion": "6 tablespoons",
-     "kcal": 30
+     "kcal": 30,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -205,7 +213,8 @@
      "fat": 17.3,
      "satfat": 1.9,
      "fiber": 3.9,
-     "sodium": 346.1
+     "sodium": 346.1,
+     "whole": 0.85
     },
     {
      "name": "Bread, Dave's Killer, 21 Whole Grains and Seeds",
@@ -218,7 +227,8 @@
      "fiber": 10.0,
      "sugar": 10.0,
      "sodium": 360.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Cauliflower Dip",
@@ -231,7 +241,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cheese, Non-Dairy, Cheddar Style Shreds",
@@ -240,7 +251,8 @@
      "carbs": 7.9,
      "fat": 6.7,
      "satfat": 6.7,
-     "sodium": 283.5
+     "sodium": 283.5,
+     "whole": 0.25
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -253,7 +265,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -296,7 +309,8 @@
      "carbs": 21.0,
      "fat": 14.0,
      "fiber": 1.0,
-     "sugar": 17.0
+     "sugar": 17.0,
+     "whole": 0.1
     },
     {
      "name": "Fritos Scoops",
@@ -309,12 +323,14 @@
      "fiber": 0.6,
      "sugar": 0.0,
      "sodium": 66.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa",
      "portion": "4 tablespoons",
-     "kcal": 20
+     "kcal": 20,
+     "whole": 0.7
     }
    ],
    "eaten": {

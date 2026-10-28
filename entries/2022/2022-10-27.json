@@ -29,7 +29,8 @@
      "fiber": 3.1,
      "sugar": 0.0,
      "sodium": 361.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hatch Queso",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 6.0,
      "sugar": 7.0,
      "sodium": 784.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Garlic Knots",
@@ -98,12 +101,14 @@
      "fiber": 1.4,
      "sugar": 1.4,
      "sodium": 377.6,
-     "cholesterol": 5.4
+     "cholesterol": 5.4,
+     "whole": 0.3
     },
     {
      "name": "Dr. Pepper",
      "portion": "1/2 serving",
-     "kcal": 145
+     "kcal": 145,
+     "whole": 0.0
     },
     {
      "name": "Sauteed veggies, w/ oil",
@@ -116,7 +121,8 @@
      "fiber": 2.7,
      "sugar": 3.3,
      "sodium": 18.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bacon, Cooked",
@@ -129,7 +135,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 184.8,
-     "cholesterol": 8.8
+     "cholesterol": 8.8,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -173,7 +180,8 @@
      "fat": 27.5,
      "satfat": 2.5,
      "sugar": 2.5,
-     "sodium": 750.0
+     "sodium": 750.0,
+     "whole": 0.25
     },
     {
      "name": "Justin's Dark Chocolate Peanut Butter Cups (singles)",
@@ -183,7 +191,8 @@
      "carbs": 21.0,
      "fat": 14.0,
      "fiber": 1.0,
-     "sugar": 17.0
+     "sugar": 17.0,
+     "whole": 0.1
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -196,7 +205,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 412.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -209,7 +219,8 @@
      "fiber": 6.0,
      "sugar": 6.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -222,7 +233,8 @@
      "fiber": 0.0,
      "sugar": 20.2,
      "sodium": 445.5,
-     "cholesterol": 30.4
+     "cholesterol": 30.4,
+     "whole": 0.3
     },
     {
      "name": "Salad, mixed greens",
@@ -232,7 +244,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "American Style Slices",
@@ -245,7 +258,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 190.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "vegan cheese",
@@ -258,7 +272,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -271,7 +286,8 @@
      "fiber": 4.0,
      "sugar": 0.8,
      "sodium": 142.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -284,7 +300,8 @@
      "fiber": 0.6,
      "sugar": 0.8,
      "sodium": 10.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.0,
      "sugar": 4.5,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -84,7 +86,8 @@
      "fiber": 7.6,
      "sugar": 4.4,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,12 +130,14 @@
      "fiber": 2.0,
      "sugar": 4.5,
      "sodium": 490.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Veggie Sushi Brown Rice",
      "portion": "7/8 serving",
-     "kcal": 254
+     "kcal": 254,
+     "whole": 0.5
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -145,7 +150,8 @@
      "fiber": 7.6,
      "sugar": 4.4,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

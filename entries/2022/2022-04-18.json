@@ -21,7 +21,8 @@
     {
      "name": "Oat milk latte",
      "portion": "2 servings",
-     "kcal": 280
+     "kcal": 280,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
      "fiber": 6.9,
      "sugar": 0.0,
      "sodium": 515.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "*Grain Free Chips, Nacho - 19 Ea",
@@ -76,7 +78,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -117,7 +120,8 @@
      "fat": 4.5,
      "fiber": 1.5,
      "sugar": 0.8,
-     "sodium": 255.0
+     "sodium": 255.0,
+     "whole": 0.3
     },
     {
      "name": "Grilled Bbq Chicken",
@@ -125,13 +129,15 @@
      "kcal": 300,
      "protein": 35.0,
      "carbs": 0.0,
-     "fat": 12.0
+     "fat": 12.0,
+     "whole": 0.8
     },
     {
      "name": "Chili Bowl",
      "portion": "1 serving",
      "kcal": 240,
-     "protein": 14.0
+     "protein": 14.0,
+     "whole": 0.7
     },
     {
      "name": "Roll",
@@ -144,7 +150,8 @@
      "fiber": 2.0,
      "sugar": 8.0,
      "sodium": 538.0,
-     "cholesterol": 76.0
+     "cholesterol": 76.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 3.5,
      "sugar": 0.0,
      "sodium": 612.5,
-     "cholesterol": 17.5
+     "cholesterol": 17.5,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 1.1,
      "sugar": 0.0,
      "sodium": 132.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sour Dough Bread Slice",
@@ -84,7 +86,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Hot And Honey Chicken Breast",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 4.6,
      "sodium": 683.4,
-     "cholesterol": 60.8
+     "cholesterol": 60.8,
+     "whole": 0.85
     },
     {
      "name": "Aged Raw Cheddar",
@@ -110,7 +114,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 35.0
+     "cholesterol": 35.0,
+     "whole": 0.85
     },
     {
      "name": "Salsa, Chunky",
@@ -123,7 +128,8 @@
      "fiber": 4.5,
      "sugar": 9.0,
      "sodium": 1035.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 0.0,
      "sugar": 34.6,
      "sodium": 125.3,
-     "cholesterol": 2.9
+     "cholesterol": 2.9,
+     "whole": 0.85
     },
     {
      "name": "Cookie, Oreo, Chocolate",
@@ -182,7 +189,8 @@
      "fiber": 0.2,
      "sugar": 2.3,
      "sodium": 23.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cookies, Sandwich, Peanut Butter",
@@ -195,7 +203,8 @@
      "fiber": 0.2,
      "sugar": 1.4,
      "sodium": 19.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

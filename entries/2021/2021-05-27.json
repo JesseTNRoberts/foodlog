@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,12 +72,14 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 460.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.3
     },
     {
      "name": "Fried Cobb, no egg, bread, cheese.",
      "portion": "1/2 serving",
-     "kcal": 218
+     "kcal": 218,
+     "whole": 0.3
     },
     {
      "name": "Plant Based Non-dairy Hot Pepper Cheezy Slices",
@@ -88,7 +91,8 @@
      "satfat": 4.5,
      "fiber": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Campari",
@@ -101,7 +105,8 @@
      "fiber": 1.5,
      "sugar": 4.0,
      "sodium": 4.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Shredded",
@@ -114,7 +119,8 @@
      "fiber": 3.2,
      "sugar": 4.3,
      "sodium": 110.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -127,7 +133,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -171,7 +178,8 @@
      "carbs": 35.9,
      "fat": 11.4,
      "satfat": 1.8,
-     "sodium": 1828.8
+     "sodium": 1828.8,
+     "whole": 1.0
     },
     {
      "name": "Broccoli, Fresh",
@@ -181,7 +189,8 @@
      "carbs": 5.0,
      "fat": 0.0,
      "satfat": 0.0,
-     "sodium": 390.0
+     "sodium": 390.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -224,7 +233,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -237,7 +247,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Kind Bar Dark Chocolate Nuts And Sea Salt Mini",
@@ -250,7 +261,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {

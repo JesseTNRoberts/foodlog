@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -69,7 +70,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Cheese, Non-Dairy, Cheddar Style Shreds",
@@ -78,7 +80,8 @@
      "carbs": 5.3,
      "fat": 4.6,
      "satfat": 4.6,
-     "sodium": 212.6
+     "sodium": 212.6,
+     "whole": 0.25
     },
     {
      "name": "Greens, 50/50 Blend",
@@ -91,7 +94,8 @@
      "fiber": 3.0,
      "sugar": 0.8,
      "sodium": 105.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -135,7 +139,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle Potato, Large",
@@ -148,7 +153,8 @@
      "fiber": 4.4,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -161,7 +167,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 225.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Spring roll",
@@ -172,7 +179,8 @@
      "fat": 11.0,
      "satfat": 1.5,
      "fiber": 1.0,
-     "sodium": 210.0
+     "sodium": 210.0,
+     "whole": 0.25
     },
     {
      "name": "Dr Pepper Medium",
@@ -185,7 +193,8 @@
      "fiber": 0.0,
      "sugar": 32.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Hibachi Vegetables",
@@ -198,7 +207,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "FrIed Rice",
@@ -211,7 +221,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -259,7 +270,8 @@
      "fiber": 0.0,
      "sugar": 11.2,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

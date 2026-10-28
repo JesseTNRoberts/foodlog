@@ -28,7 +28,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 10.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.1
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -41,7 +42,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -53,7 +55,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 8.8,
      "sodium": 97.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -110,7 +114,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -122,7 +127,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     },
     {
      "name": "Grilled Chicken",
@@ -135,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 37.5,
-     "cholesterol": 32.5
+     "cholesterol": 32.5,
+     "whole": 1.0
     },
     {
      "name": "Zucchini, Grilled w/ Oil",
@@ -148,7 +155,8 @@
      "fiber": 0.5,
      "sugar": 1.5,
      "sodium": 1.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -194,7 +202,8 @@
      "fiber": 3.9,
      "sugar": 5.7,
      "sodium": 303.9,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -236,7 +245,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hard Cider",
@@ -245,7 +255,8 @@
      "carbs": 6.5,
      "fat": 0.0,
      "sugar": 6.5,
-     "sodium": 2.5
+     "sodium": 2.5,
+     "whole": 0.5
     },
     {
      "name": "Naan Bites",
@@ -258,7 +269,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj",
@@ -271,7 +283,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 20.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -314,7 +327,8 @@
      "fat": 12.8,
      "satfat": 3.4,
      "sugar": 0.0,
-     "cholesterol": 104.0
+     "cholesterol": 104.0,
+     "whole": 1.0
     },
     {
      "name": "Oat Milk Ranch Dressing",
@@ -327,7 +341,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 675.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -340,7 +355,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 262.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Grilled Chicken",
@@ -353,7 +369,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 18.8,
-     "cholesterol": 16.2
+     "cholesterol": 16.2,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -366,7 +383,8 @@
      "fiber": 2.0,
      "sugar": 0.4,
      "sodium": 71.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Campari",
@@ -379,7 +397,8 @@
      "fiber": 0.4,
      "sugar": 1.0,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -426,7 +445,8 @@
      "fiber": 2.7,
      "sugar": 0.8,
      "sodium": 84.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -439,7 +459,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -451,7 +472,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

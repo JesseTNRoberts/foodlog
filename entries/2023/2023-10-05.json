@@ -21,7 +21,8 @@
     {
      "name": "Margarita pizza",
      "portion": "3 slices",
-     "kcal": 612
+     "kcal": 612,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
      "fiber": 2.0,
      "sugar": 3.2,
      "sodium": 720.0,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

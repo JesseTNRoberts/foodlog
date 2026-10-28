@@ -29,7 +29,8 @@
      "fiber": 12.0,
      "sugar": 13.0,
      "sodium": 350.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Refried Black Beans",
@@ -42,7 +43,8 @@
      "fiber": 17.1,
      "sugar": 2.1,
      "sodium": 956.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -98,7 +101,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 7.0,
      "sodium": 262.5,
-     "cholesterol": 17.5
+     "cholesterol": 17.5,
+     "whole": 0.3
     },
     {
      "name": "Dr Pepper Medium",
@@ -124,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 48.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 7.0,
      "sugar": 8.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Almond Butter Puff Cereal",
@@ -181,7 +188,8 @@
      "satfat": 0.7,
      "fiber": 1.4,
      "sugar": 4.2,
-     "sodium": 56.7
+     "sodium": 56.7,
+     "whole": 0.2
     },
     {
      "name": "Next Milk, Whole Fat",
@@ -194,7 +202,8 @@
      "fiber": 2.2,
      "sugar": 2.2,
      "sodium": 142.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {

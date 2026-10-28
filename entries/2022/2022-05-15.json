@@ -29,7 +29,8 @@
      "fiber": 2.7,
      "sugar": 0.0,
      "sodium": 1262.7,
-     "cholesterol": 13.3
+     "cholesterol": 13.3,
+     "whole": 1.0
     },
     {
      "name": "Fried Rice",
@@ -39,7 +40,8 @@
      "carbs": 38.0,
      "fat": 5.0,
      "sugar": 9.0,
-     "sodium": 800.0
+     "sodium": 800.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -79,7 +81,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -92,7 +95,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 400.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -105,7 +109,8 @@
      "fiber": 0.0,
      "sugar": 33.3,
      "sodium": 45.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -118,7 +123,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -128,7 +134,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -141,7 +148,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -154,7 +162,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Shrimp, Small - Boiled Or Steamed",
@@ -163,7 +172,8 @@
      "protein": 8.5,
      "carbs": 0.4,
      "fat": 0.7,
-     "sodium": 188.8
+     "sodium": 188.8,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -176,7 +186,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -218,7 +229,8 @@
     {
      "name": "Apple Bundt Cake",
      "portion": "2 servings",
-     "kcal": 560
+     "kcal": 560,
+     "whole": 0.1
     },
     {
      "name": "Fries, Natural Cut, Small",
@@ -231,7 +243,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Mustard",
@@ -240,7 +253,8 @@
      "protein": 0.0,
      "carbs": 3.5,
      "fat": 3.0,
-     "sugar": 1.5
+     "sugar": 1.5,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 24.0,
      "sodium": 770.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fat": 1.5,
      "satfat": 0.5,
      "fiber": 5.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -96,7 +99,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -109,7 +113,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 143.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Tomato & Basil, Pasta Sauce",
@@ -122,7 +127,8 @@
      "fiber": 2.8,
      "sugar": 6.8,
      "sodium": 557.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -135,7 +141,8 @@
      "fiber": 0.5,
      "sugar": 0.5,
      "sodium": 92.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cheese Daiya Mozzarella, Dairy Free",
@@ -148,7 +155,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 57.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -161,7 +169,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -209,7 +218,8 @@
      "fiber": 7.5,
      "sugar": 4.0,
      "sodium": 500.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips",
@@ -222,7 +232,8 @@
      "fiber": 3.3,
      "sugar": 0.0,
      "sodium": 191.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -235,7 +246,8 @@
      "fiber": 0.0,
      "sugar": 10.0,
      "sodium": 1150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Half and Half Tea",
@@ -248,7 +260,8 @@
      "fiber": 0.4,
      "sugar": 10.8,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -291,7 +304,8 @@
      "fat": 10.4,
      "satfat": 1.1,
      "fiber": 2.3,
-     "sodium": 207.7
+     "sodium": 207.7,
+     "whole": 0.85
     },
     {
      "name": "Figgy Pops Cherry Supersnacks",
@@ -304,7 +318,8 @@
      "fiber": 1.5,
      "sugar": 5.0,
      "sodium": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "D’Noir Prunes",
@@ -313,7 +328,8 @@
      "protein": 0.5,
      "carbs": 11.3,
      "fiber": 1.4,
-     "sugar": 6.6
+     "sugar": 6.6,
+     "whole": 1.0
     }
    ],
    "eaten": {

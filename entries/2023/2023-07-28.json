@@ -26,7 +26,8 @@
      "carbs": 45.0,
      "fat": 8.0,
      "sugar": 15.0,
-     "cholesterol": 230.0
+     "cholesterol": 230.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -68,7 +69,8 @@
      "fiber": 0.0,
      "sugar": 18.0,
      "sodium": 20.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -110,7 +112,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Vegan Dressing and Spread",
@@ -123,7 +126,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 202.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Fish, Salmon, Wild, Cooked",
@@ -136,7 +140,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 31.8,
-     "cholesterol": 40.3
+     "cholesterol": 40.3,
+     "whole": 1.0
     },
     {
      "name": "Pork tenderloin lean grilled",
@@ -149,7 +154,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 50.0
+     "cholesterol": 50.0,
+     "whole": 1.0
     },
     {
      "name": "Carolina Gold BBQ Sauce",
@@ -162,7 +168,8 @@
      "fiber": 0.0,
      "sugar": 13.0,
      "sodium": 410.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pickles, Dill, Spears",
@@ -175,7 +182,8 @@
      "fiber": 0.4,
      "sugar": 0.5,
      "sodium": 306.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -188,7 +196,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -236,7 +245,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 29.0,
-     "cholesterol": 37.7
+     "cholesterol": 37.7,
+     "whole": 1.0
     },
     {
      "name": "Banana Pudding With Vanilla Wafers",
@@ -246,7 +256,8 @@
      "carbs": 11.2,
      "fat": 2.0,
      "sugar": 3.8,
-     "cholesterol": 57.5
+     "cholesterol": 57.5,
+     "whole": 0.1
     },
     {
      "name": "Chicken, Drumsticks, W/skin, Grilled",
@@ -257,7 +268,8 @@
      "fat": 2.5,
      "satfat": 0.6,
      "sodium": 23.8,
-     "cholesterol": 22.5
+     "cholesterol": 22.5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -301,7 +313,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 63.5,
-     "cholesterol": 80.5
+     "cholesterol": 80.5,
+     "whole": 1.0
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -314,7 +327,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 160.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Vegan Dressing and Spread",
@@ -327,7 +341,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 202.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -339,7 +354,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 220.0
+     "sodium": 220.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

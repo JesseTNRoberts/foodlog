@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 530.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -42,7 +43,8 @@
      "fiber": 1.9,
      "sugar": 0.6,
      "sodium": 79.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -94,7 +97,8 @@
      "kcal": 400,
      "protein": 6.0,
      "carbs": 100.0,
-     "fat": 20.0
+     "fat": 20.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, spinach and artichoke",
@@ -107,7 +111,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 230.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita Thins, Sea Salt",
@@ -120,7 +125,8 @@
      "fiber": 0.9,
      "sugar": 0.9,
      "sodium": 171.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Half and Half Tea",
@@ -133,7 +139,8 @@
      "fiber": 0.8,
      "sugar": 21.7,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -170,7 +177,8 @@
     {
      "name": "Zaxby's Small Dr. Pepper",
      "portion": "1 serving",
-     "kcal": 260
+     "kcal": 260,
+     "whole": 0.3
     },
     {
      "name": "Homemade Cheese Pizza",
@@ -178,7 +186,8 @@
      "kcal": 175,
      "protein": 2.6,
      "carbs": 43.8,
-     "fat": 8.8
+     "fat": 8.8,
+     "whole": 0.3
     },
     {
      "name": "Quinoa Bowl",
@@ -191,7 +200,8 @@
      "fiber": 2.8,
      "sugar": 0.9,
      "sodium": 51.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Red Potatoes, Roasted w/ Oil",
@@ -204,7 +214,8 @@
      "fiber": 1.6,
      "sugar": 0.8,
      "sodium": 7.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Pie, Peach",
@@ -217,7 +228,8 @@
      "fiber": 0.2,
      "sugar": 1.8,
      "sodium": 76.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Grape Tomatos",
@@ -230,7 +242,8 @@
      "fiber": 0.9,
      "sugar": 1.8,
      "sodium": 3.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

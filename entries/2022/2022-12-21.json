@@ -28,7 +28,8 @@
      "satfat": 1.0,
      "fiber": 2.0,
      "sodium": 22.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -41,7 +42,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -82,7 +84,8 @@
      "fat": 7.0,
      "satfat": 2.0,
      "fiber": 1.0,
-     "sodium": 250.0
+     "sodium": 250.0,
+     "whole": 0.85
     },
     {
      "name": "Stuffing, Herb Seasoned",
@@ -95,7 +98,8 @@
      "fiber": 0.3,
      "sugar": 1.0,
      "sodium": 200.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Just Egg",
@@ -108,7 +112,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 106.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -121,7 +126,8 @@
      "fiber": 3.7,
      "sugar": 1.6,
      "sodium": 46.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mayo Spread",
@@ -134,7 +140,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 28.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Cream of mushroom soup homemade",
@@ -147,7 +154,8 @@
      "fiber": 0.1,
      "sugar": 0.1,
      "sodium": 46.2,
-     "cholesterol": 4.1
+     "cholesterol": 4.1,
+     "whole": 0.7
     }
    ],
    "eaten": {

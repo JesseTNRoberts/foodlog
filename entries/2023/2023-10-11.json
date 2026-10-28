@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.0,
      "sugar": 5.0,
      "sodium": 1600.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -84,7 +86,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -97,7 +100,8 @@
      "fiber": 0.0,
      "sugar": 40.0,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -139,7 +143,8 @@
      "fat": 16.5,
      "satfat": 1.5,
      "sugar": 1.5,
-     "sodium": 450.0
+     "sodium": 450.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Cherry",
@@ -152,7 +157,8 @@
      "fiber": 2.4,
      "sugar": 4.5,
      "sodium": 8.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cucumbers small",
@@ -165,7 +171,8 @@
      "fiber": 5.3,
      "sugar": 5.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -209,7 +216,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Tender",
@@ -217,7 +225,8 @@
      "kcal": 127,
      "protein": 7.0,
      "carbs": 9.0,
-     "fat": 7.0
+     "fat": 7.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -256,7 +265,8 @@
      "protein": 3.4,
      "carbs": 37.0,
      "fat": 3.0,
-     "fiber": 0.6
+     "fiber": 0.6,
+     "whole": 0.5
     },
     {
      "name": "Juice, Orange, No Pulp, Calcium & Vitamin D",
@@ -269,7 +279,8 @@
      "fiber": 0.0,
      "sugar": 22.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

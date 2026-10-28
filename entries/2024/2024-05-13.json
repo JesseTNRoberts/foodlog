@@ -29,7 +29,8 @@
      "fiber": 2.2,
      "sugar": 3.9,
      "sodium": 17.7,
-     "cholesterol": 4.3
+     "cholesterol": 4.3,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
     {
      "name": "Coffee",
      "portion": "2 cups",
-     "kcal": 10
+     "kcal": 10,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 2.0,
      "sugar": 1.3,
      "sodium": 124.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +115,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 280.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Fish, Channel Catfish, Breaded & Fried",
@@ -126,7 +129,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 304.5,
-     "cholesterol": 88.9
+     "cholesterol": 88.9,
+     "whole": 0.3
     },
     {
      "name": "Burger Buns Done Right",
@@ -139,7 +143,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Honey Mustard",
@@ -152,7 +157,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 59.1,
-     "cholesterol": 1.9
+     "cholesterol": 1.9,
+     "whole": 0.3
     },
     {
      "name": "Ketchup, Tomato",
@@ -165,7 +171,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -203,7 +210,8 @@
     {
      "name": "Apple, Envy, small",
      "portion": "1 serving",
-     "kcal": 90
+     "kcal": 90,
+     "whole": 1.0
     },
     {
      "name": "Snack, Crunchy, Cheese-Less, Puffs",
@@ -216,7 +224,8 @@
      "fiber": 1.4,
      "sugar": 0.0,
      "sodium": 78.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -259,7 +268,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 130.0
+     "cholesterol": 130.0,
+     "whole": 1.0
     },
     {
      "name": "Chicken, Thigh, Skinless, Boneless, Grilled",
@@ -270,7 +280,8 @@
      "fat": 12.8,
      "satfat": 3.4,
      "sugar": 0.0,
-     "cholesterol": 104.0
+     "cholesterol": 104.0,
+     "whole": 1.0
     },
     {
      "name": "Baba Ghannouj Eggplant Dip",
@@ -282,7 +293,8 @@
      "satfat": 0.9,
      "fiber": 1.8,
      "sugar": 1.8,
-     "sodium": 223.2
+     "sodium": 223.2,
+     "whole": 0.5
     },
     {
      "name": "Bread",
@@ -291,7 +303,8 @@
      "protein": 5.2,
      "carbs": 27.7,
      "fat": 11.0,
-     "sodium": 269.0
+     "sodium": 269.0,
+     "whole": 0.5
     },
     {
      "name": "Naan Bites",
@@ -304,7 +317,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -350,7 +364,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Nectarines, Med, Fresh",
@@ -363,7 +378,8 @@
      "fiber": 2.4,
      "sugar": 11.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -375,7 +391,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 1.0,
      "fiber": 2.0,
      "sugar": 0.0,
-     "sodium": 290.0
+     "sodium": 290.0,
+     "whole": 0.7
     },
     {
      "name": "Vermont Cheddar Cheese",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.85
     },
     {
      "name": "Boars Head Honey Maple Turkey",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 146.7,
-     "cholesterol": 0.7
+     "cholesterol": 0.7,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -97,7 +100,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 720.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Just Egg",
@@ -110,7 +114,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 640.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pillsbury Cinnamon Rolls",
@@ -121,7 +126,8 @@
      "fat": 1.1,
      "fiber": 0.1,
      "sugar": 2.5,
-     "sodium": 85.0
+     "sodium": 85.0,
+     "whole": 0.1
     },
     {
      "name": "Homemade Banana Pudding",
@@ -132,7 +138,8 @@
      "fat": 2.5,
      "satfat": 1.4,
      "sodium": 233.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.1
     },
     {
      "name": "Sliced Cheese",
@@ -145,7 +152,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 175.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -158,7 +166,8 @@
      "fiber": 5.2,
      "sugar": 2.2,
      "sodium": 64.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 2.6,
      "sugar": 14.8,
      "sodium": 121.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 30.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -113,7 +115,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "White Mountain Bread",
@@ -124,7 +127,8 @@
      "fat": 2.0,
      "fiber": 1.0,
      "sugar": 2.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -137,7 +141,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Campari",
@@ -150,7 +155,8 @@
      "fiber": 1.1,
      "sugar": 3.0,
      "sodium": 3.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -163,7 +169,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 2.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -207,7 +214,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Baby Bell Vegan Cheese",
@@ -220,7 +228,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -233,7 +242,8 @@
      "fiber": 1.7,
      "sugar": 3.6,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greens, Arugula, Leaf",
@@ -246,7 +256,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 2.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -286,7 +297,8 @@
      "kcal": 450,
      "protein": 5.6,
      "carbs": 7.2,
-     "fat": 3.8
+     "fat": 3.8,
+     "whole": 0.3
     },
     {
      "name": "Fries Side",
@@ -298,7 +310,8 @@
      "satfat": 3.3,
      "fiber": 3.3,
      "sugar": 0.7,
-     "sodium": 172.8
+     "sodium": 172.8,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -341,7 +354,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 135.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -354,7 +368,8 @@
      "fiber": 1.8,
      "sugar": 1.2,
      "sodium": 116.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Snack, Crunchy, Cheese-Less, Puffs",
@@ -367,7 +382,8 @@
      "fiber": 1.9,
      "sugar": 0.0,
      "sodium": 104.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -379,7 +395,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sourdough Round Bread",
@@ -41,7 +42,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -51,7 +53,8 @@
      "carbs": 0.0,
      "fat": 7.0,
      "satfat": 1.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -64,7 +67,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -109,7 +113,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 80.0,
-     "cholesterol": 113.3
+     "cholesterol": 113.3,
+     "whole": 1.0
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -122,7 +127,8 @@
      "fiber": 0.7,
      "sugar": 1.2,
      "sodium": 378.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Hummus",
@@ -135,7 +141,8 @@
      "fiber": 3.1,
      "sugar": 0.2,
      "sodium": 182.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mango Curry",
@@ -148,7 +155,8 @@
      "fiber": 3.5,
      "sugar": 2.7,
      "sodium": 182.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Candy, Peanut Butter Cups",
@@ -161,7 +169,8 @@
      "fiber": 3.0,
      "sugar": 2.0,
      "sodium": 60.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Tomatoes, Cherry",
@@ -174,7 +183,8 @@
      "fiber": 1.6,
      "sugar": 3.6,
      "sodium": 6.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Chips",
@@ -187,7 +197,8 @@
      "fiber": 1.0,
      "sugar": 2.5,
      "sodium": 32.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Scallops, Sea",
@@ -200,7 +211,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 30.1,
-     "cholesterol": 4.4
+     "cholesterol": 4.4,
+     "whole": 1.0
     },
     {
      "name": "Spring Mix, Organic",
@@ -213,7 +225,8 @@
      "fiber": 0.2,
      "sugar": 0.2,
      "sodium": 23.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -263,7 +276,8 @@
      "fiber": 15.3,
      "sugar": 11.1,
      "sodium": 2709.3,
-     "cholesterol": 169.2
+     "cholesterol": 169.2,
+     "whole": 0.7
     },
     {
      "name": "Brownie",
@@ -276,7 +290,8 @@
      "fiber": 1.2,
      "sugar": 20.5,
      "sodium": 174.7,
-     "cholesterol": 9.5
+     "cholesterol": 9.5,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -319,7 +334,8 @@
      "fiber": 0.3,
      "sugar": 0.4,
      "sodium": 36.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Apple, Medium - Pink Lady",
@@ -332,7 +348,8 @@
      "fiber": 2.2,
      "sugar": 9.5,
      "sodium": 1.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Banana, Small, 6\" to 6 7/8\" Long",
@@ -345,7 +362,8 @@
      "fiber": 1.3,
      "sugar": 6.2,
      "sodium": 0.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
     {
      "name": "Panda Bowl, Orange Chicken And Chow Mein",
      "portion": "1 serving",
-     "kcal": 810
+     "kcal": 810,
+     "whole": 0.3
     },
     {
      "name": "Shrimp, Honey Walnut",
@@ -76,7 +78,8 @@
      "fiber": 1.5,
      "sugar": 6.8,
      "sodium": 330.0,
-     "cholesterol": 75.0
+     "cholesterol": 75.0,
+     "whole": 0.3
     },
     {
      "name": "Hummus, Lemon Twist",
@@ -89,7 +92,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 195.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita",
@@ -102,7 +106,8 @@
      "fiber": 0.8,
      "sugar": 0.8,
      "sodium": 216.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -115,7 +120,8 @@
      "fiber": 7.6,
      "sugar": 4.4,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Siete Mexican shortbread cookies",
@@ -127,7 +133,8 @@
      "satfat": 2.4,
      "fiber": 0.4,
      "sugar": 2.4,
-     "sodium": 46.0
+     "sodium": 46.0,
+     "whole": 0.1
     },
     {
      "name": "Cookie, Mexican Chocolate",
@@ -140,7 +147,8 @@
      "fiber": 0.3,
      "sugar": 2.0,
      "sodium": 43.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -188,7 +196,8 @@
      "fiber": 0.0,
      "sugar": 38.0,
      "sodium": 560.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Hummus, Lemon Twist",
@@ -201,7 +210,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 195.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Pita",
@@ -214,7 +224,8 @@
      "fiber": 0.8,
      "sugar": 0.8,
      "sodium": 216.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

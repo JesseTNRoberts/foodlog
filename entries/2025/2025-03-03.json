@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries",
@@ -55,7 +57,8 @@
      "fiber": 4.0,
      "sugar": 7.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 6.1,
      "sugar": 7.0,
      "sodium": 608.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spicy Chicken Sandwich",
@@ -182,7 +189,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 640.0,
-     "cholesterol": 24.0
+     "cholesterol": 24.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 150.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -239,7 +248,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 0.5,
-     "cholesterol": 2.0
+     "cholesterol": 2.0,
+     "whole": 0.7
     },
     {
      "name": "Tennessee Whiskey Caramel popcorn",
@@ -250,7 +260,8 @@
      "satfat": 3.5,
      "sugar": 10.6,
      "sodium": 22.8,
-     "cholesterol": 12.7
+     "cholesterol": 12.7,
+     "whole": 0.1
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -263,7 +274,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 20.0
+     "cholesterol": 20.0,
+     "whole": 0.85
     },
     {
      "name": "Turkey Breast, Honey Smoked",
@@ -276,7 +288,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.3
     }
    ],
    "eaten": {

@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     },
     {
      "name": "Sauce, Cane's",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 4.0,
      "sodium": 550.0,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.3
     },
     {
      "name": "Fries, Waffle, Medium",
@@ -55,7 +57,8 @@
      "fiber": 1.2,
      "sugar": 0.0,
      "sodium": 70.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Sauce, Honey Roasted BBQ",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 75.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

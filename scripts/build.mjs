@@ -39,6 +39,10 @@ function checkEntry(e, where) {
         errors.push(`${where}: ${f} is ${e[f]} but its ingredients add up to ${Math.round(sum)}`);
     }
   }
+  comps.forEach((c, j) => {
+    if (c.whole != null && (typeof c.whole !== "number" || c.whole < 0 || c.whole > 1))
+      errors.push(`${where} ingredient ${j + 1}: whole must be a number from 0 to 1`);
+  });
   if (e.ingredientsFrom != null && !["menu", "recipe", "guess"].includes(e.ingredientsFrom))
     errors.push(`${where}: ingredientsFrom must be menu, recipe or guess`);
   if (e.photos != null) {

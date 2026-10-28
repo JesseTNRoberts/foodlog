@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 10.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 6.0,
      "sugar": 3.0,
      "sodium": 530.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Guacamole",
@@ -84,7 +86,8 @@
      "fiber": 9.2,
      "sugar": 0.0,
      "sodium": 686.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Grain Free Tortilla Chips, Nacho",
@@ -97,7 +100,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Peppers, Bell, Red, Sweet, Small",
@@ -110,7 +114,8 @@
      "fiber": 4.7,
      "sugar": 9.3,
      "sodium": 8.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Celery, Stalk, Fresh, Med",
@@ -123,7 +128,8 @@
      "fiber": 1.2,
      "sugar": 1.8,
      "sodium": 68.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 3.0,
      "sugar": 5.0,
      "sodium": 2790.0,
-     "cholesterol": 95.0
+     "cholesterol": 95.0,
+     "whole": 0.3
     },
     {
      "name": "Tortilla Chips",
@@ -182,7 +189,8 @@
      "fiber": 3.6,
      "sugar": 0.0,
      "sodium": 204.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 24.0,
      "sodium": 2760.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -231,7 +240,8 @@
     {
      "name": "Pecan Pin Wheels (Little Debbie's)",
      "portion": "1 each",
-     "kcal": 110
+     "kcal": 110,
+     "whole": 0.1
     }
    ],
    "eaten": {

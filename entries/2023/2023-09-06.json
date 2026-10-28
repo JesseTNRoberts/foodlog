@@ -29,7 +29,8 @@
      "fiber": 2.6,
      "sugar": 14.8,
      "sodium": 121.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 1.2,
      "sodium": 275.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Hummus (original)",
@@ -84,7 +86,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 195.0,
-     "cholesterol": 13.4
+     "cholesterol": 13.4,
+     "whole": 0.7
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -95,7 +98,8 @@
      "fat": 8.2,
      "satfat": 0.8,
      "sugar": 0.8,
-     "sodium": 225.0
+     "sodium": 225.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -108,7 +112,8 @@
      "fiber": 1.7,
      "sugar": 3.6,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -121,7 +126,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -167,7 +173,8 @@
      "fiber": 1.0,
      "sugar": 42.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -209,7 +216,8 @@
      "fiber": 2.1,
      "sugar": 1.4,
      "sodium": 135.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -251,7 +259,8 @@
      "fiber": 1.0,
      "sugar": 3.5,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Banana, Medium, 7\" - 7 7/8\" Long",
@@ -264,7 +273,8 @@
      "fiber": 1.5,
      "sugar": 7.2,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Strawberries, Whole",
@@ -277,7 +287,8 @@
      "fiber": 0.7,
      "sugar": 1.8,
      "sodium": 0.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -290,7 +301,8 @@
      "fiber": 0.5,
      "sugar": 0.9,
      "sodium": 17.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -334,7 +346,8 @@
      "satfat": 2.5,
      "fiber": 5.0,
      "sugar": 5.0,
-     "sodium": 940.0
+     "sodium": 940.0,
+     "whole": 0.25
     },
     {
      "name": "Fig Bar Blueberry Or Raspberry",
@@ -347,7 +360,8 @@
      "fiber": 2.0,
      "sugar": 9.0,
      "sodium": 35.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Juice, Apple Cider",
@@ -360,7 +374,8 @@
      "fiber": 0.0,
      "sugar": 15.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

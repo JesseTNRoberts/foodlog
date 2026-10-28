@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Homemade Bagels",
@@ -42,7 +43,8 @@
      "fiber": 1.2,
      "sugar": 1.0,
      "sodium": 566.2,
-     "cholesterol": 15.4
+     "cholesterol": 15.4,
+     "whole": 0.5
     },
     {
      "name": "Salmon, Sockeye, Wild Caught",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 35.0,
-     "cholesterol": 35.0
+     "cholesterol": 35.0,
+     "whole": 1.0
     },
     {
      "name": "Egg, Large",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 0.2,
      "sodium": 71.0,
-     "cholesterol": 186.0
+     "cholesterol": 186.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -81,7 +85,8 @@
      "fiber": 1.2,
      "sugar": 2.7,
      "sodium": 5.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -94,7 +99,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -141,7 +147,8 @@
      "fiber": 4.0,
      "sugar": 6.0,
      "sodium": 1000.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.3
     },
     {
      "name": "Pizza, Roasted Vegetable, Slice",
@@ -154,7 +161,8 @@
      "fiber": 1.3,
      "sugar": 0.7,
      "sodium": 340.2,
-     "cholesterol": 10.1
+     "cholesterol": 10.1,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -197,7 +205,8 @@
      "fiber": 0.6,
      "sugar": 10.9,
      "sodium": 125.8,
-     "cholesterol": 17.6
+     "cholesterol": 17.6,
+     "whole": 0.15
     }
    ],
    "eaten": {

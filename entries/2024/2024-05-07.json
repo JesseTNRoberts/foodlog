@@ -29,7 +29,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Oat Milk",
@@ -41,7 +42,8 @@
      "satfat": 0.2,
      "fiber": 1.0,
      "sugar": 3.5,
-     "sodium": 70.0
+     "sodium": 70.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -84,7 +86,8 @@
      "fiber": 3.6,
      "sugar": 2.3,
      "sodium": 25.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -126,12 +129,14 @@
      "fiber": 0.0,
      "sugar": 33.0,
      "sodium": 170.0,
-     "cholesterol": 5.0
+     "cholesterol": 5.0,
+     "whole": 0.1
     },
     {
      "name": "Coffee",
      "portion": "1 cup",
-     "kcal": 5
+     "kcal": 5,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -174,7 +179,8 @@
      "fiber": 1.1,
      "sugar": 1.9,
      "sodium": 497.2,
-     "cholesterol": 11.1
+     "cholesterol": 11.1,
+     "whole": 0.3
     },
     {
      "name": "Boars Head Irish Cheddar",
@@ -187,7 +193,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 360.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.85
     },
     {
      "name": "Sourdough Round Bread",
@@ -199,7 +206,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Turkey Breast, Maple Glazed Honey",
@@ -212,7 +220,8 @@
      "fiber": 0.0,
      "sugar": 10.1,
      "sodium": 222.8,
-     "cholesterol": 15.2
+     "cholesterol": 15.2,
+     "whole": 0.3
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -225,7 +234,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -271,7 +281,8 @@
      "fiber": 0.4,
      "sugar": 0.7,
      "sodium": 212.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Babaganoush",
@@ -284,7 +295,8 @@
      "fiber": 1.4,
      "sugar": 1.4,
      "sodium": 126.5,
-     "cholesterol": 7.5
+     "cholesterol": 7.5,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -325,7 +337,8 @@
      "fat": 22.0,
      "satfat": 2.0,
      "sugar": 2.0,
-     "sodium": 600.0
+     "sodium": 600.0,
+     "whole": 0.25
     },
     {
      "name": "Croutons, Homestyle Seasoned Herb",
@@ -338,7 +351,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 300.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Large",
@@ -351,7 +365,8 @@
      "fiber": 2.1,
      "sugar": 6.7,
      "sodium": 8.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cheese, Sharp White Cheddar",
@@ -364,7 +379,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 50.0,
-     "cholesterol": 6.7
+     "cholesterol": 6.7,
+     "whole": 0.85
     },
     {
      "name": "Spinach, Chopped",
@@ -377,7 +393,8 @@
      "fiber": 1.3,
      "sugar": 0.2,
      "sodium": 47.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -423,7 +440,8 @@
      "fiber": 3.7,
      "sugar": 30.6,
      "sodium": 4.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

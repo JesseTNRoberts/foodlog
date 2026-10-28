@@ -29,7 +29,8 @@
      "fiber": 14.0,
      "sugar": 50.8,
      "sodium": 52.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Plant-based Ranch Dressing",
@@ -40,7 +41,8 @@
      "fat": 11.0,
      "satfat": 1.0,
      "sugar": 1.0,
-     "sodium": 300.0
+     "sodium": 300.0,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Small",
@@ -53,7 +55,8 @@
      "fiber": 1.7,
      "sugar": 3.6,
      "sodium": 4.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -66,7 +69,8 @@
      "fiber": 1.4,
      "sugar": 3.1,
      "sodium": 6.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 1.5,
      "sodium": 330.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Hummus (original)",
@@ -124,7 +129,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 195.0,
-     "cholesterol": 13.4
+     "cholesterol": 13.4,
+     "whole": 0.7
     },
     {
      "name": "Chicken Tenders",
@@ -134,7 +140,8 @@
      "carbs": 4.2,
      "fat": 3.5,
      "sugar": 0.2,
-     "sodium": 192.5
+     "sodium": 192.5,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -178,7 +185,8 @@
      "fiber": 2.5,
      "sugar": 0.8,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Meatballs, w/ Beef & Pork, 1 Oz",
@@ -191,7 +199,8 @@
      "fiber": 0.1,
      "sugar": 0.9,
      "sodium": 125.4,
-     "cholesterol": 81.3
+     "cholesterol": 81.3,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -233,7 +242,8 @@
      "satfat": 0.8,
      "fiber": 1.5,
      "sugar": 3.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -246,7 +256,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {

@@ -27,7 +27,8 @@
      "fat": 12.8,
      "satfat": 3.4,
      "sugar": 0.0,
-     "cholesterol": 104.0
+     "cholesterol": 104.0,
+     "whole": 1.0
     },
     {
      "name": "Yellow Potatoes, Roasted w/ Oil",
@@ -40,7 +41,8 @@
      "fiber": 1.4,
      "sugar": 0.7,
      "sodium": 3.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -53,7 +55,8 @@
      "fiber": 6.4,
      "sugar": 2.7,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cauliflower Dip, Spicy Queso",
@@ -64,7 +67,8 @@
      "fat": 1.7,
      "fiber": 0.6,
      "sugar": 0.6,
-     "sodium": 133.5
+     "sodium": 133.5,
+     "whole": 0.3
     },
     {
      "name": "Plant-Based Sour Cream Alternative",
@@ -77,7 +81,8 @@
      "fiber": 0.2,
      "sugar": 0.0,
      "sodium": 16.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -123,7 +128,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 570.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Mediterranean Chickpea Salad",
@@ -136,7 +142,8 @@
      "fiber": 4.0,
      "sugar": 1.2,
      "sodium": 127.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Abe's Wild Blueberry Mini-muffin",
@@ -148,7 +155,8 @@
      "satfat": 0.5,
      "fiber": 1.0,
      "sugar": 10.0,
-     "sodium": 80.0
+     "sodium": 80.0,
+     "whole": 0.1
     },
     {
      "name": "Burger Buns Done Right",
@@ -161,7 +169,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 130.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -206,12 +215,14 @@
      "fiber": 1.2,
      "sugar": 20.2,
      "sodium": 261.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chicken Tenders",
      "portion": "2/3 each",
-     "kcal": 80
+     "kcal": 80,
+     "whole": 0.25
     },
     {
      "name": "Croissant",
@@ -219,7 +230,8 @@
      "kcal": 50,
      "protein": 1.0,
      "carbs": 10.5,
-     "fat": 6.0
+     "fat": 6.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -263,7 +275,8 @@
      "fiber": 15.5,
      "sugar": 0.6,
      "sodium": 1.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Cornbread, From Mix",
@@ -276,7 +289,8 @@
      "fiber": 1.4,
      "sugar": 0.0,
      "sodium": 466.8,
-     "cholesterol": 36.6
+     "cholesterol": 36.6,
+     "whole": 0.5
     },
     {
      "name": "Homemade Sauteed Spinach W/ Olive Oil",
@@ -289,7 +303,8 @@
      "fiber": 2.0,
      "sugar": 0.0,
      "sodium": 102.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -333,7 +348,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 59.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -345,7 +361,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

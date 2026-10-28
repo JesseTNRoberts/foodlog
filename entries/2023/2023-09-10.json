@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 18.0,
      "sodium": 577.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Smoothie - Strawberry, Banana, Spinach, Oat",
@@ -42,7 +43,8 @@
      "fiber": 1.9,
      "sugar": 6.3,
      "sodium": 34.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 0.2,
      "sugar": 1.7,
      "sodium": 250.8,
-     "cholesterol": 162.7
+     "cholesterol": 162.7,
+     "whole": 0.5
     },
     {
      "name": "Soda, Dr. Pepper",
@@ -98,7 +101,8 @@
      "fiber": 0.0,
      "sugar": 80.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Pasta, Spaghetti, Enriched, Cooked",
@@ -111,7 +115,8 @@
      "fiber": 2.5,
      "sugar": 0.8,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mushrooms, Sliced, Cooked",
@@ -124,7 +129,8 @@
      "fiber": 1.7,
      "sugar": 1.8,
      "sodium": 1.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -164,7 +170,8 @@
      "kcal": 430,
      "protein": 21.0,
      "carbs": 27.0,
-     "fat": 26.0
+     "fat": 26.0,
+     "whole": 0.15
     },
     {
      "name": "Fries",
@@ -177,7 +184,8 @@
      "fiber": 2.5,
      "sugar": 1.0,
      "sodium": 390.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -215,7 +223,8 @@
      "kcal": 225,
      "protein": 2.8,
      "carbs": 3.6,
-     "fat": 1.9
+     "fat": 1.9,
+     "whole": 0.3
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -227,7 +236,8 @@
      "satfat": 0.8,
      "fiber": 1.5,
      "sugar": 3.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -240,7 +250,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Mission Carb Balance Original Pita",
@@ -253,7 +264,8 @@
      "fiber": 17.0,
      "sugar": 0.0,
      "sodium": 250.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Chicken Tenders",
@@ -263,7 +275,8 @@
      "carbs": 4.2,
      "fat": 3.5,
      "sugar": 0.2,
-     "sodium": 192.5
+     "sodium": 192.5,
+     "whole": 0.25
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -276,7 +289,8 @@
      "fiber": 0.0,
      "sugar": 6.2,
      "sodium": 221.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

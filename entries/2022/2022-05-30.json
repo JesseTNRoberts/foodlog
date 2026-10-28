@@ -26,7 +26,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -39,7 +40,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 412.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -52,7 +54,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -62,7 +65,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -75,7 +79,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -88,7 +93,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mini Seedless Cucumber",
@@ -101,7 +107,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -114,7 +121,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -161,7 +169,8 @@
      "fat": 8.3,
      "satfat": 0.9,
      "fiber": 1.9,
-     "sodium": 166.2
+     "sodium": 166.2,
+     "whole": 0.85
     },
     {
      "name": "Fuego Grain Free Tortilla Chips 19 Chips 28g",
@@ -174,7 +183,8 @@
      "fiber": 1.5,
      "sugar": 0.5,
      "sodium": 62.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -214,7 +224,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -227,7 +238,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 412.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -240,7 +252,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -250,7 +263,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -263,7 +277,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -276,7 +291,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Mini Seedless Cucumber",
@@ -289,7 +305,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -302,7 +319,8 @@
      "fiber": 0.8,
      "sugar": 1.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -351,7 +369,8 @@
      "fiber": 2.2,
      "sugar": 0.0,
      "sodium": 921.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

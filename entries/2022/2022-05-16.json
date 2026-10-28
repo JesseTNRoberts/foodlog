@@ -26,7 +26,8 @@
      "carbs": 2.0,
      "fat": 24.0,
      "satfat": 2.0,
-     "sodium": 170.0
+     "sodium": 170.0,
+     "whole": 0.3
     },
     {
      "name": "Homestyle Croutons Caesar",
@@ -39,7 +40,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 400.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Unsalted Sunflower Kernals",
@@ -52,7 +54,8 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salad, mixed greens",
@@ -62,7 +65,8 @@
      "carbs": 4.0,
      "fat": 0.0,
      "fiber": 1.3,
-     "sodium": 20.0
+     "sodium": 20.0,
+     "whole": 0.7
     },
     {
      "name": "vegan cheese",
@@ -75,7 +79,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 172.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -88,7 +93,8 @@
      "fiber": 2.6,
      "sugar": 0.5,
      "sodium": 94.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Shrimp, Small - Boiled Or Steamed",
@@ -97,7 +103,8 @@
      "protein": 8.5,
      "carbs": 0.4,
      "fat": 0.7,
-     "sodium": 188.8
+     "sodium": 188.8,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Cherry",
@@ -110,7 +117,8 @@
      "fiber": 1.2,
      "sugar": 2.2,
      "sodium": 4.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -151,7 +159,8 @@
     {
      "name": "Bowl Of Chili, No Cheese",
      "portion": "1 serving",
-     "kcal": 390
+     "kcal": 390,
+     "whole": 0.7
     },
     {
      "name": "Chicken, Grilled BBQ",
@@ -164,7 +173,8 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 510.0,
-     "cholesterol": 110.0
+     "cholesterol": 110.0,
+     "whole": 0.8
     }
    ],
    "eaten": {
@@ -199,7 +209,8 @@
     {
      "name": "Apple Bundt Cake",
      "portion": "2 servings",
-     "kcal": 560
+     "kcal": 560,
+     "whole": 0.1
     },
     {
      "name": "Bread",
@@ -208,7 +219,8 @@
      "protein": 31.2,
      "carbs": 166.2,
      "fat": 66.0,
-     "sodium": 1614.0
+     "sodium": 1614.0,
+     "whole": 0.5
     },
     {
      "name": "Fried Rice",
@@ -218,7 +230,8 @@
      "carbs": 19.0,
      "fat": 2.5,
      "sugar": 4.5,
-     "sodium": 400.0
+     "sodium": 400.0,
+     "whole": 0.3
     },
     {
      "name": "Vegetables",
@@ -231,7 +244,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 315.7,
-     "cholesterol": 3.3
+     "cholesterol": 3.3,
+     "whole": 1.0
     }
    ],
    "eaten": {

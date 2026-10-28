@@ -29,7 +29,8 @@
      "fiber": 9.2,
      "sugar": 0.4,
      "sodium": 10.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Greek Pita Bread, Flatbread, White",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 4.0,
      "sodium": 420.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Tomatoes, Campari",
@@ -55,7 +57,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -98,7 +101,8 @@
      "satfat": 0.8,
      "fiber": 1.5,
      "sugar": 3.0,
-     "sodium": 330.0
+     "sodium": 330.0,
+     "whole": 0.5
     },
     {
      "name": "Naan Bites",
@@ -111,7 +115,8 @@
      "fiber": 0.0,
      "sugar": 1.2,
      "sodium": 275.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Cereal, Honey Bunches of Oats, Honey Roasted",
@@ -124,7 +129,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Hummus (original)",
@@ -137,7 +143,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 195.0,
-     "cholesterol": 13.4
+     "cholesterol": 13.4,
+     "whole": 0.7
     },
     {
      "name": "Pickles, Dill, Spears",
@@ -150,7 +157,8 @@
      "fiber": 0.4,
      "sugar": 0.5,
      "sodium": 306.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -196,7 +204,8 @@
      "fiber": 4.0,
      "sugar": 0.0,
      "sodium": 90.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Bread, Texas Toast",
@@ -209,7 +218,8 @@
      "fiber": 2.0,
      "sugar": 10.0,
      "sodium": 580.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Sauce, Cane's",
@@ -222,7 +232,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 825.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken Finger",
@@ -235,7 +246,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 460.0,
-     "cholesterol": 60.0
+     "cholesterol": 60.0,
+     "whole": 0.25
     },
     {
      "name": "Soda, Dr Pepper",
@@ -248,7 +260,8 @@
      "fiber": 0.0,
      "sugar": 32.5,
      "sodium": 45.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {

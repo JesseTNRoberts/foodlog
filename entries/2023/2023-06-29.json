@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Nectarines, Med, Fresh",
@@ -42,7 +43,8 @@
      "fiber": 2.4,
      "sugar": 11.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 170.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -125,7 +128,8 @@
      "fat": 15.1,
      "satfat": 4.2,
      "sugar": 0.0,
-     "cholesterol": 130.0
+     "cholesterol": 130.0,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -138,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 150.0,
-     "cholesterol": 130.0
+     "cholesterol": 130.0,
+     "whole": 1.0
     },
     {
      "name": "Baba Ghannouj Eggplant Dip",
@@ -150,7 +155,8 @@
      "satfat": 1.3,
      "fiber": 2.7,
      "sugar": 2.7,
-     "sodium": 334.9
+     "sodium": 334.9,
+     "whole": 0.5
     },
     {
      "name": "Naan Bites",
@@ -163,7 +169,8 @@
      "fiber": 0.0,
      "sugar": 0.8,
      "sodium": 165.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     }
    ],
    "eaten": {
@@ -208,7 +215,8 @@
      "fiber": 2.4,
      "sugar": 11.2,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -250,7 +258,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 492.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Green Beans, Cut, Canned",
@@ -263,7 +272,8 @@
      "fiber": 4.0,
      "sugar": 2.0,
      "sodium": 600.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Campari",
@@ -276,7 +286,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach",
@@ -289,7 +300,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 43.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Croutons, Seasoned",
@@ -302,7 +314,8 @@
      "fiber": 0.1,
      "sugar": 0.1,
      "sodium": 30.9,
-     "cholesterol": 0.2
+     "cholesterol": 0.2,
+     "whole": 0.25
     },
     {
      "name": "Cucumber, Sliced",
@@ -315,7 +328,8 @@
      "fiber": 0.4,
      "sugar": 0.8,
      "sodium": 1.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -362,7 +376,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Naan Bites",
@@ -375,7 +390,8 @@
      "fiber": 0.0,
      "sugar": 0.5,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Baba Ghannouj Eggplant Dip",
@@ -387,7 +403,8 @@
      "satfat": 0.5,
      "fiber": 0.9,
      "sugar": 0.9,
-     "sodium": 111.6
+     "sodium": 111.6,
+     "whole": 0.5
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -399,7 +416,8 @@
      "satfat": 0.2,
      "fiber": 0.3,
      "sugar": 0.7,
-     "sodium": 73.3
+     "sodium": 73.3,
+     "whole": 0.5
     }
    ],
    "eaten": {

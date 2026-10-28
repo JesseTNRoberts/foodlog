@@ -29,7 +29,8 @@
      "fiber": 1.8,
      "sugar": 1.5,
      "sodium": 848.8,
-     "cholesterol": 23.1
+     "cholesterol": 23.1,
+     "whole": 0.5
     },
     {
      "name": "Avocado",
@@ -42,7 +43,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salmon, Sockeye, Wild Caught",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 35.0,
-     "cholesterol": 35.0
+     "cholesterol": 35.0,
+     "whole": 1.0
     },
     {
      "name": "Pear, Medium",
@@ -68,7 +71,8 @@
      "fiber": 3.7,
      "sugar": 11.6,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -113,7 +117,8 @@
      "fiber": 2.0,
      "sugar": 3.0,
      "sodium": 500.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -155,7 +160,8 @@
      "fiber": 0.0,
      "sugar": 16.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -197,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.0,
-     "cholesterol": 70.0
+     "cholesterol": 70.0,
+     "whole": 1.0
     },
     {
      "name": "Avocado",
@@ -210,7 +217,8 @@
      "fiber": 6.7,
      "sugar": 0.7,
      "sodium": 7.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Chickpeas, Cooked, No Salt",
@@ -223,7 +231,8 @@
      "fiber": 6.2,
      "sugar": 3.9,
      "sodium": 5.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -236,7 +245,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Pear, Medium",
@@ -249,7 +259,8 @@
      "fiber": 5.5,
      "sugar": 17.4,
      "sodium": 1.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cashews, Whole, Raw",
@@ -262,7 +273,8 @@
      "fiber": 0.6,
      "sugar": 1.1,
      "sodium": 2.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Hummus",
@@ -275,7 +287,8 @@
      "fiber": 1.9,
      "sugar": 0.7,
      "sodium": 2.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -288,7 +301,8 @@
      "fiber": 3.4,
      "sugar": 1.4,
      "sodium": 42.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach, Baby, Fresh",
@@ -301,7 +315,8 @@
      "fiber": 0.7,
      "sugar": 0.1,
      "sodium": 23.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Vinegar, Red Wine",
@@ -314,7 +329,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -365,7 +381,8 @@
      "fiber": 0.4,
      "sugar": 8.2,
      "sodium": 94.3,
-     "cholesterol": 13.2
+     "cholesterol": 13.2,
+     "whole": 0.15
     }
    ],
    "eaten": {

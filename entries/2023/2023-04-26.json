@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 569.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Gluten Free Pumpkin Spice Waffles",
@@ -42,7 +43,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 390.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Maple Syrup",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 39.8,
      "sodium": 2.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Tomatoes, Campari",
@@ -68,7 +71,8 @@
      "fiber": 0.8,
      "sugar": 2.0,
      "sodium": 2.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Spinach",
@@ -81,7 +85,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 21.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

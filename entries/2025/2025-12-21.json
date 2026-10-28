@@ -29,7 +29,8 @@
      "fiber": 13.5,
      "sugar": 1.3,
      "sodium": 14.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Bread, Sourdough",
@@ -42,7 +43,8 @@
      "fiber": 1.5,
      "sugar": 1.6,
      "sodium": 416.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "“Sizzle” Extra Virgin Olive Oil",
@@ -52,7 +54,8 @@
      "carbs": 0.0,
      "fat": 14.0,
      "satfat": 2.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Chulula Hot Sauce",
@@ -65,7 +68,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 110.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -110,7 +114,8 @@
      "fiber": 1.0,
      "sugar": 7.5,
      "sodium": 155.0,
-     "cholesterol": 12.5
+     "cholesterol": 12.5,
+     "whole": 0.1
     }
    ],
    "eaten": {

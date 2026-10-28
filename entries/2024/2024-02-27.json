@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 0.0,
      "sodium": 240.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "FrIed Rice",
@@ -42,7 +43,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Milk, Oat Milk",
@@ -98,7 +101,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Cereal, Raisin Bran",
@@ -111,7 +115,8 @@
      "fiber": 2.3,
      "sugar": 6.0,
      "sodium": 69.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     }
    ],
    "eaten": {
@@ -155,7 +160,8 @@
      "fiber": 3.7,
      "sugar": 3.7,
      "sodium": 337.5,
-     "cholesterol": 20.1
+     "cholesterol": 20.1,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips",
@@ -168,7 +174,8 @@
      "fiber": 2.4,
      "sugar": 0.0,
      "sodium": 140.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -181,7 +188,8 @@
      "fiber": 0.2,
      "sugar": 0.5,
      "sodium": 141.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sweet red peppers small seedless",
@@ -190,7 +198,8 @@
      "protein": 1.0,
      "carbs": 6.0,
      "fat": 0.3,
-     "fiber": 2.8
+     "fiber": 2.8,
+     "whole": 1.0
     },
     {
      "name": "Carrots, Baby, Fresh",
@@ -203,7 +212,8 @@
      "fiber": 1.9,
      "sugar": 3.5,
      "sodium": 49.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Salsa, Chunky",
@@ -216,7 +226,8 @@
      "fiber": 2.6,
      "sugar": 5.3,
      "sodium": 612.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -263,7 +274,8 @@
      "fiber": 2.7,
      "sugar": 8.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Milk, Oat Milk",
@@ -276,7 +288,8 @@
      "fiber": 2.0,
      "sugar": 7.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Puffs, Aged White Cheddar",
@@ -285,7 +298,8 @@
      "protein": 2.0,
      "carbs": 18.0,
      "fat": 6.0,
-     "sodium": 190.0
+     "sodium": 190.0,
+     "whole": 0.25
     }
    ],
    "eaten": {

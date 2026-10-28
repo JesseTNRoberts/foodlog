@@ -29,7 +29,8 @@
      "fiber": 2.4,
      "sugar": 25.2,
      "sodium": 588.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chocolate Chip Crunchy Cookie",
@@ -42,7 +43,8 @@
      "fiber": 6.0,
      "sugar": 12.0,
      "sodium": 195.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Syrup, Maple",
@@ -55,7 +57,8 @@
      "fiber": 0.0,
      "sugar": 23.8,
      "sodium": 3.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -99,7 +102,8 @@
      "fiber": 4.3,
      "sugar": 6.9,
      "sodium": 1092.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -112,7 +116,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 110.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -125,7 +130,8 @@
      "fiber": 2.5,
      "sugar": 5.0,
      "sodium": 575.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 2.6,
      "sugar": 14.7,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -211,7 +218,8 @@
      "fiber": 2.4,
      "sugar": 3.9,
      "sodium": 150.3,
-     "cholesterol": 7.2
+     "cholesterol": 7.2,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -253,7 +261,8 @@
      "fiber": 1.2,
      "sugar": 14.4,
      "sodium": 137.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Sheep Milk Yogurt, Vanilla",
@@ -266,7 +275,8 @@
      "fiber": 0.0,
      "sugar": 9.0,
      "sodium": 90.0,
-     "cholesterol": 40.0
+     "cholesterol": 40.0,
+     "whole": 0.85
     },
     {
      "name": "Non Dairy Oatmeal Cream Pie",
@@ -277,7 +287,8 @@
      "fat": 4.3,
      "satfat": 2.5,
      "fiber": 0.4,
-     "sugar": 10.4
+     "sugar": 10.4,
+     "whole": 0.1
     },
     {
      "name": "Hushpuppies",
@@ -290,7 +301,8 @@
      "fiber": 0.6,
      "sugar": 1.1,
      "sodium": 255.6,
-     "cholesterol": 2.8
+     "cholesterol": 2.8,
+     "whole": 0.3
     },
     {
      "name": "Potato Chips, Voodoo Heat",
@@ -303,7 +315,8 @@
      "fiber": 0.4,
      "sugar": 0.4,
      "sodium": 94.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chokecherry Syrup",
@@ -313,7 +326,8 @@
      "carbs": 3.8,
      "fat": 0.0,
      "sugar": 2.8,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {

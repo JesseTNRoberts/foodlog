@@ -29,7 +29,8 @@
      "fiber": 0.5,
      "sugar": 2.0,
      "sodium": 120.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     }
    ],
    "eaten": {
@@ -70,7 +71,8 @@
      "satfat": 6.4,
      "fiber": 0.8,
      "sugar": 18.4,
-     "sodium": 329.0
+     "sodium": 329.0,
+     "whole": 0.1
     },
     {
      "name": "Sour Dough Baguette",
@@ -83,7 +85,8 @@
      "fiber": 1.0,
      "sugar": 1.0,
      "sodium": 93.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Non-Dairy, Cheddar Style Shreds",
@@ -92,7 +95,8 @@
      "carbs": 14.2,
      "fat": 12.2,
      "satfat": 12.2,
-     "sodium": 567.0
+     "sodium": 567.0,
+     "whole": 0.25
     },
     {
      "name": "Boars Head Honey Maple Turkey",
@@ -103,7 +107,8 @@
      "fat": 1.5,
      "sugar": 3.0,
      "sodium": 660.0,
-     "cholesterol": 45.0
+     "cholesterol": 45.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -148,7 +153,8 @@
      "fiber": 0.0,
      "sugar": 11.2,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -190,7 +196,8 @@
      "fiber": 3.0,
      "sugar": 6.7,
      "sodium": 729.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Orange",
@@ -203,7 +210,8 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Grilled Teriyaki",
@@ -216,14 +224,16 @@
      "fiber": 0.0,
      "sugar": 8.0,
      "sodium": 530.0,
-     "cholesterol": 185.0
+     "cholesterol": 185.0,
+     "whole": 0.5
     },
     {
      "name": "Mixed Veggies, Side",
      "portion": "1/4 serving",
      "kcal": 8,
      "protein": 1.2,
-     "carbs": 5.5
+     "carbs": 5.5,
+     "whole": 1.0
     }
    ],
    "eaten": {

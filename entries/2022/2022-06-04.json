@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 6.0,
      "sodium": 1260.0,
-     "cholesterol": 30.0
+     "cholesterol": 30.0,
+     "whole": 0.3
     },
     {
      "name": "Broccoli, Chopped, Steamed",
@@ -42,7 +43,8 @@
      "fiber": 10.3,
      "sugar": 4.3,
      "sodium": 127.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Simple Truth Organic Creamy Ranch Dressing Salad",
@@ -55,7 +57,8 @@
      "fiber": 1.1,
      "sugar": 0.9,
      "sodium": 155.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -91,7 +94,8 @@
     {
      "name": "Oarmeal Raisin Cookie",
      "portion": "1 serving",
-     "kcal": 113
+     "kcal": 113,
+     "whole": 0.1
     },
     {
      "name": "Plant-based meatballs with orzo and vegetables",
@@ -104,7 +108,8 @@
      "fiber": 1.5,
      "sugar": 2.2,
      "sodium": 267.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Brussels Sprouts, Steamed",
@@ -117,7 +122,8 @@
      "fiber": 6.2,
      "sugar": 4.5,
      "sodium": 49.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Simple Truth Organic Creamy Ranch Dressing Salad",
@@ -130,7 +136,8 @@
      "fiber": 1.1,
      "sugar": 0.9,
      "sodium": 155.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -173,7 +180,8 @@
      "fat": 7.3,
      "fiber": 1.5,
      "sugar": 0.0,
-     "sodium": 2149.0
+     "sodium": 2149.0,
+     "whole": 0.25
     },
     {
      "name": "Corn bread",
@@ -182,7 +190,8 @@
      "protein": 6.8,
      "carbs": 74.0,
      "fat": 6.0,
-     "fiber": 1.2
+     "fiber": 1.2,
+     "whole": 0.5
     },
     {
      "name": "Honey Mustard",
@@ -195,7 +204,8 @@
      "fiber": 0.0,
      "sugar": 13.5,
      "sodium": 337.5,
-     "cholesterol": 33.9
+     "cholesterol": 33.9,
+     "whole": 0.3
     },
     {
      "name": "Side, Potato Wedges, Individual",
@@ -208,7 +218,8 @@
      "fiber": 3.0,
      "sugar": 0.0,
      "sodium": 700.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Pan fried potatoes",
@@ -216,7 +227,8 @@
      "kcal": 90,
      "protein": 8.4,
      "carbs": 70.2,
-     "fat": 28.5
+     "fat": 28.5,
+     "whole": 0.3
     },
     {
      "name": "Green Beans, Cooked",
@@ -229,7 +241,8 @@
      "fiber": 4.0,
      "sugar": 4.5,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -268,7 +281,8 @@
     {
      "name": "Apple Bundt Cake",
      "portion": "1 serving",
-     "kcal": 280
+     "kcal": 280,
+     "whole": 0.1
     },
     {
      "name": "Dr. Pepper 16.9oz",
@@ -278,7 +292,8 @@
      "carbs": 55.7,
      "fat": 0.0,
      "sugar": 54.7,
-     "sodium": 79.5
+     "sodium": 79.5,
+     "whole": 0.0
     }
    ],
    "eaten": {

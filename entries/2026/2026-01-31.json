@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 3.8,
      "sodium": 390.0,
-     "cholesterol": 48.8
+     "cholesterol": 48.8,
+     "whole": 0.1
     },
     {
      "name": "Danish, Raspberry",
@@ -42,7 +43,8 @@
      "fiber": 0.9,
      "sugar": 13.4,
      "sodium": 167.6,
-     "cholesterol": 54.0
+     "cholesterol": 54.0,
+     "whole": 0.1
     },
     {
      "name": "Sourdough Round Bread",
@@ -54,7 +56,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sugar": 1.0,
-     "sodium": 145.0
+     "sodium": 145.0,
+     "whole": 0.7
     },
     {
      "name": "Cheese, Aged Sharp White Cheddar Slice",
@@ -66,7 +69,8 @@
      "satfat": 2.0,
      "fiber": 0.0,
      "sodium": 67.5,
-     "cholesterol": 10.0
+     "cholesterol": 10.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -111,7 +115,8 @@
      "fiber": 4.7,
      "sugar": 0.4,
      "sodium": 274.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Pita Chips, Fire Roasted Jalapeno",
@@ -124,7 +129,8 @@
      "fiber": 0.7,
      "sugar": 1.2,
      "sodium": 378.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Tomatoes, Cherry",
@@ -137,7 +143,8 @@
      "fiber": 2.9,
      "sugar": 6.3,
      "sodium": 11.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Broccoli apple soup",
@@ -150,7 +157,8 @@
      "fiber": 1.4,
      "sugar": 2.0,
      "sodium": 131.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -192,7 +200,8 @@
      "carbs": 31.5,
      "fat": 21.0,
      "fiber": 1.5,
-     "sugar": 25.5
+     "sugar": 25.5,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -234,7 +243,8 @@
      "fiber": 0.5,
      "sugar": 0.0,
      "sodium": 43.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Sourdough Round Bread",
@@ -246,7 +256,8 @@
      "satfat": 0.0,
      "fiber": 0.5,
      "sugar": 0.5,
-     "sodium": 72.5
+     "sodium": 72.5,
+     "whole": 0.7
     },
     {
      "name": "Sharp White Cheddar Cheese Slices",
@@ -259,7 +270,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 67.4,
-     "cholesterol": 9.0
+     "cholesterol": 9.0,
+     "whole": 0.85
     },
     {
      "name": "Homemade Salsa",
@@ -272,7 +284,8 @@
      "fiber": 0.8,
      "sugar": 2.3,
      "sodium": 111.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Mustard, Delicatessen Style",
@@ -285,7 +298,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 40.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

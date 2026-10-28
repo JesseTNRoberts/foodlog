@@ -27,7 +27,8 @@
      "fat": 9.6,
      "satfat": 2.5,
      "sugar": 0.0,
-     "cholesterol": 78.0
+     "cholesterol": 78.0,
+     "whole": 1.0
     },
     {
      "name": "Grilled Chicken",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 18.8,
-     "cholesterol": 16.2
+     "cholesterol": 16.2,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -83,7 +85,8 @@
      "fiber": 0.8,
      "sugar": 0.0,
      "sodium": 30.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -125,7 +128,8 @@
      "fiber": 5.0,
      "sugar": 0.0,
      "sodium": 570.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Anything sauce Creole",
@@ -138,7 +142,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 180.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -151,7 +156,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Broccoli, Grilled w/ Oil",
@@ -164,7 +170,8 @@
      "fiber": 1.0,
      "sugar": 0.4,
      "sodium": 11.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -209,7 +216,8 @@
      "fiber": 3.4,
      "sugar": 2.3,
      "sodium": 74.3,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -250,7 +258,8 @@
      "satfat": 5.0,
      "fiber": 5.0,
      "sugar": 1.0,
-     "sodium": 259.0
+     "sodium": 259.0,
+     "whole": 0.3
     },
     {
      "name": "Hush Puppies, Homemade",
@@ -263,7 +272,8 @@
      "fiber": 1.9,
      "sugar": 1.3,
      "sodium": 440.9,
-     "cholesterol": 29.7
+     "cholesterol": 29.7,
+     "whole": 0.3
     },
     {
      "name": "Fish, Channel Catfish, Breaded & Fried",
@@ -276,7 +286,8 @@
      "fiber": 0.0,
      "sugar": 0.6,
      "sodium": 243.6,
-     "cholesterol": 70.5
+     "cholesterol": 70.5,
+     "whole": 0.3
     },
     {
      "name": "Dressing, Honey Mustard",
@@ -289,7 +300,8 @@
      "fiber": 0.0,
      "sugar": 6.0,
      "sodium": 210.0,
-     "cholesterol": 15.0
+     "cholesterol": 15.0,
+     "whole": 0.3
     },
     {
      "name": "Bun, Hamburger, Plain",
@@ -302,7 +314,8 @@
      "fiber": 0.9,
      "sugar": 2.7,
      "sodium": 206.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {

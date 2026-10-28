@@ -29,7 +29,8 @@
      "fiber": 6.0,
      "sugar": 0.0,
      "sodium": 780.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     }
    ],
    "eaten": {
@@ -63,7 +64,8 @@
     {
      "name": "Apricot Pie",
      "portion": "1 slice",
-     "kcal": 174
+     "kcal": 174,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -105,7 +107,8 @@
      "fiber": 6.0,
      "sugar": 5.0,
      "sodium": 830.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "O Charley’s Honey Mustard",
@@ -118,7 +121,8 @@
      "fiber": 0.0,
      "sugar": 7.6,
      "sodium": 283.5,
-     "cholesterol": 9.4
+     "cholesterol": 9.4,
+     "whole": 0.3
     },
     {
      "name": "Impossible Burger, Patty",
@@ -131,7 +135,8 @@
      "fiber": 3.0,
      "sugar": 0.5,
      "sodium": 370.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Pretzel Bagel",
@@ -143,7 +148,8 @@
      "satfat": 0.0,
      "fiber": 6.1,
      "sugar": 12.1,
-     "sodium": 870.9
+     "sodium": 870.9,
+     "whole": 0.25
     },
     {
      "name": "Bac-No-Naise Vegan Mayo",
@@ -156,7 +162,8 @@
      "fiber": 0.0,
      "sugar": 2.0,
      "sodium": 120.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Chips, Tortilla, Scoops",
@@ -169,7 +176,8 @@
      "fiber": 1.0,
      "sugar": 0.0,
      "sodium": 115.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky, Mild",
@@ -182,7 +190,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 345.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -224,7 +233,8 @@
      "portion": "1 7/8 servings",
      "kcal": 188,
      "carbs": 16.9,
-     "fat": 0.0
+     "fat": 0.0,
+     "whole": 0.0
     },
     {
      "name": "Oat Milk Low Fat",
@@ -236,7 +246,8 @@
      "satfat": 0.0,
      "fiber": 1.0,
      "sodium": 50.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

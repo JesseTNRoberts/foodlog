@@ -29,7 +29,8 @@
      "fiber": 0.5,
      "sugar": 20.0,
      "sodium": 113.0,
-     "cholesterol": 21.5
+     "cholesterol": 21.5,
+     "whole": 0.1
     },
     {
      "name": "Just Egg",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Tomatoes, Cherry",
@@ -55,7 +57,8 @@
      "fiber": 0.6,
      "sugar": 1.3,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Kale, All Varieties, Raw, Chopped",
@@ -68,7 +71,8 @@
      "fiber": 0.5,
      "sugar": 0.3,
      "sodium": 5.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -112,7 +116,8 @@
      "satfat": 1.6,
      "fiber": 1.6,
      "sodium": 752.0,
-     "cholesterol": 26.0
+     "cholesterol": 26.0,
+     "whole": 0.25
     },
     {
      "name": "Jumbo Black Tiger Shrimp",
@@ -125,7 +130,8 @@
      "fiber": 2.2,
      "sugar": 9.0,
      "sodium": 94.5,
-     "cholesterol": 270.0
+     "cholesterol": 270.0,
+     "whole": 1.0
     },
     {
      "name": "Steamed Lobster Tail (4 oz)",
@@ -138,7 +144,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 332.0,
-     "cholesterol": 108.0
+     "cholesterol": 108.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -182,7 +189,8 @@
      "fiber": 6.0,
      "sugar": 5.2,
      "sodium": 510.0,
-     "cholesterol": 11.2
+     "cholesterol": 11.2,
+     "whole": 0.25
     },
     {
      "name": "Steamed Lobster Tail (4 oz)",
@@ -195,7 +203,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 332.0,
-     "cholesterol": 108.0
+     "cholesterol": 108.0,
+     "whole": 1.0
     },
     {
      "name": "Oil, Olive, Extra Virgin",
@@ -208,7 +217,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Breadcrumbs, Italian Style",
@@ -221,7 +231,8 @@
      "fiber": 0.5,
      "sugar": 1.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -266,7 +277,8 @@
      "fiber": 1.0,
      "sugar": 40.0,
      "sodium": 226.0,
-     "cholesterol": 43.0
+     "cholesterol": 43.0,
+     "whole": 0.1
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -279,7 +291,8 @@
      "fiber": 2.1,
      "sugar": 1.4,
      "sodium": 135.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Cereal, Honey Bunches Of Oats, Pecan & Maple",
@@ -292,7 +305,8 @@
      "fiber": 1.3,
      "sugar": 4.0,
      "sodium": 80.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Protein and Nutmilk, Almond and Cashew",
@@ -304,7 +318,8 @@
      "satfat": 0.2,
      "fiber": 0.5,
      "sugar": 1.0,
-     "sodium": 110.0
+     "sodium": 110.0,
+     "whole": 0.5
     },
     {
      "name": "Tortilla Chips, Bite Size Rounds",
@@ -317,7 +332,8 @@
      "fiber": 0.4,
      "sugar": 0.0,
      "sodium": 44.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -330,7 +346,8 @@
      "fiber": 1.5,
      "sugar": 3.0,
      "sodium": 345.1,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {

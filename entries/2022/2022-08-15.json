@@ -27,7 +27,8 @@
      "fat": 10.7,
      "satfat": 1.6,
      "sugar": 14.2,
-     "sodium": 0.3
+     "sodium": 0.3,
+     "whole": 0.5
     },
     {
      "name": "Maple Syrup",
@@ -40,7 +41,8 @@
      "fiber": 0.0,
      "sugar": 26.5,
      "sodium": 1.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Coffee, Brewed",
@@ -53,7 +55,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 9.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

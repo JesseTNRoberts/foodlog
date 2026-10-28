@@ -29,7 +29,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 426.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Spinach",
@@ -42,7 +43,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 21.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Grape",
@@ -55,7 +57,8 @@
      "fiber": 0.3,
      "sugar": 0.7,
      "sodium": 1.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -99,12 +102,14 @@
      "fiber": 2.0,
      "sugar": 0.5,
      "sodium": 525.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Taco Soup",
      "portion": "1 serving",
-     "kcal": 181
+     "kcal": 181,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee With Oat Milk",
@@ -112,7 +117,8 @@
      "kcal": 160,
      "carbs": 40.0,
      "fat": 0.0,
-     "sugar": 40.0
+     "sugar": 40.0,
+     "whole": 0.5
     },
     {
      "name": "Salt And Vinegar Chips",
@@ -123,7 +129,8 @@
      "fat": 6.9,
      "satfat": 0.8,
      "fiber": 1.5,
-     "sodium": 138.5
+     "sodium": 138.5,
+     "whole": 0.85
     },
     {
      "name": "Cauliflower Dip",
@@ -136,7 +143,8 @@
      "fiber": 2.0,
      "sugar": 2.0,
      "sodium": 320.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     }
    ],
    "eaten": {

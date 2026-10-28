@@ -29,7 +29,8 @@
      "fiber": 3.0,
      "sugar": 1.5,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Bread, Thin Sliced, 21 Whole Grains & Seeds",
@@ -42,7 +43,8 @@
      "fiber": 3.0,
      "sugar": 3.0,
      "sodium": 100.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.6
     },
     {
      "name": "Blackberries",
@@ -55,7 +57,8 @@
      "fiber": 4.0,
      "sugar": 7.3,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Milk, Fat Free, Ultra-Filtered",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 3.0,
      "sodium": 59.1,
-     "cholesterol": 2.5
+     "cholesterol": 2.5,
+     "whole": 0.85
     },
     {
      "name": "Chia Seeds",
@@ -81,7 +85,8 @@
      "fiber": 2.5,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -127,7 +132,8 @@
      "fiber": 5.4,
      "sugar": 7.1,
      "sodium": 788.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     }
    ],
    "eaten": {
@@ -169,7 +175,8 @@
      "fiber": 15.2,
      "sugar": 3.4,
      "sodium": 789.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Chips, Tortilla, Strips, Restaurant Style",
@@ -182,7 +189,8 @@
      "fiber": 0.7,
      "sugar": 0.0,
      "sodium": 57.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Salsa, Chunky",
@@ -195,7 +203,8 @@
      "fiber": 2.6,
      "sugar": 5.3,
      "sodium": 612.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     }
    ],
    "eaten": {
@@ -239,7 +248,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 123.3,
-     "cholesterol": 75.1
+     "cholesterol": 75.1,
+     "whole": 1.0
     },
     {
      "name": "Lemon Garlic Butter Sauce",
@@ -250,7 +260,8 @@
      "fat": 15.2,
      "satfat": 9.5,
      "sodium": 105.9,
-     "cholesterol": 41.4
+     "cholesterol": 41.4,
+     "whole": 0.5
     }
    ],
    "eaten": {
@@ -293,7 +304,8 @@
      "fiber": 2.7,
      "sugar": 2.7,
      "sodium": 186.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.2
     },
     {
      "name": "Banana, Medium, 7\" - 7 7/8\" Long",
@@ -306,7 +318,8 @@
      "fiber": 3.7,
      "sugar": 14.4,
      "sodium": 1.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

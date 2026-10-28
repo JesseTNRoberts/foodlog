@@ -29,7 +29,8 @@
      "fiber": 1.5,
      "sugar": 1.6,
      "sodium": 416.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Cultured Vegan Butter Made With Oat Milk",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 70.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Peach, Large",
@@ -55,7 +57,8 @@
      "fiber": 2.6,
      "sugar": 14.7,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Jelly, Concord Grape",
@@ -68,7 +71,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -81,7 +85,8 @@
      "fiber": 0.5,
      "sugar": 1.8,
      "sodium": 2.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

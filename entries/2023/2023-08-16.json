@@ -29,7 +29,8 @@
      "fiber": 1.0,
      "sugar": 3.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Jam, Strawberry",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 12.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.1
     },
     {
      "name": "Chokecherry jelly",
@@ -51,7 +53,8 @@
      "carbs": 11.0,
      "fat": 0.0,
      "sugar": 10.0,
-     "sodium": 0.0
+     "sodium": 0.0,
+     "whole": 0.1
     }
    ],
    "eaten": {
@@ -95,7 +98,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Nuts, Pistachios, Kernels",
@@ -108,7 +112,8 @@
      "fiber": 1.0,
      "sugar": 0.7,
      "sodium": 62.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Apricot, Dried",
@@ -121,7 +126,8 @@
      "fiber": 0.5,
      "sugar": 3.7,
      "sodium": 0.7,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -165,7 +171,8 @@
      "fiber": 6.3,
      "sugar": 10.4,
      "sodium": 401.1,
-     "cholesterol": 19.2
+     "cholesterol": 19.2,
+     "whole": 0.5
     },
     {
      "name": "Pizza, Grilled Veggie & Goat Cheese, Thin Crust, 1 slice",
@@ -177,7 +184,8 @@
      "satfat": 2.5,
      "fiber": 1.0,
      "sugar": 1.0,
-     "cholesterol": 260.0
+     "cholesterol": 260.0,
+     "whole": 0.3
     },
     {
      "name": "Coke mini bottle",
@@ -190,7 +198,8 @@
      "fiber": 0.0,
      "sugar": 39.0,
      "sodium": 45.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.0
     }
    ],
    "eaten": {
@@ -234,7 +243,8 @@
      "fiber": 4.7,
      "sugar": 7.8,
      "sodium": 300.7,
-     "cholesterol": 14.4
+     "cholesterol": 14.4,
+     "whole": 0.5
     },
     {
      "name": "Yellow Potatoes, Roasted w/ Oil",
@@ -247,7 +257,8 @@
      "fiber": 2.8,
      "sugar": 1.4,
      "sodium": 6.2,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -288,7 +299,8 @@
      "fat": 2.9,
      "satfat": 1.7,
      "fiber": 0.2,
-     "sugar": 6.9
+     "sugar": 6.9,
+     "whole": 0.1
     }
    ],
    "eaten": {

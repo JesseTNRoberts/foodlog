@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 32.0,
      "sodium": 380.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Iced Coffee, Unsweetened, Grande",
@@ -42,7 +43,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -85,7 +87,8 @@
      "fiber": 4.0,
      "sugar": 3.0,
      "sodium": 260.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.5
     },
     {
      "name": "Deli Dressing w/ Extra Virgin Olive Oil",
@@ -96,7 +99,8 @@
      "fat": 12.0,
      "satfat": 1.9,
      "sodium": 54.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Watermelon, Diced, Fresh",
@@ -109,7 +113,8 @@
      "fiber": 0.6,
      "sugar": 9.4,
      "sodium": 1.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Organic Pitted Kalamata Olives",
@@ -122,7 +127,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 210.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Guacamole",
@@ -135,7 +141,8 @@
      "fiber": 1.7,
      "sugar": 0.0,
      "sodium": 128.9,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Spinach",
@@ -148,7 +155,8 @@
      "fiber": 1.3,
      "sugar": 0.0,
      "sodium": 43.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Tomatoes, Fresh, Medium",
@@ -161,7 +169,8 @@
      "fiber": 0.2,
      "sugar": 0.4,
      "sodium": 0.8,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Vinegar, Dry",
@@ -174,7 +183,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     },
     {
      "name": "Pepper, Black, Ground",
@@ -187,7 +197,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 0.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Sea Salt Fine Crystals",
@@ -200,7 +211,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 295.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -251,7 +263,8 @@
      "fiber": 3.4,
      "sugar": 7.7,
      "sodium": 834.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Orange",
@@ -264,7 +277,8 @@
      "fiber": 0.0,
      "sugar": 19.0,
      "sodium": 620.0,
-     "cholesterol": 80.0
+     "cholesterol": 80.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Teriyaki",
@@ -277,7 +291,8 @@
      "fiber": 3.0,
      "sugar": 10.0,
      "sodium": 630.0,
-     "cholesterol": 195.0
+     "cholesterol": 195.0,
+     "whole": 0.5
     },
     {
      "name": "Brussels Sprouts, Raw",
@@ -290,7 +305,8 @@
      "fiber": 8.4,
      "sugar": 4.8,
      "sodium": 55.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -335,7 +351,8 @@
      "fiber": 3.0,
      "sugar": 1.0,
      "sodium": 125.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.25
     },
     {
      "name": "Guacamole",
@@ -348,7 +365,8 @@
      "fiber": 5.2,
      "sugar": 0.0,
      "sodium": 386.6,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.7
     },
     {
      "name": "Honey Pistachio Energy Squares",
@@ -361,7 +379,8 @@
      "fiber": 1.0,
      "sugar": 4.0,
      "sodium": 5.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.15
     },
     {
      "name": "Watermelon, Diced, Fresh",
@@ -374,7 +393,8 @@
      "fiber": 0.6,
      "sugar": 9.4,
      "sodium": 1.5,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {

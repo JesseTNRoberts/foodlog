@@ -29,7 +29,8 @@
      "fiber": 2.0,
      "sugar": 4.0,
      "sodium": 460.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     }
    ],
    "eaten": {
@@ -71,7 +72,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 360.2,
-     "cholesterol": 180.1
+     "cholesterol": 180.1,
+     "whole": 1.0
     },
     {
      "name": "Asparagus, Roasted w/ Oil",
@@ -84,7 +86,8 @@
      "fiber": 3.2,
      "sugar": 2.8,
      "sodium": 3.4,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 0.85
     }
    ],
    "eaten": {
@@ -127,7 +130,8 @@
      "fiber": 4.0,
      "sugar": 8.0,
      "sodium": 920.0,
-     "cholesterol": 0.0
+     "cholesterol": 0.0,
+     "whole": 1.0
     },
     {
      "name": "Fries, Steak, Side",
@@ -138,7 +142,8 @@
      "fat": 8.5,
      "fiber": 2.0,
      "sugar": 0.0,
-     "sodium": 222.0
+     "sodium": 222.0,
+     "whole": 0.3
     },
     {
      "name": "Chicken, Rotisserie-Style, 6\" Portion",
@@ -151,7 +156,8 @@
      "fiber": 0.0,
      "sugar": 0.0,
      "sodium": 270.0,
-     "cholesterol": 55.0
+     "cholesterol": 55.0,
+     "whole": 0.8
     }
    ],
    "eaten": {
