@@ -28,6 +28,9 @@ Other references often in frame:
 - **Watch:** a rugged Garmin-style watch on the left wrist, case roughly 45–50 mm (about 1.8–2 in) across.
 - **Ring:** silicone band on the left ring finger.
 
+## Before estimating: open every photo
+Open each photo Jesse sends, one at a time, and study it carefully before estimating. Never assume two photos are the same, and never estimate from only one when he sent several. For each, note what it shows (the meal, packaging, a label), every visible ingredient (including ones not in the recipe), the portion against his hand, and whether it's upright. Packaging gives exact per-serving numbers; the meal photo gives the portion. If he says a portion is off, reopen the photos before changing numbers.
+
 ## How to estimate
 1. **Identify the dish and check the recipes.** If it matches one of his recipes, use that recipe's ingredients and divide by servings, but size the serving from the photo. For bowls, use the component list below.
 2. **List every visible component** and estimate each portion from the photo, using the hand first, then the plate, bowl and utensils, as scale. His bowls tend to have **many components**, so look for small amounts of several things.

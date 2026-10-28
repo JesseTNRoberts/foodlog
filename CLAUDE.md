@@ -4,7 +4,7 @@ This repo is Jesse's food log and recipe box. Pushing to `main` rebuilds the pub
 
 ## Logging an entry
 1. Read `reference/nutrition-estimates.md` (how Jesse cooks, hand-size scale, per-unit numbers) and the matching recipe in `recipes/` before estimating.
-2. Size portions from the photo or description, not from logged norms. Give an honest range.
+2. Open every photo Jesse sent, one at a time, and study each carefully (what it shows, every visible ingredient, portion against his hand, orientation) before estimating. Never assume two photos are the same. Size portions from the photo or description, not from logged norms. Give an honest range.
 3. Append the entry to `entries/YYYY/YYYY-MM-DD.json` (create the file if needed). Use Jesse's local date (US Eastern unless he says otherwise).
 4. Run `node scripts/build.mjs`. It validates every file and fails with a clear message on a bad entry.
 5. Commit with a message like `Log 2026-10-25: chicken étouffée, hush puppies` and push.
@@ -53,7 +53,7 @@ Ask at most one short question, and only when the answer would swing the estimat
 - `eaten` (required): `{"pct": 33, "of": "whole sandwich"}`. Always estimate the percent of the item he ate, never "some" or "finished it". `of` names what 100% is (the whole dish as served), so if he eats more later he can say "the other 50%" and the later entry uses the same base, e.g. `{"pct": 67, "of": "whole sandwich (the rest)"}`.
 - `ingredients` (required): a best-guess list of everything likely in the dish, including hidden items (cooking fat, butter in sauces, breading, dressing parts), even when not visible. Keep it plain strings. Look it up first when possible: for restaurant food, search for the restaurant's menu description; for his own cooking, use the recipe in `recipes/`. Fill hidden items in from there.
 - `ingredientsFrom`: `menu` (restaurant's published description), `recipe` (his recipe or his own words) or `guess`. Say in `notes` when a menu lookup found nothing.
-- `photos` (optional): paths to the meal photos, e.g. `["photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"]`. Save every photo Jesse sends with a meal: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata (EXIF holds GPS location and the site is public). One photo can be listed on several entries.
+- `photos` (optional): paths to the meal photos, e.g. `["photos/2026/2026-10-26/dinner-quinoa-bowl.jpg"]`. Save every photo Jesse sends with a meal: rotate upright, resize to 1280 px on the long side, JPEG quality 80, and strip all metadata (EXIF holds GPS location and the site is public). One photo can be listed on several entries. After saving, open each saved file and check it is upright; EXIF orientation is often missing, so rotate by hand when needed.
 - `id`: `YYYY-MM-DD-N`, unique in the file. Keep ids stable when editing.
 
 ## Edits
