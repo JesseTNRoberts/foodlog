@@ -905,6 +905,115 @@
         "cherry tomatoes"
       ],
       "ingredientsFrom": "recipe"
+    },
+    {
+      "id": "2026-10-28-7",
+      "name": "Open-faced almond butter toast",
+      "portion": "1 thin slice Dave's 21 Whole Grains, 2 tbsp almond butter; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 263,
+      "protein": 10.6,
+      "carbs": 19.6,
+      "fat": 18.7,
+      "satfat": 1.3,
+      "fiber": 6.8,
+      "sugar": 4.3,
+      "addedSugar": 2.0,
+      "sodium": 100.0,
+      "cholesterol": 0.0,
+      "lo": 237,
+      "hi": 295,
+      "micros": {
+        "vitA": 0.0,
+        "vitC": 0.0,
+        "vitD": 0.0,
+        "vitE": 7.95,
+        "vitK": 1.01,
+        "b6": 0.08,
+        "b12": 0.0,
+        "folate": 36.56,
+        "calcium": 130.64,
+        "iron": 2.02,
+        "magnesium": 108.88,
+        "potassium": 299.56,
+        "zinc": 1.55
+      },
+      "components": [
+        {
+          "name": "Bread, thin-sliced 21 Whole Grains & Seeds",
+          "portion": "1 slice",
+          "grams": 28,
+          "kcal": 60,
+          "protein": 3,
+          "carbs": 12,
+          "fat": 1,
+          "satfat": 0,
+          "fiber": 3,
+          "sugar": 3,
+          "addedSugar": 2,
+          "sodium": 100,
+          "cholesterol": 0,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.2,
+            "vitK": 1.01,
+            "b6": 0.05,
+            "b12": 0.0,
+            "folate": 19.6,
+            "calcium": 19.6,
+            "iron": 0.9,
+            "magnesium": 19.6,
+            "potassium": 60.2,
+            "zinc": 0.5
+          },
+          "whole": 0.6
+        },
+        {
+          "name": "Almond butter",
+          "portion": "2 tbsp",
+          "grams": 32.0,
+          "kcal": 202.67,
+          "protein": 7.6,
+          "carbs": 7.6,
+          "fat": 17.73,
+          "satfat": 1.27,
+          "fiber": 3.8,
+          "sugar": 1.27,
+          "addedSugar": 0.0,
+          "sodium": 0.0,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 7.75,
+            "vitK": 0.0,
+            "b6": 0.03,
+            "b12": 0.0,
+            "folate": 16.96,
+            "calcium": 111.04,
+            "iron": 1.12,
+            "magnesium": 89.28,
+            "potassium": 239.36,
+            "zinc": 1.05
+          },
+          "whole": 0.85
+        }
+      ],
+      "confidence": "high",
+      "notes": "Per Jesse: one slice, made open-faced to keep sodium down. Almond butter amount (2 tbsp) is the only uncertainty.",
+      "eaten": {
+        "pct": 100,
+        "of": "slice of toast"
+      },
+      "ingredients": [
+        "Dave's Killer Bread 21 Whole Grains & Seeds, thin-sliced",
+        "almond butter"
+      ],
+      "ingredientsFrom": "recipe"
     }
   ]
 }
