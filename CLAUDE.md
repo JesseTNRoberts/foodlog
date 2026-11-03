@@ -73,5 +73,12 @@ The site's "Ask Claude to edit" button copies a line like `Plate Log edit, 2026-
 ## Recipes
 Recipes live in `recipes/*.md`, one file per collection, one `## Recipe name` heading per recipe. The site lists every `##` heading as a recipe and has search. Add new recipes to the fitting collection, keep "Gap:" notes for missing parts, and add a nutrition line once one has been worked out.
 
+## Recipe cards
+A recipe card (`recipes/cards/<id>.json`) makes a home recipe loggable by volume. It holds the batch yield (`"yield": {"amount": 14, "unit": "cup"}`), aliases Jesse uses ("my spaghetti"), a link to its `## heading` in `recipes/`, and every ingredient with its batch `amount` as written, `grams`, `whole` score and nutrition `per100g` (the 10 macros plus the 13 micros). The build validates cards and the site shows each one on its recipe page with a portion calculator.
+
+- **Logging from a card:** when Jesse names a carded recipe ("a cup of my spaghetti"), don't re-estimate. Run `node scripts/recipe.mjs log <id> "<portion>" --date YYYY-MM-DD --meal <meal>` (portion like `1/2 cup`, `3 tbsp`, `25%`, `1 batch`; add `--id` to replace an existing entry, which keeps its photos). Preview with `show`, list cards with `list`. The entry gets `recipeCard: "<id>"` and links back to the card.
+- **Site copy line:** the card's "Copy for Claude" button copies `Plate Log recipe, <id>, <portion>, <meal>, YYYY-MM-DD: `. Log exactly that.
+- **Making a card:** when Jesse gives a recipe with amounts and a batch volume, create the card (convert each amount to grams, estimate per-100 g nutrition per ingredient) alongside the `recipes/` text. If the batch volume isn't known, ask for it once. When he changes the recipe, update the card, the `recipes/` text and the Eating project doc together; past entries keep their old numbers unless he asks.
+
 ## Settings
 `settings.json` holds the daily calorie budget, protein and fiber goals, the sodium limit, and the repo name used for "Edit file" links.

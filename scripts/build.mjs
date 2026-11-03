@@ -3,6 +3,7 @@
 // Run: node scripts/build.mjs   (no dependencies)
 import fs from "node:fs";
 import path from "node:path";
+import { loadCards, checkCard, batchTotals } from "./cards.mjs";
 
 const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const out = path.join(root, "_site");
@@ -80,6 +81,20 @@ const recipes = walk(path.join(root, "recipes")).filter(f => f.endsWith(".md")).
   return { slug: path.basename(f, ".md"), title, md };
 });
 
+// Recipe cards: validate, then ship each with its batch totals for the site.
+const recipeMd = Object.fromEntries(recipes.map(r => [r.slug, r.md]));
+const cards = [];
+for (const { rel, card, error } of loadCards(root)) {
+  if (error) { errors.push(`${rel}: ${error}`); continue; }
+  const errs = checkCard(card, rel, recipeMd);
+  if (errs.length) { errors.push(...errs); continue; }
+  const { totals, comps } = batchTotals(card);
+  cards.push({ ...card, batch: totals, batchComponents: comps });
+}
+const cardIds = new Set(cards.map(c => c.id));
+for (const d of days) for (const e of d.entries)
+  if (e.recipeCard && !cardIds.has(e.recipeCard)) errors.push(`entries ${d.date} "${e.name}": recipeCard "${e.recipeCard}" not found in recipes/cards/`);
+
 if (errors.length) {
   console.error("Build failed:\n  " + errors.join("\n  "));
   process.exit(1);
@@ -95,7 +110,7 @@ for (const f of fs.readdirSync(path.join(root, "site"))) fs.copyFileSync(path.jo
   fs.writeFileSync(idx, fs.readFileSync(idx, "utf8").replace(/(src|href)="(app\.js|style\.css)"/g, `$1="$2?v=${v}"`));
 }
 if (fs.existsSync(path.join(root, "photos"))) fs.cpSync(path.join(root, "photos"), path.join(out, "photos"), { recursive: true });
-fs.writeFileSync(path.join(out, "data.json"), JSON.stringify({ generated: new Date().toISOString(), settings, days, recipes }));
+fs.writeFileSync(path.join(out, "data.json"), JSON.stringify({ generated: new Date().toISOString(), settings, days, recipes, cards }));
 fs.writeFileSync(path.join(out, ".nojekyll"), "");
 const n = days.reduce((a, d) => a + d.entries.length, 0);
-console.log(`Built _site: ${days.length} days, ${n} entries, ${recipes.length} recipe files.`);
+console.log(`Built _site: ${days.length} days, ${n} entries, ${recipes.length} recipe files, ${cards.length} recipe cards.`);

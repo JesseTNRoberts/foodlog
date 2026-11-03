@@ -11,7 +11,7 @@ const METRICS = [["kcal","Calories","kcal"],["protein","Protein","g"],["carbs","
   ...MICRO.map(([k,l,u])=>["m:"+k,l,u])];
 const COMP_COLORS = ["#14a38b","#4a7fe0","#c25bb0","#e3a22c","#5aa14a","#d9653f","#7f6fe0","#2fa9c9","#a0884a","#d24f78"];
 
-let DATA = { settings:{}, days:[], recipes:[] };
+let DATA = { settings:{}, days:[], recipes:[], cards:[] };
 let byDate = new Map();
 let charts = [];
 
@@ -234,6 +234,7 @@ function entryBlock(e,k,url){
     <div class="entry-h"><div><div class="name">${esc(e.name)}</div><div class="por">${esc(e.portion||"")}${sv!==1?` · ×${sv} servings`:""}</div></div>
       <div class="kc"><b>${fmt(ek)}</b> kcal<div>${fmt(num(e.lo??e.kcal)*sv)}–${fmt(num(e.hi??e.kcal)*sv)}</div></div></div>
     ${e.eaten||(e.ingredients||[]).length?`<div class="eaten">${e.eaten?`<div><b>Ate ${fmt(num(e.eaten.pct))}%</b>${e.eaten.of?` of ${esc(e.eaten.of)}`:""}</div>`:""}${(e.ingredients||[]).length?`<div><span class="lbl">${e.ingredientsFrom==="menu"?"Ingredients (from the menu)":e.ingredientsFrom==="recipe"?"Ingredients (from your recipe)":"Likely ingredients (guessed)"}:</span> ${e.ingredients.map(esc).join(", ")}</div>`:""}</div>`:""}
+    ${e.recipeCard&&cardHref(e.recipeCard)?`<div class="eaten"><a href="${cardHref(e.recipeCard)}">From your recipe card ›</a></div>`:""}
     ${(e.photos||[]).length?`<div class="photos">${e.photos.map(p=>`<a href="${esc(p)}" target="_blank" rel="noopener"><img src="${esc(p)}" alt="Photo of ${esc(e.name)}" loading="lazy"></a>`).join("")}</div>`:""}
     ${comps.length>1?`<div class="stack" aria-label="Components by calories">${comps.map((c,i)=>`<span style="width:${num(c.kcal)/ctot*100}%;background:${COMP_COLORS[i%COMP_COLORS.length]}" title="${esc(c.name)}: ${fmt(num(c.kcal)*sv)} kcal"></span>`).join("")}</div>`:""}
     ${comps.length?`<div class="tblwrap"><table class="comps"><thead><tr><th>Component</th><th>kcal</th><th>share</th><th>P</th><th>C</th><th>F</th></tr></thead><tbody>${rows}</tbody></table></div>`:""}
@@ -315,6 +316,56 @@ function renderTrends(){
 }
 
 /* ---------- recipes ---------- */
+/* ---------- recipe cards ---------- */
+const UNIT_CUPS={cup:1,tbsp:1/16,tsp:1/48,"fl oz":1/8,ml:1/236.588};
+function cardHref(id){
+  const c=(DATA.cards||[]).find(x=>x.id===id); if(!c||!c.recipe) return null;
+  const r=DATA.recipes.find(x=>x.slug===c.recipe.file); if(!r) return null;
+  const i=r.md.split(/^##\s+/m).slice(1).findIndex(p=>p.split("\n")[0].trim()===c.recipe.heading);
+  return `#/recipes/${encodeURIComponent(r.slug)}/${Math.max(0,i)}`;
+}
+const fracText=x=>{ const w=Math.floor(x+1e-9), f=x-w; const F=[[0,""],[1/4,"1/4"],[1/3,"1/3"],[1/2,"1/2"],[2/3,"2/3"],[3/4,"3/4"]];
+  const best=F.reduce((a,b)=>Math.abs(b[0]-f)<Math.abs(a[0]-f)?b:a); if(Math.abs(best[0]-f)>0.02) return fmt(x,2);
+  if(Math.abs(f-1)<0.02) return String(w+1); return [w||"",best[1]].filter(Boolean).join(" ")||"0"; };
+function cardSection(c){
+  const yu=c.yield.unit, byServing=yu==="serving";
+  const units=byServing?["serving","%","batch"]:["cup","tbsp","tsp","fl oz","ml","%","batch"];
+  const hr=new Date().getHours(), meal=hr<11?"breakfast":hr<15?"lunch":hr<20?"dinner":"snacks";
+  return `<section class="card rcard" id="rcard">
+    <div class="card-h"><h2>Recipe card</h2><span class="sub">Makes ${fmt(c.yield.amount,2)} ${esc(yu)}${c.yield.amount===1?"":"s"} · ${fmt(c.batch.kcal/c.yield.amount)} kcal per ${esc(yu)} · ${fmt(c.batch.kcal)} kcal per batch</span></div>
+    <div class="rc-form">
+      <label>Portion <input id="rc-amt" type="number" min="0" step="0.25" value="1" inputmode="decimal"></label>
+      <select id="rc-unit" aria-label="Unit">${units.map(u=>`<option${u===(byServing?"serving":"cup")?" selected":""}>${u}</option>`).join("")}</select>
+      <select id="rc-meal" aria-label="Meal">${MEALS.map(([m,l])=>`<option value="${m}"${m===meal?" selected":""}>${l}</option>`).join("")}</select>
+      <button class="btn" id="rc-copy">Copy for Claude</button>
+    </div>
+    <div class="rc-sum" id="rc-sum"></div>
+    <div class="tblwrap"><table class="comps"><thead><tr><th>Ingredient</th><th>In batch</th><th>g</th><th>kcal</th><th>P</th><th>C</th><th>F</th></tr></thead><tbody id="rc-rows"></tbody></table></div>
+    ${c.notes?`<div class="sub">${esc(c.notes)}</div>`:""}
+  </section>`;
+}
+function wireCard(c){
+  const amt=document.getElementById("rc-amt"), unit=document.getElementById("rc-unit"), mealSel=document.getElementById("rc-meal");
+  const frac=()=>{ const a=num(amt.value), u=unit.value;
+    if(u==="%") return a/100; if(u==="batch") return a; if(u==="serving") return a/c.yield.amount;
+    return a*UNIT_CUPS[u]/(c.yield.amount*(UNIT_CUPS[c.yield.unit]||1)); };
+  const label=()=>`${fracText(num(amt.value))}${unit.value==="%"?"%":" "+unit.value}`;
+  const draw=()=>{ const f=frac(); const cs=c.batchComponents;
+    const T=k=>cs.reduce((a,x)=>a+num(x[k]),0)*f;
+    document.getElementById("rc-rows").innerHTML=cs.map((x,i)=>`<tr><td><i style="background:${COMP_COLORS[i%COMP_COLORS.length]}"></i>${esc(c.ingredients[i].name)}</td><td class="por">${esc(c.ingredients[i].amount)}</td>
+      <td class="num">${fmt(x.grams*f,1)}</td><td class="num">${fmt(x.kcal*f)}</td><td class="num">${fmt(x.protein*f,1)}</td><td class="num">${fmt(x.carbs*f,1)}</td><td class="num">${fmt(x.fat*f,1)}</td></tr>`).join("")
+      +`<tr class="tot"><td>Total</td><td></td><td class="num">${fmt(T("grams"))}</td><td class="num">${fmt(T("kcal"))}</td><td class="num">${fmt(T("protein"),1)}</td><td class="num">${fmt(T("carbs"),1)}</td><td class="num">${fmt(T("fat"),1)}</td></tr>`;
+    const w=cs.reduce((a,x)=>a+num(x.kcal)*num(x.whole),0)/(cs.reduce((a,x)=>a+num(x.kcal),0)||1)*100;
+    document.getElementById("rc-sum").innerHTML=`<b>${label()}</b> = ${fmt(f*100,1)}% of the batch: <b>${fmt(T("kcal"))} kcal</b> · ${fmt(T("protein"))} g protein · ${fmt(T("carbs"))} g carbs · ${fmt(T("fat"))} g fat · ${fmt(T("fiber"),1)} g fiber · ${fmt(T("sodium"))} mg sodium · ${fmt(w)}% whole food`;
+  };
+  amt.oninput=draw; unit.onchange=draw; draw();
+  document.getElementById("rc-copy").onclick=async()=>{
+    const txt=`Plate Log recipe, ${c.id}, ${label()}, ${mealSel.value}, ${todayKey()}: `;
+    try{ await navigator.clipboard.writeText(txt); toast("Copied. Paste it to Claude to log it."); }
+    catch{ prompt("Copy this and send it to Claude to log it:",txt); }
+  };
+}
+
 function creditOf(text){
   const m=text.match(/^\*(?:Source|From):\s*([^*]+)\*\s*$/mi); if(!m) return null;
   const full=m[1].trim(); const cut=full.search(/\.\s/);
@@ -339,14 +390,17 @@ function renderRecipes(slug,idx){
     const methMd=first<0?"":lines.slice(first).join("\n");
     const prev=parts.length&&i>0?i-1:null, next=parts.length&&i<parts.length-1?i+1:null;
     const nav=(j,l)=>j==null?"":`<a class="btn" href="#/recipes/${encodeURIComponent(slug)}/${j}">${l}</a>`;
+    const rc=(DATA.cards||[]).find(c=>c.recipe&&c.recipe.file===slug&&c.recipe.heading===title);
     app.innerHTML=`<div class="toolbar"><a class="btn" href="#/recipes">‹ All recipes</a>
         <div class="btns"><button class="btn" id="cook" aria-pressed="false">Cook mode</button><button class="btn" id="reset">Clear checks</button></div></div>
       <header class="rhead"><div class="sub">${esc(r.title)}</div><h1>${esc(title)}</h1>${cr?`<div class="credit">Recipe from <b>${esc(cr.who)}</b></div>`:""}</header>
+      ${rc?cardSection(rc):""}
       <div class="recipe ${methMd?"":"single"}">
         <section class="card rcol ing"><h2>${methMd?"Ingredients":"Recipe"}</h2><div class="prose">${md(ingMd)}</div></section>
         ${methMd?`<section class="card rcol meth"><h2>Method</h2><div class="prose">${md(methMd)}</div></section>`:""}
       </div>
       <div class="toolbar">${nav(prev,"‹ "+esc((parts[prev]||"").split("\n")[0]))}<span></span>${nav(next,esc((parts[next]||"").split("\n")[0])+" ›")}</div>`;
+    if(rc) wireCard(rc);
     app.querySelectorAll(".ing li").forEach(li=>{ li.classList.add("check"); li.tabIndex=0; li.setAttribute("role","checkbox"); li.setAttribute("aria-checked","false"); });
     app.querySelectorAll(".meth ol > li").forEach(li=>{ li.classList.add("step"); li.tabIndex=0; });
     const toggle=li=>{ const on=li.classList.toggle("done"); if(li.classList.contains("check")) li.setAttribute("aria-checked",on); };
@@ -369,7 +423,7 @@ function renderRecipes(slug,idx){
       if(!parts.length) return [{r,name:r.title,body:r.md}];
       return parts.map((p,i)=>({r,i,name:p.split("\n")[0].trim(),body:p}));
     }).filter(x=>!q||x.name.toLowerCase().includes(q)||x.body.toLowerCase().includes(q));
-    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}${x.i!=null?"/"+x.i:""}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}${(c=>c?" · from "+esc(c.who):"")(creditOf(x.body))}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
+    list.innerHTML=items.map(x=>`<a href="#/recipes/${encodeURIComponent(x.r.slug)}${x.i!=null?"/"+x.i:""}"><b>${esc(x.name)}</b><span>${esc(x.r.title)}${(c=>c?" · from "+esc(c.who):"")(creditOf(x.body))}${(DATA.cards||[]).some(c=>c.recipe&&c.recipe.file===x.r.slug&&c.recipe.heading===x.name)?" · recipe card":""}</span></a>`).join("")||`<p class="muted">No matches.</p>`;
   };
   document.getElementById("q").oninput=ev=>draw(ev.target.value); draw("");
 }

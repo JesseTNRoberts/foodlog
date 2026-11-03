@@ -237,3 +237,13 @@ dialog#bd::backdrop{background:rgba(0,0,0,.4)}
 .bd-t td{padding:6px 4px;border-bottom:1px solid var(--line)}
 .bd-t td.num{text-align:right;white-space:nowrap;font-family:var(--mono);font-size:12.5px}
 .bd-t td i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:7px}
+
+/* recipe cards */
+.rcard{margin-bottom:14px}
+.rc-form{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.rc-form label{display:flex;gap:6px;align-items:center;font-size:13.5px}
+.rc-form input,.rc-form select{font:inherit;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:inherit}
+.rc-form input{width:5.5em}
+.rc-sum{font-size:14px;line-height:1.5}
+.rcard .comps tr.tot td{font-weight:600;border-top:2px solid var(--line)}
+.rcard .comps td.por{text-align:left;white-space:normal}
