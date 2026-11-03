@@ -1917,7 +1917,7 @@
     {
       "id": "2026-11-02-9",
       "name": "Homemade apple crumble pie",
-      "portion": "1/12 of the pie; 100% of the slice eaten",
+      "portion": "1/12 of the pie (~8%)",
       "meal": "dinner",
       "servings": 1,
       "kcal": 136,
@@ -2136,8 +2136,8 @@
         }
       ],
       "eaten": {
-        "pct": 100,
-        "of": "1/12 slice of the pie"
+        "pct": 8.3,
+        "of": "whole pie"
       },
       "ingredients": [
         "Wholly Wholesome pie shell",
