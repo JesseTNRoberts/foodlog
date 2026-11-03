@@ -3,36 +3,36 @@
   "entries": [
     {
       "id": "2026-11-03-1",
-      "name": "Chia pudding with mango, berries & granola",
+      "name": "Chia pudding with mango, berries, granola & pepitas",
       "portion": "his usual chia bowl plus 1 honey mango; 100% eaten",
       "meal": "breakfast",
       "servings": 1,
-      "kcal": 310,
-      "protein": 14.7,
-      "carbs": 50.1,
-      "fat": 8.4,
-      "satfat": 1.4,
-      "fiber": 8.4,
+      "kcal": 353,
+      "protein": 16.9,
+      "carbs": 50.8,
+      "fat": 12.1,
+      "satfat": 2.0,
+      "fiber": 8.9,
       "sugar": 32.5,
       "addedSugar": 5.2,
       "sodium": 134.3,
       "cholesterol": 4.6,
-      "lo": 270,
-      "hi": 370,
+      "lo": 305,
+      "hi": 420,
       "micros": {
-        "vitA": 92.53,
-        "vitC": 62.82,
+        "vitA": 92.62,
+        "vitC": 62.98,
         "vitD": 0.18,
-        "vitE": 2.33,
-        "vitK": 16.48,
-        "b6": 0.29,
+        "vitE": 2.52,
+        "vitK": 17.1,
+        "b6": 0.3,
         "b12": 0.5,
-        "folate": 90.14,
-        "calcium": 166.62,
-        "iron": 1.76,
-        "magnesium": 85.48,
-        "potassium": 549.23,
-        "zinc": 1.67
+        "folate": 95.06,
+        "calcium": 170.53,
+        "iron": 2.51,
+        "magnesium": 135.81,
+        "potassium": 618.0,
+        "zinc": 2.33
       },
       "components": [
         {
@@ -282,6 +282,37 @@
             "zinc": 0.144
           },
           "whole": 1.0
+        },
+        {
+          "name": "Pepitas, raw",
+          "portion": "~1 tbsp (less than usual)",
+          "grams": 8.5,
+          "kcal": 43.0,
+          "protein": 2.25,
+          "carbs": 0.75,
+          "fat": 3.75,
+          "satfat": 0.65,
+          "fiber": 0.5,
+          "sugar": 0.0,
+          "addedSugar": 0.0,
+          "sodium": 0.0,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.085,
+            "vitC": 0.16,
+            "vitD": 0.0,
+            "vitE": 0.185,
+            "vitK": 0.62,
+            "b6": 0.01,
+            "b12": 0.0,
+            "folate": 4.93,
+            "calcium": 3.91,
+            "iron": 0.75,
+            "magnesium": 50.32,
+            "potassium": 68.765,
+            "zinc": 0.665
+          },
+          "whole": 1.0
         }
       ],
       "eaten": {
@@ -296,11 +327,12 @@
         "cashew granola",
         "honey mango",
         "blueberries",
-        "blackberries, mashed"
+        "blackberries, mashed",
+        "pepitas"
       ],
       "ingredientsFrom": "recipe",
       "confidence": "medium",
-      "notes": "Standard chia pudding base from his 10/27 log, plus one honey mango (~150 g flesh). Granola looks lighter than usual (~1/4 cup); no pepitas visible. Small ~1-cup glass bowl against his hand.",
+      "notes": "Standard chia pudding base from his 10/27 log, plus one honey mango (~150 g flesh). Granola (~1/4 cup) and pepitas (~1 tbsp) lighter than usual, per Jesse. Small ~1-cup glass bowl against his hand.",
       "photos": [
         "photos/2026/2026-11-03/breakfast-chia-bowl-mango-almond-butter-toast.jpg"
       ]
