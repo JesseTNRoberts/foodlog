@@ -282,9 +282,9 @@ Ground beef version: replace half the cheese with just under 1 lb cooked ground 
 - 3–5 tbsp olive oil
 - 2 tbsp butter
 - 1/3 cup grated Parmigiano Reggiano
-- Spaghetti (*Gap: amount not recorded; nutrition assumes 8 oz*)
+- 8 oz spaghetti
 
-Nutrition (assuming 8 oz spaghetti, ~4 tbsp oil, pork not drained): about 250 kcal, 11 g protein, 22 g carbs, 13.5 g fat, 4 g fiber and 200 mg sodium per cup.
+Nutrition (~4 tbsp oil, pork not drained): about 250 kcal, 11 g protein, 22 g carbs, 13.5 g fat, 4 g fiber and 200 mg sodium per cup.
 
 **Original Tasting History version**
 - 2 lb canned peeled tomatoes (or fresh in season)
