@@ -282,9 +282,9 @@ Ground beef version: replace half the cheese with just under 1 lb cooked ground 
 - 3–5 tbsp olive oil
 - 2 tbsp butter
 - 1/3 cup grated Parmigiano Reggiano
-- 8 oz spaghetti
+- 8 oz Banza chickpea spaghetti
 
-Nutrition (~4 tbsp oil, pork not drained): about 250 kcal, 11 g protein, 22 g carbs, 13.5 g fat, 4 g fiber and 200 mg sodium per cup.
+Nutrition (~4 tbsp oil, pork not drained, Banza pasta): about 245 kcal, 12 g protein, 19 g carbs, 14 g fat, 6 g fiber and 210 mg sodium per cup.
 
 **Original Tasting History version**
 - 2 lb canned peeled tomatoes (or fresh in season)
