@@ -271,6 +271,22 @@ Ground beef version: replace half the cheese with just under 1 lb cooked ground 
 
 **Not the canned product.** This is Ettore Boiardi's original restaurant-style meat sauce from his Cleveland restaurant: olive oil, a slow soffritto of onion and carrot, lean beef, strained tomatoes, mushrooms and fresh basil, over spaghetti tossed with butter and parmesan. No garlic or oregano.
 
+**My version (how I actually make it).** Makes roughly 14 cups.
+- 1 lb ground pork
+- 2 large cans San Marzano tomatoes
+- 2 pints mushrooms
+- 1 bag (10 oz) Publix shredded carrots
+- 2 bell peppers
+- 1 red onion
+- 2 cloves garlic
+- 3–5 tbsp olive oil
+- 2 tbsp butter
+- 1/3 cup grated Parmigiano Reggiano
+- Spaghetti (*Gap: amount not recorded; nutrition assumes 8 oz*)
+
+Nutrition (assuming 8 oz spaghetti, ~4 tbsp oil, pork not drained): about 250 kcal, 11 g protein, 22 g carbs, 13.5 g fat, 4 g fiber and 200 mg sodium per cup.
+
+**Original Tasting History version**
 - 2 lb canned peeled tomatoes (or fresh in season)
 - 6 tbsp extra-virgin olive oil
 - 1 cup diced onion
