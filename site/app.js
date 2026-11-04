@@ -45,7 +45,9 @@ function wholePct(entries){
 const wholeTitle="Whole-food share: each ingredient is scored from 0 (ultra-processed) to 1 (whole food), weighted by calories";
 const dayEntries = k => byDate.get(k)?.entries || [];
 const metricVal = (t,m) => m.startsWith("m:") ? num(t.micros[m.slice(2)]) : num(t[m]);
-function loggedBefore(k,n){ return DATA.days.filter(d=>d.date<k && d.entries.length).slice(-n); }
+// Days off logging (offDay: true in the day file) stay visible but are left out of every average.
+const isOff = k => !!byDate.get(k)?.offDay;
+function loggedBefore(k,n){ return DATA.days.filter(d=>d.date<k && d.entries.length && !d.offDay).slice(-n); }
 
 /* ---------- shared pieces ---------- */
 function destroyCharts(){ charts.forEach(c=>c.destroy()); charts=[]; }
@@ -149,8 +151,10 @@ function renderDay(k){
       <a class="btn" href="#/day/${addDays(k,-1)}" ${firstDay&&k<=firstDay?'aria-disabled="true"':""} aria-label="Previous day">‹ Prev</a>
       ${isToday?"":`<a class="btn" href="#/">Today</a>`}
       <a class="btn" href="#/day/${addDays(k,1)}" ${isToday?'aria-disabled="true"':""} aria-label="Next day">Next ›</a>
+      ${day?.offDay?"":`<button class="btn" data-copy="Plate Log edit, ${k}: mark as a day off logging (leave out of averages)" title="Copies a note for Claude to mark this day as a day off logging">Day off</button>`}
     </div>
   </div>
+  ${day?.offDay?`<div class="daynote off"><b>Day off logging.</b> What's here is kept, but this day is left out of averages and trends. <button class="btn sm" data-copy="Plate Log edit, ${k}: count this day again (remove day off)">Count it again</button></div>`:""}
   ${day?.note?`<div class="daynote">${esc(day.note)}</div>`:""}
   ${!ents.length?(()=>{const last=DATA.days.filter(d=>d.entries.length&&d.date!==k).map(d=>d.date).filter(d=>d<k).pop(); return `<div class="daynote">Nothing logged for this day yet.${last?` Last logged day: <a href="#/day/${last}">${esc(prettyDate(last,{weekday:"long",month:"short",day:"numeric"}))}</a>.`:""}</div>`;})():""}
   <div class="kpis">
@@ -246,7 +250,7 @@ function weekStrip(k,B){
   const end = k>addDays(todayKey(),-3)?todayKey():addDays(k,3);
   const keys=[...Array(7)].map((_,i)=>addDays(end,i-6)); const vals=keys.map(d=>totals(dayEntries(d)).kcal); const max=Math.max(B*1.15,...vals);
   const H=64, bh=v=>Math.max(6,v/max*H);
-  return `<div class="week" style="--budget:${(B/max*H).toFixed(1)}px">${keys.map((d,i)=>{const v=vals[i];const w=wholePct(dayEntries(d));return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal${w==null?"":`, ${fmt(w)}% whole food`}"><span class="kv">${v?fmt(v):""}</span><span class="bar"><span class="col ${v?(v>B?"over":"has"):""}" style="height:${v?bh(v):4}px"></span></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span><span class="wh" title="${wholeTitle}">${w==null?"&nbsp;":fmt(w)+"%"}</span></a>`;}).join("")}</div><div class="week-key"><span><i class="bl"></i>${fmt(B)} budget</span><span>bottom row: % whole food</span></div>`;
+  return `<div class="week" style="--budget:${(B/max*H).toFixed(1)}px">${keys.map((d,i)=>{const v=vals[i];const w=wholePct(dayEntries(d));return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal${w==null?"":`, ${fmt(w)}% whole food`}"><span class="kv">${v?fmt(v):""}</span><span class="bar"><span class="col ${isOff(d)?"off":v?(v>B?"over":"has"):""}" style="height:${v?bh(v):4}px"></span></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span><span class="wh" title="${isOff(d)?"Day off logging":wholeTitle}">${isOff(d)?"off":w==null?"&nbsp;":fmt(w)+"%"}</span></a>`;}).join("")}</div><div class="week-key"><span><i class="bl"></i>${fmt(B)} budget</span><span>bottom row: % whole food${keys.some(isOff)?" · grey = day off":""}</span></div>`;
 }
 
 /* ---------- trends ---------- */
@@ -258,7 +262,8 @@ function renderTrends(){
   const start = trendState.range==="all" ? (DATA.days[0]?.date||end) : addDays(end,-(trendState.range-1));
   const keys=[]; for(let d=start; d<=end; d=addDays(d,1)) keys.push(d);
   const T=keys.map(d=>totals(dayEntries(d)));
-  const logged=T.map((t,i)=>({t,d:keys[i]})).filter(x=>x.t.n);
+  const rows=T.map((t,i)=>({t,d:keys[i]})).filter(x=>x.t.n||isOff(x.d));
+  const logged=rows.filter(x=>!isOff(x.d)); const offN=rows.length-logged.length;
   const avg=f=>logged.length?logged.reduce((a,x)=>a+x.t[f],0)/logged.length:0;
   // Imported Lose It days have no vitamin data, so average only over days that do.
   const withMicros=logged.filter(x=>Object.keys(x.t.micros).length);
@@ -268,7 +273,7 @@ function renderTrends(){
   const target = mk==="kcal"?B: mk==="protein"?num(S.proteinGoal): mk==="fiber"?num(S.fiberGoal): mk==="sodium"?num(S.sodiumLimit): mk.startsWith("m:")?MICRO.find(m=>"m:"+m[0]===mk)[3]:null;
 
   app.innerHTML=`
-  <div class="toolbar"><div><h1>Trends</h1><div class="sub">${logged.length} logged days · ${esc(prettyDate(start,{month:"short",day:"numeric"}))} – ${esc(prettyDate(end,{month:"short",day:"numeric"}))}</div></div>
+  <div class="toolbar"><div><h1>Trends</h1><div class="sub">${logged.length} logged days${offN?` · ${offN} day${offN===1?"":"s"} off, not averaged`:""} · ${esc(prettyDate(start,{month:"short",day:"numeric"}))} – ${esc(prettyDate(end,{month:"short",day:"numeric"}))}</div></div>
     <div class="seg" role="group" aria-label="Range">${[[7,"7D"],[30,"30D"],[90,"90D"],["all","All"]].map(([v,l])=>`<button data-range="${v}" class="${trendState.range==v?"on":""}">${l}</button>`).join("")}</div></div>
   <div class="kpis">
     ${kpi("Avg calories",avg("kcal"),"kcal",B,{nutr:"kcal",limit:true,foot:`${under}/${logged.length} days within budget`})}
@@ -287,7 +292,7 @@ function renderTrends(){
     ${withMicros.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">No vitamin estimates in this range (Lose It imports don't include them).</div>`}</section>
   <section class="card"><div class="card-h"><h2>Daily totals</h2><span class="sub">tap a row to open the day</span></div>
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th title="${wholeTitle}">Whole</th><th>Entries</th></tr></thead>
-    <tbody>${[...logged].reverse().map(({t,d})=>`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${(w=>w==null?"–":fmt(w)+"%")(wholePct(dayEntries(d)))}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="9" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
+    <tbody>${[...rows].reverse().map(({t,d})=>isOff(d)?`<tr class="link off" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td colspan="8" class="muted">day off logging, not averaged</td></tr>`:`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${(w=>w==null?"–":fmt(w)+"%")(wholePct(dayEntries(d)))}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="9" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
 
   wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length));
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });
@@ -296,7 +301,7 @@ function renderTrends(){
 
   if(!chartDefaults()) return;
   const labels=keys.map(d=>dateOf(d).toLocaleDateString(undefined,{month:"short",day:"numeric"}));
-  const vals=T.map(t=>t.n?metricVal(t,mk):null);
+  const vals=T.map((t,i)=>t.n&&!isOff(keys[i])?metricVal(t,mk):null);
   const roll=vals.map((_,i)=>{ const w=vals.slice(Math.max(0,i-6),i+1).filter(v=>v!=null); return w.length?w.reduce((a,b)=>a+b,0)/w.length:null; });
   const acc=css("--accent"), over=css("--over");
   const isLimit = ["kcal","sodium","sugar","addedSugar","satfat","cholesterol"].includes(mk);
@@ -309,7 +314,7 @@ function renderTrends(){
       scales:{x:{grid:{display:false},ticks:{maxTicksLimit:10}},y:{beginAtZero:true,grid,ticks:{callback:v=>fmt(v)}}},
       onClick:(ev,els)=>{ if(els[0]) location.hash="#/day/"+keys[els[0].index]; }}}));
   charts.push(new Chart(document.getElementById("cMacros"),{type:"bar",
-    data:{labels,datasets:[["Protein","protein",4,"--p"],["Carbs","carbs",4,"--c"],["Fat","fat",9,"--f"]].map(([l,f,m,c])=>({label:l,data:T.map(t=>t.n?Math.round(t[f]*m):null),backgroundColor:css(c),maxBarThickness:28}))},
+    data:{labels,datasets:[["Protein","protein",4,"--p"],["Carbs","carbs",4,"--c"],["Fat","fat",9,"--f"]].map(([l,f,m,c])=>({label:l,data:T.map((t,i)=>t.n&&!isOff(keys[i])?Math.round(t[f]*m):null),backgroundColor:css(c),maxBarThickness:28}))},
     options:{interaction:{mode:"index",intersect:false},scales:{x:{stacked:true,grid:{display:false},ticks:{maxTicksLimit:8}},y:{stacked:true,grid,ticks:{callback:v=>fmt(v)}}}}}));
   charts.push(new Chart(document.getElementById("cMeals"),{type:"bar",
     data:{labels,datasets:MEALS.map(([m,l,c])=>({label:l,data:keys.map(d=>{const L=dayEntries(d).filter(e=>e.meal===m); return L.length?Math.round(totals(L).kcal):null;}),backgroundColor:css(c),maxBarThickness:28}))},

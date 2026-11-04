@@ -70,7 +70,8 @@ for (const file of walk(path.join(root, "entries")).filter(f => f.endsWith(".jso
     e.servings ??= 1;
     e.id ??= `${date}-${i + 1}`;
   });
-  days.push({ date, note: doc.note || "", entries: doc.entries });
+  if (doc.offDay != null && typeof doc.offDay !== "boolean") errors.push(`${rel}: "offDay" must be true or false`);
+  days.push({ date, note: doc.note || "", offDay: doc.offDay === true, entries: doc.entries });
 }
 
 const settings = JSON.parse(fs.readFileSync(path.join(root, "settings.json"), "utf8"));

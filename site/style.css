@@ -160,6 +160,9 @@ select.sel{border:1px solid var(--line);border-radius:8px;padding:6px 10px;backg
 @media (max-width:380px){.week .kv{font-size:9px}}
 
 .daynote{font-size:13.5px;background:var(--accent-soft);border-radius:10px;padding:10px 12px}
+.daynote.off{background:var(--surface-2);border:1px dashed var(--line);display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.week .col.off{background:repeating-linear-gradient(135deg,var(--line) 0 4px,transparent 4px 7px);border:1px solid var(--line)}
+.dtable tr.off td{font-style:italic}
 
 /* recipes */
 .rhead .sub{font-size:13px;color:var(--muted)}
