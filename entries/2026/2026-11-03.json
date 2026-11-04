@@ -1741,6 +1741,83 @@
       "ingredientsFrom": "recipe",
       "confidence": "medium",
       "notes": "Aioli: 1/4 of the smoky apple cider aioli batch (~1 1/2 tbsp). Assumed olive oil on the roasted potatoes (~2 tsp) and broccoli (~1/2 tsp) and ~1 tsp for frying the eggs; oil drives the range."
+    },
+    {
+      "id": "2026-11-03-7",
+      "name": "Cottage cheese",
+      "portion": "1/4 cup; 100% eaten",
+      "meal": "dinner",
+      "servings": 1,
+      "kcal": 50,
+      "protein": 6.5,
+      "carbs": 3.5,
+      "fat": 1.2,
+      "satfat": 0.8,
+      "fiber": 0.0,
+      "sugar": 2.0,
+      "addedSugar": 0.0,
+      "sodium": 140.1,
+      "cholesterol": 5.0,
+      "lo": 45,
+      "hi": 60,
+      "micros": {
+        "vitA": 11.87,
+        "vitC": 0.0,
+        "vitD": 0.0,
+        "vitE": 0.02,
+        "vitK": 0.0,
+        "b6": 0.04,
+        "b12": 0.27,
+        "folate": 7.51,
+        "calcium": 64.97,
+        "iron": 0.18,
+        "magnesium": 5.0,
+        "potassium": 70.62,
+        "zinc": 0.29
+      },
+      "components": [
+        {
+          "name": "Breakstone's 2% small curd cottage cheese",
+          "portion": "1/4 cup (~57 g)",
+          "grams": 56.5,
+          "kcal": 50.0,
+          "protein": 6.5,
+          "carbs": 3.5,
+          "fat": 1.24,
+          "satfat": 0.75,
+          "fiber": 0.0,
+          "sugar": 2.0,
+          "addedSugar": 0.0,
+          "sodium": 140.12,
+          "cholesterol": 5.0,
+          "micros": {
+            "vitA": 11.865,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.017,
+            "vitK": 0.0,
+            "b6": 0.04,
+            "b12": 0.266,
+            "folate": 7.514,
+            "calcium": 64.975,
+            "iron": 0.181,
+            "magnesium": 5.0,
+            "potassium": 70.625,
+            "zinc": 0.288
+          },
+          "whole": 0.85
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "1/4 cup"
+      },
+      "ingredients": [
+        "Breakstone's 2% small curd cottage cheese"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "Added with the dinner bowl for protein; assumed Breakstone's 2% as on 11/2."
     }
   ]
 }
