@@ -245,7 +245,8 @@ function entryBlock(e,k,url){
 function weekStrip(k,B){
   const end = k>addDays(todayKey(),-3)?todayKey():addDays(k,3);
   const keys=[...Array(7)].map((_,i)=>addDays(end,i-6)); const vals=keys.map(d=>totals(dayEntries(d)).kcal); const max=Math.max(B*1.15,...vals);
-  return `<div class="week">${keys.map((d,i)=>{const v=vals[i];return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal"><span class="kv">${v?fmt(v):""}</span><span class="col ${v?(v>B?"over":"has"):""}" style="height:${v?Math.max(6,v/max*62):4}px"></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span>${(w=>w==null?"":`<span class="wh" title="${wholeTitle}">${fmt(w)}% whole</span>`)(wholePct(dayEntries(d)))}</a>`;}).join("")}</div>`;
+  const H=64, bh=v=>Math.max(6,v/max*H);
+  return `<div class="week" style="--budget:${(B/max*H).toFixed(1)}px">${keys.map((d,i)=>{const v=vals[i];const w=wholePct(dayEntries(d));return `<a href="#/day/${d}" class="${d===k?"sel":""}" aria-label="${d}: ${fmt(v)} kcal${w==null?"":`, ${fmt(w)}% whole food`}"><span class="kv">${v?fmt(v):""}</span><span class="bar"><span class="col ${v?(v>B?"over":"has"):""}" style="height:${v?bh(v):4}px"></span></span><span class="lbl">${dateOf(d).toLocaleDateString(undefined,{weekday:"short"})}</span><span class="wh" title="${wholeTitle}">${w==null?"&nbsp;":fmt(w)+"%"}</span></a>`;}).join("")}</div><div class="week-key"><span><i class="bl"></i>${fmt(B)} budget</span><span>bottom row: % whole food</span></div>`;
 }
 
 /* ---------- trends ---------- */
