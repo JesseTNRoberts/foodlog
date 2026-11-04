@@ -54,6 +54,8 @@ h1,h2,h3{text-wrap:balance;margin:0}
 .btns{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
 .btn{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:6px 11px;font-size:13.5px;font-weight:500;text-decoration:none;color:var(--ink);display:inline-flex;align-items:center;gap:6px;box-shadow:var(--shadow)}
 .btn.sm{padding:3px 9px;font-size:12.5px}
+.linkbtn{border:0;background:none;padding:0;font:inherit;color:var(--accent);text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+.dayoff-row{display:flex;flex-wrap:wrap;gap:4px 6px;justify-content:center;font-size:12.5px;color:var(--muted);padding:2px 0 8px}
 .btn[aria-disabled="true"]{opacity:.4;pointer-events:none}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
 .seg button{border:0;background:none;padding:6px 11px;font-size:13px;font-weight:500;color:var(--muted)}

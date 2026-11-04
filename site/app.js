@@ -151,7 +151,6 @@ function renderDay(k){
       <a class="btn" href="#/day/${addDays(k,-1)}" ${firstDay&&k<=firstDay?'aria-disabled="true"':""} aria-label="Previous day">‹ Prev</a>
       ${isToday?"":`<a class="btn" href="#/">Today</a>`}
       <a class="btn" href="#/day/${addDays(k,1)}" ${isToday?'aria-disabled="true"':""} aria-label="Next day">Next ›</a>
-      ${day?.offDay?"":`<button class="btn" data-copy="Plate Log edit, ${k}: mark as a day off logging (leave out of averages)" title="Copies a note for Claude to mark this day as a day off logging">Day off</button>`}
     </div>
   </div>
   ${day?.offDay?`<div class="daynote off"><b>Day off logging.</b> What's here is kept, but this day is left out of averages and trends. <button class="btn sm" data-copy="Plate Log edit, ${k}: count this day again (remove day off)">Count it again</button></div>`:""}
@@ -179,7 +178,8 @@ function renderDay(k){
   <section class="card"><div class="card-h"><h2>Vitamins & minerals</h2><span class="sub">% of daily value · tick marks 100%</span></div>
     ${Object.keys(t.micros).length?`<div class="mlist">${microRows(t.micros)}</div>`:`<div class="muted">No micronutrient estimates for this day.</div>`}
   </section>
-  <section class="card"><div class="card-h"><h2>Last 7 days</h2><span class="sub">calories vs ${fmt(B)} budget · tap a day</span></div>${weekStrip(k,B)}</section>`;
+  <section class="card"><div class="card-h"><h2>Last 7 days</h2><span class="sub">calories vs ${fmt(B)} budget · tap a day</span></div>${weekStrip(k,B)}</section>
+  ${day?.offDay?"":`<div class="dayoff-row"><span>Didn't really log this day?</span><button class="linkbtn" data-copy="Plate Log edit, ${k}: mark as a day off logging (leave out of averages)" title="Copies a note to paste to Claude">Mark it as a day off</button><span>It'll be left out of averages.</span></div>`}`;
 
   wireBreakdown(app, ()=>ents, prettyDate(k,{weekday:"long",month:"short",day:"numeric"}));
   app.querySelectorAll("[data-copy]").forEach(b=>b.onclick=async()=>{
