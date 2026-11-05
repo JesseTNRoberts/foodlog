@@ -92,26 +92,59 @@ function nutrientInfo(m){
   const mi=MICRO.find(x=>x[0]===m); return mi?[mi[1],mi[2]]:[m,""];
 }
 function compVal(c,m){ return c.micros&&m in c.micros ? c.micros[m] : c[m]; }
-function contributions(entries,m){
-  const map=new Map(); const add=(n,v)=>{ if(v>0) map.set(n,(map.get(n)||0)+v); };
+// For ranges, "Olive oil (in the spaghetti)" and "Olive oil" count as one food.
+const foodKey = n => n.replace(/\s*\((?:in|on) the [^)]*\)\s*$/i,"").trim();
+function contributions(entries,m,merge=false){
+  const map=new Map(), label=new Map(), wsum=new Map(), wv=new Map();
+  const add=(n,v,w)=>{ if(!(v>0)) return; const k=merge?foodKey(n).toLowerCase():n; if(!label.has(k)) label.set(k,merge?foodKey(n):n); map.set(k,(map.get(k)||0)+v);
+    if(w!=null){ wsum.set(k,(wsum.get(k)||0)+v*num(w)); wv.set(k,(wv.get(k)||0)+v); } };
   for(const e of entries){ const s=num(e.servings||1); const comps=e.components||[];
     const ev = m in (e.micros||{}) ? num(e.micros[m])*s : num(e[m])*s;
     // Per-ingredient numbers when the ingredients carry this nutrient; otherwise the whole dish.
-    if(comps.length && comps.every(c=>compVal(c,m)!=null)){ comps.forEach(c=>add(c.name, num(compVal(c,m))*s)); continue; }
+    if(comps.length && comps.every(c=>compVal(c,m)!=null)){ comps.forEach(c=>add(c.name, num(compVal(c,m))*s, c.whole)); continue; }
     add(e.name, ev);
   }
-  return [...map].sort((a,b)=>b[1]-a[1]);
+  return [...map].map(([k,v])=>[label.get(k),v,wv.get(k)?wsum.get(k)/wv.get(k):null]).sort((a,b)=>b[1]-a[1]);
+}
+
+/* Squarified treemap: lays rows of boxes so each stays close to square. */
+function squarify(vals,W,H){
+  const out=[]; const total=vals.reduce((a,b)=>a+b,0); if(!total) return out;
+  const scale=W*H/total; const areas=vals.map(v=>v*scale);
+  let x=0,y=0,w=W,h=H,i=0;
+  const worst=(row,side)=>{ const s=row.reduce((a,b)=>a+b,0); const mx=Math.max(...row), mn=Math.min(...row); return Math.max(side*side*mx/(s*s), (s*s)/(side*side*mn)); };
+  while(i<areas.length){
+    const side=Math.min(w,h); let row=[areas[i]], j=i+1;
+    while(j<areas.length && worst([...row,areas[j]],side)<=worst(row,side)){ row.push(areas[j]); j++; }
+    const s=row.reduce((a,b)=>a+b,0);
+    if(w>=h){ const cw=s/h; let cy=y; row.forEach(a=>{ const ch=a/cw; out.push({x,y:cy,w:cw,h:ch}); cy+=ch; }); x+=cw; w-=cw; }
+    else { const rh=s/w; let cx=x; row.forEach(a=>{ const cw=a/rh; out.push({x:cx,y,w:cw,h:rh}); cx+=cw; }); y+=rh; h-=rh; }
+    i=j;
+  }
+  return out;
+}
+// Box size = share of the nutrient; color = whole-food score (red processed -> grey -> green whole).
+function wholeColor(w){
+  if(w==null) return "var(--tm-none)";
+  return w<0.5 ? `color-mix(in srgb,var(--tm-mid) ${Math.round(w/0.5*100)}%,var(--tm-low))` : `color-mix(in srgb,var(--tm-high) ${Math.round((w-0.5)/0.5*100)}%,var(--tm-mid))`;
+}
+function treemapHTML(rows,total,unit,dp,W,H){
+  return squarify(rows.map(r=>r[1]),W,H).map((b,i)=>{
+    const [n,v,w]=rows[i]; const pct=v/total*100;
+    const big=b.w>=70&&b.h>=38, mid=!big&&b.w>=40&&b.h>=18; const short=esc(n.split(",")[0]);
+    const val=b.w>=120?`${fmt(v,dp)} ${unit} · ${fmt(pct,pct<1?1:0)}%`:`${fmt(pct,pct<1?1:0)}%`;
+    return `<div class="tm-b${w==null?" nw":""}" data-i="${i}" style="left:${b.x.toFixed(1)}px;top:${b.y.toFixed(1)}px;width:${b.w.toFixed(1)}px;height:${b.h.toFixed(1)}px;background:${wholeColor(w)}" title="${esc(n)}: ${fmt(v,dp)} ${unit} (${fmt(pct,pct<1?1:0)}%)${w==null?"":` · ${fmt(w*100)}% whole`}">${big?`<span class="tm-n">${short}</span><span class="tm-v">${val}</span>`:mid?`<span class="tm-n${b.h>=30?"":" one"}">${short}</span>`:""}</div>`;
+  }).join("");
 }
 let bdChart=null;
-function showBreakdown(m, entries, scope, perDay=1){
+function showBreakdown(m, entries, scope, perDay=1, view="pie"){
   const [label,unit]=nutrientInfo(m);
-  let rows=contributions(entries,m).map(([n,v])=>[n,v/perDay]);
+  let rows=contributions(entries,m,view==="treemap").map(([n,v,w])=>[n,v/perDay,w]);
   const total=rows.reduce((a,r)=>a+r[1],0);
+  if(view==="treemap") return showTreemap(label,unit,rows,total,scope,perDay);
   if(rows.length>8){ const rest=rows.slice(7).reduce((a,r)=>a+r[1],0); rows=[...rows.slice(0,7),["Everything else",rest]]; }
   const dp = total<20?1:0;
-  let dlg=document.getElementById("bd");
-  if(!dlg){ dlg=document.createElement("dialog"); dlg.id="bd"; document.body.appendChild(dlg);
-    dlg.addEventListener("click",ev=>{ if(ev.target===dlg) dlg.close(); }); dlg.addEventListener("close",()=>{ bdChart?.destroy(); bdChart=null; }); }
+  const dlg=bdDialog(false);
   dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${fmt(total,dp)} ${unit}${perDay>1?" per logged day":""}</div></div>
     <button class="btn sm" data-close aria-label="Close">Close</button></div>
     ${total>0?`<div class="bd-chart"><canvas id="cBd"></canvas></div>
@@ -125,10 +158,35 @@ function showBreakdown(m, entries, scope, perDay=1){
       options:{cutout:"58%",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${fmt(c.raw,dp)} ${unit} (${fmt(c.raw/total*100)}%)`}}}}});
   }
 }
-function wireBreakdown(root, getEntries, scope, perDay=1){
+function bdDialog(wide){
+  let dlg=document.getElementById("bd");
+  if(!dlg){ dlg=document.createElement("dialog"); dlg.id="bd"; document.body.appendChild(dlg);
+    dlg.addEventListener("click",ev=>{ if(ev.target===dlg) dlg.close(); }); dlg.addEventListener("close",()=>{ bdChart?.destroy(); bdChart=null; }); }
+  dlg.classList.toggle("wide",!!wide); return dlg;
+}
+function showTreemap(label,unit,rows,total,scope,perDay){
+  const dp = total<20?1:0;
+  const dlg=bdDialog(true);
+  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${fmt(total,dp)} ${unit}${perDay>1?" per logged day":""} · ${rows.length} foods</div></div>
+    <button class="btn sm" data-close aria-label="Close">Close</button></div>
+    ${total>0?`<div class="tm-key"><span>Box size = share</span><span class="tm-scale"><i style="background:${wholeColor(0)}"></i>processed<i style="background:${wholeColor(.5)}"></i><i style="background:${wholeColor(1)}"></i>whole</span></div><div class="tm" role="img" aria-label="${esc(label)} by food, ${rows.length} foods"></div>
+    <div class="bd-scroll"><table class="bd-t">${rows.map(([n,v],i)=>`<tr data-r="${i}"><td><span class="rk">${i+1}</span><i style="background:${wholeColor(rows[i][2])}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(v/total*100,v/total<.01?1:0)}%</td></tr>`).join("")}</table></div>`
+    :`<div class="muted">No ${esc(label.toLowerCase())} estimated for these foods.</div>`}</div>`;
+  dlg.querySelector("[data-close]").onclick=()=>dlg.close();
+  dlg.showModal();
+  const tm=dlg.querySelector(".tm"); if(!tm) return;
+  const draw=()=>{ const W=tm.clientWidth, H=tm.clientHeight; tm.innerHTML=treemapHTML(rows,total,unit,dp,W,H); };
+  draw(); dlg._ro?.disconnect(); dlg._ro=new ResizeObserver(draw); dlg._ro.observe(tm);
+  // Tap a box: highlight it and jump to its row in the list (touch screens have no hover tooltip).
+  tm.onclick=ev=>{ const b=ev.target.closest(".tm-b"); if(!b) return;
+    tm.querySelectorAll(".tm-b.on").forEach(x=>x.classList.remove("on")); b.classList.add("on");
+    dlg.querySelectorAll("tr.on").forEach(x=>x.classList.remove("on"));
+    const r=dlg.querySelector(`tr[data-r="${b.dataset.i}"]`); if(r){ r.classList.add("on"); const box=dlg.querySelector(".bd-scroll"); box.scrollTo({top:r.offsetTop-box.clientHeight/2+r.offsetHeight/2,behavior:"smooth"}); } };
+}
+function wireBreakdown(root, getEntries, scope, perDay=1, view="pie"){
   root.querySelectorAll("[data-nutr]").forEach(el=>{
     el.classList.add("clickable"); el.setAttribute("role","button"); el.tabIndex=0;
-    const go=()=>showBreakdown(el.dataset.nutr, getEntries(), scope, perDay);
+    const go=()=>showBreakdown(el.dataset.nutr, getEntries(), scope, perDay, view);
     el.onclick=go; el.onkeydown=ev=>{ if(ev.key==="Enter"||ev.key===" "){ ev.preventDefault(); go(); } };
   });
 }
@@ -294,7 +352,7 @@ function renderTrends(){
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th title="${wholeTitle}">Whole</th><th>Entries</th></tr></thead>
     <tbody>${[...rows].reverse().map(({t,d})=>isOff(d)?`<tr class="link off" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td colspan="8" class="muted">day off logging, not averaged</td></tr>`:`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${(w=>w==null?"–":fmt(w)+"%")(wholePct(dayEntries(d)))}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="9" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
 
-  wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length));
+  wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length), "treemap");
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });
   document.getElementById("metric").onchange=ev=>{ trendState.metric=ev.target.value; renderTrends(); };
   app.querySelectorAll("tr[data-day]").forEach(r=>r.onclick=()=>{ location.hash="#/day/"+r.dataset.day; });
