@@ -40,7 +40,7 @@ Open each photo Jesse sends, one at a time, and study it carefully before estima
    - Dressing is usually lemon maple tahini (see `recipes/sauces-and-dressings.md`); sometimes olive oil + red wine vinegar with hummus.
    - Minimal butter; often lighter or plant-based swaps (Just Egg, vegan mayo, plant-based cheese and ranch, fat-free ultra-filtered milk).
    - Full-fat on purpose, don't assume lightened: original Alfredo, New England chowder, peach pie and ice cream.
-4. **Restaurant and takeout food:** he sometimes eats only half or a third of a restaurant portion. Estimate what he says he ate, or what's on the plate in the photo.
+4. **Restaurant and takeout food:** he usually splits restaurant food with others, so he often eats a fraction of an item (a quarter or fifth of a sandwich, a third or half of a plate). Estimate what he says he ate, or what's on the plate in the photo, and always record the fraction.
 5. **Hidden calories are the biggest error**: olive oil, tahini/dressing, avocado, nuts, cheese. List these as their own components.
 
 ## Per-unit numbers (use with portions sized from the photo)
