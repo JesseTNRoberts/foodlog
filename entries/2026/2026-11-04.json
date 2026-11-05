@@ -1304,36 +1304,36 @@
     },
     {
       "id": "2026-11-04-9",
-      "name": "Count Chocula with Fairlife milk",
-      "portion": "1/4 cup cereal, 2/3 cup milk; 100% eaten",
+      "name": "Count Chocula and muesli with Fairlife milk",
+      "portion": "1/4 cup Count Chocula, 1/4 cup muesli, 2/3 cup milk; 100% eaten",
       "meal": "snacks",
       "servings": 1,
-      "kcal": 89,
-      "protein": 9.3,
-      "carbs": 11.7,
-      "fat": 0.3,
-      "satfat": 0.0,
-      "fiber": 0.5,
-      "sugar": 7.1,
-      "addedSugar": 3.0,
-      "sodium": 131.6,
+      "kcal": 192,
+      "protein": 12.1,
+      "carbs": 30.2,
+      "fat": 2.1,
+      "satfat": 0.3,
+      "fiber": 2.7,
+      "sugar": 11.2,
+      "addedSugar": 3.8,
+      "sodium": 135.8,
       "cholesterol": 3.3,
-      "lo": 80,
-      "hi": 115,
+      "lo": 169,
+      "hi": 221,
       "micros": {
-        "vitA": 138.69,
-        "vitC": 0.0,
+        "vitA": 139.25,
+        "vitC": 0.14,
         "vitD": 2.31,
-        "vitE": 0.0,
-        "vitK": 0.0,
-        "b6": 0.15,
+        "vitE": 0.42,
+        "vitK": 0.84,
+        "b6": 0.21,
         "b12": 1.04,
-        "folate": 53.15,
-        "calcium": 277.12,
-        "iron": 1.08,
-        "magnesium": 23.89,
-        "potassium": 302.35,
-        "zinc": 1.26
+        "folate": 64.35,
+        "calcium": 291.12,
+        "iron": 1.98,
+        "magnesium": 54.69,
+        "potassium": 414.35,
+        "zinc": 1.91
       },
       "components": [
         {
@@ -1397,6 +1397,37 @@
             "zinc": 0.45
           },
           "whole": 0.2
+        },
+        {
+          "name": "Muesli",
+          "portion": "1/4 cup (~28 g)",
+          "grams": 28,
+          "kcal": 103.6,
+          "protein": 2.8,
+          "carbs": 18.48,
+          "fat": 1.82,
+          "satfat": 0.28,
+          "fiber": 2.24,
+          "sugar": 4.2,
+          "addedSugar": 0.84,
+          "sodium": 4.2,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.56,
+            "vitC": 0.14,
+            "vitD": 0.0,
+            "vitE": 0.42,
+            "vitK": 0.84,
+            "b6": 0.056,
+            "b12": 0.0,
+            "folate": 11.2,
+            "calcium": 14.0,
+            "iron": 0.896,
+            "magnesium": 30.8,
+            "potassium": 112.0,
+            "zinc": 0.644
+          },
+          "whole": 0.85
         }
       ],
       "eaten": {
@@ -1405,11 +1436,12 @@
       },
       "ingredients": [
         "Fairlife ultra-filtered fat-free milk",
-        "Count Chocula (corn, sugar, cocoa, marshmallows, vitamins and minerals)"
+        "Count Chocula (corn, sugar, cocoa, marshmallows, vitamins and minerals)",
+        "muesli (rolled oats, dried fruit, nuts, seeds)"
       ],
       "ingredientsFrom": "menu",
       "confidence": "high",
-      "notes": "Assumed fat-free Fairlife, his usual; 2% would add ~25 kcal."
+      "notes": "Assumed fat-free Fairlife, his usual (2% would add ~25 kcal); muesli assumed unsweetened-style (~104 kcal per 1/4 cup) and in the same bowl."
     }
   ]
 }
