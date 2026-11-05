@@ -772,6 +772,115 @@
       "ingredientsFrom": "guess",
       "confidence": "medium",
       "notes": "Handful taken as ~1 oz of nut meat (his hand is on the small side); a heaping handful could be ~1.3 oz (~210 kcal)."
+    },
+    {
+      "id": "2026-11-05-6",
+      "name": "Cottage cheese with cherry tomatoes",
+      "portion": "3 tbsp cottage cheese, 6 cherry tomatoes; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 56,
+      "protein": 5.8,
+      "carbs": 6.6,
+      "fat": 1.1,
+      "satfat": 0.6,
+      "fiber": 1.2,
+      "sugar": 4.2,
+      "addedSugar": 0.0,
+      "sodium": 110.2,
+      "cholesterol": 3.8,
+      "lo": 50,
+      "hi": 65,
+      "micros": {
+        "vitA": 51.74,
+        "vitC": 13.97,
+        "vitD": 0.0,
+        "vitE": 0.56,
+        "vitK": 8.06,
+        "b6": 0.11,
+        "b12": 0.2,
+        "folate": 20.94,
+        "calcium": 58.93,
+        "iron": 0.41,
+        "magnesium": 14.97,
+        "potassium": 294.71,
+        "zinc": 0.39
+      },
+      "components": [
+        {
+          "name": "Breakstone's 2% small curd cottage cheese",
+          "portion": "3 tbsp (~43 g)",
+          "grams": 42.4,
+          "kcal": 37.5,
+          "protein": 4.87,
+          "carbs": 2.63,
+          "fat": 0.93,
+          "satfat": 0.56,
+          "fiber": 0.0,
+          "sugar": 1.5,
+          "addedSugar": 0.0,
+          "sodium": 105.09,
+          "cholesterol": 3.75,
+          "micros": {
+            "vitA": 8.899,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.013,
+            "vitK": 0.0,
+            "b6": 0.03,
+            "b12": 0.199,
+            "folate": 5.636,
+            "calcium": 48.731,
+            "iron": 0.136,
+            "magnesium": 3.75,
+            "potassium": 52.969,
+            "zinc": 0.216
+          },
+          "whole": 0.85
+        },
+        {
+          "name": "Cherry tomatoes",
+          "portion": "6 (~102 g)",
+          "grams": 102,
+          "kcal": 18.36,
+          "protein": 0.9,
+          "carbs": 3.98,
+          "fat": 0.2,
+          "satfat": 0.03,
+          "fiber": 1.22,
+          "sugar": 2.65,
+          "addedSugar": 0.0,
+          "sodium": 5.1,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 42.84,
+            "vitC": 13.974,
+            "vitD": 0.0,
+            "vitE": 0.551,
+            "vitK": 8.058,
+            "b6": 0.082,
+            "b12": 0.0,
+            "folate": 15.3,
+            "calcium": 10.2,
+            "iron": 0.275,
+            "magnesium": 11.22,
+            "potassium": 241.74,
+            "zinc": 0.173
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "snack as listed"
+      },
+      "ingredients": [
+        "Breakstone's 2% small curd cottage cheese",
+        "cherry tomatoes"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "Assumed Breakstone's 2% as before."
     }
   ]
 }
