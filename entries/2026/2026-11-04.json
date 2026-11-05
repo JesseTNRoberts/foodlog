@@ -1031,6 +1031,83 @@
       "ingredientsFrom": "recipe",
       "confidence": "medium",
       "notes": "Second bowl: 2/3 of the dinner bowl without the egg (pintos 1/2 cup, cottage cheese ~1 1/3 tbsp, collards, cornbread ~27 g, carrot)."
+    },
+    {
+      "id": "2026-11-04-6",
+      "name": "Cherry tomatoes",
+      "portion": "4 tomatoes; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satfat": 0.0,
+      "fiber": 0.2,
+      "sugar": 0.3,
+      "addedSugar": 0.0,
+      "sodium": 0.7,
+      "cholesterol": 0.0,
+      "lo": 10,
+      "hi": 16,
+      "micros": {
+        "vitA": 5.71,
+        "vitC": 1.86,
+        "vitD": 0.0,
+        "vitE": 0.07,
+        "vitK": 1.07,
+        "b6": 0.01,
+        "b12": 0.0,
+        "folate": 2.04,
+        "calcium": 1.36,
+        "iron": 0.04,
+        "magnesium": 1.5,
+        "potassium": 32.23,
+        "zinc": 0.02
+      },
+      "components": [
+        {
+          "name": "Cherry tomatoes",
+          "portion": "4",
+          "grams": 13.6,
+          "kcal": 2.45,
+          "protein": 0.12,
+          "carbs": 0.53,
+          "fat": 0.03,
+          "satfat": 0.0,
+          "fiber": 0.16,
+          "sugar": 0.35,
+          "addedSugar": 0.0,
+          "sodium": 0.68,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 5.712,
+            "vitC": 1.863,
+            "vitD": 0.0,
+            "vitE": 0.074,
+            "vitK": 1.074,
+            "b6": 0.011,
+            "b12": 0.0,
+            "folate": 2.04,
+            "calcium": 1.36,
+            "iron": 0.037,
+            "magnesium": 1.496,
+            "potassium": 32.232,
+            "zinc": 0.023
+          },
+          "whole": 1
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "4 tomatoes"
+      },
+      "ingredients": [
+        "cherry tomatoes"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "4 cherry tomatoes, plain."
     }
   ]
 }
