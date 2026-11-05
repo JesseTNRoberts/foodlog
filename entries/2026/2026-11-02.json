@@ -626,7 +626,7 @@
             "potassium": 469.65,
             "zinc": 0.094
           },
-          "whole": 0.6
+          "whole": 1.0
         }
       ],
       "kcal": 214,
@@ -2070,7 +2070,7 @@
             "potassium": 10.437,
             "zinc": 0.002
           },
-          "whole": 0.6
+          "whole": 1.0
         },
         {
           "name": "Rolled oats, crumble (in the pie)",

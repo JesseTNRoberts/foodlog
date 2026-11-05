@@ -1080,35 +1080,35 @@
     {
       "id": "2026-11-04-7",
       "name": "Chocolate cake",
-      "portion": "1 piece, 2 x 2 in; 100% eaten",
+      "portion": "1 piece, 2 x 2 in, no frosting; 100% eaten",
       "meal": "snacks",
       "servings": 1,
-      "kcal": 245,
-      "protein": 2.8,
-      "carbs": 36.1,
-      "fat": 10.2,
-      "satfat": 3.6,
-      "fiber": 1.0,
-      "sugar": 23.6,
-      "addedSugar": 22.6,
-      "sodium": 194.0,
+      "kcal": 186,
+      "protein": 2.6,
+      "carbs": 26.7,
+      "fat": 7.5,
+      "satfat": 2.8,
+      "fiber": 0.8,
+      "sugar": 15.0,
+      "addedSugar": 14.0,
+      "sodium": 167.0,
       "cholesterol": 29.0,
-      "lo": 170,
-      "hi": 320,
+      "lo": 140,
+      "hi": 240,
       "micros": {
         "vitA": 15.0,
         "vitC": 0.1,
         "vitD": 0.1,
-        "vitE": 0.87,
-        "vitK": 2.9,
+        "vitE": 0.6,
+        "vitK": 2.0,
         "b6": 0.02,
         "b12": 0.07,
         "folate": 20.0,
-        "calcium": 29.7,
-        "iron": 1.26,
-        "magnesium": 18.3,
-        "potassium": 124.4,
-        "zinc": 0.34
+        "calcium": 28.5,
+        "iron": 1.05,
+        "magnesium": 15.0,
+        "potassium": 95.0,
+        "zinc": 0.3
       },
       "components": [
         {
@@ -1141,37 +1141,6 @@
             "zinc": 0.3
           },
           "whole": 0.05
-        },
-        {
-          "name": "Chocolate frosting",
-          "portion": "~1 tbsp (~15 g)",
-          "grams": 15,
-          "kcal": 59.55,
-          "protein": 0.17,
-          "carbs": 9.45,
-          "fat": 2.64,
-          "satfat": 0.82,
-          "fiber": 0.15,
-          "sugar": 8.55,
-          "addedSugar": 8.55,
-          "sodium": 27.0,
-          "cholesterol": 0.0,
-          "micros": {
-            "vitA": 0.0,
-            "vitC": 0.0,
-            "vitD": 0.0,
-            "vitE": 0.27,
-            "vitK": 0.9,
-            "b6": 0.0,
-            "b12": 0.0,
-            "folate": 0.0,
-            "calcium": 1.2,
-            "iron": 0.21,
-            "magnesium": 3.3,
-            "potassium": 29.4,
-            "zinc": 0.045
-          },
-          "whole": 0.05
         }
       ],
       "eaten": {
@@ -1186,12 +1155,11 @@
         "oil or butter",
         "buttermilk or milk",
         "baking soda",
-        "salt",
-        "chocolate frosting (powdered sugar, butter, cocoa)"
+        "salt"
       ],
       "ingredientsFrom": "guess",
       "confidence": "low",
-      "notes": "Assumed a frosted sheet-cake piece ~1 1/2 in tall with ~1 tbsp frosting. Unfrosted would be ~185; a tall layer-cake slice more like 300+."
+      "notes": "Unfrosted piece (per Jesse), assumed ~1 1/2 in tall (~50 g)."
     },
     {
       "id": "2026-11-04-8",
@@ -1256,7 +1224,7 @@
             "potassium": 167.155,
             "zinc": 0.033
           },
-          "whole": 0.6
+          "whole": 1.0
         },
         {
           "name": "Oat milk, original",

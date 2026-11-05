@@ -60,7 +60,7 @@ Ask at most one short question, and only when the answer would swing the estimat
 
 ## Whole-food score
 Each ingredient gets `whole`, a number from 0 to 1 for how close it is to its natural state. It's a sliding scale, not yes/no; be reasonable, and judge the ingredient as actually made (a granola of oats, nuts and a little sweetener is mostly whole).
-- **1.0 whole:** fruit, vegetables, beans, whole grains, nuts, seeds, eggs, plain meat and fish, herbs, coffee, tea, water, salt.
+- **1.0 whole:** fruit, vegetables, beans, whole grains, nuts, seeds, eggs, plain meat and fish, herbs, coffee, tea, water, salt, apple cider (pressed apples; Jesse counts it as whole).
 - **0.85–0.9 minimally processed:** plain yogurt, cheese, milk, olive oil, nut and seed butters, tahini, maple syrup, Dijon, vinegar, canned plain vegetables.
 - **0.7–0.8 traditional or home-made:** granola, sourdough, pasta, rice, soups, chili, hummus, salsa, harissa, broth, cooking wine.
 - **0.5–0.6 processed:** packaged bread (21 Whole Grains: 0.6), tortillas, bagels, sauces, juices, plant milks, restaurant mixed dishes.
