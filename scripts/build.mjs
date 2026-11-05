@@ -71,7 +71,8 @@ for (const file of walk(path.join(root, "entries")).filter(f => f.endsWith(".jso
     e.id ??= `${date}-${i + 1}`;
   });
   if (doc.offDay != null && typeof doc.offDay !== "boolean") errors.push(`${rel}: "offDay" must be true or false`);
-  days.push({ date, note: doc.note || "", offDay: doc.offDay === true, entries: doc.entries });
+  if (doc.weight != null && !(typeof doc.weight === "number" && doc.weight > 50 && doc.weight < 500)) errors.push(`${rel}: "weight" must be a number of pounds`);
+  days.push({ date, note: doc.note || "", offDay: doc.offDay === true, weight: doc.weight ?? null, entries: doc.entries });
 }
 
 const settings = JSON.parse(fs.readFileSync(path.join(root, "settings.json"), "utf8"));

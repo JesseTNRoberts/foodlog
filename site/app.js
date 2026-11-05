@@ -204,7 +204,7 @@ function renderDay(k){
 
   app.innerHTML=`
   <div class="toolbar">
-    <div><h1>${isToday?"Today":esc(prettyDate(k))}</h1><div class="sub">${isToday?esc(prettyDate(k)):""}${ents.length?`${isToday?" · ":""}${ents.length} entries · likely ${fmt(t.lo)}–${fmt(t.hi)} kcal`:""}${ents.length?(w=>` · <span class="whole" title="${wholeTitle}">${w==null?"whole food not scored (no foods named)":fmt(w)+"% whole food"}</span>`)(wholePct(ents)):""}</div></div>
+    <div><h1>${isToday?"Today":esc(prettyDate(k))}</h1><div class="sub">${isToday?esc(prettyDate(k)):""}${day?.weight?`${isToday?" · ":""}<b class="num">${fmt(day.weight,1)} lb</b>${ents.length?"":""}`:""}${ents.length?`${isToday?" · ":""}${ents.length} entries · likely ${fmt(t.lo)}–${fmt(t.hi)} kcal`:""}${ents.length?(w=>` · <span class="whole" title="${wholeTitle}">${w==null?"whole food not scored (no foods named)":fmt(w)+"% whole food"}</span>`)(wholePct(ents)):""}</div></div>
     <div class="btns">
       <a class="btn" href="#/day/${addDays(k,-1)}" ${firstDay&&k<=firstDay?'aria-disabled="true"':""} aria-label="Previous day">‹ Prev</a>
       ${isToday?"":`<a class="btn" href="#/">Today</a>`}
@@ -342,6 +342,12 @@ function renderTrends(){
   <section class="card"><div class="card-h"><h2>Daily ${esc(ml.toLowerCase())}</h2>
     <select class="sel" id="metric" aria-label="Metric">${METRICS.map(([v,l])=>`<option value="${v}"${v===mk?" selected":""}>${l}</option>`).join("")}</select></div>
     <div class="chartbox"><canvas id="cMetric"></canvas></div></section>
+  ${(()=>{ const all=DATA.days.filter(d=>d.weight); if(!all.length) return "";
+    let pts=all.filter(d=>d.date>=start&&d.date<=end); if(pts.length<2) pts=all;
+    const last=pts[pts.length-1], first=pts[0], ch=last.weight-first.weight;
+    return `<section class="card"><div class="card-h"><h2>Weight</h2><span class="sub">${pts.length>1?`${ch<=0?"▼":"▲"} ${fmt(Math.abs(ch),1)} lb since ${esc(prettyDate(first.date,{month:"short",day:"numeric"}))} · ${pts.length} weigh-ins`:"1 weigh-in"}</span></div>
+      <div class="wt-now"><b class="num">${fmt(last.weight,1)}</b> lb <span class="sub">${esc(prettyDate(last.date,{weekday:"short",month:"short",day:"numeric"}))}</span></div>
+      ${pts.length>1?`<div class="chartbox sm"><canvas id="cWeight"></canvas></div>`:""}</section>`; })()}
   <div class="grid2">
     <section class="card"><div class="card-h"><h2>Calories by macro</h2><span class="sub">kcal from P / C / F</span></div><div class="chartbox"><canvas id="cMacros"></canvas></div></section>
     <section class="card"><div class="card-h"><h2>Calories by meal</h2><span class="sub">stacked per day</span></div><div class="chartbox"><canvas id="cMeals"></canvas></div></section>
@@ -367,6 +373,14 @@ function renderTrends(){
     {type:"line",label:"7-day average",data:roll,borderColor:css("--ink"),borderWidth:2,pointRadius:0,tension:.35,spanGaps:true,order:1}];
   if(target) ds.push({type:"line",label:isLimit?"Limit":"Target",data:keys.map(()=>target),borderColor:css("--muted"),borderDash:[5,4],borderWidth:1.5,pointRadius:0,order:0});
   const grid={color:css("--line")};
+  { const all=DATA.days.filter(d=>d.weight); let pts=all.filter(d=>d.date>=start&&d.date<=end); if(pts.length<2) pts=all;
+    const el=document.getElementById("cWeight");
+    if(el&&pts.length>1){ const ws=pts.map(d=>d.weight);
+      charts.push(new Chart(el,{type:"line",data:{labels:pts.map(d=>dateOf(d.date).toLocaleDateString(undefined,{month:"short",day:"numeric"})),
+        datasets:[{label:"Weight",data:ws,borderColor:css("--accent"),backgroundColor:css("--accent"),borderWidth:2,pointRadius:3,tension:.25}]},
+        options:{plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${fmt(c.raw,1)} lb`}}},
+          scales:{x:{grid:{display:false}},y:{suggestedMin:Math.floor(Math.min(...ws)-2),suggestedMax:Math.ceil(Math.max(...ws)+2),grid:{color:css("--line")},ticks:{callback:v=>fmt(v)+" lb"}}},
+          onClick:(ev,els)=>{ if(els[0]) location.hash="#/day/"+pts[els[0].index].date; }}})); } }
   charts.push(new Chart(document.getElementById("cMetric"),{data:{labels,datasets:ds},
     options:{interaction:{mode:"index",intersect:false},plugins:{tooltip:{callbacks:{label:c=>c.raw==null?null:` ${c.dataset.label}: ${fmt(c.raw,mu==="mcg"||mu==="mg"&&c.raw<20?1:0)} ${mu}`}}},
       scales:{x:{grid:{display:false},ticks:{maxTicksLimit:10}},y:{beginAtZero:true,grid,ticks:{callback:v=>fmt(v)}}},

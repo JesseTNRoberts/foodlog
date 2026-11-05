@@ -164,6 +164,9 @@ select.sel{border:1px solid var(--line);border-radius:8px;padding:6px 10px;backg
 .week-key .bl{display:inline-block;width:14px;border-top:1px dashed var(--muted);vertical-align:middle;margin-right:5px}
 @media (max-width:380px){.week .kv{font-size:9px}}
 
+.wt-now{font-size:14px;color:var(--muted)}
+.wt-now b{font-size:26px;color:var(--ink);font-weight:600}
+.chartbox.sm{height:180px}
 .daynote{font-size:13.5px;background:var(--accent-soft);border-radius:10px;padding:10px 12px}
 .daynote.off{background:var(--surface-2);border:1px dashed var(--line);display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
 .week .col.off{background:repeating-linear-gradient(135deg,var(--line) 0 4px,transparent 4px 7px);border:1px solid var(--line)}

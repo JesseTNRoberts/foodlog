@@ -96,7 +96,7 @@ His old Lose It salmon entry counts ~40 kcal/oz, which matches raw weight. Photo
 Photo-based estimates are typically within about 20–30% at best; the hand in frame helps a lot. Oil and tahini are the hardest to see. A quick note ("1 tbsp oil," "4 oz salmon") tightens them further.
 
 ## Goals (set Oct 26, 2026)
-- Weight 160 lb. Wants to lose weight; asked about 3 lb/week, which is too fast for this size (needs ~1,500 kcal/day deficit). Target ~1 lb/week instead.
+- Weight 160 lb on Oct 26, 2026 (weigh-ins are logged as `weight` in the day files; 155 lb on Nov 5). Wants to lose weight; asked about 3 lb/week, which is too fast for this size (needs ~1,500 kcal/day deficit). Target ~1 lb/week instead.
 - **Calories: 2,000/day** (raised from 1,800 on Nov 4, 2026). He runs every day and does gym work, so 1,800 wasn't realistic; maintenance is likely ~2,700–3,000 kcal, so 2,000 still gives a solid deficit.
 - **Protein: 70 g/day** (~1 g/kg). He eats mostly plant-based, so 90 g isn't realistic; 70 g is above the 58 g baseline and gives some muscle protection while losing weight.
 - **He doesn't log everything**, so a day's total is a floor, not the full day. Don't treat a low day as under-eating.
