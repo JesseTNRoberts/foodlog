@@ -110,6 +110,115 @@
       "ingredientsFrom": "recipe",
       "confidence": "high",
       "notes": "Finished the second half of the 11/4 glass; same numbers as that entry."
+    },
+    {
+      "id": "2026-11-05-2",
+      "name": "Almond butter toast",
+      "portion": "3/4 of 1 slice with 1 tbsp almond butter (~75%)",
+      "meal": "breakfast",
+      "servings": 1,
+      "kcal": 121,
+      "protein": 5.1,
+      "carbs": 11.8,
+      "fat": 7.4,
+      "satfat": 0.5,
+      "fiber": 3.7,
+      "sugar": 2.7,
+      "addedSugar": 1.5,
+      "sodium": 75.0,
+      "cholesterol": 0.0,
+      "lo": 112,
+      "hi": 142,
+      "micros": {
+        "vitA": 0.0,
+        "vitC": 0.0,
+        "vitD": 0.0,
+        "vitE": 3.05,
+        "vitK": 0.76,
+        "b6": 0.05,
+        "b12": 0.0,
+        "folate": 21.06,
+        "calcium": 56.34,
+        "iron": 1.09,
+        "magnesium": 48.18,
+        "potassium": 134.91,
+        "zinc": 0.77
+      },
+      "components": [
+        {
+          "name": "Bread, thin-sliced 21 Whole Grains & Seeds",
+          "portion": "3/4 of 1 slice",
+          "grams": 21.0,
+          "kcal": 45.0,
+          "protein": 2.25,
+          "carbs": 9.0,
+          "fat": 0.75,
+          "satfat": 0.0,
+          "fiber": 2.25,
+          "sugar": 2.25,
+          "addedSugar": 1.5,
+          "sodium": 75.0,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.15,
+            "vitK": 0.758,
+            "b6": 0.038,
+            "b12": 0.0,
+            "folate": 14.7,
+            "calcium": 14.7,
+            "iron": 0.675,
+            "magnesium": 14.7,
+            "potassium": 45.15,
+            "zinc": 0.375
+          },
+          "whole": 0.6
+        },
+        {
+          "name": "Almond butter",
+          "portion": "3/4 of 1 tbsp",
+          "grams": 12.0,
+          "kcal": 76.0,
+          "protein": 2.85,
+          "carbs": 2.85,
+          "fat": 6.65,
+          "satfat": 0.47,
+          "fiber": 1.42,
+          "sugar": 0.47,
+          "addedSugar": 0.0,
+          "sodium": 0.0,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 2.905,
+            "vitK": 0.0,
+            "b6": 0.01,
+            "b12": 0.0,
+            "folate": 6.36,
+            "calcium": 41.64,
+            "iron": 0.42,
+            "magnesium": 33.48,
+            "potassium": 89.76,
+            "zinc": 0.395
+          },
+          "whole": 1
+        }
+      ],
+      "eaten": {
+        "pct": 75,
+        "of": "1 slice of almond butter toast"
+      },
+      "ingredients": [
+        "whole-grain bread",
+        "almond butter"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "medium",
+      "notes": "3/4 of his usual almond butter toast (1 slice, 1 tbsp)."
     }
   ]
 }
