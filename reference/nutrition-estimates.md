@@ -60,7 +60,8 @@ Open each photo Jesse sends, one at a time, and study it carefully before estima
 | Maple syrup | 1 tbsp | 52 | 0 | 13 | 0 | 0 |
 | Avocado | 1/4 | 80 | 1 | 4 | 7 | 3 |
 | Chickpeas, cooked | 1/4 cup | 67 | 4 | 11 | 1 | 3 |
-| Hard-boiled egg / large egg | 1 | 72–78 | 6 | 0 | 5 | 0 |
+| Egg, Eggland's Best large (his eggs since late Oct 2026) | 1 | 60 | 6 | 0 | 4 (1 sat) | 0 |
+| Regular large egg | 1 | 72–78 | 6 | 0 | 5 | 0 |
 | Walnuts, chopped | 1 tbsp | 50 | 1 | 1 | 5 | 0.5 |
 | Pecans, chopped | 1 tbsp | 49 | 0.6 | 1 | 5 | 0.7 |
 | Cashews | 2 tbsp | 95 | 3 | 5 | 8 | 0.5 |
