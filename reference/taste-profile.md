@@ -20,6 +20,7 @@ A running summary of Jesse's cooking preferences. Recipes live in `recipes/`; nu
 
 ## Eating out
 - At restaurants he often eats **half or a third** of the portion.
+- **Restaurant hits:** Greenery Co. (Hillsboro Village, Nashville) Southern Cobb, 9/10 (Nov 2026): roasted chicken, egg, bacon, blue cheese, marinated beets, tomatoes, jalapeño Dijon vinaigrette.
 
 ## Specific preferences
 - **Eggs:** over medium. **Salmon:** wild sockeye, grilled plain, never raw.
