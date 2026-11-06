@@ -1632,6 +1632,84 @@
       "ingredientsFrom": "recipe",
       "confidence": "high",
       "notes": "A 1/6 slice of the same pie as 11/2, scaled from that entry."
+    },
+    {
+      "id": "2026-11-05-10",
+      "name": "Salted pistachios",
+      "portion": "1/2 handful (~1/2 oz shelled); 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 80,
+      "protein": 2.9,
+      "carbs": 3.9,
+      "fat": 6.4,
+      "satfat": 0.8,
+      "fiber": 1.4,
+      "sugar": 1.1,
+      "addedSugar": 0.0,
+      "sodium": 79.8,
+      "cholesterol": 0.0,
+      "lo": 58,
+      "hi": 105,
+      "micros": {
+        "vitA": 3.64,
+        "vitC": 0.42,
+        "vitD": 0.0,
+        "vitE": 0.31,
+        "vitK": 1.82,
+        "b6": 0.15,
+        "b12": 0.0,
+        "folate": 7.14,
+        "calcium": 14.98,
+        "iron": 0.55,
+        "magnesium": 16.8,
+        "potassium": 140.98,
+        "zinc": 0.32
+      },
+      "components": [
+        {
+          "name": "Pistachios, dry roasted, salted",
+          "portion": "1/2 handful (~1/2 oz kernels, ~22 nuts)",
+          "grams": 14.0,
+          "kcal": 80.08,
+          "protein": 2.94,
+          "carbs": 3.92,
+          "fat": 6.44,
+          "satfat": 0.79,
+          "fiber": 1.44,
+          "sugar": 1.08,
+          "addedSugar": 0.0,
+          "sodium": 79.8,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 3.64,
+            "vitC": 0.42,
+            "vitD": 0.0,
+            "vitE": 0.308,
+            "vitK": 1.82,
+            "b6": 0.154,
+            "b12": 0.0,
+            "folate": 7.14,
+            "calcium": 14.98,
+            "iron": 0.546,
+            "magnesium": 16.8,
+            "potassium": 140.98,
+            "zinc": 0.322
+          },
+          "whole": 0.95
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "1/2 handful"
+      },
+      "ingredients": [
+        "pistachios",
+        "salt"
+      ],
+      "ingredientsFrom": "guess",
+      "confidence": "medium",
+      "notes": "Half of the earlier handful (~1 oz kernels)."
     }
   ]
 }
