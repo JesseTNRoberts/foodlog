@@ -203,14 +203,14 @@
       "meal": "dinner",
       "servings": 1,
       "kcal": 305,
-      "protein": 14.5,
-      "carbs": 24,
-      "fat": 16.5,
+      "protein": 15.0,
+      "carbs": 23.5,
+      "fat": 16.6,
       "satfat": 7,
       "fiber": 1.5,
-      "sugar": 3.5,
-      "addedSugar": 2,
-      "sodium": 445,
+      "sugar": 2.7,
+      "addedSugar": 1,
+      "sodium": 590,
       "cholesterol": 30,
       "lo": 260,
       "hi": 350,
@@ -221,12 +221,12 @@
         "vitE": 0.5,
         "vitK": 3,
         "b6": 0.2,
-        "b12": 1.3,
+        "b12": 1.35,
         "folate": 60,
         "calcium": 120,
         "iron": 2.5,
         "magnesium": 20,
-        "potassium": 250,
+        "potassium": 270,
         "zinc": 3
       },
       "components": [
@@ -234,15 +234,15 @@
           "name": "Kids mini cheeseburger",
           "portion": "1 of 2 (half the kids order)",
           "grams": 150,
-          "kcal": 305,
+          "kcal": 300,
           "protein": 14.5,
-          "carbs": 24,
+          "carbs": 23,
           "fat": 16.5,
           "satfat": 7,
           "fiber": 1.5,
-          "sugar": 3.5,
-          "addedSugar": 2,
-          "sodium": 445,
+          "sugar": 2.5,
+          "addedSugar": 1,
+          "sodium": 390,
           "cholesterol": 30,
           "micros": {
             "vitA": 60,
@@ -260,6 +260,37 @@
             "zinc": 3
           },
           "whole": 0.4
+        },
+        {
+          "name": "Au jus (for dipping)",
+          "portion": "a little, ~2 tbsp",
+          "grams": 30,
+          "kcal": 5,
+          "protein": 0.5,
+          "carbs": 0.5,
+          "fat": 0.1,
+          "satfat": 0,
+          "fiber": 0,
+          "sugar": 0.2,
+          "addedSugar": 0,
+          "sodium": 200,
+          "cholesterol": 0,
+          "micros": {
+            "vitA": 0,
+            "vitC": 0,
+            "vitD": 0,
+            "vitE": 0,
+            "vitK": 0,
+            "b6": 0,
+            "b12": 0.05,
+            "folate": 0,
+            "calcium": 0,
+            "iron": 0,
+            "magnesium": 0,
+            "potassium": 20,
+            "zinc": 0
+          },
+          "whole": 0.6
         }
       ],
       "eaten": {
@@ -271,11 +302,11 @@
         "American cheese",
         "bun",
         "pickles",
-        "mustard or ketchup"
+        "au jus"
       ],
       "ingredientsFrom": "menu",
       "confidence": "medium",
-      "notes": "Kids Mini Cheeseburgers listed at 610 kcal, 29 g protein, 890 mg sodium for the pair; halved."
+      "notes": "Kids Mini Cheeseburgers listed at 610 kcal, 29 g protein, 890 mg sodium for the pair; halved. No mustard or ketchup; a little au jus (~2 tbsp) instead."
     },
     {
       "id": "2026-11-07-4",
