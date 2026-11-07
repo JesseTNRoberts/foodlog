@@ -748,6 +748,115 @@
       "ingredientsFrom": "guess",
       "confidence": "low",
       "notes": "Bakery-size pain au chocolat assumed (~95 g, ~405 kcal whole); split with others."
+    },
+    {
+      "id": "2026-11-07-8",
+      "name": "Cottage cheese with cherry tomatoes",
+      "portion": "2 1/2 tbsp cottage cheese, 5 cherry tomatoes; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 47,
+      "protein": 4.8,
+      "carbs": 5.5,
+      "fat": 0.9,
+      "satfat": 0.5,
+      "fiber": 1.0,
+      "sugar": 3.5,
+      "addedSugar": 0.0,
+      "sodium": 91.8,
+      "cholesterol": 3.1,
+      "lo": 42,
+      "hi": 55,
+      "micros": {
+        "vitA": 43.12,
+        "vitC": 11.64,
+        "vitD": 0.0,
+        "vitE": 0.47,
+        "vitK": 6.71,
+        "b6": 0.09,
+        "b12": 0.17,
+        "folate": 17.45,
+        "calcium": 49.11,
+        "iron": 0.34,
+        "magnesium": 12.47,
+        "potassium": 245.59,
+        "zinc": 0.32
+      },
+      "components": [
+        {
+          "name": "Breakstone's 2% small curd cottage cheese",
+          "portion": "2 1/2 tbsp (~35 g)",
+          "grams": 35.333,
+          "kcal": 31.25,
+          "protein": 4.058,
+          "carbs": 2.192,
+          "fat": 0.775,
+          "satfat": 0.467,
+          "fiber": 0.0,
+          "sugar": 1.25,
+          "addedSugar": 0.0,
+          "sodium": 87.575,
+          "cholesterol": 3.125,
+          "micros": {
+            "vitA": 7.416,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.011,
+            "vitK": 0.0,
+            "b6": 0.025,
+            "b12": 0.166,
+            "folate": 4.697,
+            "calcium": 40.609,
+            "iron": 0.113,
+            "magnesium": 3.125,
+            "potassium": 44.141,
+            "zinc": 0.18
+          },
+          "whole": 0.85
+        },
+        {
+          "name": "Cherry tomatoes",
+          "portion": "5 (~85 g)",
+          "grams": 85.0,
+          "kcal": 15.3,
+          "protein": 0.75,
+          "carbs": 3.317,
+          "fat": 0.167,
+          "satfat": 0.025,
+          "fiber": 1.017,
+          "sugar": 2.208,
+          "addedSugar": 0.0,
+          "sodium": 4.25,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 35.7,
+            "vitC": 11.645,
+            "vitD": 0.0,
+            "vitE": 0.459,
+            "vitK": 6.715,
+            "b6": 0.068,
+            "b12": 0.0,
+            "folate": 12.75,
+            "calcium": 8.5,
+            "iron": 0.229,
+            "magnesium": 9.35,
+            "potassium": 201.45,
+            "zinc": 0.144
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "2 1/2 tbsp cottage cheese + 5 cherry tomatoes"
+      },
+      "ingredients": [
+        "Breakstone's 2% small curd cottage cheese",
+        "Cherry tomatoes"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "Brand from his recent logs (Breakstone's 2% small curd, as on 11/2–11/5); amounts as he stated."
     }
   ]
 }
