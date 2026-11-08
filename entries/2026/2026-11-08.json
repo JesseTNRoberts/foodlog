@@ -465,6 +465,147 @@
       "photos": [
         "photos/2026/2026-11-08/breakfast-harvest-spinach-salad.jpg"
       ]
+    },
+    {
+      "id": "2026-11-08-2",
+      "name": "Pistachios with dried apple rings and dried kiwi",
+      "portion": "1 handful pistachios, 1/2 apple dried, 1/3 kiwi dried; 100% eaten",
+      "meal": "breakfast",
+      "servings": 1,
+      "kcal": 223,
+      "protein": 6.4,
+      "carbs": 24.1,
+      "fat": 13.2,
+      "satfat": 1.6,
+      "fiber": 5.8,
+      "sugar": 13.9,
+      "addedSugar": 0.0,
+      "sodium": 161.3,
+      "cholesterol": 0.0,
+      "lo": 173,
+      "hi": 283,
+      "micros": {
+        "vitA": 11.01,
+        "vitC": 20.03,
+        "vitD": 0.0,
+        "vitE": 1.15,
+        "vitK": 15.72,
+        "b6": 0.36,
+        "b12": 0.0,
+        "folate": 23.26,
+        "calcium": 43.92,
+        "iron": 1.28,
+        "magnesium": 42.4,
+        "potassium": 457.33,
+        "zinc": 0.71
+      },
+      "components": [
+        {
+          "name": "Pistachios, dry roasted, salted",
+          "portion": "1 handful (~1 oz kernels, ~45 nuts)",
+          "grams": 28,
+          "kcal": 160.16,
+          "protein": 5.88,
+          "carbs": 7.84,
+          "fat": 12.88,
+          "satfat": 1.57,
+          "fiber": 2.88,
+          "sugar": 2.16,
+          "addedSugar": 0.0,
+          "sodium": 159.6,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 7.28,
+            "vitC": 0.84,
+            "vitD": 0.0,
+            "vitE": 0.616,
+            "vitK": 3.64,
+            "b6": 0.308,
+            "b12": 0.0,
+            "folate": 14.28,
+            "calcium": 29.96,
+            "iron": 1.092,
+            "magnesium": 33.6,
+            "potassium": 281.96,
+            "zinc": 0.644
+          },
+          "whole": 0.95
+        },
+        {
+          "name": "Apple rings, home-dehydrated",
+          "portion": "1/2 apple in rings (~91 g fresh)",
+          "grams": 91,
+          "kcal": 47.32,
+          "protein": 0.237,
+          "carbs": 12.56,
+          "fat": 0.156,
+          "satfat": 0.028,
+          "fiber": 2.185,
+          "sugar": 9.465,
+          "addedSugar": 0.0,
+          "sodium": 0.91,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 2.73,
+            "vitC": 4.186,
+            "vitD": 0.0,
+            "vitE": 0.164,
+            "vitK": 2.002,
+            "b6": 0.036,
+            "b12": 0.0,
+            "folate": 2.73,
+            "calcium": 5.46,
+            "iron": 0.109,
+            "magnesium": 4.55,
+            "potassium": 97.37,
+            "zinc": 0.036
+          },
+          "whole": 1.0
+        },
+        {
+          "name": "Kiwi, dried",
+          "portion": "1/3 of a kiwi (~25 g fresh)",
+          "grams": 25,
+          "kcal": 15.25,
+          "protein": 0.285,
+          "carbs": 3.675,
+          "fat": 0.13,
+          "satfat": 0.007,
+          "fiber": 0.75,
+          "sugar": 2.25,
+          "addedSugar": 0.0,
+          "sodium": 0.75,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 1.0,
+            "vitC": 15.0,
+            "vitD": 0.0,
+            "vitE": 0.365,
+            "vitK": 10.075,
+            "b6": 0.015,
+            "b12": 0.0,
+            "folate": 6.25,
+            "calcium": 8.5,
+            "iron": 0.077,
+            "magnesium": 4.25,
+            "potassium": 78.0,
+            "zinc": 0.035
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "1 handful pistachios, 1/2 apple and 1/3 kiwi, dried"
+      },
+      "ingredients": [
+        "pistachios, dry roasted, salted",
+        "apple (dehydrated)",
+        "kiwi (dried)"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "medium",
+      "notes": "Handful sized like 11/5 (~1 oz kernels). Fruit assumed home-dried with nothing added; dried weight doesn't change calories."
     }
   ]
 }
