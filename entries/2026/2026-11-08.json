@@ -911,6 +911,89 @@
         "photos/2026/2026-11-08/lunch-spinach-rice-bowl.jpg"
       ],
       "notes": "Sized from the photo (right hand for scale). The rice looks seasoned (tomato tint, herbs, carrot); type unknown and the biggest swing. Dressing assumed same aioli-maple as yesterday, ~1 tbsp."
+    },
+    {
+      "id": "2026-11-08-4",
+      "name": "Texas Roadhouse roll, no butter",
+      "portion": "1/2 roll; 100% of the half eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 85,
+      "protein": 2.5,
+      "carbs": 15.0,
+      "fat": 1.8,
+      "satfat": 0.5,
+      "fiber": 0.5,
+      "sugar": 3.0,
+      "addedSugar": 2.5,
+      "sodium": 140.0,
+      "cholesterol": 2.5,
+      "lo": 70,
+      "hi": 100,
+      "micros": {
+        "vitA": 0.0,
+        "vitC": 0.0,
+        "vitD": 0.0,
+        "vitE": 0.12,
+        "vitK": 0.5,
+        "b6": 0.03,
+        "b12": 0.0,
+        "folate": 60.0,
+        "calcium": 15.0,
+        "iron": 0.88,
+        "magnesium": 7.5,
+        "potassium": 35.0,
+        "zinc": 0.2
+      },
+      "components": [
+        {
+          "name": "Texas Roadhouse rolls, no butter",
+          "portion": "1/2 roll (~30 g)",
+          "grams": 30.0,
+          "kcal": 85.0,
+          "protein": 2.5,
+          "carbs": 15.0,
+          "fat": 1.75,
+          "satfat": 0.5,
+          "fiber": 0.5,
+          "sugar": 3.0,
+          "addedSugar": 2.5,
+          "sodium": 140.0,
+          "cholesterol": 2.5,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.125,
+            "vitK": 0.5,
+            "b6": 0.025,
+            "b12": 0.0,
+            "folate": 60.0,
+            "calcium": 15.0,
+            "iron": 0.875,
+            "magnesium": 7.5,
+            "potassium": 35.0,
+            "zinc": 0.2
+          },
+          "whole": 0.3
+        }
+      ],
+      "eaten": {
+        "pct": 50,
+        "of": "1 roll"
+      },
+      "ingredients": [
+        "enriched flour",
+        "water",
+        "sugar",
+        "yeast",
+        "milk",
+        "butter",
+        "salt"
+      ],
+      "ingredientsFrom": "menu",
+      "confidence": "medium",
+      "notes": "Leftover from 11/7; same roll numbers (~170 kcal each), no butter noted."
     }
   ]
 }
