@@ -83,4 +83,4 @@ A recipe card (`recipes/cards/<id>.json`) makes a home recipe loggable by volume
 - **Making a card:** when Jesse gives a recipe with amounts and a batch volume, create the card (convert each amount to grams, estimate per-100 g nutrition per ingredient) alongside the `recipes/` text. If the batch volume isn't known, ask for it once. When he changes the recipe, update the card, the `recipes/` text and the Eating project doc together; past entries keep their old numbers unless he asks.
 
 ## Settings
-`settings.json` holds the daily calorie budget, protein and fiber goals, the sodium limit, and the repo name used for "Edit file" links.
+`settings.json` holds the daily calorie budget, protein and fiber goals, the sodium, saturated fat (`satfatLimit`) and added sugar (`addedSugarLimit`) limits, and the repo name used for "Edit file" links.

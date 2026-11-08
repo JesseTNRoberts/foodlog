@@ -3,5 +3,7 @@
   "budget": 2000,
   "proteinGoal": 70,
   "fiberGoal": 30,
-  "sodiumLimit": 2300
+  "sodiumLimit": 2300,
+  "satfatLimit": 20,
+  "addedSugarLimit": 36
 }

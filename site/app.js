@@ -312,7 +312,7 @@ function weekStrip(k,B){
 }
 
 /* ---------- trends ---------- */
-let trendState = { range: 30, metric: "kcal" };
+let trendState = { range: 30, metric: "kcal", top: "sodium" };
 function renderTrends(){
   destroyCharts();
   const S=DATA.settings, B=num(S.budget)||1900;
@@ -327,17 +327,39 @@ function renderTrends(){
   const withMicros=logged.filter(x=>Object.keys(x.t.micros).length);
   const microAvg={}; for(const [k] of MICRO) microAvg[k]=withMicros.length?withMicros.reduce((a,x)=>a+num(x.t.micros[k]),0)/withMicros.length:0;
   const under=logged.filter(x=>x.t.kcal<=B).length;
+  // Fields some old (Lose It) days never recorded: average only over days that have them.
+  const hasF=(d,f)=>dayEntries(d).some(e=>e[f]!=null);
+  const avgOf=(list,f)=>{ const L=list.filter(x=>hasF(x.d,f)); return L.length?L.reduce((a,x)=>a+x.t[f],0)/L.length:null; };
+  const SF=num(S.satfatLimit)||20, AS=num(S.addedSugarLimit)||36;
+  // Previous period of the same length, for "vs prior N days" arrows.
+  const N=trendState.range==="all"?0:trendState.range;
+  const prev=[]; if(N) for(let d=addDays(start,-N); d<start; d=addDays(d,1)){ const t=totals(dayEntries(d)); if(t.n&&!isOff(d)) prev.push({t,d}); }
+  const vsPrior=(f,higherIsGood,unit,dp=0)=>{
+    if(!N||prev.length<3) return "";
+    const c=avgOf(logged,f), p=avgOf(prev,f); if(c==null||p==null||!p) return "";
+    const d=c-p; if(Math.abs(d)/p<.03) return `<span class="pill" title="Previous ${N} days: ${fmt(p,dp)} ${unit}">≈ prior ${N}d</span>`;
+    const good=higherIsGood==null?null:(d>0)===higherIsGood;
+    return `<span class="pill ${good==null?"":good?"good":"warn"}" title="Previous ${N} days: ${fmt(p,dp)} ${unit}">${d>0?"▲":"▼"} ${fmt(Math.abs(d),dp)} ${unit} vs prior ${N}d</span>`;
+  };
+  const wholeOf=list=>{ const v=list.map(x=>wholePct(dayEntries(x.d))).filter(v=>v!=null); return v.length?v.reduce((a,b)=>a+b,0)/v.length:null; };
+  const wAvg=wholeOf(logged), wPrev=N&&prev.length>=3?wholeOf(prev):null;
+  const wDelta=wAvg==null||wPrev==null?"":Math.abs(wAvg-wPrev)<1.5?`<span class="pill">≈ prior ${N}d</span>`:`<span class="pill ${wAvg>wPrev?"good":"warn"}">${wAvg>wPrev?"▲":"▼"} ${fmt(Math.abs(wAvg-wPrev))} pts vs prior ${N}d</span>`;
+  const loggedEntries=()=>logged.flatMap(x=>dayEntries(x.d));
+  // Protein by meal, averaged over logged days.
+  const protMeal=MEALS.map(([m,l,c])=>({m,l,c,v:logged.length?logged.reduce((a,x)=>a+totals(dayEntries(x.d).filter(e=>e.meal===m)).protein,0)/logged.length:0}));
   const [mk,ml,mu]=METRICS.find(m=>m[0]===trendState.metric);
   const target = mk==="kcal"?B: mk==="protein"?num(S.proteinGoal): mk==="fiber"?num(S.fiberGoal): mk==="sodium"?num(S.sodiumLimit): mk.startsWith("m:")?MICRO.find(m=>"m:"+m[0]===mk)[3]:null;
 
   app.innerHTML=`
   <div class="toolbar"><div><h1>Trends</h1><div class="sub">${logged.length} logged days${offN?` · ${offN} day${offN===1?"":"s"} off, not averaged`:""} · ${esc(prettyDate(start,{month:"short",day:"numeric"}))} – ${esc(prettyDate(end,{month:"short",day:"numeric"}))}</div></div>
     <div class="seg" role="group" aria-label="Range">${[[7,"7D"],[30,"30D"],[90,"90D"],["all","All"]].map(([v,l])=>`<button data-range="${v}" class="${trendState.range==v?"on":""}">${l}</button>`).join("")}</div></div>
-  <div class="kpis">
-    ${kpi("Avg calories",avg("kcal"),"kcal",B,{nutr:"kcal",limit:true,foot:`${under}/${logged.length} days within budget`})}
-    ${kpi("Avg protein",avg("protein"),"g",num(S.proteinGoal),{nutr:"protein",color:"var(--p)"})}
-    ${kpi("Avg fiber",avg("fiber"),"g",num(S.fiberGoal),{nutr:"fiber",color:"var(--fib)"})}
-    ${kpi("Avg sodium",avg("sodium"),"mg",num(S.sodiumLimit),{nutr:"sodium",limit:true})}
+  <div class="kpis six">
+    ${kpi("Avg calories",avg("kcal"),"kcal",B,{nutr:"kcal",limit:true,foot:`${under}/${logged.length} days within budget`,delta:vsPrior("kcal",null,"kcal")})}
+    ${kpi("Avg protein",avg("protein"),"g",num(S.proteinGoal),{nutr:"protein",color:"var(--p)",delta:vsPrior("protein",true,"g")})}
+    ${kpi("Avg fiber",avg("fiber"),"g",num(S.fiberGoal),{nutr:"fiber",color:"var(--fib)",delta:vsPrior("fiber",true,"g")})}
+    ${kpi("Avg sodium",avg("sodium"),"mg",num(S.sodiumLimit),{nutr:"sodium",limit:true,delta:vsPrior("sodium",false,"mg")})}
+    ${kpi("Avg saturated fat",avgOf(logged,"satfat")??0,"g",SF,{nutr:"satfat",limit:true,delta:vsPrior("satfat",false,"g",1)})}
+    ${kpi("Avg added sugar",avgOf(logged,"addedSugar")??0,"g",AS,{nutr:"addedSugar",limit:true,delta:vsPrior("addedSugar",false,"g",1)})}
   </div>
   <section class="card"><div class="card-h"><h2>Daily ${esc(ml.toLowerCase())}</h2>
     <select class="sel" id="metric" aria-label="Metric">${METRICS.map(([v,l])=>`<option value="${v}"${v===mk?" selected":""}>${l}</option>`).join("")}</select></div>
@@ -352,6 +374,19 @@ function renderTrends(){
     <section class="card"><div class="card-h"><h2>Calories by macro</h2><span class="sub">kcal from P / C / F</span></div><div class="chartbox"><canvas id="cMacros"></canvas></div></section>
     <section class="card"><div class="card-h"><h2>Calories by meal</h2><span class="sub">stacked per day</span></div><div class="chartbox"><canvas id="cMeals"></canvas></div></section>
   </div>
+  <div class="grid2">
+    <section class="card"><div class="card-h"><h2>Whole food</h2><span class="sub">${wAvg==null?"no scored days":`avg ${fmt(wAvg)}% ${wDelta}`}</span></div><div class="chartbox"><canvas id="cWhole"></canvas></div></section>
+    <section class="card"><div class="card-h"><h2>Protein by meal</h2><span class="sub">avg per day</span></div>
+      <div class="legend">${protMeal.map(x=>`<span><i style="background:var(${x.c})"></i>${x.l} <b class="num">${fmt(x.v)} g</b></span>`).join("")}</div>
+      <div class="chartbox sm"><canvas id="cProtMeal"></canvas></div></section>
+  </div>
+  <div class="grid2">
+    <section class="card"><div class="card-h"><h2>Top sources</h2>
+      <select class="sel" id="topSel" aria-label="Nutrient">${[["sodium", "Sodium"], ["satfat", "Saturated fat"], ["addedSugar", "Added sugar"], ["protein", "Protein"], ["fiber", "Fiber"]].map(([v,l])=>`<option value="${v}"${v===trendState.top?" selected":""}>${l}</option>`).join("")}</select></div>
+      ${topSources(loggedEntries(),trendState.top,Math.max(1,logged.length))}</section>
+    <section class="card"><div class="card-h"><h2>Nutrient gaps</h2><span class="sub">under 50% of daily value, and foods you already eat that have the most</span></div>
+      ${nutrientGaps(microAvg,withMicros.length)}</section>
+  </div>
   <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of daily value · ${withMicros.length} day${withMicros.length===1?"":"s"} with vitamin estimates</span></div>
     ${withMicros.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">No vitamin estimates in this range (Lose It imports don't include them).</div>`}</section>
   <section class="card"><div class="card-h"><h2>Daily totals</h2><span class="sub">tap a row to open the day</span></div>
@@ -361,6 +396,7 @@ function renderTrends(){
   wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length), "treemap");
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });
   document.getElementById("metric").onchange=ev=>{ trendState.metric=ev.target.value; renderTrends(); };
+  document.getElementById("topSel").onchange=ev=>{ trendState.top=ev.target.value; renderTrends(); };
   app.querySelectorAll("tr[data-day]").forEach(r=>r.onclick=()=>{ location.hash="#/day/"+r.dataset.day; });
 
   if(!chartDefaults()) return;
@@ -391,6 +427,49 @@ function renderTrends(){
   charts.push(new Chart(document.getElementById("cMeals"),{type:"bar",
     data:{labels,datasets:MEALS.map(([m,l,c])=>({label:l,data:keys.map(d=>{const L=dayEntries(d).filter(e=>e.meal===m); return L.length?Math.round(totals(L).kcal):null;}),backgroundColor:css(c),maxBarThickness:28}))},
     options:{interaction:{mode:"index",intersect:false},scales:{x:{stacked:true,grid:{display:false},ticks:{maxTicksLimit:8}},y:{stacked:true,grid,ticks:{callback:v=>fmt(v)}}}}}));
+  { const wv=keys.map(d=>isOff(d)?null:wholePct(dayEntries(d)));
+    const wr=wv.map((_,i)=>{ const w=wv.slice(Math.max(0,i-6),i+1).filter(v=>v!=null); return w.length?w.reduce((a,b)=>a+b,0)/w.length:null; });
+    charts.push(new Chart(document.getElementById("cWhole"),{data:{labels,datasets:[
+      {type:"bar",label:"Whole food",data:wv,backgroundColor:wv.map(v=>v==null?"transparent":resolveColor(wholeColor(v/100))),borderRadius:4,maxBarThickness:28,order:2},
+      {type:"line",label:"7-day average",data:wr,borderColor:css("--ink"),borderWidth:2,pointRadius:0,tension:.35,spanGaps:true,order:1}]},
+      options:{interaction:{mode:"index",intersect:false},plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.raw==null?null:` ${c.dataset.label}: ${fmt(c.raw)}%`}}},
+        scales:{x:{grid:{display:false},ticks:{maxTicksLimit:8}},y:{min:0,max:100,grid,ticks:{callback:v=>v+"%"}}},
+        onClick:(ev,els)=>{ if(els[0]) location.hash="#/day/"+keys[els[0].index]; }}})); }
+  charts.push(new Chart(document.getElementById("cProtMeal"),{type:"bar",
+    data:{labels,datasets:MEALS.map(([m,l,c])=>({label:l,data:keys.map(d=>{ if(isOff(d)) return null; const L=dayEntries(d).filter(e=>e.meal===m); return L.length?Math.round(totals(L).protein):null;}),backgroundColor:css(c),maxBarThickness:28}))},
+    options:{interaction:{mode:"index",intersect:false},plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.raw==null?null:` ${c.dataset.label}: ${fmt(c.raw)} g`}}},
+      scales:{x:{stacked:true,grid:{display:false},ticks:{maxTicksLimit:8}},y:{stacked:true,grid,ticks:{callback:v=>fmt(v)+" g"}}},
+      onClick:(ev,els)=>{ if(els[0]) location.hash="#/day/"+keys[els[0].index]; }}}));
+}
+// Canvas can't paint color-mix(); resolve a CSS color expression to rgb via a probe element.
+function resolveColor(expr){ const p=document.createElement("i"); p.style.color=expr; p.style.display="none"; document.body.appendChild(p); const c=getComputedStyle(p).color; p.remove(); return c; }
+// Top foods for one nutrient over a range, per logged day, colored by whole-food score.
+function topSources(entries,m,perDay){
+  const [label,unit]=nutrientInfo(m);
+  const rows=contributions(entries,m,true).map(([n,v,w])=>[n,v/perDay,w]); const total=rows.reduce((a,r)=>a+r[1],0);
+  if(!total) return `<div class="muted">No ${esc(label.toLowerCase())} estimated in this range.</div>`;
+  const dp=total<20?1:0, top=rows.slice(0,6), max=top[0][1];
+  return `<div class="sub" style="margin-bottom:8px">${fmt(total,dp)} ${unit} per logged day · top 6 of ${rows.length} foods</div>
+    <div class="toplist">${top.map(([n,v,w])=>`<div class="trow"><span class="tn" title="${esc(n)}">${esc(n)}</span><div class="bar"><i style="width:${v/max*100}%;background:${wholeColor(w)}"></i></div><span class="num">${fmt(v,dp)} ${unit}</span><span class="num muted">${fmt(v/total*100)}%</span></div>`).join("")}</div>
+    <button class="linkbtn" data-nutr="${m}">See all foods ›</button>`;
+}
+// Vitamins and minerals averaging under 50% DV, with the logged foods that carry the most of each per usual portion.
+function nutrientGaps(microAvg,nDays){
+  if(!nDays) return `<div class="muted">No vitamin estimates in this range.</div>`;
+  const gaps=MICRO.filter(([k,,,dv])=>num(microAvg[k])/dv<.5);
+  if(!gaps.length) return `<div class="muted">Every vitamin and mineral averages at least 50% of its daily value. Nice.</div>`;
+  // Each food's average amount per logged portion, across all logged history.
+  const foods=new Map();
+  for(const d of DATA.days){ if(d.offDay) continue; for(const e of d.entries){ const s=num(e.servings||1);
+    for(const c of (e.components||[])){ if(!c.micros||num(c.kcal)<=0) continue; if(c.whole!=null&&c.whole<.5) continue;
+      const nm=foodKey(c.name).split(",")[0].trim(); const key=nm.toLowerCase(); const f=foods.get(key)||{name:nm,n:0,sum:{}}; f.n++;
+      for(const [k] of MICRO) f.sum[k]=(f.sum[k]||0)+num(c.micros[k])*s; foods.set(key,f); } } }
+  const list=[...foods.values()];
+  return `<div class="gaps">${gaps.map(([k,l,u,dv])=>{ const p=num(microAvg[k])/dv*100;
+    const best=list.map(f=>[f.name,f.sum[k]/f.n,f.n]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]).slice(0,3);
+    return `<div class="gap"><div class="gap-h" data-nutr="${k}"><b>${esc(l)}</b><span class="pill ${p<25?"bad":"warn"}">${fmt(p)}% DV</span></div>
+      <div class="sub">${best.length?best.map(([n,v,c])=>`${esc(n)} <span class="num">~${fmt(v/dv*100)}%</span>`).join(" · "):"No logged food has much of this yet."}</div></div>`; }).join("")}</div>
+    <div class="hint">Percent after each food is its share of the daily value in the portion you usually log.</div>`;
 }
 
 /* ---------- recipes ---------- */
