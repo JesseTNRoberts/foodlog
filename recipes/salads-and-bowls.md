@@ -39,6 +39,28 @@ My way: **just oil and pepper** on sweet potatoes or potatoes. Keep it simple an
 
 ---
 
+## Harvest Spinach Salad with Grilled & Pickled Apples and Fried Eggs
+*Made Nov 2026. A fall version of my go-to spinach salad. **Rating: 8/10, "so good."***
+
+**As made (one big bowl, ~606 kcal, 21 g protein, 37 g carbs, 44 g fat, 9 g fiber):**
+- ~2 1/2 cups baby spinach
+- ~1/4 cup roasted sweet potatoes and ~1/3 cup roasted broccoli (olive oil and pepper)
+- 1 tbsp cooked quinoa
+- 5 slices grilled apple (brushed lightly with olive oil, grilled 2–3 min per side)
+- 2 slices pickled apple (half apple cider vinegar, half water, no salt or sugar)
+- ~1/2 oz goat cheese
+- ~2 tbsp pecans
+- 2 Eggland's Best eggs, fried in 1/2 tbsp olive oil
+- 1 tbsp dressing: Paprika Cholula aioli thinned with a little maple (about 2:1)
+
+**Next time (to get it to a 10):**
+- **Spread the tang out.** The pickled apple came in a few big hits. Cut the pickled slices into thin matchsticks or small dice and scatter them through the whole bowl, or whisk 1–2 tsp of the pickling brine into the dressing so every bite gets a little acid.
+- **Runnier eggs.** Fry them over easy or sunny-side up: medium heat, about 2 1/2–3 min until the whites set but the yolks still jiggle. Put them on last, right before eating, so the yolk breaks over the greens as extra dressing.
+
+**Pickled apples (quick, savory):** thin slices of a firm, tart apple in equal parts apple cider vinegar and water, warmed and cooled slightly, 20–30 min. Optional: garlic, peppercorns, mustard seed. Keeps about 5 days without salt. Wedges need 2–4 hours or overnight.
+
+---
+
 ## One-Pot Gruyère Quinoa with Mushrooms, Green Beans, Burst Tomatoes & Pecans
 *Developed together; sized for a 12-cup Viking skillet-pot about 2/3 full. Serves 6 as a main.*
 
