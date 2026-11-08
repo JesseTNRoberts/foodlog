@@ -456,8 +456,8 @@ function topSources(entries,m,perDay){
 // Vitamins and minerals averaging under 50% DV, with the logged foods that carry the most of each per usual portion.
 function nutrientGaps(microAvg,nDays){
   if(!nDays) return `<div class="muted">No vitamin estimates in this range.</div>`;
-  const gaps=MICRO.filter(([k,,,dv])=>num(microAvg[k])/dv<.5);
-  if(!gaps.length) return `<div class="muted">Every vitamin and mineral averages at least 50% of its daily value. Nice.</div>`;
+  const skip=DATA.settings.gapExclude||[]; const gaps=MICRO.filter(([k,,,dv])=>!skip.includes(k)&&num(microAvg[k])/dv<.5);
+  if(!gaps.length) return `<div class="muted">Every vitamin and mineral${skip.length?" you track from food":""} averages at least 50% of its daily value. Nice.</div>`;
   // Each food's average amount per logged portion, across all logged history.
   const foods=new Map();
   for(const d of DATA.days){ if(d.offDay) continue; for(const e of d.entries){ const s=num(e.servings||1);

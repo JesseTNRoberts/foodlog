@@ -5,5 +5,8 @@
   "fiberGoal": 30,
   "sodiumLimit": 2300,
   "satfatLimit": 20,
-  "addedSugarLimit": 36
+  "addedSugarLimit": 36,
+  "gapExclude": [
+    "vitD"
+  ]
 }
