@@ -1427,6 +1427,83 @@
       "ingredientsFrom": "guess",
       "confidence": "low",
       "notes": "Assumed a box-mix-style strawberry cake."
+    },
+    {
+      "id": "2026-11-07-13",
+      "name": "Cantaloupe",
+      "portion": "~1-inch cube; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 5,
+      "protein": 0.1,
+      "carbs": 1.2,
+      "fat": 0.0,
+      "satfat": 0.0,
+      "fiber": 0.1,
+      "sugar": 1.2,
+      "addedSugar": 0.0,
+      "sodium": 2.4,
+      "cholesterol": 0.0,
+      "lo": 4,
+      "hi": 8,
+      "micros": {
+        "vitA": 25.35,
+        "vitC": 5.5,
+        "vitD": 0.0,
+        "vitE": 0.01,
+        "vitK": 0.38,
+        "b6": 0.01,
+        "b12": 0.0,
+        "folate": 3.15,
+        "calcium": 1.35,
+        "iron": 0.03,
+        "magnesium": 1.8,
+        "potassium": 40.05,
+        "zinc": 0.03
+      },
+      "components": [
+        {
+          "name": "Cantaloupe",
+          "portion": "~1-inch cube (~15 g)",
+          "grams": 15,
+          "kcal": 5.1,
+          "protein": 0.126,
+          "carbs": 1.23,
+          "fat": 0.029,
+          "satfat": 0.007,
+          "fiber": 0.135,
+          "sugar": 1.185,
+          "addedSugar": 0.0,
+          "sodium": 2.4,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 25.35,
+            "vitC": 5.505,
+            "vitD": 0.0,
+            "vitE": 0.007,
+            "vitK": 0.375,
+            "b6": 0.011,
+            "b12": 0.0,
+            "folate": 3.15,
+            "calcium": 1.35,
+            "iron": 0.032,
+            "magnesium": 1.8,
+            "potassium": 40.05,
+            "zinc": 0.027
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "1-inch cube"
+      },
+      "ingredients": [
+        "cantaloupe"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "1-inch cube ≈ 15 g."
     }
   ]
 }
