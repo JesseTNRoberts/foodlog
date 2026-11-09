@@ -289,3 +289,6 @@ dialog#bd.wide{width:min(760px,calc(100vw - 24px))}
 .rc-sum{font-size:14px;line-height:1.5}
 .rcard .comps tr.tot td{font-weight:600;border-top:2px solid var(--line)}
 .rcard .comps td.por{text-align:left;white-space:normal}
+
+.bd-t tr.bd-th td{font-size:11.5px;color:var(--muted);font-weight:500}
+.bd-t tr.bd-tot td{font-weight:600;border-top:1px solid var(--line)}

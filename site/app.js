@@ -91,6 +91,13 @@ function nutrientInfo(m){
   if(base[m]) return base[m];
   const mi=MICRO.find(x=>x[0]===m); return mi?[mi[1],mi[2]]:[m,""];
 }
+// Daily target or limit for a nutrient, when there is one: [value, "target"|"limit"].
+function targetOf(m){
+  const S=DATA.settings||{}; const mi=MICRO.find(x=>x[0]===m); if(mi) return [mi[3],"target"];
+  const t={kcal:[num(S.budget),"limit"],protein:[num(S.proteinGoal),"target"],fiber:[num(S.fiberGoal),"target"],
+    sodium:[num(S.sodiumLimit),"limit"],satfat:[num(S.satfatLimit)||20,"limit"],addedSugar:[num(S.addedSugarLimit)||36,"limit"]}[m];
+  return t&&t[0]>0?t:null;
+}
 function compVal(c,m){ return c.micros&&m in c.micros ? c.micros[m] : c[m]; }
 // For ranges, "Olive oil (in the spaghetti)" and "Olive oil" count as one food.
 const foodKey = n => n.replace(/\s*\((?:in|on) the [^)]*\)\s*$/i,"").trim();
@@ -138,17 +145,20 @@ function treemapHTML(rows,total,unit,dp,W,H){
 }
 let bdChart=null;
 function showBreakdown(m, entries, scope, perDay=1, view="pie"){
+  if(typeof perDay==="function") perDay=perDay(m);
   const [label,unit]=nutrientInfo(m);
   let rows=contributions(entries,m,view==="treemap").map(([n,v,w])=>[n,v/perDay,w]);
   const total=rows.reduce((a,r)=>a+r[1],0);
   if(view==="treemap") return showTreemap(label,unit,rows,total,scope,perDay);
   if(rows.length>8){ const rest=rows.slice(7).reduce((a,r)=>a+r[1],0); rows=[...rows.slice(0,7),["Everything else",rest]]; }
   const dp = total<20?1:0;
+  const tg=targetOf(m), pctOf=v=>tg?v/tg[0]*100:v/total*100, pdp=v=>pctOf(v)<10&&pctOf(v)>0?1:0;
   const dlg=bdDialog(false);
-  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${fmt(total,dp)} ${unit}${perDay>1?" per logged day":""}</div></div>
+  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${bdTotalLine(total,unit,dp,tg,perDay)}</div></div>
     <button class="btn sm" data-close aria-label="Close">Close</button></div>
     ${total>0?`<div class="bd-chart"><canvas id="cBd"></canvas></div>
-    <table class="bd-t">${rows.map(([n,v],i)=>`<tr><td><i style="background:${COMP_COLORS[i%COMP_COLORS.length]}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(v/total*100)}%</td></tr>`).join("")}</table>`
+    <table class="bd-t"><tr class="bd-th"><td>Food</td><td class="num">Amount</td><td class="num">${tg?"of "+tg[1]:"share"}</td></tr>${rows.map(([n,v],i)=>`<tr><td><i style="background:${COMP_COLORS[i%COMP_COLORS.length]}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(pctOf(v),pdp(v))}%</td></tr>`).join("")}
+    <tr class="bd-tot"><td>Total</td><td class="num">${fmt(total,dp)} ${unit}</td><td class="num">${fmt(pctOf(total))}%</td></tr></table>`
     :`<div class="muted">No ${esc(label.toLowerCase())} estimated for these foods.</div>`}</div>`;
   dlg.querySelector("[data-close]").onclick=()=>dlg.close();
   dlg.showModal();
@@ -158,6 +168,11 @@ function showBreakdown(m, entries, scope, perDay=1, view="pie"){
       options:{cutout:"58%",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${fmt(c.raw,dp)} ${unit} (${fmt(c.raw/total*100)}%)`}}}}});
   }
 }
+function bdTotalLine(total,unit,dp,tg,perDay){
+  const per=perDay>1?" per day":"";
+  if(!tg) return `${fmt(total,dp)} ${unit}${per}`;
+  return `${fmt(total,dp)} of ${fmt(tg[0],tg[0]<20?1:0)} ${unit} ${tg[1]}${per} (${fmt(total/tg[0]*100)}%)`;
+}
 function bdDialog(wide){
   let dlg=document.getElementById("bd");
   if(!dlg){ dlg=document.createElement("dialog"); dlg.id="bd"; document.body.appendChild(dlg);
@@ -166,16 +181,20 @@ function bdDialog(wide){
 }
 function showTreemap(label,unit,rows,total,scope,perDay){
   const dp = total<20?1:0;
+  const m=MICRO.find(x=>x[1]===label)?.[0]||Object.entries({kcal:"Calories",protein:"Protein",fiber:"Fiber",sodium:"Sodium",satfat:"Saturated fat",addedSugar:"Added sugar"}).find(([,l])=>l===label)?.[0];
+  const tg=m?targetOf(m):null, pctOf=v=>tg?v/tg[0]*100:v/total*100;
   const dlg=bdDialog(true);
-  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${fmt(total,dp)} ${unit}${perDay>1?" per logged day":""} · ${rows.length} foods</div></div>
+  dlg.innerHTML=`<div class="bd"><div class="bd-h"><div><h2>${esc(label)}</h2><div class="sub">${esc(scope)} · ${bdTotalLine(total,unit,dp,tg,perDay)} · ${rows.length} foods</div></div>
     <button class="btn sm" data-close aria-label="Close">Close</button></div>
     ${total>0?`<div class="tm-key"><span>Box size = share</span><span class="tm-scale"><i style="background:${wholeColor(0)}"></i>processed<i style="background:${wholeColor(.5)}"></i><i style="background:${wholeColor(1)}"></i>whole</span></div><div class="tm" role="img" aria-label="${esc(label)} by food, ${rows.length} foods"></div>
-    <div class="bd-scroll"><table class="bd-t">${rows.map(([n,v],i)=>`<tr data-r="${i}"><td><span class="rk">${i+1}</span><i style="background:${wholeColor(rows[i][2])}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(v/total*100,v/total<.01?1:0)}%</td></tr>`).join("")}</table></div>`
+    <div class="bd-scroll"><table class="bd-t">${rows.map(([n,v],i)=>`<tr data-r="${i}"><td><span class="rk">${i+1}</span><i style="background:${wholeColor(rows[i][2])}"></i>${esc(n)}</td><td class="num">${fmt(v,dp)} ${unit}</td><td class="num">${fmt(pctOf(v),pctOf(v)<10?1:0)}%</td></tr>`).join("")}
+      <tr class="bd-tot"><td>Total</td><td class="num">${fmt(total,dp)} ${unit}</td><td class="num">${fmt(pctOf(total))}%</td></tr></table></div>
+    <div class="hint">Percent column is ${tg?`each food's share of your daily ${tg[1]} (${fmt(tg[0],tg[0]<20?1:0)} ${unit})`:"each food's share of the total"}.</div>`
     :`<div class="muted">No ${esc(label.toLowerCase())} estimated for these foods.</div>`}</div>`;
   dlg.querySelector("[data-close]").onclick=()=>dlg.close();
   dlg.showModal();
   const tm=dlg.querySelector(".tm"); if(!tm) return;
-  const draw=()=>{ const W=tm.clientWidth, H=tm.clientHeight; tm.innerHTML=treemapHTML(rows,total,unit,dp,W,H); };
+  const draw=()=>{ const W=tm.clientWidth, H=tm.clientHeight; tm.innerHTML=treemapHTML(rows,tg?tg[0]:total,unit,dp,W,H); };
   draw(); dlg._ro?.disconnect(); dlg._ro=new ResizeObserver(draw); dlg._ro.observe(tm);
   // Tap a box: highlight it and jump to its row in the list (touch screens have no hover tooltip).
   tm.onclick=ev=>{ const b=ev.target.closest(".tm-b"); if(!b) return;
@@ -393,7 +412,7 @@ function renderTrends(){
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th title="${wholeTitle}">Whole</th><th>Entries</th></tr></thead>
     <tbody>${[...rows].reverse().map(({t,d})=>isOff(d)?`<tr class="link off" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td colspan="8" class="muted">day off logging, not averaged</td></tr>`:`<tr class="link" data-day="${d}"><td>${esc(prettyDate(d,{weekday:"short",month:"short",day:"numeric"}))}</td><td class="num ${t.kcal>B?"over":""}">${fmt(t.kcal)}</td><td class="num">${fmt(t.protein)}</td><td class="num">${fmt(t.carbs)}</td><td class="num">${fmt(t.fat)}</td><td class="num">${fmt(t.fiber)}</td><td class="num ${t.sodium>num(S.sodiumLimit)?"over":""}">${fmt(t.sodium)}</td><td class="num">${(w=>w==null?"–":fmt(w)+"%")(wholePct(dayEntries(d)))}</td><td class="num">${t.n}</td></tr>`).join("")||`<tr><td colspan="9" class="muted">Nothing logged in this range.</td></tr>`}</tbody></table></div></section>`;
 
-  wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, Math.max(1,logged.length), "treemap");
+  wireBreakdown(app, ()=>logged.flatMap(x=>dayEntries(x.d)), `${trendState.range==="all"?"All time":"Last "+trendState.range+" days"}`, m=>Math.max(1,MICRO.some(x=>x[0]===m)?withMicros.length:logged.length), "treemap");
   app.querySelectorAll("[data-range]").forEach(b=>b.onclick=()=>{ const v=b.dataset.range; trendState.range=v==="all"?"all":+v; renderTrends(); });
   document.getElementById("metric").onchange=ev=>{ trendState.metric=ev.target.value; renderTrends(); };
   document.getElementById("topSel").onchange=ev=>{ trendState.top=ev.target.value; renderTrends(); };
