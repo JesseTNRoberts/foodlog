@@ -80,7 +80,7 @@
     },
     {
       "id": "2026-11-09-2",
-      "name": "Crumbl cookie, tiny",
+      "name": "Crumbl Peanut Butter Cup Cookie ft. Reese's, tiny",
       "portion": "~1.5-inch cookie with piped brown frosting; 100% eaten",
       "meal": "snacks",
       "servings": 1,
@@ -113,7 +113,7 @@
       },
       "components": [
         {
-          "name": "Crumbl cookie with piped frosting (Peanut Butter Cup style)",
+          "name": "Crumbl Peanut Butter Cup Cookie ft. Reese's",
           "portion": "~1.5-inch cookie (~13 g)",
           "grams": 13,
           "kcal": 62.4,
@@ -155,11 +155,13 @@
         "brown sugar",
         "eggs",
         "cocoa",
-        "peanut butter frosting (powdered sugar, butter, peanut butter)"
+        "peanut butter",
+        "peanut butter frosting (powdered sugar, butter, peanut butter)",
+        "Reese's peanut butter cups"
       ],
       "ingredientsFrom": "guess",
-      "confidence": "low",
-      "notes": "Brown cookie with piped brown frosting, read as this week's Peanut Butter Cup Cookie (820 kcal large). Sized by his 1.5-inch diameter, ~13 g at ~480 kcal/100 g."
+      "confidence": "medium",
+      "notes": "He confirmed peanut butter: this week's Peanut Butter Cup Cookie ft. Reese's (820 kcal large). Sized by his 1.5-inch diameter, ~13 g at ~480 kcal/100 g."
     }
   ]
 }
