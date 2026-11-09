@@ -3,8 +3,8 @@
   "entries": [
     {
       "id": "2026-11-09-1",
-      "name": "Pineapple ring",
-      "portion": "1 ring, fresh; 100% eaten",
+      "name": "Dried pineapple ring",
+      "portion": "1 ring, dried; 100% eaten",
       "meal": "breakfast",
       "servings": 1,
       "kcal": 28,
@@ -21,7 +21,7 @@
       "hi": 40,
       "micros": {
         "vitA": 1.68,
-        "vitC": 26.77,
+        "vitC": 13.38,
         "vitD": 0.0,
         "vitE": 0.01,
         "vitK": 0.39,
@@ -36,8 +36,8 @@
       },
       "components": [
         {
-          "name": "Pineapple ring",
-          "portion": "1 ring, fresh (~56 g)",
+          "name": "Pineapple ring, home-dried",
+          "portion": "1 ring (from ~56 g fresh)",
           "grams": 56,
           "kcal": 28.0,
           "protein": 0.28,
@@ -51,7 +51,7 @@
           "cholesterol": 0.0,
           "micros": {
             "vitA": 1.68,
-            "vitC": 26.768,
+            "vitC": 13.38,
             "vitD": 0.0,
             "vitE": 0.011,
             "vitK": 0.392,
@@ -72,11 +72,11 @@
         "of": "1 ring"
       },
       "ingredients": [
-        "pineapple"
+        "pineapple (dehydrated)"
       ],
       "ingredientsFrom": "recipe",
       "confidence": "high",
-      "notes": "Same fresh ring size as 11/3 (~56 g)."
+      "notes": "Home-dried from one ~56 g fresh ring, nothing added; drying keeps the calories but loses some vitamin C."
     }
   ]
 }
