@@ -233,7 +233,7 @@ function renderDay(k){
   </div>
   <h2 style="font-size:16px;font-weight:600;margin-top:4px">Meals</h2>
   ${byMeal.map(x=>mealCard(x,k)).join("")}
-  <section class="card"><div class="card-h"><h2>Vitamins & minerals</h2><span class="sub">% of daily value · tick marks 100%</span></div>
+  <section class="card"><div class="card-h"><h2>Vitamins & minerals</h2><span class="sub">% of your daily target · tick marks 100%</span></div>
     ${Object.keys(t.micros).length?`<div class="mlist">${microRows(t.micros)}</div>`:`<div class="muted">No micronutrient estimates for this day.</div>`}
   </section>
   <section class="card"><div class="card-h"><h2>Last 7 days</h2><span class="sub">calories vs ${fmt(B)} budget · tap a day</span></div>${weekStrip(k,B)}</section>
@@ -384,10 +384,10 @@ function renderTrends(){
     <section class="card"><div class="card-h"><h2>Top sources</h2>
       <select class="sel" id="topSel" aria-label="Nutrient">${[["sodium", "Sodium"], ["satfat", "Saturated fat"], ["addedSugar", "Added sugar"], ["protein", "Protein"], ["fiber", "Fiber"]].map(([v,l])=>`<option value="${v}"${v===trendState.top?" selected":""}>${l}</option>`).join("")}</select></div>
       ${topSources(loggedEntries(),trendState.top,Math.max(1,logged.length))}</section>
-    <section class="card"><div class="card-h"><h2>Nutrient gaps</h2><span class="sub">under 50% of daily value, and foods you already eat that have the most</span></div>
+    <section class="card"><div class="card-h"><h2>Nutrient gaps</h2><span class="sub">under 50% of your target, and foods you already eat that have the most</span></div>
       ${nutrientGaps(microAvg,withMicros.length)}</section>
   </div>
-  <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of daily value · ${withMicros.length} day${withMicros.length===1?"":"s"} with vitamin estimates</span></div>
+  <section class="card"><div class="card-h"><h2>Average vitamins & minerals</h2><span class="sub">% of your daily target · ${withMicros.length} day${withMicros.length===1?"":"s"} with vitamin estimates</span></div>
     ${withMicros.length?`<div class="mlist">${microRows(microAvg)}</div>`:`<div class="muted">No vitamin estimates in this range (Lose It imports don't include them).</div>`}</section>
   <section class="card"><div class="card-h"><h2>Daily totals</h2><span class="sub">tap a row to open the day</span></div>
     <div class="tblwrap"><table class="dtable"><thead><tr><th>Date</th><th>kcal</th><th>Protein</th><th>Carbs</th><th>Fat</th><th>Fiber</th><th>Sodium</th><th title="${wholeTitle}">Whole</th><th>Entries</th></tr></thead>
@@ -457,7 +457,7 @@ function topSources(entries,m,perDay){
 function nutrientGaps(microAvg,nDays){
   if(!nDays) return `<div class="muted">No vitamin estimates in this range.</div>`;
   const skip=DATA.settings.gapExclude||[]; const gaps=MICRO.filter(([k,,,dv])=>!skip.includes(k)&&num(microAvg[k])/dv<.5);
-  if(!gaps.length) return `<div class="muted">Every vitamin and mineral${skip.length?" you track from food":""} averages at least 50% of its daily value. Nice.</div>`;
+  if(!gaps.length) return `<div class="muted">Every vitamin and mineral${skip.length?" you track from food":""} averages at least 50% of your target. Nice.</div>`;
   // Each food's average amount per logged portion, across all logged history.
   const foods=new Map();
   for(const d of DATA.days){ if(d.offDay) continue; for(const e of d.entries){ const s=num(e.servings||1);
@@ -467,9 +467,9 @@ function nutrientGaps(microAvg,nDays){
   const list=[...foods.values()];
   return `<div class="gaps">${gaps.map(([k,l,u,dv])=>{ const p=num(microAvg[k])/dv*100;
     const best=list.map(f=>[f.name,f.sum[k]/f.n,f.n]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]).slice(0,3);
-    return `<div class="gap"><div class="gap-h" data-nutr="${k}"><b>${esc(l)}</b><span class="pill ${p<25?"bad":"warn"}">${fmt(p)}% DV</span></div>
+    return `<div class="gap"><div class="gap-h" data-nutr="${k}"><b>${esc(l)}</b><span class="pill ${p<25?"bad":"warn"}">${fmt(p)}% of target</span></div>
       <div class="sub">${best.length?best.map(([n,v,c])=>`${esc(n)} <span class="num">~${fmt(v/dv*100)}%</span>`).join(" · "):"No logged food has much of this yet."}</div></div>`; }).join("")}</div>
-    <div class="hint">Percent after each food is its share of the daily value in the portion you usually log.</div>`;
+    <div class="hint">Percent after each food is its share of your daily target in the portion you usually log.</div>`;
 }
 
 /* ---------- recipes ---------- */
@@ -599,7 +599,8 @@ window.addEventListener("hashchange",route);
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change",route);
 
 fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{
-  DATA=d; DATA.days.sort((a,b)=>a.date<b.date?-1:1); byDate=new Map(DATA.days.map(x=>[x.date,x]));
+  DATA=d; { const T=(d.settings||{}).microTargets||{}; for(const m of MICRO) if(T[m[0]]>0) m[3]=T[m[0]]; }
+  DATA.days.sort((a,b)=>a.date<b.date?-1:1); byDate=new Map(DATA.days.map(x=>[x.date,x]));
   const g=document.getElementById("gen"); if(g&&d.generated) g.textContent=`Updated ${new Date(d.generated).toLocaleString()} · estimates are typically within 20–30%`;
   route();
 }).catch(()=>{ app.innerHTML=`<p>Couldn't load the log data. Reload the page to try again.</p>`; });

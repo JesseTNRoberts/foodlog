@@ -8,5 +8,20 @@
   "addedSugarLimit": 36,
   "gapExclude": [
     "vitD"
-  ]
+  ],
+  "microTargets": {
+    "vitA": 900,
+    "vitC": 90,
+    "vitD": 15,
+    "vitE": 15,
+    "vitK": 120,
+    "b6": 1.3,
+    "b12": 2.4,
+    "folate": 400,
+    "calcium": 1000,
+    "iron": 8,
+    "magnesium": 420,
+    "potassium": 3400,
+    "zinc": 11
+  }
 }
