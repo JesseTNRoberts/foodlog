@@ -1756,6 +1756,83 @@
       "ingredientsFrom": "recipe",
       "confidence": "medium",
       "notes": "About 4 g (1/2-inch square); scaled from the 1/10 slice (69 g) logged 11/7."
+    },
+    {
+      "id": "2026-11-08-9",
+      "name": "Dried pineapple ring",
+      "portion": "1 ring, dried; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 28,
+      "protein": 0.3,
+      "carbs": 7.3,
+      "fat": 0.1,
+      "satfat": 0.0,
+      "fiber": 0.8,
+      "sugar": 5.5,
+      "addedSugar": 0.0,
+      "sodium": 0.6,
+      "cholesterol": 0.0,
+      "lo": 22,
+      "hi": 40,
+      "micros": {
+        "vitA": 1.68,
+        "vitC": 13.38,
+        "vitD": 0.0,
+        "vitE": 0.01,
+        "vitK": 0.39,
+        "b6": 0.06,
+        "b12": 0.0,
+        "folate": 10.08,
+        "calcium": 7.28,
+        "iron": 0.16,
+        "magnesium": 6.72,
+        "potassium": 61.04,
+        "zinc": 0.07
+      },
+      "components": [
+        {
+          "name": "Pineapple ring, home-dried",
+          "portion": "1 ring (from ~56 g fresh)",
+          "grams": 56,
+          "kcal": 28.0,
+          "protein": 0.28,
+          "carbs": 7.34,
+          "fat": 0.07,
+          "satfat": 0.01,
+          "fiber": 0.78,
+          "sugar": 5.54,
+          "addedSugar": 0.0,
+          "sodium": 0.56,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 1.68,
+            "vitC": 13.38,
+            "vitD": 0.0,
+            "vitE": 0.011,
+            "vitK": 0.392,
+            "b6": 0.062,
+            "b12": 0.0,
+            "folate": 10.08,
+            "calcium": 7.28,
+            "iron": 0.162,
+            "magnesium": 6.72,
+            "potassium": 61.04,
+            "zinc": 0.067
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "1 ring"
+      },
+      "ingredients": [
+        "pineapple (dehydrated)"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "Home-dried from one ~56 g fresh ring, nothing added; drying keeps the calories but loses some vitamin C."
     }
   ]
 }
