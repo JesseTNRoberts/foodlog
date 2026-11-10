@@ -149,6 +149,38 @@ One 9x5 loaf.
 
 ---
 
+## Maple Black Walnut Pumpkin Bread (Mini Loaves)
+*Developed with Claude, Sept 2026. Sweetened only with maple. Makes 10 (maybe 11) mini loaves in 5 23/32 x 3 5/16 x 1 7/8-inch aluminum pans, about 15 cups of batter.*
+- 5 1/2 cups all-purpose flour
+- 3 tsp baking soda
+- 1 1/2 tsp baking powder
+- 1 1/2 tsp fine salt
+- 1 tbsp cinnamon
+- 1 1/2 tsp ground ginger
+- 1 1/2 tsp nutmeg
+- 3/4 tsp ground cloves
+- 3 1/2 cups pumpkin purée (about two 15-oz cans)
+- 3 cups pure maple syrup (dark/robust)
+- 1 1/2 cups neutral oil or melted butter
+- 6 large eggs
+- 1 tbsp vanilla
+- 2 cups black walnuts, chopped (1 1/2 cups for a subtler walnut flavor)
+
+1. Oven to 325°F (lower than usual; maple browns faster than sugar). Grease the mini pans and set them on rimmed sheets.
+2. Toast the walnuts 6–8 min until fragrant; cool. Save a handful for the tops.
+3. Whisk flour, soda, baking powder, salt and spices.
+4. In a very large bowl (6+ qt), whisk the eggs, then the pumpkin, maple, oil and vanilla until smooth.
+5. Fold dry into wet just until no flour streaks remain; fold in the walnuts. The batter is too much for most 5-qt mixers: mix by hand or in two halves.
+6. Fill each pan about 2/3 full (1 1/3–1 1/2 cups). Top with the reserved walnuts.
+7. Bake 35–45 min, rotating halfway, until a toothpick comes out clean or the center reads 200–205°F. Start checking at 30 min; tent with foil if the tops brown fast.
+8. Cool 15 min in the pans, then on a rack. Keeps 4 days at room temperature or 3 months frozen.
+
+**As made:** the oven igniter died, so it was baked partly on a one-burner grill (lid closed, pans on a rack over a pizza stone or upside-down sheet pans, nested in a second pan, thermometer at pan level holding 325–350°F, turned every 10–15 min, checked from 25 min). The top broiler was the other option (lowest rack, a sheet pan above as a heat shield, 325–350°F, not 400°F). Mix the wet ingredients in per round, or chill waiting batter.
+
+*Maple swap: 3 cups syrup replaces ~4 1/2 cups sugar, with no added water; the extra leavening offsets maple's acidity. Logged at about 217 kcal per serving.*
+
+---
+
 ## Apple Cinnamon Oatmeal Cookies (with Apple Puree)
 - 1 cup all-purpose flour
 - 2 cups rolled oats
@@ -172,6 +204,32 @@ One 9x5 loaf.
 5. Scoop heaping tablespoons 2 inches apart; flatten slightly.
 6. Bake 12–16 min until edges set and lightly golden. Cool 10 min on the sheet.
 7. Store airtight 2 days, or refrigerate up to 1 week.
+
+---
+
+## Apple Pumpkin Seed Granola
+*Oven-baked. One half sheet pan.*
+- 3 cups rolled oats
+- 1 cup chopped pecans or walnuts
+- 1/2 cup raw pepitas (or home-roasted pumpkin seeds, see notes)
+- 2 tsp cinnamon
+- Pinch nutmeg
+- Pinch salt
+- 1/3 cup maple syrup
+- 1/4 cup olive or neutral oil (or swap half for apple puree for a lighter version)
+- 1 cup chopped dried apples (home-dehydrated)
+
+1. Oven to 325°F; line a sheet pan.
+2. Mix oats, nuts, pepitas, cinnamon, nutmeg and salt.
+3. Warm maple syrup and oil together; toss with the dry mix.
+4. Spread thin. Bake 20–25 min, stirring halfway. For clusters, press flat and don't stir.
+5. While still warm, stir in the dried apples (don't bake them; they scorch and go leathery).
+6. Cool completely before storing so it crisps.
+
+**Notes**
+- Fresh pumpkin seeds: rinse, pat very dry, then roast alone at 325°F for 15–20 min (or dry in the dehydrator) before adding. Shell-on seeds are crunchier and more fibrous than pepitas.
+- Storage: airtight at room temp; best within 2–3 weeks, fine for a month or more (sniff for rancid nuts or oil). Freezes up to 3 months; let the sealed container come to room temp before opening to avoid condensation.
+- Oven vs dehydrator: oven for toasty flavour and clusters; use the dehydrator for the apples and seeds.
 
 ---
 
