@@ -144,36 +144,36 @@
     },
     {
       "id": "2026-11-10-2",
-      "name": "Pork ragù pepper bake (leftovers)",
+      "name": "Pork ragù pepper bake with quinoa (leftovers)",
       "portion": "1 cup; 100% eaten",
       "meal": "lunch",
       "servings": 1,
-      "kcal": 263,
-      "protein": 13.0,
-      "carbs": 13.1,
-      "fat": 17.8,
-      "satfat": 5.6,
-      "fiber": 4.5,
-      "sugar": 7.4,
+      "kcal": 335,
+      "protein": 15.6,
+      "carbs": 25.9,
+      "fat": 18.9,
+      "satfat": 5.8,
+      "fiber": 6.2,
+      "sugar": 7.9,
       "addedSugar": 0.0,
-      "sodium": 195.8,
+      "sodium": 200.0,
       "cholesterol": 46.3,
-      "lo": 203,
-      "hi": 353,
+      "lo": 275,
+      "hi": 425,
       "micros": {
-        "vitA": 437.1,
+        "vitA": 437.7,
         "vitC": 66.11,
         "vitD": 0.39,
-        "vitE": 2.26,
+        "vitE": 2.64,
         "vitK": 12.58,
-        "b6": 0.56,
+        "b6": 0.64,
         "b12": 0.39,
-        "folate": 42.31,
-        "calcium": 67.14,
-        "iron": 1.63,
-        "magnesium": 36.01,
-        "potassium": 648.3,
-        "zinc": 1.88
+        "folate": 67.51,
+        "calcium": 77.34,
+        "iron": 2.53,
+        "magnesium": 74.41,
+        "potassium": 751.5,
+        "zinc": 2.54
       },
       "components": [
         {
@@ -392,6 +392,37 @@
             "zinc": 0.1
           },
           "whole": 1.0
+        },
+        {
+          "name": "Cooked quinoa",
+          "portion": "~1/3 cup (~60 g)",
+          "grams": 60,
+          "kcal": 72.0,
+          "protein": 2.64,
+          "carbs": 12.78,
+          "fat": 1.14,
+          "satfat": 0.138,
+          "fiber": 1.68,
+          "sugar": 0.522,
+          "addedSugar": 0.0,
+          "sodium": 4.2,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.6,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.378,
+            "vitK": 0.0,
+            "b6": 0.072,
+            "b12": 0.0,
+            "folate": 25.2,
+            "calcium": 10.2,
+            "iron": 0.9,
+            "magnesium": 38.4,
+            "potassium": 103.2,
+            "zinc": 0.66
+          },
+          "whole": 1.0
         }
       ],
       "eaten": {
@@ -405,11 +436,12 @@
         "carrots",
         "garlic",
         "olive oil",
-        "bell pepper"
+        "bell pepper",
+        "quinoa"
       ],
       "ingredientsFrom": "recipe",
       "confidence": "medium",
-      "notes": "1 cup of the 11/8 ragù-and-pepper bake, no quinoa; ~0.85 of the 11/8 bowl's ragù plus some pepper."
+      "notes": "1 cup of the 11/8 ragù-and-pepper bake plus ~1/3 cup quinoa, as on 11/8."
     },
     {
       "id": "2026-11-10-3",
