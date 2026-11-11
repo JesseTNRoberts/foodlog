@@ -1013,6 +1013,118 @@
       "ingredientsFrom": "recipe",
       "confidence": "high",
       "notes": "Half an apple total, mostly home-dried with nothing added; drying keeps the calories."
+    },
+    {
+      "id": "2026-11-10-7",
+      "name": "Brownie pie, tiny piece",
+      "portion": "~1.5 x 1 inch piece; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 108,
+      "protein": 1.2,
+      "carbs": 12.9,
+      "fat": 5.9,
+      "satfat": 2.1,
+      "fiber": 0.5,
+      "sugar": 6.2,
+      "addedSugar": 5.9,
+      "sodium": 77.5,
+      "cholesterol": 7.5,
+      "lo": 60,
+      "hi": 150,
+      "micros": {
+        "vitA": 9.1,
+        "vitC": 0.0,
+        "vitD": 0.03,
+        "vitE": 0.23,
+        "vitK": 1.08,
+        "b6": 0.01,
+        "b12": 0.01,
+        "folate": 14.6,
+        "calcium": 5.7,
+        "iron": 0.46,
+        "magnesium": 6.8,
+        "potassium": 31.1,
+        "zinc": 0.13
+      },
+      "components": [
+        {
+          "name": "Brownie",
+          "portion": "~1.5 x 1 inch piece (~15 g)",
+          "grams": 15,
+          "kcal": 66.0,
+          "protein": 0.75,
+          "carbs": 8.7,
+          "fat": 3.3,
+          "satfat": 1.05,
+          "fiber": 0.375,
+          "sugar": 6.0,
+          "addedSugar": 5.7,
+          "sodium": 37.5,
+          "cholesterol": 6.75,
+          "micros": {
+            "vitA": 7.5,
+            "vitC": 0.0,
+            "vitD": 0.03,
+            "vitE": 0.15,
+            "vitK": 0.6,
+            "b6": 0.007,
+            "b12": 0.015,
+            "folate": 9.0,
+            "calcium": 4.5,
+            "iron": 0.3,
+            "magnesium": 6.0,
+            "potassium": 25.5,
+            "zinc": 0.105
+          },
+          "whole": 0.05
+        },
+        {
+          "name": "Pie crust under the brownie",
+          "portion": "~8 g",
+          "grams": 8,
+          "kcal": 41.6,
+          "protein": 0.48,
+          "carbs": 4.16,
+          "fat": 2.56,
+          "satfat": 1.04,
+          "fiber": 0.12,
+          "sugar": 0.24,
+          "addedSugar": 0.16,
+          "sodium": 40.0,
+          "cholesterol": 0.8,
+          "micros": {
+            "vitA": 1.6,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.08,
+            "vitK": 0.48,
+            "b6": 0.002,
+            "b12": 0.0,
+            "folate": 5.6,
+            "calcium": 1.2,
+            "iron": 0.16,
+            "magnesium": 0.8,
+            "potassium": 5.6,
+            "zinc": 0.024
+          },
+          "whole": 0.2
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "one ~1.5 x 1 inch piece"
+      },
+      "ingredients": [
+        "brownie (sugar, butter, eggs, flour, cocoa, chocolate)",
+        "pie crust (flour, shortening or butter, salt)"
+      ],
+      "ingredientsFrom": "guess",
+      "confidence": "medium",
+      "photos": [
+        "photos/2026/2026-11-10/snacks-brownie-pie-bite.jpg"
+      ],
+      "notes": "Sized from the photo (left hand for scale): ~15 g brownie on ~8 g crust."
     }
   ]
 }
