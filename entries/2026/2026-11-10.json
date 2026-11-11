@@ -1125,6 +1125,115 @@
         "photos/2026/2026-11-10/snacks-brownie-pie-bite.jpg"
       ],
       "notes": "Sized from the photo (left hand for scale): ~15 g brownie on ~8 g crust."
+    },
+    {
+      "id": "2026-11-10-8",
+      "name": "Thin dipped almonds and dried apple rings",
+      "portion": "3 almonds, ~4 apple rings; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 39,
+      "protein": 0.9,
+      "carbs": 4.9,
+      "fat": 2.3,
+      "satfat": 0.4,
+      "fiber": 1.1,
+      "sugar": 3.5,
+      "addedSugar": 0.8,
+      "sodium": 9.7,
+      "cholesterol": 0.0,
+      "lo": 33,
+      "hi": 51,
+      "micros": {
+        "vitA": 0.73,
+        "vitC": 1.12,
+        "vitD": 0.0,
+        "vitE": 0.79,
+        "vitK": 0.53,
+        "b6": 0.01,
+        "b12": 0.0,
+        "folate": 2.15,
+        "calcium": 10.93,
+        "iron": 0.27,
+        "magnesium": 10.69,
+        "potassium": 54.39,
+        "zinc": 0.12
+      },
+      "components": [
+        {
+          "name": "Blue Diamond Thin Dipped Double Dark Chocolate Almonds",
+          "portion": "3 pieces (~5 g)",
+          "grams": 4.7,
+          "kcal": 26.842,
+          "protein": 0.79,
+          "carbs": 1.579,
+          "fat": 2.21,
+          "satfat": 0.395,
+          "fiber": 0.474,
+          "sugar": 0.947,
+          "addedSugar": 0.79,
+          "sodium": 9.474,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.0,
+            "vitC": 0.0,
+            "vitD": 0.0,
+            "vitE": 0.742,
+            "vitK": 0.0,
+            "b6": 0.005,
+            "b12": 0.0,
+            "folate": 1.421,
+            "calcium": 9.474,
+            "iron": 0.237,
+            "magnesium": 9.474,
+            "potassium": 28.421,
+            "zinc": 0.11
+          },
+          "whole": 0.5
+        },
+        {
+          "name": "Apple rings, home-dehydrated",
+          "portion": "~4 rings (~1/8 apple)",
+          "grams": 24.3,
+          "kcal": 12.619,
+          "protein": 0.063,
+          "carbs": 3.349,
+          "fat": 0.042,
+          "satfat": 0.007,
+          "fiber": 0.583,
+          "sugar": 2.524,
+          "addedSugar": 0.0,
+          "sodium": 0.243,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 0.728,
+            "vitC": 1.116,
+            "vitD": 0.0,
+            "vitE": 0.044,
+            "vitK": 0.534,
+            "b6": 0.01,
+            "b12": 0.0,
+            "folate": 0.728,
+            "calcium": 1.456,
+            "iron": 0.029,
+            "magnesium": 1.213,
+            "potassium": 25.965,
+            "zinc": 0.01
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 100,
+        "of": "3 almonds and ~4 apple rings"
+      },
+      "ingredients": [
+        "Blue Diamond Thin Dipped Double Dark Chocolate Almonds",
+        "apple (dehydrated)"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "medium",
+      "notes": "\"A few\" apple rings read as ~4 (15 rings ≈ 1/2 apple)."
     }
   ]
 }
