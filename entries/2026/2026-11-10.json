@@ -939,8 +939,8 @@
     },
     {
       "id": "2026-11-10-6",
-      "name": "Apple",
-      "portion": "1/2 apple; 100% eaten",
+      "name": "Apple, mostly dried",
+      "portion": "1/2 apple total, mostly dried rings, some fresh; 100% eaten",
       "meal": "snacks",
       "servings": 1,
       "kcal": 47,
@@ -972,7 +972,7 @@
       },
       "components": [
         {
-          "name": "Apple, fresh",
+          "name": "Apple, mostly home-dried rings plus some fresh",
           "portion": "1/2 apple (~91 g)",
           "grams": 91,
           "kcal": 47.32,
@@ -1008,11 +1008,11 @@
         "of": "1 medium apple"
       },
       "ingredients": [
-        "apple"
+        "apple (mostly dehydrated, some fresh)"
       ],
       "ingredientsFrom": "recipe",
       "confidence": "high",
-      "notes": "Fresh, medium apple assumed."
+      "notes": "Half an apple total, mostly home-dried with nothing added; drying keeps the calories."
     }
   ]
 }
