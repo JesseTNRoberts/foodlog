@@ -936,6 +936,83 @@
       "ingredientsFrom": "menu",
       "confidence": "high",
       "notes": "Label: 19 pieces (30 g) = 170 kcal; Double Dark Chocolate flavor assumed."
+    },
+    {
+      "id": "2026-11-10-6",
+      "name": "Apple",
+      "portion": "1/2 apple; 100% eaten",
+      "meal": "snacks",
+      "servings": 1,
+      "kcal": 47,
+      "protein": 0.2,
+      "carbs": 12.6,
+      "fat": 0.2,
+      "satfat": 0.0,
+      "fiber": 2.2,
+      "sugar": 9.5,
+      "addedSugar": 0.0,
+      "sodium": 0.9,
+      "cholesterol": 0.0,
+      "lo": 38,
+      "hi": 60,
+      "micros": {
+        "vitA": 2.73,
+        "vitC": 4.19,
+        "vitD": 0.0,
+        "vitE": 0.16,
+        "vitK": 2.0,
+        "b6": 0.04,
+        "b12": 0.0,
+        "folate": 2.73,
+        "calcium": 5.46,
+        "iron": 0.11,
+        "magnesium": 4.55,
+        "potassium": 97.37,
+        "zinc": 0.04
+      },
+      "components": [
+        {
+          "name": "Apple, fresh",
+          "portion": "1/2 apple (~91 g)",
+          "grams": 91,
+          "kcal": 47.32,
+          "protein": 0.237,
+          "carbs": 12.56,
+          "fat": 0.156,
+          "satfat": 0.028,
+          "fiber": 2.185,
+          "sugar": 9.465,
+          "addedSugar": 0.0,
+          "sodium": 0.91,
+          "cholesterol": 0.0,
+          "micros": {
+            "vitA": 2.73,
+            "vitC": 4.186,
+            "vitD": 0.0,
+            "vitE": 0.164,
+            "vitK": 2.002,
+            "b6": 0.036,
+            "b12": 0.0,
+            "folate": 2.73,
+            "calcium": 5.46,
+            "iron": 0.109,
+            "magnesium": 4.55,
+            "potassium": 97.37,
+            "zinc": 0.036
+          },
+          "whole": 1.0
+        }
+      ],
+      "eaten": {
+        "pct": 50,
+        "of": "1 medium apple"
+      },
+      "ingredients": [
+        "apple"
+      ],
+      "ingredientsFrom": "recipe",
+      "confidence": "high",
+      "notes": "Fresh, medium apple assumed."
     }
   ]
 }
