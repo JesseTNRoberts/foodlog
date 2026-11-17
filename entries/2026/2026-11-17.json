@@ -255,9 +255,9 @@
     {
       "id": "2026-11-17-3",
       "name": "Fajita plate: chicken, portobello, street corn, guacamole, refried beans",
-      "portion": "1 plate, no tortillas; 100% eaten",
+      "portion": "2 plates like the photo, no tortillas; 100% eaten",
       "meal": "lunch",
-      "servings": 1,
+      "servings": 2,
       "components": [
         {
           "name": "Grilled chicken breast strips, fajita-seasoned",
@@ -568,7 +568,7 @@
       "hi": 800,
       "eaten": {
         "pct": 100,
-        "of": "the plate as served"
+        "of": "2 plates as served"
       },
       "ingredients": [
         "grilled chicken breast with fajita seasoning",
@@ -592,7 +592,7 @@
       "photos": [
         "photos/2026/2026-11-17/lunch-fajita-plate.jpg"
       ],
-      "notes": "Photo only, no description: looks like a catered fajita bar on a ~9-10 in plastic plate, sized against his hand. Assumed he ate all of it. Biggest swings: the creamy sauce on the corn, oil on the grilled items, and fat in the beans."
+      "notes": "He had 2 plates like the one photographed (second assumed the same as the first). Photo only, no description: looks like a catered fajita bar on a ~9-10 in plastic plate, sized against his hand. Assumed he ate all of it. Biggest swings: the creamy sauce on the corn, oil on the grilled items, and fat in the beans."
     }
   ]
 }
